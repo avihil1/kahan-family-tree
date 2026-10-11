@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kahan Family Tree</title>
+<style>
+:root{--bg:#fbfaf7;--fg:#222;--mu:#6b6b6b;--ac:#7a4b16;--card:#fff;--bd:#e6e1d8;--ln:#cfc7b8;--m:#3d6fa8;--f:#b0507a;--u:#888}
+@media (prefers-color-scheme:dark){:root{--bg:#16150f;--fg:#e8e4dc;--mu:#a29e95;--ac:#e0a35e;--card:#1f1d17;--bd:#34312a;--ln:#4a463c;--m:#7fa8db;--f:#de8bb0}}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;overflow:hidden;background:var(--bg);color:var(--fg);font:15px/1.5 Georgia,serif}
+a{color:var(--ac)}
+body{display:flex;flex-direction:column}
+header{padding:12px 16px;min-width:0;border-bottom:1px solid var(--bd);display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center}
+header h1{font-size:1.15rem;margin:0}
+header .m{color:var(--mu);font-size:.85rem}
+.tools{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+input,button{font:inherit;font-size:.85rem;background:var(--card);color:var(--fg);border:1px solid var(--bd);border-radius:6px;padding:4px 10px}
+button{cursor:pointer}
+input{width:200px}
+#wrap{position:relative;flex:1;min-height:0}
+svg{width:100%;height:100%;display:block;cursor:grab}
+.link{fill:none;stroke:var(--ln);stroke-width:1.4}
+.node circle{stroke-width:2;cursor:pointer}
+.node text{font-size:13px;fill:var(--fg);cursor:pointer;paint-order:stroke;stroke:var(--bg);stroke-width:4px}
+.node .yrs{fill:var(--mu);font-size:11px}
+.node.hit text{fill:var(--ac);font-weight:bold}
+.node.sel text:first-of-type{text-decoration:underline}
+.stub text{font-style:italic;fill:var(--mu)}
+#panel{position:absolute;top:12px;right:12px;width:320px;max-width:calc(100% - 24px);background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:14px 16px;box-shadow:0 4px 18px rgba(0,0,0,.12);display:none}
+#panel h2{font-size:1.05rem;margin:0 0 6px;padding-right:20px}
+#panel dl{margin:0;font-size:.9rem}#panel dt{color:var(--mu);font-size:.8rem;margin-top:6px}#panel dd{margin:0}
+#panel .x{position:absolute;top:8px;right:10px;border:0;background:none;font-size:1.1rem;padding:0 4px}
+#panel .links{margin-top:10px;display:flex;gap:8px;flex-wrap:wrap}
+#panel .links a{border:1px solid var(--bd);border-radius:6px;padding:3px 10px;text-decoration:none;font-size:.85rem}
+.legend{position:absolute;left:12px;bottom:10px;font-size:.8rem;color:var(--mu);background:var(--bg);padding:4px 8px;border-radius:6px}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin:0 3px 0 8px;vertical-align:middle}
+@media (max-width:600px){header h1{font-size:1rem}.tools{margin-left:0;width:100%}input{flex:1;min-width:0;width:auto}#panel{top:auto;bottom:44px;left:12px;right:12px;width:auto;max-height:55%;overflow:auto}.legend{font-size:.7rem;right:12px}}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>Descendants of Chaim Arye Leb Moldovan Kahan</h1>
+  <div class="m">1827 Bréb – 1897 Gyulafalu · 75 descendants · <a href="./">family history &amp; sources</a></div></div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Find a person…" list="names" aria-label="Find a person">
+    <datalist id="names"></datalist>
+    <button id="exp">Expand all</button><button id="col">Collapse</button><button id="fit">Fit</button>
+  </div>
+</header>
+<div id="wrap">
+  <svg id="svg" aria-label="Family tree"></svg>
+  <div id="panel" role="dialog" aria-live="polite"></div>
+  <div class="legend">Click a name for details · click a dot to fold/unfold · drag &amp; scroll to move
+    <span class="dot" style="background:var(--m)"></span>male<span class="dot" style="background:var(--f)"></span>female<span class="dot" style="border:2px solid var(--m)"></span>folded – has children</div>
+</div>
+<footer style="display:none">4</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const DATA = {"name": "Chaim Arye Leb Moldovan Kahan", "url": "https://www.wikitree.com/wiki/Moldovan_Kahan-1", "geni": "https://www.geni.com/people/Chaim-Arye-Leb-Moldovan-Kahan/6000000209184094851", "years": "1827 – 1897", "born": "1827-06-24, Bréb, Máramaros, Hungary", "died": "1897-06-24, Gyulafalu, Máramaros, Hungary", "g": "Male", "spouses": [{"name": "Freide Klein", "url": "https://www.wikitree.com/wiki/Klein-9716"}], "children": [{"name": "Moses Laser Moldovan Kahan", "url": "https://www.wikitree.com/wiki/Moldovan_Kahan-2", "geni": null, "years": "1847", "born": "1847, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Chaim Arye Leb Moldovan Kahan", "children": [{"name": "Efrajm Froim Kahan", "url": "https://www.wikitree.com/wiki/Kahan-415", "geni": null, "years": "1869", "born": "1869-03-06, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Moses Laser Moldovan Kahan", "spouses": [{"name": "Eszter Nasztale Huber", "url": "https://www.wikitree.com/wiki/Huber-5417"}], "children": [{"name": "Berl Kahan", "url": "https://www.wikitree.com/wiki/Kahan-417", "geni": null, "years": "1889", "born": "1889-06-01, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Efrajm Froim Kahan"}, {"name": "Volf Kahan", "url": "https://www.wikitree.com/wiki/Kahan-416", "geni": null, "years": "1891 – 1900", "born": "1891, Gyulafalu, Máramaros, Hungary", "died": "1900-07-01, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Efrajm Froim Kahan"}]}, {"name": "Malka Malcsi Kahan (Mendelson)", "url": "https://www.wikitree.com/wiki/Kahan-423", "geni": null, "years": "1873 – 1903", "born": "1873, Gyulafalu, Máramaros, Hungary", "died": "1903, Budfalu, Máramaros, Hungary", "g": "Female", "parent": "Moses Laser Moldovan Kahan", "spouses": [{"name": "Leb Mendelson", "url": "https://www.wikitree.com/wiki/Mendelson-170"}], "children": [{"name": "Abraham Mendelson", "url": "https://www.wikitree.com/wiki/Mendelson-171", "geni": null, "years": "1900 – 1901", "born": "1900-04-16, Budfalu, Máramaros, Hungary", "died": "1901-12-01, Budfalu, Máramaros, Hungary", "g": "Male", "parent": "Malka Malcsi Kahan (Mendelson)"}, {"name": "Salamon Mendelson", "url": "https://www.wikitree.com/wiki/Mendelson-172", "geni": null, "years": "1901 – 1904", "born": "1901-10-22, Budfalu, Máramaros, Hungary", "died": "1904-05-07, Budfalu, Máramaros, Hungary", "g": "Male", "parent": "Malka Malcsi Kahan (Mendelson)"}, {"name": "Amalia Malka Mendelson", "url": "https://www.wikitree.com/wiki/Mendelson-173", "geni": null, "years": "1903", "born": "1903-01-06, Budfalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Malka Malcsi Kahan (Mendelson)"}]}, {"name": "Jacob Kahan", "url": "https://www.wikitree.com/wiki/Kahan-408", "geni": null, "years": "1874", "born": "1874-07-21, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Moses Laser Moldovan Kahan", "spouses": [{"name": "Eszter Friedman", "url": "https://www.wikitree.com/wiki/Friedman-1647"}], "children": [{"name": "Pepi Perle Kahan", "url": "https://www.wikitree.com/wiki/Kahan-410", "geni": null, "years": "1898", "born": "1898-02-04, Kápolnokmonostor", "died": "", "g": "Female", "parent": "Jacob Kahan"}, {"name": "Izrael Kahan", "url": "https://www.wikitree.com/wiki/Kahan-409", "geni": null, "years": "1899", "born": "1899-09-18, Kápolnokmonostor", "died": "", "g": "Male", "parent": "Jacob Kahan"}, {"name": "Friderika Kahan", "url": "https://www.wikitree.com/wiki/Kahan-411", "geni": null, "years": "1902 – 1902", "born": "1902, Kápolnokmonostor", "died": "1902-09-13, Kápolnokmonostor", "g": "Female", "parent": "Jacob Kahan"}]}, {"name": "Riwke Moldovan Kahan (Gancz)", "url": "https://www.wikitree.com/wiki/Moldovan_Kahan-4", "geni": null, "years": "1877", "born": "1877-01-06, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Moses Laser Moldovan Kahan", "spouses": [{"name": "Chajem Gancz", "url": "https://www.wikitree.com/wiki/Gancz-1"}], "children": [{"name": "Avrum Leb Gancz", "url": "https://www.wikitree.com/wiki/Gancz-2", "geni": null, "years": "1904", "born": "1904-05-25, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Riwke Moldovan Kahan (Gancz)"}]}, {"name": "Fradl Moldovan Kahan", "url": "https://www.wikitree.com/wiki/Moldovan_Kahan-5", "geni": null, "years": "1879", "born": "1879-03-16, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Moses Laser Moldovan Kahan"}, {"name": "Salamon Juda Moldovan Kahan", "url": "https://www.wikitree.com/wiki/Moldovan_Kahan-6", "geni": null, "years": "1881", "born": "1881-11-24, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Moses Laser Moldovan Kahan"}, {"name": "Jaszef Burech Kahan", "url": "https://www.wikitree.com/wiki/Kahan-413", "geni": null, "years": "1886 – 1887", "born": "1886-07-20, Gyulafalu, Máramaros, Hungary", "died": "1887, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Moses Laser Moldovan Kahan"}, {"name": "Riszje Kahan", "url": "https://www.wikitree.com/wiki/Kahan-414", "geni": null, "years": "1888", "born": "1888-09-25, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Moses Laser Moldovan Kahan"}]}, {"name": "David Hers Moldavan Kahan", "url": "https://www.wikitree.com/wiki/Moldavan_Kahan-1", "geni": null, "years": "1855", "born": "1855, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Chaim Arye Leb Moldovan Kahan", "spouses": [{"name": "Reize Markovich", "url": "https://www.wikitree.com/wiki/Markovich-77"}], "children": [{"name": "Baruch Josef Moldavan Kahan", "url": "https://www.wikitree.com/wiki/Moldavan_Kahan-3", "geni": null, "years": "1875", "born": "1875-03-18, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "David Hers Moldavan Kahan"}, {"name": "Eszter Moldavan Kahan", "url": "https://www.wikitree.com/wiki/Moldavan_Kahan-4", "geni": null, "years": "1876", "born": "1876-11-25, Bréb, Máramaros, Hungary", "died": "", "g": "Female", "parent": "David Hers Moldavan Kahan"}, {"name": "Juda Moldavan Kahan", "url": "https://www.wikitree.com/wiki/Moldavan_Kahan-5", "geni": null, "years": "1878", "born": "1878-03-22, Bréb, Máramaros, Hungary", "died": "", "g": "Male", "parent": "David Hers Moldavan Kahan"}, {"name": "Abraham Moldavan Kahan", "url": "https://www.wikitree.com/wiki/Moldavan_Kahan-2", "geni": null, "years": "1880 – 1882", "born": "1880-03-06, Bréb, Máramaros, Hungary", "died": "1882-07-20, Bréb, Máramaros, Hungary", "g": "Male", "parent": "David Hers Moldavan Kahan"}, {"name": "Chaje Feige Kahan", "url": "https://www.wikitree.com/wiki/Kahan-430", "geni": null, "years": "1881", "born": "1881-11-10, Bréb, Máramaros, Hungary", "died": "", "g": "Female", "parent": "David Hers Moldavan Kahan"}, {"name": "Frede Frimet Kahan (Ganz)", "url": "https://www.wikitree.com/wiki/Kahan-431", "geni": null, "years": "1884 – 1944", "born": "1884-06-10, Bréb, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "David Hers Moldavan Kahan", "spouses": [{"name": "David Hersh Ganz", "url": "https://www.wikitree.com/wiki/Ganz-266"}], "children": [{"name": "Freida Ganz (Reif)", "url": "https://www.wikitree.com/wiki/Ganz-270", "geni": null, "years": "1911 – 1998", "born": "1911-08-31, Gyulafalu, Máramaros, Hungary", "died": "1998-04-16, Brooklyn, New York City, New York, United States", "g": "Female", "parent": "Frede Frimet Kahan (Ganz)"}, {"name": "Rosa Rachel Ganz (Lebovici)", "url": "https://www.wikitree.com/wiki/Ganz-268", "geni": null, "years": "1920 – 2014", "born": "1920-04-07, Giuleşti, Maramureş, Romania", "died": "2014-10-05, Montreal, Quebec, Canada", "g": "Female", "parent": "Frede Frimet Kahan (Ganz)"}, {"name": "Srul Jankel Yaakov Ganz", "url": "https://www.wikitree.com/wiki/Ganz-269", "geni": null, "years": "1922 – 2004", "born": "1922, Giuleşti, Maramureş, Romania", "died": "2004-09-14, Israel", "g": "Male", "parent": "Frede Frimet Kahan (Ganz)"}, {"name": "Fani Ganz (Segelstein)", "url": "https://www.wikitree.com/wiki/Ganz-267", "geni": null, "years": "1924 – 2014", "born": "1924-11-01, Giuleşti, Maramureş, Romania", "died": "2014-09-27, Montreal, Quebec, Canada", "g": "Female", "parent": "Frede Frimet Kahan (Ganz)"}, {"name": "Berl Bernat Ganz", "url": "https://www.wikitree.com/wiki/Ganz-271", "geni": null, "years": "1927 – 1944", "born": "1927, Giuleşti, Maramureş, Romania", "died": "1944", "g": "Male", "parent": "Frede Frimet Kahan (Ganz)"}]}, {"name": "Israel Kahan", "url": "https://www.wikitree.com/wiki/Kahan-432", "geni": null, "years": "1884 – 1884", "born": "1884-06-10, Bréb, Máramaros, Hungary", "died": "1884-12-20, Bréb, Máramaros, Hungary", "g": "Male", "parent": "David Hers Moldavan Kahan"}, {"name": "Jakob Kahan", "url": "https://www.wikitree.com/wiki/Kahan-419", "geni": null, "years": "1886 – 1887", "born": "1886-03-27, Bréb, Máramaros, Hungary", "died": "1887, Bréb, Máramaros, Hungary", "g": "Male", "parent": "David Hers Moldavan Kahan"}, {"name": "Mozses Iczik Kahan", "url": "https://www.wikitree.com/wiki/Kahan-420", "geni": null, "years": "1887 – 1944", "born": "1887-12-09, Bréb, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Male", "parent": "David Hers Moldavan Kahan", "spouses": [{"name": "Eszter Kahan", "url": "https://www.wikitree.com/wiki/Kahan-424"}], "children": [{"name": "Chaim Leb Kahan", "url": "https://www.wikitree.com/wiki/Kahan-428", "geni": null, "years": "1912 – 1944", "born": "1912, Gyulafalu, Máramaros, Hungary", "died": "1944", "g": "Male", "parent": "Mozses Iczik Kahan", "spouses": [{"name": "Margit Mindl Reich", "url": "https://www.wikitree.com/wiki/Reich-1438"}], "children": [{"name": "Eliezer Simcha Kahan", "url": "https://www.wikitree.com/wiki/Kahan-429", "geni": null, "years": "1939 – 1944", "born": "1939, Sighetu Marmaţiei, Maramureş, Romania", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Male", "parent": "Chaim Leb Kahan"}]}, {"name": "Raziel Kahan", "url": "https://www.wikitree.com/wiki/Kahan-426", "geni": null, "years": "1920 – 1944", "born": "1920, Giuleşti, Maramureş, Romania", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Male", "parent": "Mozses Iczik Kahan"}, {"name": "Frida Kahan (Weisbeg)", "url": "https://www.wikitree.com/wiki/Kahan-425", "geni": null, "years": "1925 – 2017", "born": "1925, Gyulafalu, Máramaros, Hungary", "died": "2017-09-08, Haifa, Haifa, Israel", "g": "Female", "parent": "Mozses Iczik Kahan"}, {"name": "Gizi Gitsa Kahan", "url": "https://www.wikitree.com/wiki/Kahan-427", "geni": null, "years": "1927 – 1944", "born": "1927, Giuleşti, Maramureş, Romania", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Mozses Iczik Kahan"}]}, {"name": "Rifka Kahan", "url": "https://www.wikitree.com/wiki/Kahan-421", "geni": null, "years": "1889", "born": "1889-06-25, Bréb, Máramaros, Hungary", "died": "", "g": "Female", "parent": "David Hers Moldavan Kahan"}, {"name": "Seindel Kahan", "url": "https://www.wikitree.com/wiki/Kahan-422", "geni": null, "years": "1892", "born": "1892-05-24, Bréb, Máramaros, Hungary", "died": "", "g": "Female", "parent": "David Hers Moldavan Kahan"}]}, {"name": "Dwora Kahan", "url": "https://www.wikitree.com/wiki/Kahan-389", "geni": null, "years": "1858", "born": "1858-01-16, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Chaim Arye Leb Moldovan Kahan"}, {"name": "Abraham Wolf Kahan", "url": "https://www.wikitree.com/wiki/Kahan-390", "geni": null, "years": "1860", "born": "1860, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Chaim Arye Leb Moldovan Kahan", "spouses": [{"name": "Feige Lankszner", "url": "https://www.wikitree.com/wiki/Lankszner-1"}], "children": [{"name": "Baruch Mendl Kahan", "url": "https://www.wikitree.com/wiki/Kahan-400", "geni": null, "years": "1884 – 1896", "born": "1884-10-28, Gyulafalu, Máramaros, Hungary", "died": "1896-03-17, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Abraham Wolf Kahan"}, {"name": "David Kahan", "url": "https://www.wikitree.com/wiki/Kahan-403", "geni": null, "years": "1887 – 1888", "born": "1887, Gyulafalu, Máramaros, Hungary", "died": "1888-01-10, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Abraham Wolf Kahan"}, {"name": "Josia Kahan", "url": "https://www.wikitree.com/wiki/Kahan-401", "geni": null, "years": "1888 – 1894", "born": "1888-11-09, Gyulafalu, Máramaros, Hungary", "died": "1894-01-25, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Abraham Wolf Kahan"}, {"name": "Eszter Kahan", "url": "https://www.wikitree.com/wiki/Kahan-424", "geni": null, "years": "1892 – 1935", "born": "1892, Gyulafalu, Máramaros, Hungary", "died": "1935-11-28, Gyulafalu, Máramaros, Hungary", "g": "Female", "parent": "Abraham Wolf Kahan", "spouses": [{"name": "Mozses Iczik Kahan", "url": "https://www.wikitree.com/wiki/Kahan-420"}], "children": [{"name": "Chaim Leb Kahan — see under Mozses Iczik Kahan", "ref": "https://www.wikitree.com/wiki/Kahan-428", "stub": true}, {"name": "Raziel Kahan — see under Mozses Iczik Kahan", "ref": "https://www.wikitree.com/wiki/Kahan-426", "stub": true}, {"name": "Frida Kahan (Weisbeg) — see under Mozses Iczik Kahan", "ref": "https://www.wikitree.com/wiki/Kahan-425", "stub": true}, {"name": "Gizi Gitsa Kahan — see under Mozses Iczik Kahan", "ref": "https://www.wikitree.com/wiki/Kahan-427", "stub": true}]}, {"name": "Mozes Kahan", "url": "https://www.wikitree.com/wiki/Kahan-402", "geni": null, "years": "1895", "born": "1895-08-15, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Abraham Wolf Kahan"}, {"name": "Leb Kahan", "url": "https://www.wikitree.com/wiki/Kahan-404", "geni": null, "years": "1897", "born": "1897-12-30, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Abraham Wolf Kahan"}]}, {"name": "Fischel Moldovan Kahan", "url": "https://www.wikitree.com/wiki/Moldovan_Kahan-3", "geni": null, "years": "1867", "born": "1867-12-28, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Chaim Arye Leb Moldovan Kahan"}, {"name": "Dov Ber Bernat Kahan", "url": "https://www.wikitree.com/wiki/Kahan-376", "geni": null, "years": "1871 – 1928", "born": "1871, Giuleşti, Maramureş, Romania", "died": "1928-01-23, Giuleşti, Maramureş, Romania", "g": "Male", "parent": "Chaim Arye Leb Moldovan Kahan", "spouses": [{"name": "Rivka Rifke Regina Liberman", "url": "https://www.wikitree.com/wiki/Liberman-56"}], "children": [{"name": "Jente Kahan", "url": "https://www.wikitree.com/wiki/Kahan-379", "geni": null, "years": "1894", "born": "1894-02-07, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Dov Ber Bernat Kahan", "spouses": [{"name": "Jakov Jankel Liberman", "url": "https://www.wikitree.com/wiki/Liberman-101"}], "children": [{"name": "Lipot Aryeh Lieberman", "url": "https://www.wikitree.com/wiki/Lieberman-410", "geni": null, "years": "1914 – 1989", "born": "1914-01-20, Gyulafalu, Máramaros, Hungary", "died": "1989-07-08, Montreal, Quebec, Canada", "g": "Male", "parent": "Jente Kahan"}, {"name": "Naftali Nandor Lieberman", "url": "https://www.wikitree.com/wiki/Lieberman-411", "geni": null, "years": "1919 – 1989", "born": "1919-10-23, Giuleşti, Maramureş, Romania", "died": "1989-10-05, Côte-Saint-Luc, Montreal, Quebec, Canada", "g": "Male", "parent": "Jente Kahan"}]}, {"name": "Brana Kahan", "url": "https://www.wikitree.com/wiki/Kahan-383", "geni": null, "years": "1896 – 1898", "born": "1896-02-20, Gyulafalu, Máramaros, Hungary", "died": "1898-01-05, Gyulafalu, Máramaros, Hungary", "g": "Female", "parent": "Dov Ber Bernat Kahan"}, {"name": "Hane Kahan", "url": "https://www.wikitree.com/wiki/Kahan-380", "geni": null, "years": "1900", "born": "1900-03-26, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Dov Ber Bernat Kahan"}, {"name": "Ziszel Kahan (Muscal)", "url": "https://www.wikitree.com/wiki/Kahan-381", "geni": null, "years": "1902", "born": "1902-02-24, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Dov Ber Bernat Kahan"}, {"name": "Chaim Arye Leb Kahana", "url": "https://www.wikitree.com/wiki/Kahana-151", "geni": null, "years": "1903 – 1956", "born": "1903-04-10, Giuleşti, Maramureş, Romania", "died": "1956-05-23, Bnei Brak, Tel Aviv District, Israel", "g": "Male", "parent": "Dov Ber Bernat Kahan", "private": 4}, {"name": "Feige Kahan (Adler)", "url": "https://www.wikitree.com/wiki/Kahan-395", "geni": null, "years": "1904", "born": "1904, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Dov Ber Bernat Kahan", "spouses": [{"name": "Eizik Nuszen Adler", "url": "https://www.wikitree.com/wiki/Adler-2001"}], "children": [{"name": "Dov Adler", "url": "https://www.wikitree.com/wiki/Adler-2002", "geni": null, "years": "1930 – 1944", "born": "1930, Gyulafalu, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Male", "parent": "Feige Kahan (Adler)"}, {"name": "Judit Adler", "url": "https://www.wikitree.com/wiki/Adler-2003", "geni": null, "years": "1930 – 1944", "born": "1930, Gyulafalu, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Feige Kahan (Adler)"}, {"name": "Eszter Adler", "url": "https://www.wikitree.com/wiki/Adler-2004", "geni": null, "years": "1930 – 1944", "born": "1930, Gyulafalu, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Feige Kahan (Adler)"}]}, {"name": "Reiza Kahan (Wieder)", "url": "https://www.wikitree.com/wiki/Kahan-407", "geni": null, "years": "1904 – 1944", "born": "1904, Gyulafalu, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Dov Ber Bernat Kahan"}, {"name": "Majer Jakab Kahan", "url": "https://www.wikitree.com/wiki/Kahan-382", "geni": null, "years": "1905", "born": "1905-03-21, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Dov Ber Bernat Kahan"}, {"name": "Abraham Lieber Kahan", "url": "https://www.wikitree.com/wiki/Kahan-391", "geni": null, "years": "1911 – 1944", "born": "1911, Gyulafalu, Máramaros, Hungary", "died": "1944", "g": "Male", "parent": "Dov Ber Bernat Kahan"}, {"name": "Freide Kahan (Herskovits)", "url": "https://www.wikitree.com/wiki/Kahan-394", "geni": null, "years": "1912 – 1944", "born": "1912, Gyulafalu, Máramaros, Hungary", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Dov Ber Bernat Kahan"}, {"name": "Shimon Menachem Kahan", "url": "https://www.wikitree.com/wiki/Kahan-398", "geni": null, "years": "1913 – 1974", "born": "1913, Gyulafalu, Máramaros, Hungary", "died": "1974-01-02, Netanya, Central, Israel", "g": "Male", "parent": "Dov Ber Bernat Kahan", "spouses": [{"name": "Frida Frimed Berkovitz", "url": "https://www.wikitree.com/wiki/Berkovitz-30"}], "children": [{"name": "Frida Kahan", "url": "https://www.wikitree.com/wiki/Kahan-405", "geni": null, "years": "1940 – 1944", "born": "1940, Ocna Şugatag, Maramureş, Romania", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Shimon Menachem Kahan"}, {"name": "Tova Blima Kahan", "url": "https://www.wikitree.com/wiki/Kahan-406", "geni": null, "years": "1942 – 1944", "born": "1942, Ocna Şugatag, Maramureş, Romania", "died": "1944, Auschwitz Concentration Camp, Oświęcim, Biała County, Kraków, Poland", "g": "Female", "parent": "Shimon Menachem Kahan"}]}]}, {"name": "Riwke Regina Kahan (Junger)", "url": "https://www.wikitree.com/wiki/Kahan-387", "geni": null, "years": "1874", "born": "1874-09-09", "died": "", "g": "Female", "parent": "Chaim Arye Leb Moldovan Kahan", "spouses": [{"name": "Izsrael Junger", "url": "https://www.wikitree.com/wiki/Junger-102"}], "children": [{"name": "Mozes Mojsze Junger", "url": "https://www.wikitree.com/wiki/Junger-103", "geni": null, "years": "1896", "born": "1896-12-17, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Male", "parent": "Riwke Regina Kahan (Junger)"}, {"name": "Chaim Leb Junger", "url": "https://www.wikitree.com/wiki/Junger-104", "geni": null, "years": "1898 – 1902", "born": "1898-12-07, Gyulafalu, Máramaros, Hungary", "died": "1902, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Riwke Regina Kahan (Junger)"}, {"name": "Eugenia Laura Junger", "url": "https://www.wikitree.com/wiki/Junger-105", "geni": null, "years": "1902 – 1904", "born": "1902-10-20, Bárdfalva, Máramaros, Hungary", "died": "1904", "g": "Female", "parent": "Riwke Regina Kahan (Junger)"}]}, {"name": "Majer Jakob Kahan", "url": "https://www.wikitree.com/wiki/Kahan-386", "geni": null, "years": "1877 – 1881", "born": "1877-07-30, Gyulafalu, Máramaros, Hungary", "died": "1881-11-12, Gyulafalu, Máramaros, Hungary", "g": "Male", "parent": "Chaim Arye Leb Moldovan Kahan"}, {"name": "Ruchel Kahan (Fogel)", "url": "https://www.wikitree.com/wiki/Kahan-384", "geni": null, "years": "1880", "born": "1880-07-29, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Chaim Arye Leb Moldovan Kahan"}, {"name": "Frimet Kahan", "url": "https://www.wikitree.com/wiki/Kahan-385", "geni": null, "years": "1883", "born": "1883-08-18, Gyulafalu, Máramaros, Hungary", "died": "", "g": "Female", "parent": "Chaim Arye Leb Moldovan Kahan"}]};
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const svg = d3.select('#svg'), g = svg.append('g');
+const zoom = d3.zoom().scaleExtent([.15, 3]).on('zoom', e => g.attr('transform', e.transform));
+svg.call(zoom).on('dblclick.zoom', null);
+const root = d3.hierarchy(DATA);
+const DX = 34, DY = 290;
+const layout = d3.tree().nodeSize([DX, DY]);
+const ALL = root.descendants();
+ALL.forEach((d, i) => { d.id = i; d._children = d.children; if (d.depth >= 1) d.children = null; });
+document.getElementById('names').innerHTML = ALL.filter(d => !d.data.stub).map(d => `<option value="${esc(d.data.name)}">`).join('');
+const color = d => d.data.stub ? 'var(--bg)' : d.data.g === 'Female' ? 'var(--f)' : d.data.g === 'Male' ? 'var(--m)' : 'var(--u)';
+let selected = null;
+
+function update(src, center) {
+  layout(root);
+  const nodes = root.descendants(), links = root.links();
+  const t = svg.transition().duration(300);
+  const link = g.selectAll('path.link').data(links, d => d.target.id);
+  link.join(
+    en => en.insert('path', 'g').attr('class', 'link').attr('d', () => diag({x: src.x0 ?? src.x, y: src.y0 ?? src.y}, {x: src.x0 ?? src.x, y: src.y0 ?? src.y})),
+    up => up, ex => ex.transition(t).remove().attr('d', () => diag(src, src))
+  ).transition(t).attr('d', d => diag(d.source, d.target));
+  const node = g.selectAll('g.node').data(nodes, d => d.id);
+  const en = node.enter().append('g').attr('class', d => 'node' + (d.data.stub ? ' stub' : ''))
+    .attr('transform', `translate(${src.y0 ?? src.y},${src.x0 ?? src.x})`);
+  en.append('circle').attr('r', 6).on('click', (e, d) => { toggle(d); update(d); });
+  const tx = en.append('text').attr('x', 11).attr('dy', '-.1em').on('click', (e, d) => select(d));
+  tx.append('tspan').text(d => d.data.name);
+  en.append('text').attr('class', 'yrs').attr('x', 11).attr('dy', '1.1em').text(d => d.data.years || '').on('click', (e, d) => select(d));
+  node.merge(en).classed('sel', d => d === selected).transition(t).attr('transform', d => `translate(${d.y},${d.x})`)
+    .select('circle').attr('fill', d => d._children && !d.children ? 'var(--bg)' : color(d))
+    .attr('stroke', d => d.data.stub ? 'var(--u)' : d.data.g === 'Female' ? 'var(--f)' : d.data.g === 'Male' ? 'var(--m)' : 'var(--u)');
+  node.exit().transition(t).remove().attr('transform', `translate(${src.y},${src.x})`);
+  nodes.forEach(d => { d.x0 = d.x; d.y0 = d.y; });
+  if (center) centerOn(center);
+}
+const diag = (s, t) => `M${s.y},${s.x}C${(s.y + t.y) / 2},${s.x} ${(s.y + t.y) / 2},${t.x} ${t.y},${t.x}`;
+const p_key = d => d.data.url.split('/wiki/')[1];
+const toggle = d => { if (!d._children) return; d.children = d.children ? null : d._children; };
+
+function select(d) {
+  if (d.data.stub) { window.open(d.data.ref, '_blank', 'noopener'); return; }
+  selected = d;
+  if (d._children && !d.children) d.children = d._children;
+  history.replaceState(null, '', '#' + p_key(d));
+  const p = d.data, par = d.parent && !d.parent.data.stub ? d.parent.data.name : null;
+  const kids = (d._children || []).filter(c => !c.data.stub).length;
+  document.getElementById('panel').innerHTML = `<button class="x" aria-label="Close">×</button>
+    <h2>${esc(p.name)}</h2><dl>
+    ${p.born ? `<dt>Born</dt><dd>${esc(p.born)}</dd>` : ''}
+    ${p.died ? `<dt>Died</dt><dd>${esc(p.died)}</dd>` : ''}
+    ${par ? `<dt>Parent (descendant line)</dt><dd>${esc(par)}</dd>` : ''}
+    ${p.spouses ? `<dt>Spouse${p.spouses.length > 1 ? 's' : ''}</dt><dd>${p.spouses.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(', ')}</dd>` : ''}
+    ${kids ? `<dt>Children recorded</dt><dd>${kids}</dd>` : ''}
+    ${p.private ? `<dt>Private descendants</dt><dd>${p.private} more descendants are private on WikiTree (likely living) and not shown</dd>` : ''}
+    </dl><div class="links"><a href="${esc(p.url)}" target="_blank" rel="noopener">WikiTree profile ↗</a>
+    ${p.geni ? `<a href="${esc(p.geni)}" target="_blank" rel="noopener">Geni profile ↗</a>` : ''}</div>`;
+  const panel = document.getElementById('panel');
+  panel.style.display = 'block';
+  panel.querySelector('.x').onclick = () => { panel.style.display = 'none'; selected = null; history.replaceState(null, '', location.pathname); update(root); };
+  update(d);
+}
+
+function centerOn(d) {
+  const {width, height} = svg.node().getBoundingClientRect();
+  const k = d3.zoomTransform(svg.node()).k;
+  svg.transition().duration(450).call(zoom.transform, d3.zoomIdentity.translate(width / 3 - d.y * k, height / 2 - d.x * k).scale(k));
+}
+function fit() {
+  const b = g.node().getBBox(), {width, height} = svg.node().getBoundingClientRect();
+  const k = Math.min(1.2, .92 * Math.min(width / b.width, height / b.height));
+  svg.transition().duration(450).call(zoom.transform, d3.zoomIdentity.translate((width - b.width * k) / 2 - b.x * k, (height - b.height * k) / 2 - b.y * k).scale(k));
+}
+
+document.getElementById('exp').onclick = () => { ALL.forEach(d => d.children = d._children); update(root); setTimeout(fit, 320); };
+document.getElementById('col').onclick = () => { ALL.forEach(d => d.children = d.depth >= 1 ? null : d._children); update(root); setTimeout(fit, 320); };
+document.getElementById('fit').onclick = fit;
+document.getElementById('q').addEventListener('change', e => {
+  const v = e.target.value.trim().toLowerCase(); if (!v) return;
+  const hit = ALL.find(d => !d.data.stub && d.data.name.toLowerCase() === v)
+           || ALL.find(d => !d.data.stub && d.data.name.toLowerCase().includes(v));
+  if (!hit) return;
+  hit.ancestors().forEach(a => { if (a !== hit) a.children = a._children; });
+  g.selectAll('g.node').classed('hit', false);
+  select(hit);
+  centerOn(hit);
+  g.selectAll('g.node').filter(d => d === hit).classed('hit', true);
+});
+function openKey(k) {
+  const hit = ALL.find(d => !d.data.stub && p_key(d) === decodeURIComponent(k));
+  if (!hit) return false;
+  hit.ancestors().forEach(a => { if (a !== hit) a.children = a._children; });
+  select(hit); setTimeout(() => centerOn(hit), 320); return true;
+}
+root.x0 = 0; root.y0 = 0;
+update(root);
+if (!(location.hash && openKey(location.hash.slice(1)))) setTimeout(fit, 350);
+</script>
+</body>
+</html>
