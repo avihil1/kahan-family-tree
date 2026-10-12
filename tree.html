@@ -21,7 +21,7 @@ input{width:200px}
 #wrap{position:relative;flex:1;min-height:0}
 svg{width:100%;height:100%;display:block;cursor:grab}
 .link{fill:none;stroke:var(--ln);stroke-width:1.4}
-.node circle{stroke-width:2;cursor:pointer}
+.node circle{stroke-width:2;cursor:pointer}.node circle.alive{fill:none;stroke:#2e9e4f;stroke-width:2;pointer-events:none}
 .node text{font-size:13px;fill:var(--fg);cursor:pointer;paint-order:stroke;stroke:var(--bg);stroke-width:4px}
 .node .yrs{fill:var(--mu);font-size:11px}
 .node.hit text{fill:var(--ac);font-weight:bold}
@@ -53,7 +53,7 @@ svg{width:100%;height:100%;display:block;cursor:grab}
   <svg id="svg" aria-label="Family tree"></svg>
   <div id="panel" role="dialog" aria-live="polite"></div>
   <div class="legend">Click a name for details · click a dot to fold/unfold · drag &amp; scroll to move
-    <span class="dot" style="background:var(--m)"></span>male<span class="dot" style="background:var(--f)"></span>female<span class="dot" style="border:2px solid var(--m)"></span>folded – has children<span class="dot" style="border:2px dashed var(--m)"></span>possible match · names marked “Yad Vashem” come from its Shoah victims’ database, “Geni” from geni.com</div>
+    <span class="dot" style="background:var(--m)"></span>male<span class="dot" style="background:var(--f)"></span>female<span class="dot" style="border:2px solid var(--m)"></span>folded – has children<span class="dot" style="border:2px dashed var(--m)"></span>possible match<span class="dot" style="border:2px solid #2e9e4f"></span>living · names marked “Yad Vashem” come from its Shoah victims’ database, “Geni” from geni.com</div>
 </div>
 <footer style="display:none">4</footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
@@ -84,14 +84,15 @@ function update(src, center) {
   const node = g.selectAll('g.node').data(nodes, d => d.id);
   const en = node.enter().append('g').attr('class', d => 'node' + (d.data.stub ? ' stub' : '') + (d.data.src === 'yv' ? ' yv' : '') + (d.data.possible ? ' possible' : ''))
     .attr('transform', `translate(${src.y0 ?? src.y},${src.x0 ?? src.x})`);
+  en.filter(d => /living/.test(d.data.years || '')).append('circle').attr('class', 'alive').attr('r', 9.5);
   en.append('circle').attr('r', 6).on('click', (e, d) => { toggle(d); update(d); });
   const tx = en.append('text').attr('x', 11).attr('dy', '-.1em').on('click', (e, d) => select(d));
   tx.append('tspan').text(d => d.data.name);
-  en.append('text').attr('class', 'yrs').attr('x', 11).attr('dy', '1.1em').text(d => (d.data.years || '') + ({yv: ' · Yad Vashem', geni: ' · Geni', story: ' · family story', wiki: ' · Wikipedia', obit: ' · obituary'}[d.data.src] || '') + (d.data.possible ? ' · possible' : '')).on('click', (e, d) => select(d))
+  en.append('text').attr('class', 'yrs').attr('x', 11).attr('dy', '1.1em').text(d => ((d.data.years || '').replace(/\s*–?\s*living/, '') + ({yv: ' · Yad Vashem', geni: ' · Geni', story: ' · family story', wiki: ' · Wikipedia', obit: ' · obituary'}[d.data.src] || '') + (d.data.possible ? ' · possible' : '')).replace(/^ · /, '')).on('click', (e, d) => select(d))
     .each(function (d) { (d.data.spouses || []).forEach((s, i) => { const el = d3.select(this); el.append('tspan').text(i ? ', ' : ' · ∞ ');
       (s.url ? el.append('a').attr('href', s.url).attr('target', '_blank').attr('rel', 'noopener').append('tspan').attr('class', 'sp') : el.append('tspan')).text(s.name.split(' (')[0]); }); });
   node.merge(en).classed('sel', d => d === selected).transition(t).attr('transform', d => `translate(${d.y},${d.x})`)
-    .select('circle').attr('fill', d => d._children && !d.children ? 'var(--bg)' : color(d))
+    .select('circle:not(.alive)').attr('fill', d => d._children && !d.children ? 'var(--bg)' : color(d))
     .attr('stroke', d => d.data.stub ? 'var(--u)' : d.data.g === 'Female' ? 'var(--f)' : d.data.g === 'Male' ? 'var(--m)' : 'var(--u)');
   node.exit().transition(t).remove().attr('transform', `translate(${src.y},${src.x})`);
   nodes.forEach(d => { d.x0 = d.x; d.y0 = d.y; });
