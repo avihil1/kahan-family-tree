@@ -114,3 +114,96 @@ that distinguish this Chaim Aryeh from namesakes. WikiTree’s linked parent fie
 The birth-year discrepancy (about 1868 versus about 1871/72) also remains relevant to identity checks.
 Live web-reader attempts to open WikiTree and JOWBR failed; WikiTree’s biography API succeeded. The failure to
 retrieve the burial image is an access limitation, not proof that an image does not exist.
+
+## Follow-up: authenticated source verification, 14 October 2026
+
+**Conclusion:** the proposed father–son relationship between Dov/Bernat Kahan and Chaim Arye Leb
+Moldovan Kahan is supported by converging indirect evidence, but this pass does not establish it with
+high certainty. Two identifications remain to be proved: the surname-less Dov burial is this Bernat,
+and its father Chaim Aryeh is this particular Chaim Arye Leb. Freide Klein's motherhood requires
+separate evidence; it cannot be inferred from the patronymic.
+
+### Evidence inspected and what it establishes
+
+| Source and exact reference | Finding | Evidentiary limit |
+| --- | --- | --- |
+| [JOWBR J_MARAMURE_0008659](https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_MARAMURE_0008659), live authenticated record | Hebrew-name field: “Dov ben Chaim Aryeh HaKohen”; Giulesti; R.Ch.Shevat 5688; age 56. | Surname is blank; page explicitly says “No Image Available.” Confirms the indexed patronymic, not the gravestone reading or the identities of both men. |
+| [Yad Vashem 3983900](https://collections.yadvashem.org/en/names/3983900), original Page of Testimony, signed 2 July 2000 | Grandson Dov Kahana names Rivka Kahana, maiden name Liberman, widow of Dov, resident GIULESTI. | Corroborates Dov's household when compared with Bernat/Rifke Liberman's children's records. Does not name Dov's father or use Bernat. |
+| JewishGen Máramaros deaths: Brana Kahan, 5 January 1898, age 23 months; Inventory 1371, Book 53, **1898-10** | Parents Bernat Kahan and Regina Liberman; informant Izrael Junger described as father's brother-in-law. | Gives a real kinship connection, but “brother-in-law” alone does not identify which spouse supplies it. |
+| Same collection: Leib Kahan, 24 June 1897, age 72; Inventory 1371, Book 53, **1897-76** | Parents Jozsef Kahan and Rifke Berkovics; informant Sztrul Junger described as deceased's son-in-law. | To connect the two death records, Izrael and Sztrul must be identified as the same man. Several Junger households occur locally. |
+| Births: Riwke Kahan, 9 September 1874, Book 1098, **09-06** | Father Chaim/Leb Kahan, mother Freide. | Identifying this infant as the later Regina Kahan married to Izrael Junger remains an inference from name, age and town. |
+| Births: Mozes/Mojsze Junger, 17 December 1896, Inventory 1371, Book 51, **1896-217**; Cheim Leb Junger, 7 December 1898, Book 52, **1898-222**; Eugenia Laura Junger, 20 October 1902, Inventory 1373, Book 35, **1902-240** | Parents Izrael Junger and Regina Kahan; mother's town Gyulafalu/Gyulafalva/Maragyulafalu. Ages broadly fit Riwke born 1874. | Stronger household identification than a surname match, but none of these entries names Regina's parents. |
+| Deaths: Majer Jakab Kahan, November 1881, retrospectively registered **1902-229**, Inventory 1373, Book 41 | Parents Leb Kahan and Freide Klein; Bernat Kahan reported it. | Index does **not** say Bernat was a brother. Book 41 comes from the project transcription; JewishGen's displayed book field is blank. Contemporary death index: Book 1106, **14-02**, 12 November 1881. |
+| Marriages: Ruchel Kahan / Smil Fogel, 14 August 1901, Bardfalu, Inventory 1373, **1901-26** | Bride's parents Chaim Leb and Freida Klein; witness Bernad Kahan, 30, Maragyulafalu. | Witnessing is not a stated sibling relationship. Bernath also witnesses INDIG/SAJOVICS marriage **1902-43**, so witnessing alone is weak evidence. |
+
+The civil-register references above were read in the authenticated JewishGen Hungary database.
+[Collection and repository description](https://www.jewishgen.org/databases/Hungary/Maramaros.htm).
+Books 53 and 41 are also identified by the saved project transcriptions:
+[1895–1898 deaths](https://docs.google.com/spreadsheets/d/1tgtHd1kNIv1LFaOxtoKFuVqqmFE9ln8XJznPyRHGVAg/)
+and [1902–1904 deaths](https://docs.google.com/spreadsheets/d/1-TKkd3ZBUfwgYO1MUkizdgUqmZyTIZ7W7dPbSKqwLWE/).
+The spreadsheet and JewishGen versions of one entry are not independent sources.
+
+### Original testimony and conflicts
+
+[Original Rivka testimony image](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/200007301604_267_7590/43.jpg)
+was visually inspected. Relevant handwriting: victim “כהנא”, “רבקה”, maiden name “ליברמן”,
+husband “דב”, status “אלמנה”, relationship of submitter “נכד”. It supplies approximate birth 1880
+and age 65 at death in 1944, which are themselves approximate/inconsistent and conflict with earlier
+civil ages. It records ten children, but this count was not used to create unnamed descendants.
+Its blank parental fields refer to Rivka, not Dov.
+
+Bernat's recorded ages vary: 32 in 1896; 32 in 1900; 34 in 1902; 35 in 1903; 34 in 1905;
+30 as a witness in 1901. These imply roughly 1863–1871, while the proposed burial's age 56
+in 1928 implies roughly 1871–1872. Thus the tree's previous unqualified birth year 1868 is
+an estimate derived from some records, not a located birth entry. WikiTree also has a 1927/1928
+discrepancy between its narrative and death field.
+
+[Abraham Wolf's profile Kahan-390](https://www.wikitree.com/wiki/Kahan-390) explicitly infers his sibling
+relationship from his son Mojse's death, **1903-81**, Inventory 1373, Book 41: Bernad is called
+the deceased's uncle. That supports a collateral relationship; Abraham's linked father cannot
+then be reused as independent proof of Bernat's father. The linked
+[Gyulafalu research narrative](https://www.wikitree.com/wiki/Space:Kahan_in_Gyulafalu_%28Giule%C8%99ti%29)
+is a research hypothesis, not another original establishing this parentage.
+
+### Search coverage and access status
+
+Reviewed sources on [Kahan-376](https://www.wikitree.com/wiki/Kahan-376#Sources) and
+[Moldovan_Kahan-1](https://www.wikitree.com/wiki/Moldovan_Kahan-1#Sources), collateral profiles,
+and live JewishGen Máramaros births/deaths/marriages on 14 October 2026.
+
+All pages were retrieved for these town queries (all dates):
+- GYULAFALU phonetic: births 220, deaths 68, marriages 19.
+- GYULAFALVA exact: births 65, deaths 2, marriages 1.
+- MARAGYULAFALU exact: births 57, deaths 24, marriages 5.
+
+These result sets overlap. The initial attempted surname constraint did not appear in the results
+heading and was not effective; these are town-wide searches, not surname-filtered counts.
+Relevant Kahan/Moldovan/Junger entries and Ber/Berl/Dov/Bernat variants were reviewed.
+No direct birth, marriage or death entry naming Bernat's own parents was identified in this pass.
+This does not establish that such a record is absent from the archive or all indexes.
+
+The login succeeded. The earlier access-failure note is superseded for JOWBR: the record itself now
+explicitly reports no image available there. Civil index rows examined supplied no original-image link.
+The project describes archive photography and the Baia Mare repository; an original was not obtained
+for the decisive civil entries. Do not equate that with an original being lost or undigitized.
+
+### Precise request prepared, not sent
+
+To the Máramaros Jewish Records Indexing Project / Romanian National Archives, Baia Mare branch:
+
+> Please provide, or identify the access route to, full-page original images including headings,
+> margins and continuation pages for the following Giulești/Gyulafalu and Bárdfalu entries:
+> (1) Majer Jakab Kahan death, retrospective registration 1902-229, Inventory 1373, Book 41;
+> (2) Brana Kahan death, 1898-10, Inventory 1371, Book 53;
+> (3) Leib Kahan death, 1897-76, Inventory 1371, Book 53;
+> (4) Riwke Kahan birth, 9 September 1874, Book 1098, page/entry 09-06;
+> (5) Ruchel Kahan / Smil Fogel marriage, 1901-26, Inventory 1373, Bárdfalu.
+> The question is whether Bernat/Bernad Kahan, partner of Rifke/Regina Liberman, is explicitly
+> identified as a son of Chaim Leb Kahan, or as a brother of Majer Jakab/Riwke/Ruchel.
+> Please preserve the exact relationship wording for Izrael/Sztrul Junger. If an original
+> marriage entry for Izrael Junger and Regina/Riwke Kahan is indexed elsewhere, its parents'
+> fields would also resolve the collateral connection. Please advise availability before any fees.
+
+For JOWBR, request the underlying transcription or photograph for J_MARAMURE_0008659, including
+any surname, full inscription, plot identifier and provenance omitted from the online record.
+No correspondence was sent and no fees were incurred.
