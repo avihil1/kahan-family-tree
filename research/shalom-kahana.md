@@ -34,7 +34,7 @@ Hillel is added separately as Shalom’s child on the user's direct testimony. R
 Michal and Rachel were already present. Rachel’s existing 1972–1972 entry remains based on the earlier
 [Geni citation](https://www.geni.com/people/Rachel-Kahana/6000000009327679384), not newly verified evidence.
 
-## Unresolved coverage and conflicts
+## Earlier coverage and conflicts (superseded where noted below)
 
 - **The complete descendant list is not established.** The interview describes Michal as the second of 13 children.
   The saved Geni search result instead presents four children plus fourteen others. The old tree converted this
@@ -67,3 +67,50 @@ No login was bypassed, correspondence sent, or fee incurred.
 A family roster: each of Shalom’s children, the other parent where applicable, spouses, children and grandchildren,
 with the person-to-parent links explicit. It should also clarify the 13-versus-18 count. Family testimony can be
 cited as such; documents and existing profile links can be added alongside it.
+
+
+## Family testimony received 14 October 2026
+
+Hillel supplied these thirteen children in this order: **Haim Arie, Michal, Yael, Yedidia, Nachshon,
+Elisheva, Ishai, Hillel, Avia, Akiva, Gad, Lea, Iska**. He then confirmed that the existing
+**Rachel (1972–1972)** entry is an additional child who died in infancy, bringing the total to **14**.
+Rachel’s position within the birth order remains unspecified; she is displayed after the supplied roster.
+
+Hillel confirmed that **Ruth is the mother of all fourteen**, that her maiden name is **Pasternak**,
+and that her parents are **Eliezer and Erna**. Their surnames and life dates were not separately supplied.
+These are direct family statements, not archival-document findings. They supersede the earlier inferred
+18-child count. The earlier interview’s 13-child description is compatible with the thirteen listed separately
+from Rachel, but the interview itself does not explicitly explain its counting convention.
+
+Eleven further child nodes were added; Michal, Rachel and Hillel already existed. No birth dates,
+marriages, genders or descendants were inferred for the newly supplied names. The seven named children
+of Michal remain sourced to her published interview. Next: collect each sibling’s spouse and descendants,
+starting with Haim Arie. This is now a complete list of Shalom’s children according to Hillel, not a complete
+list of every later descendant.
+
+## Dov Ber parentage evidence audit
+
+The question is whether **Dov Ber Bernat Kahan** is demonstrably the son of the specific **Chaim Arye Leb
+Moldovan Kahan (1827–1897)** shown in the tree. The current evidence supports the connection but does not justify
+an unqualified claim of certainty.
+
+1. [WikiTree Kahan-376](https://www.wikitree.com/wiki/Kahan-376), biography read through its public API
+   on 14 October 2026, cites [JOWBR J_MARAMURE_0008659](https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_MARAMURE_0008659)
+   as Dov, son of Chaim Aryeh HaKohen; Rosh Chodesh Shevat 5688; age 56; Giulesti. This is an explicit
+   patronymic in a cited index transcription. The original inscription was not inspected in this audit.
+   The patronymic alone does not uniquely identify the father with the Moldovan Kahan profile.
+2. [WikiTree Moldovan_Kahan-1](https://www.wikitree.com/wiki/Moldovan_Kahan-1) cites Majer Jakab’s death,
+   retrospectively registered as **1902-229**, Romanian National Archives, Baia Mare, Inventory 1373;
+   the saved project transcription identifies **Book 41**. It names parents **Leb Kahan and Freide Klein**
+   and says **Bernat Kahan registered the death**. It does not explicitly identify the informant as a brother.
+3. Brana’s death, **1898-10**, Inventory 1371, Book 53 in the saved project transcription, names her father
+   Bernat and describes **Izrael Junger as the father’s brother-in-law**. Leb’s death, **1897-76**, names
+   **Sztrul Junger as the deceased’s son-in-law**. These offer a collateral-family bridge, but the identity
+   of Izrael/Sztrul and the precise marriage link need verification rather than being assumed from the names.
+
+The existing parent link is retained with an explicit evidence note. A decisive next record would be an original
+birth, marriage or death entry for Dov/Bernat naming his parents, or the original gravestone combined with records
+that distinguish this Chaim Aryeh from namesakes. WikiTree’s linked parent field is not independent evidence.
+The birth-year discrepancy (about 1868 versus about 1871/72) also remains relevant to identity checks.
+Live web-reader attempts to open WikiTree and JOWBR failed; WikiTree’s biography API succeeded. The failure to
+retrieve the burial image is an access limitation, not proof that an image does not exist.
