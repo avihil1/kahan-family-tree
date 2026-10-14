@@ -300,3 +300,123 @@ register search was performed for Menachem. No later marriage or additional desc
 Next: obtain a readable photograph or burial file for block ה / section ד / row 10 / place 1, asking for age
 and any birth date; locate the birth or marriage record distinguishing the competing birth estimates.
 No request was sent and no fees were incurred.
+
+
+## Chaim Arye Leb Kahana: original 1903 birth and search for his children — 14 October 2026
+
+Hillel clarified that the requested children are those of his grandfather **Chaim Arye Leb Kahana (1903–1956)**,
+not the earlier Leb born about 1827. No additional child has been established in this research pass.
+
+### Original birth entry obtained and inspected
+
+The [Romanian National Archives catalog](https://descopera.arhivelenationale.ro/cota/?cid=13914516)
+identifies **Giuleşti, Registru născuţi, înregistrat la Berbeşti**, 1902–1903, current reference
+**MM-F-00743-1-1-00236**, explicitly giving former reference **35**. This resolves the JewishGen Book 35 locator.
+The catalog lists finding aid MM-I-01480; JewishGen uses the earlier Baia Mare Inventory 1373 reference.
+
+The decisive original is **entry 64, folio 176v**, scan **MM-FD-00743-1-1-236_0352.TIFF**,
+in **MM-FD-00743-1-1-236_03.PDF, PDF page 57**.
+[Full archive PDF, page 57](https://descopera.arhivelenationale.ro/api/media/file?id=13914516&type=fisiere&mediaId=488883#page=57).
+[Single original page for convenient viewing](https://avihil1.github.io/kahan-family-tree/research/leb-1903-birth.pdf).
+The latter is a one-page extraction, with the complete page preserved; it is not another independent source.
+
+| Field | Reading from the original |
+|---|---|
+| Child | Leb, male, Jewish religion |
+| Birth | 10 April 1903, Máragyulafalu |
+| Registration | 16 April 1903, Bárdfalva |
+| Father | Káhán Bernad/Bernat; final letter uncertain; Jewish, smallholder, age 35 |
+| Father's residence and birthplace | Máragyulafalu |
+| Mother | Liberman Regina, Jewish, age 32 |
+| Mother's residence / birthplace | Máragyulafalu / Falusugatag |
+| Informant / remarks | Child's father; remarks field blank |
+
+The registration date explains the **16 April** date in the volume's alphabetical index, where the name is
+rendered approximately “Kalian Lab”; the birth date on the actual entry is **10 April**. The JewishGen index
+entry **23e75e42-64cc-4287-b44a-0326952f5089_0038136**, Book 35, **1903-64**, was retrieved in the logged-in session.
+Its parents and ages agree with the original. The index and original are one underlying event.
+
+This is direct evidence for Leb's parents **Bernad/Bernat Kahan and Regina Liberman**. The separate, previously
+inspected [Abraham Lieber testimony](https://collections.yadvashem.org/en/names/1501887) pairs the father's
+Hebrew/civil names Dov/Bernat and the mother's Rivka/Reghina. This supports the household identification
+already in the tree. Ages imply approximate birth years only. No grandparents are named; this page does not
+resolve Bernat's proposed father or Jozsef's parents.
+
+### Children: coverage checked, births still unresolved
+
+The existing children are **Penina Perl (1929), Dov/Bernard (1930), and Shalom (1943)**. Their archival birth
+entries have not been obtained. The 1951 immigration lists already cited in the tree support Dov's
+Chaim/Leah parent names and Shalom's household with Leib/Leah; they are immigration evidence, not birth registers.
+Shalom's Timișoara birthplace is from the family memorial. Dov's biography gives Transylvania generally;
+Penina's exact birthplace is not established here. Do not assign all three a Timișoara birthplace.
+
+The [Máramaros project inventory](https://www.jewishgen.org/databases/hungary/Maramaros.htm) lists the
+Berbești-area birth volumes through **1907–1913**, not the children's 1929–1943 period.
+The [Romania vital-record inventory](https://docs.google.com/spreadsheets/d/1UW157jQ79bfyXGDstS4oMcePXXKZzx2ddtwxwbylzjY/edit)
+lists 31 towns and no Timișoara birth-register series. This is a coverage limitation of that inventory,
+not evidence that the children's registrations do not exist.
+
+Authenticated JewishGen searches used **Town, phonetically like TIMISOARA**, all dates:
+
+- Romania Vital Records Births: **50 results, all 50 examined**.
+- Hungarian Births: **14 results, all 14 examined**.
+- Máramaros Vital Records Births: **56 results, both pages examined**.
+- Romanian Censuses of Jewish Residents, 1939–1945: **138 results, all three pages examined**.
+
+No returned entry identifies a child of this Chaim Arye Leb and Leah. The town search also returns later
+Timișoara marriage/death annotations on births elsewhere; its result count is not a count of Timișoara births.
+It does not rule out records indexed under another town, surname, or in an unindexed volume.
+
+### Cemetery leads remain unattached
+
+The **JOWBR Romania–Banat** search **Surname, phonetically like KAHAN**, all dates, returned **391 records**;
+all eight pages were examined. Among the Timișoara surname matches:
+
+| Indexed person | Death | Exact reference | Status |
+|---|---|---|---|
+| Ferenc Kahan | 4 April 1943 | [J_BANAT_0013433](https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_BANAT_0013433), CET register VOL_1, p. 122 | Age and parents blank; no image |
+| Rozalia Kahan | 27 August 1941 | [J_BANAT_0013434](https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_BANAT_0013434), CET register VOL_1, p. 122 | Age and parents blank; no image |
+
+Other Kahan matches include Benedict (3 September 1941), Roza Freund née Kahan (29 August 1937),
+Hermann (1922), Hermann's wife née Kahn (23 July 1939), Rozalia (14 June 1957), and David (2003, age 90).
+The two p. 122 entries are specific acquisition leads, **not identified children**. Their placement on one page
+does not prove kinship. Family memory of two deceased children is not sufficient to attach these names.
+
+[Cemetery ROM-06473 metadata](https://www.jewishgen.org/databases/cemetery/jowbrshow.php?id=ROM-06473)
+locates the registers at the **Jewish Community of Timișoara**, Calea Sever Bocu cemetery. Volume 1 spans
+1865–1959. The individual entries explicitly say no image available; the originals remain uninspected.
+
+### Next original requests (prepared, not sent)
+
+For the Jewish Community of Timișoara: “Please supply the complete original page **CET register VOL_1,
+page 122**, including headings and any continuation or annotations, containing **Ferenc Kahan,
+4 April 1943**, and **Rozalia Kahan, 27 August 1941**. We need ages, parents, address and grave/entry references
+to determine whether either belongs to the household of **Chaim Arye/Leib Kahan (born 10 April 1903,
+Máragyulafalu) and wife Leah**. Please also identify the source entry for **Benedict Kahan, 3 September 1941,
+JOWBR J_BANAT_0002513**. No relationship is assumed.”
+
+The Romanian archive catalog and **TM-ID-01194.pdf, PDF pages 112–113** identify specific Jewish registers:
+[Finding aid PDF](https://descopera.arhivelenationale.ro/api/media/file?id=7372851&type=fisiere&mediaId=581455#page=112).
+
+- **Cetate births, 1862–1942:** TM-F-00004-01194-417-4
+  ([catalog](https://descopera.arhivelenationale.ro/cota/?cid=7614097)); alphabetical index **417-9**, 1886–1942
+  ([catalog](https://descopera.arhivelenationale.ro/cota/?cid=7614103)).
+- **Josefin births, 1887–1942:** finding-aid reference **TM-F-00004-419-4**; alphabetical index **419-8**.
+- **Plasa Centrală births, 1886–1950:** finding-aid reference **TM-F-00004-416-4**; birth index **416-7**.
+
+The finding aid and catalog describe registers, not entries naming this family. Cetate and Josefin cover the
+reported 1929/1930 birth years if the children were registered there; they end before Shalom's 1943 birth.
+The Centrală volume is a further jurisdictional lead, not proof that it covers his birthplace.
+
+Prepared archive request: “Please check the alphabetical birth indexes **417-9 (Cetate), 419-8 (Josefin),
+and 416-7 (Plasa Centrală)**, finding aid **1194**, for **Kahan/Kahana/Cohen**, father
+**Chaim Arye/Leib/Leb (born 10 April 1903, Máragyulafalu)** and mother **Leah**. Known children:
+**Penina/Perl, reported born 1929; Dov/Bernard, reported born 1930; Shalom, reported born 1943 in Timișoara**.
+For matching entries, supply complete original pages from **417-4, 419-4 or 416-4**, including headings and
+annotations. Please identify the municipal/communal series covering the 1943 Timișoara birth if it is outside
+these registers. No birthplace is assumed for Penina or Dov, and no names are assumed for other children.”
+No correspondence was sent, no fees incurred, and no candidate child added to the tree.
+
+The Cetate birth-volume and alphabetical-index catalog pages were loaded and inspected on 14 October 2026;
+neither exposed a MEDIA/files attachment. Their original pages have therefore not been searched.
+This does not establish whether scans can be supplied by the archive.
