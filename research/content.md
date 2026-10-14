@@ -873,3 +873,55 @@ then by surname and 1919 and the 1960 label. The exact phrase `מילר פנחס
 the broader query found `פרידריך (פנחס)` in the October–December 1960 volume. Both original scans 83–84
 were inspected, including headings and neighboring household rows. The supplied Geni profile loaded
 an empty browser page, so no new profile details were extracted from it. No correspondence or fees.
+
+
+## Penina and Dov: Sighet birthplace supplied by family — 14 October 2026
+
+**Hillel Kahana states that Penina/Perl Kahana (Miller), born 1929, was born in Sighetu Marmației,
+Maramureș, Romania, as was her brother Dov/Bernard Kahana, born 1930.** This is direct family testimony,
+not a newly located birth certificate. It supersedes the earlier “birthplace not established” search assumption
+for both siblings. Their exact birth dates remain unverified. Shalom's Timișoara birthplace is unchanged.
+The existing tree entries now give Sighet with this source qualification.
+
+**The birth-record search should therefore start in Sighet (historical Máramarossziget), not Timișoara.**
+The Timișoara books previously identified remain relevant to Shalom and the family's later residence;
+they are no longer the first choice for Penina's 1929 birth.
+
+### What was checked
+
+The [official Sighet town descriptor](https://descopera.arhivelenationale.ro/descriptor/?did=9685482)
+loaded in the browser. Set its page size to 100 and examined **all 42 linked catalog descriptions**.
+The birth-volume date ranges shown there run from 1895 to **1920**, not 1929 or 1930.
+This is a defined catalog check, not proof that later registers do not survive or are absent from other series.
+
+Opened the latest listed birth volume, [MM-F-00743-1-1-00650](https://descopera.arhivelenationale.ro/cota/?cid=13914930):
+**29 December 1918–30 December 1920**, former number **19**, inventory **MM-I-01480**, under
+**Exemplarul 2** (second copy). Its page exposes an index PDF and seven scan PDFs, but this book's stated
+dates do not cover either sibling, so it was not searched for their births. The separate summary text says
+1864–1915, conflicting with its title/date fields; that catalog inconsistency was not silently resolved.
+The page labels this register category as protected for 100 years; this is not a verified access ruling
+on a 1929 record. No 1929 or 1930 book reference was identified in this pass.
+
+The [JewishGen Máramaros project inventory](https://www.jewishgen.org/databases/Hungary/Maramaros.htm)
+was read for coverage. Its published table, labeled June 2018, does not list a 1929 birth volume;
+this cannot rule out later additions or unindexed records. An attempted direct download of inventory 1469
+(first-copy civil registers) returned HTML rather than the PDF; that finding aid was **not inspected**.
+
+### Precise request prepared; not sent
+
+To the Maramureș branch of the Romanian National Archives, with referral to **Sighetu Marmației's
+Stare Civilă** if those years remain with the municipality:
+
+“Please identify the current custodian and reference of the Sighetu Marmației civil birth register and
+alphabetical index for **1929**, and search for **Penina / Perl Kahan or Kahana**, later **Miller**,
+daughter of **Chaim Arye / Leib / Leb Kahan (born 10 April 1903, Máragyulafalu/Giulești)** and **Leah**.
+The birthplace is supplied by her nephew; the exact birth date is unknown. Please also check the **1930**
+birth register/index for her brother **Dov / Bernard Kahana**, with the same parents. Please confirm
+any civil-name variants from the record rather than assuming them. For a match, provide the full original
+entry with headings and marginal annotations, the entry number, page, book reference, and any applicable
+access requirements or fees before proceeding. The online second-copy series examined ends with volume
+MM-F-00743-1-1-00650 (1918–1920); please check the first-copy series or the municipal holdings for later years.”
+
+The [municipal civil-registration service](https://www.arhiva.primaria-sighet.ro/subpagina/serviciul-stare-civila-se-ocupa-de)
+is an identified alternative inquiry route, but custody of these two specific years is not yet confirmed.
+No correspondence, paid request, or access application was submitted. The original 1929 birth entry remains unlocated.
