@@ -318,6 +318,8 @@ The decisive original is **entry 64, folio 176v**, scan **MM-FD-00743-1-1-236_03
 in **MM-FD-00743-1-1-236_03.PDF, PDF page 57**.
 [Full archive PDF, page 57](https://descopera.arhivelenationale.ro/api/media/file?id=13914516&type=fisiere&mediaId=488883#page=57).
 [Single original page for convenient viewing](https://avihil1.github.io/kahan-family-tree/research/leb-1903-birth.pdf).
+[English translation of the complete original page](https://avihil1.github.io/kahan-family-tree/research/leb-1903-birth-en.html). Includes the declaration, parent and child fields, closing statement and certification; uncertain handwriting is marked. This translation derives from the same original and is not independent evidence.
+
 The latter is a one-page extraction, with the complete page preserved; it is not another independent source.
 
 | Field | Reading from the original |

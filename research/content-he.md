@@ -412,6 +412,8 @@
 בקובץ **MM-FD-00743-1-1-236_03.PDF, עמוד PDF מספר 57**.
 [הכרך המקורי בארכיון, עמוד 57](https://descopera.arhivelenationale.ro/api/media/file?id=13914516&type=fisiere&mediaId=488883#page=57).
 [הדף המקורי לבדו, לצפייה נוחה](https://avihil1.github.io/kahan-family-tree/research/leb-1903-birth.pdf).
+[תרגום מלא לאנגלית של הדף המקורי](https://avihil1.github.io/kahan-family-tree/research/leb-1903-birth-en.html). כולל את ההצהרה, פרטי ההורים והילד, משפט הסיום ואישור העותק; קריאות לא ודאיות מסומנות. התרגום מבוסס על אותו מקור ואינו ראיה בלתי תלויה.
+
 זהו חילוץ של העמוד השלם מאותו קובץ, ולא מקור בלתי תלוי נוסף.
 
 | שדה | קריאת המקור |
