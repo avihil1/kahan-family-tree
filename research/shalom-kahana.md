@@ -483,3 +483,38 @@ mother **Berta Ingber** and is not the grandfather born 10 April 1903; it was no
 Official catalog locators: [Plasa Centrală birth index 7](https://descopera.arhivelenationale.ro/cota/?cid=7614092), **TM-F-00004-01194-416-7**; [birth book 4](https://descopera.arhivelenationale.ro/cota/?cid=7614088), **TM-F-00004-01194-416-4**. These retain inventory 1194 in the current reference.
 
 Both official catalog pages loaded successfully but expose no MEDIA/files attachment; the birth book and index originals were not inspected.
+
+
+## Hungarian archive route checked — 14 October 2026
+
+Hungarian catalogs are a useful supplementary route for microfilms, duplicate registers, and records of
+family members who lived in Hungary. The language of the 1903 record does not by itself establish present
+custody in Hungary. The identified originals for Giuleşti/Berbeşti and Timișoara are in Romanian archives.
+
+The [Hungarian National Archives microfilm-register guide](https://adatbazisokonline.mnl.gov.hu/adatbazis/mikrofilm-anyakonyvek/informacio)
+says its collection is mainly religious registers through 1895, with some later volumes and duplicate copies.
+It states that the digital microfilm images are viewed in MNL reading rooms; the public catalog is searchable.
+
+The actual [MNL microfilm catalog](https://adatbazisokonline.mnl.gov.hu/adatbazis/mikrofilm-anyakonyvek/kereses)
+was searched by town keyword. **Temesvár** and **Timișoara** returned explicit no-result pages.
+Queries **Temesvar, Máragyulafalu, Máragyulafalva, Bárdfalva, Gyulafalva, Bréb** instead encountered
+maintenance notices or HTTP 503 responses. Those checks did not complete and are not negative findings.
+No relevant Hungarian-held register or new family entry was established in this pass.
+
+The search-engine match [Bácsgyulafalva, MNL microfilm record 24558](https://adatbazisokonline.mnl.gov.hu/adatbazis/mikrofilm-anyakonyvek/adatlap/24558)
+is Roman Catholic, for modern Telečka in Serbia, and is not Máragyulafalu/Giuleşti in Máramaros.
+It must not be substituted for the family's birthplace.
+
+[FamilySearch's Hungary Jewish Vital Records Index](https://www.familysearch.org/en/search/collection/1787825)
+explicitly says its index is also on JewishGen. The collection title's 1800–1945 range does not establish
+coverage of this family's towns and years, and a duplicated index would not be independent confirmation.
+Its collection description was read; no new person search or original-image search there was completed.
+
+For the children's actual birth entries, the highest-value identified source remains **Timișoara Plasa
+Centrală, inventory 1194, birth book 4 and alphabetic index 7**, covering 1886–1950, in the Romanian Timiș archive.
+Retry the failed Hungarian town queries when the catalog works. Prepared MNL question, not sent:
+“Do your holdings include Jewish or civil-register originals, duplicates, or microfilms for **Máragyulafalu /
+Máragyulafalva (Giuleşti), Bárdfalva (Berbeşti), Máramaros**, or **Temesvár (Timișoara)**? We seek the family of
+**Káhán/Kahan Bernad/Bernat and Liberman Regina**, their son **Leb, born 10 April 1903**, and his children with
+**Leah**, reported born 1929, 1930 and 1943. Please identify the precise register and date coverage.”
+No correspondence was sent and no fees incurred.
