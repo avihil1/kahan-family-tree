@@ -518,3 +518,40 @@ Máragyulafalva (Giuleşti), Bárdfalva (Berbeşti), Máramaros**, or **Temesvá
 **Káhán/Kahan Bernad/Bernat and Liberman Regina**, their son **Leb, born 10 April 1903**, and his children with
 **Leah**, reported born 1929, 1930 and 1943. Please identify the precise register and date coverage.”
 No correspondence was sent and no fees incurred.
+
+
+## Penina Miller: original arrival record — 14 October 2026
+
+**Penina (Perl) Miller, née Kahana, arrived on 17 November 1960 aboard the T. Herzl
+(Theodor Herzl), with her husband and two daughters.** This is an inspected original immigrant list,
+not a date inferred from her husband's biography.
+
+**Exact reference:** Israel State Archives, immigrant lists October–December 1960, **GL-15501/6**,
+file **000a6bq**, Pinpoint document **c2550aca54dbf1e2_585158a3cc8e02af**, **scan 84 of 175,
+printed page 2, rows 89–92**. The preceding **scan 83, printed page 1**, supplies the full heading:
+`רשימת העולים שהגיעו באניה ת.הרצל ביום 17.11.60`.
+Scan 84 repeats `ת.הרצל 17.11.60` at its head.
+
+- Row 89: **מילר — פרידריך (פנחס)**, born **1919**, parents **אשר / אסתר**, Romania,
+  immigrant-certificate number **150204**.
+- Row 90: **פנינה**, born **1929**, immediately beneath him in the same household.
+- Rows 91–92: two daughters in that household. They are not added as public named tree nodes in this update.
+- The household destination is **מלון אקדמאים, נצרת** (Academics' Hotel, Nazareth).
+
+**Identity assessment: high confidence.** Penina's given name and 1929 birth year, her husband's surname,
+Pinchas/Friedrich given names, 1919 birth year and father Asher, Romanian origin and Nazareth destination
+agree with the existing Penina–Rabbi Pinchas Miller family. Her own surname and parent names are not
+repeated in row 90; the household grouping identifies her as his wife. The husband's
+[biography](https://he.wikipedia.org/wiki/פנחס_מילר) independently identifies his wife as Penina Kahana,
+daughter of Chaim Arye Kahana, and places his aliyah in Hebrew year 5721, which includes November 1960.
+The original supplies the exact day. This does not establish Penina's exact birth date or birthplace,
+or a complete list of children throughout their marriage.
+
+[Archival viewer](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&docid=c2550aca54dbf1e2_585158a3cc8e02af&dapvm=2) · [Original scan 84](https://journaliststudio.google.com/backlight/serve/image?document_id=c2550aca54dbf1e2_585158a3cc8e02af&page_number=83&width=800) ·
+[Preserved scan 84](penina-1960-arrival-84.png) · [Heading on scan 83](penina-1960-arrival-83.png).
+
+**Search coverage:** searched the State Archives Pinpoint collection by quoted surname and given name,
+then by surname and 1919 and the 1960 label. The exact phrase `מילר פנחס` gave no indexed matches;
+the broader query found `פרידריך (פנחס)` in the October–December 1960 volume. Both original scans 83–84
+were inspected, including headings and neighboring household rows. The supplied Geni profile loaded
+an empty browser page, so no new profile details were extracted from it. No correspondence or fees.
