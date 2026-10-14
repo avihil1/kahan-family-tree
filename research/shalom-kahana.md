@@ -422,3 +422,64 @@ No correspondence was sent, no fees incurred, and no candidate child added to th
 The Cetate birth-volume and alphabetical-index catalog pages were loaded and inspected on 14 October 2026;
 neither exposed a MEDIA/files attachment. Their original pages have therefore not been searched.
 This does not establish whether scans can be supplied by the archive.
+
+
+## Children’s registration evidence: originals checked again — 14 October 2026
+
+**There is registration evidence for Shalom and Dov. Their Romanian birth entries are still unlocated.**
+The distinction is between an identifiable immigration registration naming the person and a contemporary birth record.
+The original arrival pages were downloaded and visually inspected in this follow-up, rather than relying only
+on the earlier tree citations.
+
+| Person | Original registration | What it establishes |
+|---|---|---|
+| Shalom | Israel State Archives **GL-15496/1**, scan/PDF page **167**, printed list page **9**, **1 February 1951**, ship **Transylvania**, rows **480–482** | Row 480: **כהן לייב**, born **1903**, parents **דב/רבקה**; row 481: **לאה**, born **1907**; row 482: **שלום**, born **1943**. The surname, arrival number and destination are entered on the household’s first row. Shalom is grouped with Leib and Leah, supporting the household relationship; his row has no separately filled parent-name cell. |
+| Dov/Bernard | Israel State Archives **GL-15497/1**, scan/PDF page **175**, printed list page **9**, **6 August 1951**, ship **Transylvania**, row **474** | **כהנא ברנרד**, born **1930**, parent-name column **חיים/לאה**, immigrant number **49306**, destination **ת.א.** (Tel Aviv). This explicitly records Chaim and Leah as Bernard’s parents. Identification with Dov uses the existing family/biographical context; the entry itself says Bernard. |
+
+[Shalom’s complete original arrival page](https://journaliststudio.google.com/backlight/serve/image?document_id=ec7469b5b0ffa001_585158a3cc8e02af&page_number=166&width=800).
+[Document viewer](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&p=1&docid=ec7469b5b0ffa001_585158a3cc8e02af&dapvm=2).
+[Dov/Bernard’s complete original arrival page](https://journaliststudio.google.com/backlight/serve/image?document_id=c7cab0afcb40306b_585158a3cc8e02af&page_number=174&width=800).
+[Document viewer](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&p=1&docid=c7cab0afcb40306b_585158a3cc8e02af&dapvm=2).
+The image service numbers pages from zero: 166 and 174 correspond to viewer pages 167 and 175.
+The viewer’s `p` query did not select page 167 when tested; use the direct image links for these pages.
+
+These originals corroborate the existing children; they do not supply a complete child roster, Penina’s birth
+entry, or the names of the children remembered as having died in Timișoara. No new child was inferred.
+
+### A better documented Romanian birth-register route
+
+The [Leo Baeck Institute / Yerusha survey, item 2421](https://jbat.lbi.org/items/show/2421), describes
+**Plasa centrală Timișoara, birth book 4, 1886–1950**, as containing births in the town as well as the district,
+including parents, their birthplaces, and often the child’s Hebrew name. This makes it relevant to the 1943
+search, without proving that Shalom is included. Its access note reflects the survey in **2016**, not a newly
+verified access decision today.
+
+The associated [alphabetical index, item 2424](https://jbat.lbi.org/items/show/2424), is **book 7**, 39 sheets.
+Its locator refers to the original register page number, which can differ from the archive’s later pagination.
+The index title and description give 1886–1950; its separate Date field says “1886–1850”, an apparent catalog typo.
+The previously cited official finding aid also gives 1886–1950. Neither LBI page supplies the register images.
+
+Highest-value next check: **Timiș archives, fonds 4, inventory 1194, Plasa centrală birth index 7
+(TM-F-00004-416-7)**, letter K and surname variants Kahan/Kahana/Cohen. Look for Penina/Perl (reported 1929),
+Dov/Bernard (1930), and Shalom (1943), then obtain the matching original entries from **birth book 4
+(TM-F-00004-416-4)** and compare parents Leib/Chaim Arye and Leah. This refines the already prepared archive
+request; no correspondence was sent or fee incurred.
+
+### Additional authenticated JewishGen searches completed
+
+All used **Surname, phonetically like KAHAN**, all dates, from the **Romania database** results page.
+Parent-name, given-name, date and place clues were compared within the returned records:
+
+- **Hungarian Births:** 486 results, all 10 pages examined.
+- **Romanian Emigration Lists, 1947–1948:** 87 results, both pages examined.
+- **Registries of Romanian Survivors Returning from the Shoah:** 53 results, both pages examined.
+- **New Romanian Lists:** 539 results, all 11 pages examined.
+
+No returned record identifies an additional child of this Leib/Chaim Arye and Leah. These searches expand
+the earlier town-only pass; they do not exhaust every surname spelling, every country collection, or
+unindexed originals. The Sighet survivor named **Chaim Kahan**, born **15 May 1926**, is an electrician with
+mother **Berta Ingber** and is not the grandfather born 10 April 1903; it was not merged into this household.
+
+Official catalog locators: [Plasa Centrală birth index 7](https://descopera.arhivelenationale.ro/cota/?cid=7614092), **TM-F-00004-01194-416-7**; [birth book 4](https://descopera.arhivelenationale.ro/cota/?cid=7614088), **TM-F-00004-01194-416-4**. These retain inventory 1194 in the current reference.
+
+Both official catalog pages loaded successfully but expose no MEDIA/files attachment; the birth book and index originals were not inspected.
