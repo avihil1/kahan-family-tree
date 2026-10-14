@@ -243,6 +243,8 @@
 
 ### דף עד נוסף: רבקה KAHAN, בעדות בנה מנחם
 
+[פתיחת מנחם כהן בעץ, לצד אחיו חיים אריה ליב כהנא](https://avihil1.github.io/kahan-family-tree/tree.html#Kahan-398). השם בעץ כולל כעת גם „מנחם כהן”; הקישור פותח את הענף המקופל.
+
 נוסף ב־14 באוקטובר 2026 לפי בקשת הלל. [דף העד ביד ושם, 1625122](https://collections.yadvashem.org/en/names/1625122)
 ו־[צילום המקור](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/25021237_216_1711/95.jpg)
 נבדקו. בשדה שם המשפחה של הנספית כתוב בכתב יד **KAHAN** באותיות לטיניות ו־**„כהן”** בעברית;

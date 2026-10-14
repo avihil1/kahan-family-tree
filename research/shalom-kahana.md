@@ -210,6 +210,8 @@ No correspondence was sent and no fees were incurred.
 
 ### Additional original testimony: Rifka KAHAN, reported by her son Menachem
 
+[Open Menachem alongside his brother Chaim Arye Leb Kahana in the tree](https://avihil1.github.io/kahan-family-tree/tree.html#Kahan-398). His existing node now includes the Hebrew name מנחם כהן; the direct link opens the folded branch.
+
 Added 14 October 2026 at Hillel's request. [Yad Vashem Page of Testimony 1625122](https://collections.yadvashem.org/en/names/1625122)
 and its [original image](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/25021237_216_1711/95.jpg)
 were inspected. In the victim's family-name field the handwriting reads **KAHAN** in Latin letters and
