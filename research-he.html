@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="stash-artifact-format" content="htmdx@2" />
+    <meta name="stash-renderer" content="@wix/htmdx@4" />
+    <title>מחקר משפחת מולדובן קהאן וכהנא</title>
+    <script id="htmdx-tailwind-browser" src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4.3.3/dist/index.global.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@wix/htmdx@4/dist/browser.js" defer></script>
+    <script>
+      window.__STASH_THUMBNAIL_READY__ = false
+      window.addEventListener('htmdx:rendered', () => {
+        window.__STASH_THUMBNAIL_READY__ = true
+      }, { once: true })
+      window.addEventListener('htmdx:ready', () => {
+        window.Htmdx?.register({ mermaid: { src: 'https://cdn.jsdelivr.net/npm/mermaid@11.16.1/dist/mermaid.esm.min.mjs' } })
+      }, { once: true })
+    </script>
+    <style>
+      .stash-source-actions {
+        position: fixed;
+        left: 16px;
+        bottom: 16px;
+        z-index: 50;
+        display: flex;
+        gap: 8px;
+        padding: 8px;
+        border: 1px solid rgb(0 0 0 / 12%);
+        border-radius: 12px;
+        background: rgb(255 255 255 / 92%);
+        box-shadow: 0 8px 28px rgb(0 0 0 / 14%);
+        backdrop-filter: blur(12px);
+        font: 500 13px/1.2 system-ui, sans-serif;
+      }
+      .stash-source-actions a,
+      .stash-source-actions button {
+        border: 0;
+        border-radius: 8px;
+        padding: 8px 10px;
+        color: #172033;
+        background: #eef1f6;
+        cursor: pointer;
+        font: inherit;
+        text-decoration: none;
+      }
+      .stash-source-actions a:hover,
+      .stash-source-actions button:hover {
+        background: #e1e6ee;
+      }
+      body { direction: rtl; text-align: right; }
+      pre, code { direction: ltr; unicode-bidi: embed; }
+      a { overflow-wrap: anywhere; }
+      .stash-source-actions { position: sticky; bottom: 8px; width: fit-content; margin: 16px; flex-wrap: wrap; }
+    </style>
+  </head>
+  <body>
+    <script type="text/htmdx" src="./research/content-he.md"></script>
+    <nav class="stash-source-actions" aria-label="גרסאות המסמך">
+      <a href="./index.html">מסמך המשפחה המקורי</a>
+      <a href="./tree.html">עץ המשפחה המעודכן</a>
+      <a href="https://bo.wix.com/stash/jozsef-moldovan-katz-research/" lang="en" dir="ltr">English research</a>
+      <a href="./research/content-he.md" target="_blank" rel="noopener">מקור המסמך</a>
+      <button type="button" id="stash-copy-source">העתקת המסמך</button>
+    </nav>
+    <script>
+      document.addEventListener('click', async (event) => {
+        const button = event.target instanceof Element ? event.target.closest('#stash-copy-source') : null
+        if (!(button instanceof HTMLButtonElement)) return
+        try {
+          const response = await fetch('./research/content-he.md')
+          if (!response.ok) throw new Error('Source request failed')
+          await navigator.clipboard.writeText(await response.text())
+          button.textContent = 'הועתק'
+        } catch {
+          button.textContent = 'ההעתקה נכשלה'
+        }
+        window.setTimeout(() => {
+          button.textContent = 'העתקת המסמך'
+        }, 1800)
+      })
+    </script>
+  </body>
+</html>
+
