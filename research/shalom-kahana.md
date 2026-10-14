@@ -207,3 +207,27 @@ To the Máramaros Jewish Records Indexing Project / Romanian National Archives, 
 For JOWBR, request the underlying transcription or photograph for J_MARAMURE_0008659, including
 any surname, full inscription, plot identifier and provenance omitted from the online record.
 No correspondence was sent and no fees were incurred.
+
+### Additional original testimony: Rifka KAHAN, reported by her son Menachem
+
+Added 14 October 2026 at Hillel's request. [Yad Vashem Page of Testimony 1625122](https://collections.yadvashem.org/en/names/1625122)
+and its [original image](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/25021237_216_1711/95.jpg)
+were inspected. In the victim's family-name field the handwriting reads **KAHAN** in Latin letters and
+**כהן** in Hebrew; her given name is **Rifka / רבקה**. The submitter writes **כהן מנחם** and describes himself
+as **בן** (son), explicitly naming **רבקה הנ״ל** as his mother. The database indexes him as Menakhem Kohen.
+Hillel identifies Menachem as his grandfather's brother; this family identification is testimony from Hillel,
+distinct from the document's explicit mother–son relationship.
+
+This is direct original-document evidence that her own son used **Kahan / כהן** for his mother.
+It corroborates the Kahan spelling in the civil records and, compared with grandson Dov's later testimony
+[3983900](https://collections.yadvashem.org/en/names/3983900), which writes **כהנא**, documents surname variants
+within this family. The spelling is in the original, not merely Yad Vashem's English transliteration.
+It does not mean Kahana was never used, nor does a shared spelling prove a specific earlier ancestor.
+
+Further identifying fields: maiden name **Lieberman / ליברמן**, birthplace **Sat-Sugatag**, residence **Giulești**,
+father **שמעון מנחם** (Shimon Menachem), mother **צפורה** (Tzipora), age **72**, ten children, and death in Auschwitz
+in 1944. These are details reported by her son, not separately verified vital records. Sat-Sugatag and Lieberman
+corroborate the civil household of Bernat and Regina/Rifke Liberman of Falu-Sugatag.
+Age 72 in 1944 implies birth about 1871–1872, consistent with the earlier civil ages more closely than the grandson's
+approximate 1880. The husband-name field is blank; this sheet does not independently name Dov/Bernat or his father.
+The proposed Dov → Chaim Arye Leb relationship therefore retains its existing qualification.
