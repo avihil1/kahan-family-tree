@@ -233,3 +233,70 @@ corroborate the civil household of Bernat and Regina/Rifke Liberman of Falu-Suga
 Age 72 in 1944 implies birth about 1871–1872, consistent with the earlier civil ages more closely than the grandson's
 approximate 1880. The husband-name field is blank; this sheet does not independently name Dov/Bernat or his father.
 The proposed Dov → Chaim Arye Leb relationship therefore retains its existing qualification.
+
+## Shimon Menachem Kahan research — 14 October 2026
+
+**The official Netanya burial register resolves the death-date conflict: 2 January 1973, not 1974.**
+The record names **כהן, שמעון (מנחם)**, father **דב**, and gives death and burial on **כ״ח טבת תשל״ג**,
+with civil burial date **02/01/1973**. Grave: **block ה, section ד, row 10, place 1**.
+[Official Chevra Kadisha Netanya search](https://ck-natanya.co.il/search-deceased/): free-name query
+**שמעון מנחם כהן**, one result, all columns inspected. Hillel supplied a matching screenshot on 14 October 2026.
+[Block ה cemetery map](https://ck-natanya.co.il/wp-content/uploads/pdfMaps/map%D7%94.pdf).
+The Hebrew date conversion was independently checked with
+[Hebcal](https://www.hebcal.com/converter?hy=5733&hm=Tevet&hd=28&h2g=1).
+
+### Original family evidence
+
+| Record | Original wording / finding | What it supports |
+| --- | --- | --- |
+| [Rifka 1625122](https://collections.yadvashem.org/en/names/1625122) | Submitter כהן מנחם calls himself her son; victim KAHAN / כהן, Rifka / רבקה, née Lieberman. | Explicit mother–son relationship and surname forms. |
+| [Abraham Lieber 1501887](https://collections.yadvashem.org/en/names/1501887) | Submitter כהן מנחם calls himself the victim's brother. Father is **דב / Bernat**, mother **רבקה / Reghina**, birthplace Giulești, birth 1911. | Explicit brother relationship; importantly, directly pairs the Hebrew and civil names of the same parents. |
+| [Frimed Frida Berkovits 1600529](https://collections.yadvashem.org/en/names/1600529) | Submitter כהן מנחם calls himself her husband. Born 1916 in Oknasugatag; father **מנחם / Mendel**, mother **אלטי חיה**. Child rows name **פרידה, 1940**, and **טובה בלומה, 1942**. | Direct testimony by husband/father for the wife and the two daughters already in the tree. |
+| [USC testimony 15743](https://vha.usc.edu/testimony/15743?mm=peo) | Henyah Helen Fishkovits née Berkovits, born 16 August 1919, interviewed in Hebrew on 28 May 1996 in Rehovot; person index identifies Fridah Kahan as biological sister. | A separately supplied collateral-family account for the wife's family; metadata inspected, not a transcription of the spoken testimony. |
+
+The [original Abraham Lieber sheet](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/25021218_207_1709/20.jpg)
+was visually inspected: **דב** and **Bernat** occur in the same father's-name field, and **רבקה / Reghina**
+in the mother's field. This is a stronger identity bridge between Dov and Bernat than merely treating the names
+as plausible equivalents. It does not name Dov's father Chaim Aryeh or uniquely identify the surname-less JOWBR grave;
+the earlier ancestral-parentage qualification remains.
+
+The [original wife-and-children sheet](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/16021625_265_0482/180.jpg)
+was inspected, including the child rows and the submitter's **בעלה** (her husband) statement.
+It carries a handwritten submission date **12.1.56**; the later **10.5.57** mark at the top is not adopted as its
+submission date. WikiTree's general statement that these testimonies were submitted in 1955 does not describe
+this sheet's dated signature. The wife's family name is BERKOVITS in the original, while the submitter signs כהן מנחם.
+
+[Yad Vashem 8619748](https://collections.yadvashem.org/en/names/8619748), indexed as Tova Bluma Berkovits,
+uses the **same 1600529 image**, and is therefore not an independent source or another child.
+The handwritten child rows, rather than the derived surname, support the existing Kahan daughters.
+
+The wife's WikiTree page links a
+[JewishGen USC interview record, USCINTERV_0015463](https://www.jewishgen.org/databases/glue_s2.php?test=Y&rec=USCINTERV_0015463),
+which was read after login and followed to USC interview **15743**. The JewishGen row identifier and USC interview
+number differ. Its family index names father Menachem Berkovits, mother Chayah-Ilonkah Berkovits, and sister Fridah
+Kahan born 1916. USC's People index additionally lists nieces **Mirelah Kahan** and **Belimeleh Kahan**.
+Belimeleh may correspond to Blima, but these niece identities were not assigned to the two girls without
+the relevant spoken segments. Exact discriminating segments: Fridah **6 and 135**, Mirelah **12, 15, 22, 26, 135**,
+Belimeleh **12**, parents **9, 35, 134**. The mother's Alti Chaya / Chayah-Ilonkah forms require comparison;
+no additional ancestor nodes were created from this index.
+
+### Remaining conflicts and access coverage
+
+[WikiTree Kahan-398](https://www.wikitree.com/wiki/Kahan-398) gives birth about **1913** in the heading,
+about **1900** in the biography, and cites a gravestone age **70**, which would imply about **1902–1903**
+if this 1973 burial is the cited person. None is a verified birth entry. The tree retains about 1913
+with an explicit uncertainty/conflict note; the official death date is corrected to **1973-01-02**.
+
+The cited [Bezikaron grave URL](https://bezikaron.co.il/%D7%A9%D7%9E%D7%A2%D7%95%D7%9F%20%D7%9E%D7%A0%D7%97%D7%9D-%D7%9B%D7%94%D7%9F-na-na-j3Lzq/)
+now returns HTTP 404. Internet Archive queries for the old slug did not recover a photograph (one www query
+timed out); the original stone was not inspected. The official burial register independently corroborates the
+Hebrew name, father's name and 1973 date, without corroborating the quoted age 70.
+Live Geni profile access returned a blank page; the previously saved public search listing says 1913–1974 and
+is not an independent vital record.
+
+The original wife testimony and both daughters' WikiTree citations were read, as were the mother and brother
+testimonies, USC metadata and the complete one-row official cemetery search result. No new birth or marriage
+register search was performed for Menachem. No later marriage or additional descendants were established.
+Next: obtain a readable photograph or burial file for block ה / section ד / row 10 / place 1, asking for age
+and any birth date; locate the birth or marriage record distinguishing the competing birth estimates.
+No request was sent and no fees were incurred.
