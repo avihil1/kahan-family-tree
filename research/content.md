@@ -1602,3 +1602,50 @@ to Renana’s existing entry; it does not establish a married surname for Renana
 Source: direct family testimony in this conversation, 15 October 2026. No external search was performed.
 Named-descendant counts are unchanged. DFS remains at **Dov Ber → Chaim Arye Leb → Shalom → Michal → Renana**.
 Next: ask for their children, if any. Haim Arie’s branch remains deferred; overall research remains incomplete.
+
+
+## Dov Muskal record 102399 reinspection — 15 October 2026
+
+User-directed source review; the family interview remains paused at Renana’s children.
+**Result: the supplied record confirms the existing Dov Muskal entry; it adds no new named relative.**
+This person was already added in the earlier research pass, rather than discovered anew from this link.
+
+- [Official Haifa burial record 102399](https://kdh.org.il/regular-serch/search-results-deceased/grave-info/?deceased=102399):
+  **דב מוסקל**, father **יואכים**, born **2 November 1936, Romania**, died **8 August 2011 / 9 Av 5771**;
+  Nachalat Binyamin–Tel Regev, section **י**, row **22**, place **54א**. It displays age **75**; the dates yield
+  **74 completed years**, which remains an explicit discrepancy. This is retrospective burial-register birth data,
+  not an inspected Romanian birth entry. No exact birth town is supplied.
+- The [official surname-search row](https://kdh.org.il/regular-serch/search-results-deceased/?general_text=מוסקל)
+  independently exposes the page’s parent columns: father **יואכים**, mother **זיסל**, death **08/08/2011**.
+  The individual detail page itself shows only the father. Both views belong to the same registry, not two independent sources.
+- [Original gravestone photograph 111492.jpg](https://kdh.org.il/wp-content/themes/firma-child/assets/images/pic/picmaz/111492.jpg),
+  visually re-read at full available resolution. Decisive transcription (line breaks retained):
+
+  > בעלי אבינו אחי וסבנו היקר<br>
+  > דב מוסקל<br>
+  > בן חיים וזיסל ז״ל
+
+  Translation: “My dear husband, our father, my brother and our grandfather; Dov Muskal; son of Chaim and Zisl, of blessed memory.”
+  The following death line reads **ט׳ באב תשע״א**. The page and stone connect the civil father name Yoachim
+  with the Hebrew name Chaim through the same son and mother; neither name alone identifies an unrelated person.
+  The familial titles establish a spouse, child or children, sibling or siblings, and grandchild or grandchildren,
+  but provide **no individual names, sex, count, or birth dates** for those relatives. No placeholder people were invented.
+
+**Identity and limits:** existing maternal-line placement is retained: Dov Ber/Bernat Kahan → Ziszel Kahan (Muscal)
+→ Dov Muskal. The earlier report already explains the connection through Ziszel’s 1902 birth/marriage annotation,
+her Haifa burial and her son’s parent pair. This reinspection does not establish Dov Ber’s own mother or grandparents,
+nor identify Dov Muskal’s wife, children or exact Romanian birth town.
+
+**Search coverage:** the official מוסקל surname search displayed 22 matches. Page 1 showed 20 rows, and the Next control
+loaded page 2 with three rows overlapping page 1; therefore the displayed total was not treated as 22 distinct inspected
+identities. The verified Dov, Zisl and Yoachim rows were on page 1. Open-web queries used דב מוסקל / דוב מוסקל,
+Dov Muskal / Dov Muscal / Dov Muszkal, with 2011, 8.8.2011, Zisl, Joachim, Haifa, family/death terms,
+and site restrictions to avelim.co.il and geni.com. No returned item securely named this man’s wife or descendants.
+A currently active professional profile with the same name is not evidence about this man, who died in 2011.
+A surname-only telephone-directory hit likewise does not establish identity or kinship. These searches are bounded
+results, not proof that no obituary or relatives exist. The web reader failed to open the official page; the connected
+browser successfully loaded the detail and search pages, and the original photograph was downloaded and visually inspected.
+
+**Next decisive evidence:** a family identification or obituary naming Dov’s wife/children, followed by records explicitly
+linking them; the Romanian birth entry of 2 November 1936 once the birth town is established. No correspondence was sent
+and no fees were incurred. No names or dates were changed by this reinspection; the tree now records its evidence audit.
