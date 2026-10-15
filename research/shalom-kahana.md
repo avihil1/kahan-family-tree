@@ -728,3 +728,32 @@ is only a conditional hypothesis if the earlier marriage ended by widowhood.** D
 not establish the earlier wife's death; divorce or other explanations are not excluded by the cited records.
 No death year or death interval has been entered as an established vital fact. Her tree spouse label now
 states “alive 1848,” while Chaim's note records this conditional chronology.
+
+
+## Haim Arie household — 15 October 2026
+
+**Source:** Hillel Kahana’s firsthand family testimony in this conversation, 15 October 2026.
+In reply to the question about Haim Arie, son of Shalom Kahana and Ruth Pasternak, Hillel supplied:
+“Spouse: Dwora Bar Shaul. Children: Shirel (f), Ido (m), Shalom (m), Uria (m), Tehila (f), Yair (m)”.
+
+The baseline named Haim Arie but had no spouse or children for him. The tree now records his spouse
+**Dwora Bar Shaul** and these six children, in the supplied order. Their displayed given names and Dwora’s
+full name retain the supplied spelling. No maiden-name designation, child surname, birth date, birth order,
+or maternal relationship has been inferred from the spouse list.
+
+| Person | Newly recorded | Evidence and remaining gap |
+| --- | --- | --- |
+| Haim Arie | Spouse Dwora Bar Shaul; six named children | Direct family testimony; dates and each child’s mother not separately confirmed. |
+| Dwora Bar Shaul | Spouse of Haim Arie | Direct family testimony; dates and maiden/married surname status unspecified. |
+| Shirel | Daughter of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Ido | Son of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Shalom | Son of Haim Arie | Family testimony; distinct tree identity from grandfather Shalom Kahana; spouse and descendants not yet supplied. |
+| Uria | Son of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Tehila | Daughter of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Yair | Son of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+
+This household update adds **six descendant nodes**: the full tree now has **135 named nodes** (133 descendants
+of its root), and the Dov Ber branch has **68 named nodes**. Spouses are excluded from descendant-node totals.
+Only family testimony was added in this update; no new archival or genealogy-site search was performed for this household.
+Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Haim Arie → Shirel**.
+Next: ask about Shirel’s spouse and children, then continue recursively before returning to Ido. The wider DFS remains incomplete.

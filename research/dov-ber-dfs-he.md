@@ -227,7 +227,7 @@ Maragyulafalu, אינוונטר 1373, ‏1903-81. המדווח ברנד כהן �
 | [Zvi Kahana](https://he.wikipedia.org/wiki/%D7%93%D7%91_%D7%9B%D7%94%D7%A0%D7%90) | אין ממצא משפחתי חדש; נדרש מקור מזהה לבן זוג או לילדים. |
 | [Rabbi Meir Kahana](https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%99%D7%A8_%D7%9B%D7%94%D7%A0%D7%90_%28%D7%93%D7%99%D7%99%D7%9F%29) | ברוריה נוספה כבת זוג; חמישה ילדים כבר היו ידועים במספר בלבד ושמותיהם נותרו חסרים. |
 | [Shalom Kahana](https://www.geni.com/people/Shalom-Kahana/6000000009318607641) | נשמרו ארבעה־עשר הילדים שאישר המשתמש; דרושה רשימת בני זוג וצאצאים לענפים החסרים. |
-| [Haim Arie](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
+| [Haim Arie](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
 | [Michal Kahana (Tikochinsky)](https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9B%D7%9C_%D7%98%D7%99%D7%A7%D7%95%D7%A6%27%D7%99%D7%A0%D7%A1%D7%A7%D7%99) | נוספו הגילים שמסרה לשבעת ילדיה; אין צאצא מזוהה חדש. |
 | [Eliav (אליאב)](https://www.inn.co.il/news/406366) | נוסף גיל 28 ביולי 2019; תאריך מדויק, שם נשוי וצאצאים לא נקבעו. |
 | [Renana (רננה)](https://www.inn.co.il/news/406366) | נוסף גיל 27 ביולי 2019; תאריך מדויק, שם נשוי וצאצאים לא נקבעו. |
@@ -236,17 +236,17 @@ Maragyulafalu, אינוונטר 1373, ‏1903-81. המדווח ברנד כהן �
 | [Naomi (נעמי)](https://www.inn.co.il/news/406366) | נוסף גיל 20 ביולי 2019; תאריך מדויק, שם נשוי וצאצאים לא נקבעו. |
 | [Shulamit (שולמית)](https://www.inn.co.il/news/406366) | נוסף גיל 19 ביולי 2019; תאריך מדויק, שם נשוי וצאצאים לא נקבעו. |
 | [Tamar (תמר)](https://www.inn.co.il/news/406366) | נוסף גיל 12 ביולי 2019; תאריך מדויק, שם נשוי וצאצאים לא נקבעו. |
-| [Yael](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Yedidia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Nachshon](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Elisheva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Ishai](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Hillel Kahana](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Avia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Akiva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Gad](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Lea](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
-| [Iska](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | אין מידע חדש; נשמרה עדות המשפחה. נדרשים פרטים מזהים ושמות בני זוג וילדים; בקשה למשתמש ממתינה. |
+| [Yael](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Yedidia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Nachshon](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Elisheva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Ishai](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Hillel Kahana](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Avia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Akiva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Gad](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Lea](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
+| [Iska](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | נוספו בת הזוג Dwora Bar Shaul ושישה ילדים מעדות המשפחה; ראו עדכון משק הבית להלן. תאריכים, קשרי האם וצאצאים נוספים עדיין חסרים. |
 | [Rachel Kahana](https://www.geni.com/people/Rachel-Kahana/6000000009327679384) | הפרופיל מתאר פטירה בגיל שבועיים ב־1972; אין תאריך מדויק חדש או צאצא. |
 | [Feige Kahan (Adler)](https://www.wikitree.com/wiki/Kahan-395) | המקור נותן גיל 40 ושבעה ילדים; ארבעה לא מזוהים; אין הוכחת תאומות. |
 | [Dov Adler](https://www.wikitree.com/wiki/Adler-2002) | גיל 14 במקור; שנת הלידה נותרה אומדן; אין צאצא חדש. |
@@ -269,3 +269,30 @@ Maragyulafalu, אינוונטר 1373, ‏1903-81. המדווח ברנד כהן �
 | [Shimon Menachem Kahan / מנחם כהן](https://www.wikitree.com/wiki/Kahan-398) | אין ילד או שנת לידה חדשים; פטירת 1973 נשמרה; נישואין מאוחרים לא הוכחו. |
 | [Frida Kahan](https://www.wikitree.com/wiki/Kahan-405) | לידת 1940 והקשר המשפחתי כבר ידועים; אין צאצא נוסף מוכח. |
 | [Tova Blima Kahan](https://www.wikitree.com/wiki/Kahan-406) | לידת 1942 והקשר המשפחתי כבר ידועים; אין צאצא נוסף מוכח. |
+
+
+## משפחת חיים אריה — 15 באוקטובר 2026
+
+**מקור:** עדות משפחתית ישירה של הלל כהנא בשיחה זו, 15 באוקטובר 2026.
+בתשובה לשאלה על חיים אריה, בנם של שלום כהנא ורות פסטרנק, מסר הלל:
+בת הזוג **Dwora Bar Shaul**; הילדים **Shirel (בת), Ido (בן), Shalom (בן), Uria (בן), Tehila (בת), Yair (בן)**.
+
+בעץ הקודם הופיע חיים אריה ללא בת זוג או ילדים. כעת נוספו בת הזוג וששת הילדים לפי הסדר שנמסר.
+האיות הלועזי נשמר כפי שנמסר. לא הוסקו שם נעורים, שם משפחה לילדים, תאריכי לידה, סדר לידה,
+או זהות האם של כל ילד מתוך רשימת בני הזוג.
+
+| אדם | המידע החדש | הראיה והפער שנותר |
+| --- | --- | --- |
+| חיים אריה | בת הזוג Dwora Bar Shaul ושישה ילדים ששמותיהם נמסרו | עדות משפחתית; תאריכים וזהות האם של כל ילד לא אושרו בנפרד. |
+| Dwora Bar Shaul | בת זוגו של חיים אריה | עדות משפחתית; תאריכים ומעמד שם המשפחה כשם נעורים או נישואים לא נמסרו. |
+| Shirel | בתו של חיים אריה | עדות משפחתית; בן זוג וצאצאים טרם נמסרו. |
+| Ido | בנו של חיים אריה | עדות משפחתית; בת זוג וצאצאים טרם נמסרו. |
+| Shalom | בנו של חיים אריה | עדות משפחתית; זהות נפרדת מסבו שלום כהנא; בת זוג וצאצאים טרם נמסרו. |
+| Uria | בנו של חיים אריה | עדות משפחתית; בת זוג וצאצאים טרם נמסרו. |
+| Tehila | בתו של חיים אריה | עדות משפחתית; בן זוג וצאצאים טרם נמסרו. |
+| Yair | בנו של חיים אריה | עדות משפחתית; בת זוג וצאצאים טרם נמסרו. |
+
+נוספו **שישה צאצאים**: בעץ המלא כעת **135 רשומות שמיות** (133 צאצאי השורש), ובענף דב בר **68**.
+בני זוג אינם נספרים כצאצאים. בעדכון זה נוספה עדות המשפחה בלבד; לא נערך חיפוש ארכיוני או חיפוש חדש באתרי יוחסין למשק בית זה.
+מחסנית החיפוש הנוכחית: **דב בר ← חיים אריה ליב ← שלום ← חיים אריה ← Shirel**.
+השלב הבא: בירור בן זוג וילדים של Shirel, והמשך בענף שלה לפני חזרה ל־Ido. המחקר הכולל טרם הושלם.

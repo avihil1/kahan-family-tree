@@ -414,7 +414,7 @@ remain unresolved; **the requested full descendant investigation is not complete
 | [Zvi Kahana](https://he.wikipedia.org/wiki/%D7%93%D7%91_%D7%9B%D7%94%D7%A0%D7%90) | Existing: living | No new family fact established; public biography reconfirms known parentage. | Identifiable family profile or family testimony about spouse/children. |
 | [Rabbi Meir Kahana](https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%99%D7%A8_%D7%9B%D7%94%D7%A0%D7%90_%28%D7%93%D7%99%D7%99%D7%9F%29) | Existing: 1969 – living | Wife Bruria added; five unnamed children reconfirmed, not newly discovered. | Individual children and descendants; maiden name secondary. |
 | [Shalom Kahana](https://www.geni.com/people/Shalom-Kahana/6000000009318607641) | Existing: 1943 – 1996 | No new named child; user-confirmed fourteen retained over Geni’s larger count. | Spouses and descendants for the twelve insufficiently identified branches. |
-| [Haim Arie](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
+| [Haim Arie](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
 | [Michal Kahana (Tikochinsky)](https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9B%D7%9C_%D7%98%D7%99%D7%A7%D7%95%D7%A6%27%D7%99%D7%A0%D7%A1%D7%A7%D7%99) | Existing: 1969 – living | First-person interview re-read; seven reported ages added to the existing children. | Married surnames, spouses and descendants; do not infer Belgian birth from residence. |
 | [Eliav (אליאב)](https://www.inn.co.il/news/406366) | Existing: dates unknown | Age 28 in July 2019 (reported by mother; exact birth date unverified). | Spouse/married surname and children not established; parent-linked public searches did not resolve identity. |
 | [Renana (רננה)](https://www.inn.co.il/news/406366) | Existing: dates unknown | Age 27 in July 2019 (reported by mother; exact birth date unverified). | Spouse/married surname and children not established; parent-linked public searches did not resolve identity. |
@@ -423,17 +423,17 @@ remain unresolved; **the requested full descendant investigation is not complete
 | [Naomi (נעמי)](https://www.inn.co.il/news/406366) | Existing: dates unknown | Age 20 in July 2019 (reported by mother; exact birth date unverified). | Spouse/married surname and children not established; parent-linked public searches did not resolve identity. |
 | [Shulamit (שולמית)](https://www.inn.co.il/news/406366) | Existing: dates unknown | Age 19 in July 2019 (reported by mother; exact birth date unverified). | Spouse/married surname and children not established; parent-linked public searches did not resolve identity. |
 | [Tamar (תמר)](https://www.inn.co.il/news/406366) | Existing: dates unknown | Age 12 in July 2019 (reported by mother; exact birth date unverified). | Spouse/married surname and children not established; parent-linked public searches did not resolve identity. |
-| [Yael](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Yedidia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Nachshon](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Elisheva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Ishai](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Hillel Kahana](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Avia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Akiva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Gad](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Lea](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
-| [Iska](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | No new fact established; family testimony retained. | Unique identity and family-supplied spouse/children required; question pending. |
+| [Yael](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Yedidia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Nachshon](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Elisheva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Ishai](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Hillel Kahana](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Avia](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Akiva](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Gad](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Lea](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
+| [Iska](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md) | Existing: dates unknown | Family testimony now supplies Dwora Bar Shaul and six children; see household update below. | Dates, maternal links and later descendants remain open. |
 | [Rachel Kahana](https://www.geni.com/people/Rachel-Kahana/6000000009327679384) | Existing: 1972 – 1972 | Public Geni describes death at two weeks in 1972; existing infant identity retained. | Exact birth/death original; no descendant established. |
 | [Feige Kahan (Adler)](https://www.wikitree.com/wiki/Kahan-395) | Existing: 1904 | Original: Feiga age 40, seven children; four unnamed gaps displayed. | Four children’s names; 1902 versus 1904 husband birth discrepancy. |
 | [Dov Adler](https://www.wikitree.com/wiki/Adler-2002) | Existing: 1930 – 1944 | Original gives age 14; c.1930 remains an estimate. | Civil birth, individual fate; no descendants established. |
@@ -456,3 +456,32 @@ remain unresolved; **the requested full descendant investigation is not complete
 | [Shimon Menachem Kahan / מנחם כהן](https://www.wikitree.com/wiki/Kahan-398) | Existing: c.1913? – 1973 | No new named child or birth year; original two-daughter sheet re-read. | Birth record, any later marriage/child; contradictory old dates remain secondary. |
 | [Frida Kahan](https://www.wikitree.com/wiki/Kahan-405) | Existing: 1940 – 1944 | 1940 child named on mother’s original; already known. | No further descendant established; no additional birth original retrieved. |
 | [Tova Blima Kahan](https://www.wikitree.com/wiki/Kahan-406) | Existing: 1942 – 1944 | 1942 child named on mother’s original; already known. | No further descendant established; no additional birth original retrieved. |
+
+
+## Haim Arie household — 15 October 2026
+
+**Source:** Hillel Kahana’s firsthand family testimony in this conversation, 15 October 2026.
+In reply to the question about Haim Arie, son of Shalom Kahana and Ruth Pasternak, Hillel supplied:
+“Spouse: Dwora Bar Shaul. Children: Shirel (f), Ido (m), Shalom (m), Uria (m), Tehila (f), Yair (m)”.
+
+The baseline named Haim Arie but had no spouse or children for him. The tree now records his spouse
+**Dwora Bar Shaul** and these six children, in the supplied order. Their displayed given names and Dwora’s
+full name retain the supplied spelling. No maiden-name designation, child surname, birth date, birth order,
+or maternal relationship has been inferred from the spouse list.
+
+| Person | Newly recorded | Evidence and remaining gap |
+| --- | --- | --- |
+| Haim Arie | Spouse Dwora Bar Shaul; six named children | Direct family testimony; dates and each child’s mother not separately confirmed. |
+| Dwora Bar Shaul | Spouse of Haim Arie | Direct family testimony; dates and maiden/married surname status unspecified. |
+| Shirel | Daughter of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Ido | Son of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Shalom | Son of Haim Arie | Family testimony; distinct tree identity from grandfather Shalom Kahana; spouse and descendants not yet supplied. |
+| Uria | Son of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Tehila | Daughter of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+| Yair | Son of Haim Arie | Family testimony; spouse and descendants not yet supplied. |
+
+This household update adds **six descendant nodes**: the full tree now has **135 named nodes** (133 descendants
+of its root), and the Dov Ber branch has **68 named nodes**. Spouses are excluded from descendant-node totals.
+Only family testimony was added in this update; no new archival or genealogy-site search was performed for this household.
+Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Haim Arie → Shirel**.
+Next: ask about Shirel’s spouse and children, then continue recursively before returning to Ido. The wider DFS remains incomplete.
