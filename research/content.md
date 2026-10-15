@@ -977,3 +977,46 @@ API succeeded. WikiTree's database father links themselves are not counted as ad
 Dov/Bernat, his own parental record or a legible gravestone plus evidence resolving both identities;
 for Moses, an adult record naming his father or another documented link to the 1848 child. No correspondence
 was sent and no fee incurred.
+
+
+## Chaim Arye Leb: early wife and later Freide Klein — 15 October 2026
+
+**An early wife is directly documented in the 1848 census. The evidence points to two wives, but an exact
+lifetime marriage count and the transition between them have not been proved by marriage/death records.**
+The earlier tree displayed only Freide Klein and therefore omitted the wife recorded in 1848.
+
+[Original 1848 census, Gyulafalva household 6, image 9](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS84-X9QK-Y),
+film **719825**, DGS **007953483**, shows **Leb Moldovan, age 22; his wife, age 22; child Mojse, age 1**.
+The wife's age implies birth about **1826**, approximately. Her name has not been resolved from the image.
+She is now listed in the tree as **“Wife recorded in 1848 (name unresolved; age 22)”**, with the census link.
+No invented name, marriage date or death date was assigned.
+
+The later birth citations name the mother **Freide**. Her surname **Klein** is supplied by Majer Jakob's
+retrospective death registration **1902-229**, Inventory 1373, Book 41, and Ruchel's marriage
+**14 August 1901, entry 1901-26**, Inventory 1373, Bárdfalu. These citations were compared in the current
+[Chaim biography](https://www.wikitree.com/wiki/Moldovan_Kahan-1) and
+[Freide biography](https://www.wikitree.com/wiki/Klein-9716); they are index transcriptions, not originals
+newly inspected in this pass.
+
+| Child | Birth citation | Mother named | Chaim's age using the listed birth date 24 June 1827 |
+| --- | --- | --- | --- |
+| Fischel | 28 December 1867; Book 1098, **08-01** | Freide | 40 |
+| Riwke | 9 September 1874; Book 1098, **09-06** | Freide | 47 |
+| Majer Jakob | 30 July 1877; Book 1099, **25-07** | Freide | 50 |
+| Ruchel | 29 July 1880; Book 1099, **26-02** | Freide | 53 |
+| Frimet | 18 August 1883; Book 1099, **28-03** | Freide | 56 |
+
+These paternal ages explain the apparent long span: the late children do not require a third wife;
+their cited records consistently name Freide. WikiTree estimates Freide's birth at **about 1850**, but
+its citations do not establish that birth year. On that provisional estimate she would be approximately
+27, 30 and 33 at the three last births. The 1848 wife's recorded age would put her at approximately
+51, 54 and 57 instead. This supports distinguishing an earlier wife from the later mother, but does not
+substitute for an original documenting remarriage. The tree now labels Freide's birth year as uncertain.
+
+Dwora's birth **16 January 1858, Book 1097, 08-07**, gives only a cut-off maternal name **“…ter”**.
+It cannot yet identify the 1848 wife or establish a third wife. Dov/Bernat's mother remains unproved;
+neither the earlier wife nor Freide is assigned as his mother by this update. David Hers's parentage
+remains hypothetical. No additional mother-to-child links were created.
+
+**Next:** read Dwora's original and seek Chaim/Leb's marriage to Freide or the earlier wife's death;
+look for records establishing Freide's own age. No correspondence or fees were authorized or incurred.
