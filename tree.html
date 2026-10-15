@@ -65,7 +65,8 @@ const zoom = d3.zoom().scaleExtent([.15, 3]).on('zoom', e => g.attr('transform',
 svg.call(zoom).on('dblclick.zoom', null);
 const root = d3.hierarchy(DATA);
 const DX = 34, DY = 290;
-const layout = d3.tree().nodeSize([DX, DY]);
+const layout = d3.tree().nodeSize([DX, DY]).separation((a, b) => (a.parent === b.parent ? 1 : 2)
+  + Math.max(0, (a.data.spouses || []).length - 1, (b.data.spouses || []).length - 1) / 2);
 const ALL = root.descendants();
 ALL.forEach((d, i) => { d.id = i; d._children = d.children; if (d.depth >= 2) d.children = null; });
 document.getElementById('names').innerHTML = ALL.filter(d => !d.data.stub && !d.data.dup).map(d => `<option value="${esc(d.data.name)}">`).join('');
@@ -92,7 +93,7 @@ function update(src, center) {
   const tx = en.append('text').attr('x', 11).attr('dy', '-.1em').on('click', (e, d) => select(d));
   tx.append('tspan').text(d => d.data.name);
   en.append('text').attr('class', 'yrs').attr('x', 11).attr('dy', '1.1em').text(d => ((d.data.years || '').replace(/\s*–?\s*living/, '') + ({yv: ' · Yad Vashem', geni: ' · Geni', story: ' · family story', wiki: ' · Wikipedia', obit: ' · obituary'}[d.data.src] || '') + (d.data.possible ? ' · possible' : '')).replace(/^ · /, '')).on('click', (e, d) => select(d))
-    .each(function (d) { (d.data.spouses || []).forEach((s, i) => { const el = d3.select(this); el.append('tspan').text(i ? ', ' : ' · ∞ ');
+    .each(function (d) { (d.data.spouses || []).forEach((s, i) => { const el = d3.select(this); el.append('tspan').attr('x', i ? 11 : null).attr('dy', i ? '1.4em' : null).text(i ? '∞ ' : ' · ∞ ');
       (s.url ? el.append('a').attr('href', s.url).attr('target', '_blank').attr('rel', 'noopener').append('tspan').attr('class', 'sp') : el.append('tspan')).text(s.name.split(' (')[0]); }); });
   node.merge(en).classed('sel', d => d === selected).transition(t).attr('transform', d => `translate(${d.y},${d.x})`)
     .select('circle:not(.alive)').attr('fill', d => (d._children || PAIRS.some(p => p.a === d || p.b === d)) && !d.children ? 'var(--bg)' : color(d))
@@ -132,7 +133,7 @@ function select(d) {
     ${p.born ? `<dt>Born</dt><dd>${esc(p.born)}</dd>` : ''}
     ${p.died ? `<dt>Died</dt><dd>${esc(p.died)}</dd>` : ''}
     ${par ? `<dt>Parent (descendant line)</dt><dd>${esc(par)}</dd>` : ''}
-    ${p.spouses ? `<dt>Spouse${p.spouses.length > 1 ? 's' : ''}</dt><dd>${p.spouses.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(', ')}</dd>` : ''}
+    ${p.spouses ? `<dt>Spouse${p.spouses.length > 1 ? 's' : ''}</dt><dd>${p.spouses.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join('<br>')}</dd>` : ''}
     ${kids ? `<dt>Children recorded</dt><dd>${kids}</dd>` : ''}
     ${p.xkids ? `<dt>Children (with ${esc(p.xspouseName)})</dt><dd>${p.xkids.length}, shown under ${esc(p.xspouseName)}; dashed lines connect them. Both parents are descendants (a marriage within the family).</dd>` : ''}
     ${p.private ? `<dt>Private descendants</dt><dd>${p.private} more ${p.privateSrc ? 'children' : 'descendants'} (likely living) are not shown; recorded on ${p.privateSrc || 'WikiTree'}</dd>` : ''}
