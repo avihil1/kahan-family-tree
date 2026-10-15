@@ -802,3 +802,13 @@ Hillel also answered “no” to whether **Hila has a spouse or children**; this
 Hila’s descendant branch is closed for this family interview as of this date. Current DFS stack:
 **Dov Ber → Chaim Arye Leb → Shalom → Michal → Eliav → Alma**. Next: Alma’s spouse and children, if any.
 Haim Arie’s branch remains deferred, and the overall descendant investigation remains incomplete.
+
+
+## Alma status — 15 October 2026
+
+Hillel answered “no” to whether **Alma has a spouse or children**, in this conversation on 15 October 2026.
+Her tree note now records that status as of this date. This is direct family testimony; no external search
+was performed. Named-node totals remain unchanged. Both Hila and Alma have no spouse or children according to
+this interview, so the traversal returns from Eliav to **Renana**, Michal’s next listed child.
+Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Michal → Renana**.
+Haim Arie’s branch remains deferred; the overall descendant research remains incomplete.
