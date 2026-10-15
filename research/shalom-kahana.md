@@ -812,3 +812,13 @@ was performed. Named-node totals remain unchanged. Both Hila and Alma have no sp
 this interview, so the traversal returns from Eliav to **Renana**, Michal’s next listed child.
 Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Michal → Renana**.
 Haim Arie’s branch remains deferred; the overall descendant research remains incomplete.
+
+
+## Renana spouse — 15 October 2026
+
+In response to the question about Renana’s spouse and children, Hillel supplied **Avihail Fogel**.
+Avihail is now recorded as Renana’s spouse, preserving the supplied spelling. This adds a spouse relationship
+to Renana’s existing entry; it does not establish a married surname for Renana, dates, or children.
+Source: direct family testimony in this conversation, 15 October 2026. No external search was performed.
+Named-descendant counts are unchanged. DFS remains at **Dov Ber → Chaim Arye Leb → Shalom → Michal → Renana**.
+Next: ask for their children, if any. Haim Arie’s branch remains deferred; overall research remains incomplete.
