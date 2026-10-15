@@ -925,3 +925,55 @@ MM-F-00743-1-1-00650 (1918–1920); please check the first-copy series or the mu
 The [municipal civil-registration service](https://www.arhiva.primaria-sighet.ro/subpagina/serviciul-stare-civila-se-ocupa-de)
 is an identified alternative inquiry route, but custody of these two specific years is not yet confirmed.
 No correspondence, paid request, or access application was submitted. The original 1929 birth entry remains unlocated.
+
+
+## Moses, David Hers and Dov/Bernat: sibling-link audit — 15 October 2026
+
+**The evidence does not establish all three men as brothers with high certainty.** The tree inherited
+these common-father links from WikiTree. They have different evidentiary strengths, and no source inspected
+in this audit explicitly calls Moses or David Hers a brother of Dov/Bernat. Shared surnames and a linked
+WikiTree father are not independent proof.
+
+| Person | Evidence for the proposed father Chaim Arye Leb | Assessment |
+| --- | --- | --- |
+| **Moses Laser Moldovan Kahan, estimated born c.1847** | Original 1848 Gyulafalva census, household 6: **Leb Moldovan**, 22, born Bréb; wife 22; **Mojse**, 1, listed under their children. Film **719825**, DGS **007953483**, **image 9**, household members 1–3. The saved original was re-inspected visually in this audit. | Direct evidence that this Leb had a son Mojse; identification of that infant with the later adult Moses Laser Kahan remains an inference. It does not connect him directly to Dov/Bernat. |
+| **David Hers Moldavan Kahan, estimated born c.1855** | His WikiTree biography expressly says no direct record was found establishing him as Chaim Leb's son. Its argument is that the local Kahan families descend from Chaim Leb, with additional support from naming his first son Baruch/Josef. His children's entries document David Hers and Reize, not David's own parents. | A proposed parentage, not established. A family-wide surname hypothesis and naming pattern cannot independently establish the relationship. |
+| **Dov Ber Bernat Kahan, estimated born c.1868** | JOWBR **J_MARAMURE_0008659** indexes Dov son of Chaim Aryeh HaKohen, age 56, Giulesti, R.Ch. Shevat 5688; surname is blank and no image is available there. The previously audited Junger relationships provide an indirect bridge to Chaim Leb's family. | Supported indirectly, still unproved: the grave must be linked to this Bernat and its Chaim Aryeh to this particular Chaim Leb. The existing audit details the unresolved identities and age conflicts. |
+
+**Original census:** [FamilySearch image 9](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS84-X9QK-Y),
+re-inspected from the saved original `/tmp/gyulafalva-1848-leb-moldovan.jpg`.
+Its child heading is Hungarian **gyermekei**. The wife's name was not resolved here.
+
+**Moses's later adult identification:** [WikiTree Moldovan_Kahan-2](https://www.wikitree.com/wiki/Moldovan_Kahan-2)
+cites son Efrajem's birth, **6 March 1869, Book 1098, 08-02**, father **Mose Moldevan**, mother **Reisze**,
+godfather **Leb Moldovan**. Later entries use Moses/Laser and Kahan/Moldawan, including Jakob's birth,
+**21 July 1874**, and Jaszef Burech's birth, **20 July 1886, Book 1100, 14-03**, surname Katcz/Kahan.
+These support an adult household/name-variant argument; a godfather is not automatically a grandfather.
+These later entries were read as citations in the current WikiTree biography, not as newly inspected originals.
+
+**David's cited records:** [WikiTree Moldavan_Kahan-1](https://www.wikitree.com/wiki/Moldavan_Kahan-1)
+cites Baruch/Josef's birth, **18 March 1875, Book 1098, 09-01**, parents **David/Hirsch Molowan and Reze**;
+Abraham's birth, **6 March 1880, Book 1099, 51-01**, father **David/Hers Kahan**;
+and Abraham's death, **20 July 1882, Book 1106, 32-10**, father **David/Hers Moldawan**.
+They support David's own household and alternating surnames. They do not name his father.
+The profile's c.1855 birth estimate is based on the first recorded child in 1875, not a located birth entry.
+
+**Implication for sibling claims:** Moses and Dov would share a father only if Dov's proposed father is
+confirmed and the Moses identity chain holds. David and Dov additionally require proof of David's father.
+Even if common paternity is confirmed, full rather than paternal half-sibling status requires evidence of
+both mothers. Freide Klein cannot be assigned as their common mother from the father's later marriage.
+
+**Tree correction:** David Hers and Dov/Bernat now use the existing **possible** visual marker, with the
+uncertainty explained in their notes. Moses retains his census-backed link with the infant/adult identity
+limit made explicit. Moses and David's displayed birth years are marked approximate. No people or descendants
+were removed and no new parents or mothers were assigned.
+
+**Coverage:** fetched the current WikiTree biographies and father/mother fields through the public profile
+API for **Moldovan_Kahan-2, Moldavan_Kahan-1, Moldovan_Kahan-1, Kahan-376**; re-inspected the saved original
+1848 census and the earlier Dov parentage audit. The ordinary WikiTree web reader failed, while the public
+API succeeded. WikiTree's database father links themselves are not counted as additional sources.
+
+**Next decisive originals:** a marriage, death or birth record for David Hers naming his father; for
+Dov/Bernat, his own parental record or a legible gravestone plus evidence resolving both identities;
+for Moses, an adult record naming his father or another documented link to the 1848 child. No correspondence
+was sent and no fee incurred.
