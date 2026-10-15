@@ -1728,3 +1728,32 @@ No request was sent. For the wife and children, the most useful next lead is the
 or a family-supplied name, then corroboration in a marriage, obituary or family record. Original Romanian 1934/1936 births
 still require a verified town. No correspondence, membership request, subscription or fees were authorized or submitted.
 The family-interview frontier remains Renana’s children; this was a user-directed detour. Full DFS remains incomplete.
+
+
+## Marco added to the tree as a probable relative — 15 October 2026
+
+At Hillel’s explicit request, **Marco Mordechai Yitzhak Muskal (מרקו מרדכי יצחק מוסקל)** is now visible
+beside Dov under Ziszel, with the existing **possible-match marker** and an explicit probable-parentage note.
+This supersedes the earlier decision to keep him solely in the ledger; the evidence has not been upgraded to proof.
+
+- **Birth:** 1934, read in original arrival row 68; no exact date or birthplace established.
+- **Arrival:** Sapir, 2 February 1965; GL-15505/14, scan 5, rows 66–69, in the Yoachim/Zisl/Marco/Bernardo household;
+  destination Kiryat Binyamin; household immigrant number 242407. [Original viewer](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&docid=a251147b0dccc0e1_585158a3cc8e02af&dapvm=2).
+- **Reported death:** 2013; the MyHeritage BillionGraves summary gives approximately **25–26 December 2013**, age 79,
+  burial **Tsur Shalom Cemetery, Kiryat Bialik**, and father **חיים הלוי**. These remain secondary transcription claims.
+  A fresh request for the linked BillionGraves image thumbnail, media 15094127, returned HTTP 403; the original
+  inscription was not read, and the failed request is not evidence that the grave/photo is absent.
+- **Reported spouse:** **Esther Betty née Schlesinger (אסתר בטי שלזינגר)**, born **1945**, from the matching
+  [MyHeritage 1934–2013 summary](https://www.myheritage.hu/names/%D7%9E%D7%A8%D7%A7%D7%95_%D7%9E%D7%95%D7%A1%D7%A7%D7%9C),
+  re-read in its original page text rather than the browser’s distorted name translations. No death or marriage date supplied.
+- **Reported children:** **three**, recorded as an unnamed, unverified source count; no invented people or living status.
+  This is Marco’s family, separate from Dov’s secondary count of two children.
+- **Relationship:** reciprocal secondary brother links to Dov, plus the original shared household and matching
+  1934/1936 births, support a probable connection. The arrival list does not explicitly name Marco’s parents;
+  half-sibling or another household relationship has not been ruled out. His placement under Ziszel is visibly provisional.
+
+Marco’s next decisive records are his original gravestone and a birth/marriage record naming parents. Esther’s identity,
+1945 birth and child count still require corroboration; children’s names remain unresolved, preventing further named DFS.
+No external contact, trial or purchase was made. The named tree total is now **138 nodes**, or **136 descendants including
+this probable match**; the Dov Ber branch has **71 named nodes including Marco’s provisional placement**. Spouses and
+unnamed counts are excluded from those totals. The full DFS and Renana family interview remain unfinished.
