@@ -772,3 +772,22 @@ Hillel asked to skip **Haim Arie’s entire descendant branch** for now. Those d
 remains deferred rather than completed. Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Michal → Eliav**.
 Next: ask for the two daughters’ names before continuing their branches; return to Renana after Eliav’s branch.
 The earlier Shirel frontier is superseded by this instruction. The overall descendant research remains incomplete.
+
+
+## Eliav’s daughters named — 15 October 2026
+
+Hillel Kahana subsequently identified Eliav’s two daughters as **Hila** and **Alma**, in this conversation on
+15 October 2026. Both are now named female child entries under Eliav. This supersedes the preceding unnamed count;
+the count was removed to avoid duplicating the same two children. Maayan remains recorded as Eliav’s spouse.
+Names are displayed exactly as supplied; surnames, dates and maternal links have not been separately established.
+
+| Person | New finding | Source / next step |
+| --- | --- | --- |
+| Eliav | His two previously unnamed daughters are Hila and Alma | Hillel’s direct family testimony. |
+| Hila | Named daughter of Eliav | Family testimony; dates and later descendants not supplied. |
+| Alma | Named daughter of Eliav | Family testimony; dates and later descendants not supplied. |
+
+The tree now has **137 named nodes**, including **135 descendants** of its root; the Dov Ber branch has **70 named nodes**.
+No new external search was performed. Haim Arie’s branch remains deferred at Hillel’s request.
+Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Michal → Eliav → Hila**.
+Alma follows Hila, then the traversal returns to Renana. The overall descendant research remains incomplete.
