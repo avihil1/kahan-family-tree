@@ -1757,3 +1757,15 @@ Marco’s next decisive records are his original gravestone and a birth/marriage
 No external contact, trial or purchase was made. The named tree total is now **138 nodes**, or **136 descendants including
 this probable match**; the Dov Ber branch has **71 named nodes including Marco’s provisional placement**. Spouses and
 unnamed counts are excluded from those totals. The full DFS and Renana family interview remain unfinished.
+
+
+## MyHeritage root research checkpoint — 16 October 2026
+
+The requested full-tree MyHeritage-only pass is **incomplete** after the account displayed its daily search limit.
+48 first-page searches returned before the limit, and linked full records were reviewed where accessible.
+No new parentage or named descendant was established. Existing vital fields were preserved; conflict notes and
+MyHeritage references were added. The earlier-wife issue was already known, as Hillel correctly pointed out.
+The Ruchel/Smil marriage is existing JewishGen index evidence (Inventory 1373, entry 1901-26; book unspecified),
+not a new MyHeritage discovery; its original image has not been inspected.
+See the [full per-person checkpoint and exact search references](myheritage-dfs.md) and its
+[Hebrew version](myheritage-dfs-he.md). The strict DFS resumes at Moses Laser; unsearched people are explicitly marked.
