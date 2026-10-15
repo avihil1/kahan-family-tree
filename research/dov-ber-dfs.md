@@ -519,3 +519,14 @@ The tree now has **137 named nodes**, including **135 descendants** of its root;
 No new external search was performed. Haim Arie’s branch remains deferred at Hillel’s request.
 Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Michal → Eliav → Hila**.
 Alma follows Hila, then the traversal returns to Renana. The overall descendant research remains incomplete.
+
+
+## Eliav birth date and Hila status — 15 October 2026
+
+**New family testimony:** Hillel supplied Eliav’s birth date as “16.1.91”, recorded as **16 January 1991**.
+This replaces the age-only birth field and agrees with his reported age of 28 in the 4 July 2019 interview.
+Hillel also answered “no” to whether **Hila has a spouse or children**; this is recorded as her status on
+15 October 2026, without transferring it to Alma. No new external search was performed. Node counts are unchanged.
+Hila’s descendant branch is closed for this family interview as of this date. Current DFS stack:
+**Dov Ber → Chaim Arye Leb → Shalom → Michal → Eliav → Alma**. Next: Alma’s spouse and children, if any.
+Haim Arie’s branch remains deferred, and the overall descendant investigation remains incomplete.
