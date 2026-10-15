@@ -597,3 +597,82 @@ browser successfully loaded the detail and search pages, and the original photog
 **Next decisive evidence:** a family identification or obituary naming Dov’s wife/children, followed by records explicitly
 linking them; the Romanian birth entry of 2 November 1936 once the birth town is established. No correspondence was sent
 and no fees were incurred. No names or dates were changed by this reinspection; the tree now records its evidence audit.
+
+
+## Dov Muskal: ship arrival found; wife and children search — 15 October 2026
+
+**New original evidence:** Israel State Archives, **GL-15505/14**, file **0009l8z**, *Immigrant lists,
+February–March 1965*. Pinpoint document **a251147b0dccc0e1_585158a3cc8e02af**, **scan 5 of 175, printed page 2,
+rows 66–69**. The heading on **scan 4, printed page 1** identifies arrivals aboard **ספיר (Sapir), 2 February 1965**.
+Both scans were downloaded and visually inspected; the result is not based solely on OCR.
+
+| Row | Name as read | Birth year | Other information |
+| --- | --- | --- | --- |
+| 66 | מוסקל, יואכים (Yoachim Muskal; given-name spelling indistinct in places) | 1909 | Father Marko; origin Romania; immigrant number 242407; destination ק. בנימין (Kiryat Binyamin), left-column number 3556. |
+| 67 | זיסל (Zisl) | 1902 | Grouped immediately below Yoachim; common household fields left blank. |
+| 68 | מרקו (Marco) | 1934 | Same household group; no separate parents named. |
+| 69 | ברנרדו (Bernardo) | 1936 | Same household group; no separate parents named. |
+
+[Archival viewer](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&docid=a251147b0dccc0e1_585158a3cc8e02af&dapvm=2) ·
+[original scan 5](https://journaliststudio.google.com/backlight/serve/image?document_id=a251147b0dccc0e1_585158a3cc8e02af&page_number=4&width=800) ·
+[preserved scan 5](muskal-1965-arrival-5.png) · [preserved heading, scan 4](muskal-1965-arrival-4.png).
+
+**Identity argument:** Yoachim/Chaim born 1909 and Zisl born 1902 match the already identified parents;
+Bernardo’s 1936 birth matches Dov’s official burial birth year. The combined household is a **high-confidence match**
+to the family, and Bernardo is very likely Dov’s civil given name. This is a supported indirect identification,
+not an explicit name-change certificate. No exact birth date or town is supplied here. The list records Romania as
+origin and the ship/date of arrival; it does not by itself prove the ship’s embarkation port, complete route or that
+this was anyone’s first visit to Israel. No wife or child is named alongside Bernardo; this does not prove he was unmarried.
+
+**New secondary family information:** the [MyHeritage Dov summary](https://www.myheritage.hu/names/%D7%93%D7%91_%D7%9E%D7%95%D7%A1%D7%A7%D7%9C),
+entry **1936–2011**, explicitly reports an unnamed wife and **two children**, and names brother **Marco Mordechai Yitzhak**.
+The adjacent BillionGraves summary gives parents Chaim/Zisl and Tel Regev burial, supporting selection of the correct
+Dov entry among several namesakes. The underlying tree detail opened a subscription offer; no trial, order or payment
+was submitted. Its tree owner and supporting family sources were not verified. The child count is therefore recorded
+in the tree as **secondary and unverified**, with no invented child nodes or spouse name. The grave’s father/grandfather
+wording supports descendants generally, but does not independently verify the count of two.
+
+The [Marco summary](https://www.myheritage.hu/names/%D7%9E%D7%A8%D7%A7%D7%95_%D7%9E%D7%95%D7%A1%D7%A7%D7%9C)
+reports **1934–2013**, wife **Esther Betty née Schlesinger**, and three children. A linked-source summary associates
+Mordechai Muskal with father Chaim HaLevi and Tsur Shalom cemetery, death around 25–26 December 2013. These are
+**Marco’s candidate family details, not Dov’s wife or children**. Automated translation visibly distorts some names;
+the summary’s surname variants are not adopted as historical surname changes. The original Marco stone and underlying
+tree have not yet been verified. The 1934 ship passenger plus the explicit secondary brother link make him a probable
+brother; he remains in this ledger rather than being attached with unproved maternal parentage.
+
+| Person | New versus prior tree | Confidence / next evidence |
+| --- | --- | --- |
+| Dov Muskal | 2 Feb 1965 Sapir arrival, likely civil name Bernardo; secondary claim of two unnamed children | High-confidence arrival identity; wife and children’s names remain unresolved. Seek family obituary or an explicitly linked family record. |
+| Ziszel Kahan (Muscal) | 2 Feb 1965 arrival with Yoachim and two younger household members | High-confidence household match; original list groups people rather than labeling each relationship. |
+| Yoachim/Chaim Muskal | Arrival year/date/ship, 1909 birth reconfirmed, father Marko in arrival row | Existing spouse; not newly discovered. Father-name pairing was already in burial evidence. |
+| Marco (1934 passenger) | Newly found household member and probable brother; secondary 1934–2013 candidate | Not added as an established child. Verify original stone, parents and birth before attaching his family. |
+| Dov’s wife and two children | Secondary unnamed household only | No individual names established; no further DFS identities invented. |
+
+**Search coverage and limits:**
+
+- State Archives Pinpoint, exact **"מוסקל"**: **25 documents**, all result summaries reviewed; the 1965 parents/year
+  match led to inspected scans 4–5. A second document-level query **"ברנרדו" "מוסקל"** returned 11 documents;
+  words appearing anywhere in a long file do not establish that they belong to one person.
+- [Avelim surname search](https://avelim.co.il/?s=%D7%9E%D7%95%D7%A1%D7%A7%D7%9C) loaded successfully in the browser:
+  five visible notices (Ilana wife of Shlomo, Moti, Mordechai, Shmuel, Nechama Ginzburg) supplied no securely linked
+  Dov family record. This is a bounded website result, not proof that no obituary exists.
+- [Geni Yoachim](https://www.geni.com/people/Yoachim-Muscal/6000000174916954835) and
+  [Zisel](https://www.geni.com/people/Zisel-Muscal/6000000016806797537) loaded successfully after a delay. They show
+  the couple but no named children in the public view. Earlier blank responses must not be treated as missing profiles.
+- Authenticated JewishGen: **Registries of Romanian Survivors Returning from the Shoah**, MUSKAL phonetic surname
+  query through the Hungary collection form, returned two rows, both inspected: Mendel MUSCAL, born 18 Dec 1904,
+  Vișeu de Sus, Book I M-21; Alexandru MUSCAL, born 18 Oct 1924, Sighet, Book I M-29, mother Regina HUK?. Neither
+  identifies this household; no kinship inferred. [Collection description](https://jewishgen.org/databases/holocaust/RomanianSurvivors.html).
+- Authenticated JewishGen: **Hungarian Speaking Families Who Wanted to Immigrate to Palestine**, same surname/mode,
+  returned zero indexed matches. Its [description](https://www.jewishgen.org/databases/Holocaust/HungarianSpeakersEmigratingtoPalestine.html)
+  dates the lists to **1944**, so this is not a negative search of 1965 passenger arrivals.
+- New open-web searches added Bernardo/ברנרדו, Marco/מרקו, Bernard/ברנרד, Kiryat Ata/Binyamin and spouse/children terms.
+  No securely identified wife or named child of Dov emerged. No claim of exhaustive coverage of all Jewish archives.
+
+**Next exact request, prepared only:** ask the State Archives about the immigrant/registration file linked to
+**Yoachim Muskal, 1909, immigrant no. 242407; Zisl 1902; Marco 1934; Bernardo 1936; Sapir, 2 February 1965;
+GL-15505/14, rows 66–69**, including any family-relationship or later name fields available for research.
+No request was sent. For the wife and children, the most useful next lead is the underlying MyHeritage family tree
+or a family-supplied name, then corroboration in a marriage, obituary or family record. Original Romanian 1934/1936 births
+still require a verified town. No correspondence, membership request, subscription or fees were authorized or submitted.
+The family-interview frontier remains Renana’s children; this was a user-directed detour. Full DFS remains incomplete.
