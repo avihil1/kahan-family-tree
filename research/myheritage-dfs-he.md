@@ -65,6 +65,19 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 לבקשת מקור נישואי רחל: מצאי 1373, ‏Bardfalu, ‏14.8.1901, רישום 1901-26, ולבקש זיהוי של מספר הספר החסר.
 לא נשלחה פנייה ולא נגרמה עלות.
 
+## הפניות מדויקות לדיווחים החדשים ולהשוואת מועמדים
+
+- [Baruch Jozsef / ברוך יוזף](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=400873593&action=showRecord) — collection 40000, record 400873593.
+- [Szender Yuda / סנדר יהודה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=400873592&action=showRecord) — collection 40000, record 400873592.
+- [Rosa Rachel / רוזה רחל](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243224&action=showRecord) — collection 40000, record 746243224.
+- [Rosa / רוזה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=271938722&action=showRecord) — collection 40000, record 271938722.
+- [Chaja / חיה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746314641&action=showRecord) — collection 40000, record 746314641.
+- [Moishe / מוישה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243757&action=showRecord) — collection 40000, record 746243757.
+- [Fani — Perl tree / פאני, עץ Perl](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV6H63KPZYCGB3FDB4JW4ABW2HQPQ-11-502990&action=showRecord) — collection 1, record OYYV6H63KPZYCGB3FDB4JW4ABW2HQPQ-11-502990.
+- [Fani — Benharoun tree / פאני, עץ Benharoun](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV6F5HQOGFBNHTIK2P7VBLGP53NKI-1-505614&action=showRecord) — collection 1, record OYYV6F5HQOGFBNHTIK2P7VBLGP53NKI-1-505614.
+- [Berl — Berlin tree / ברל, עץ Berlin](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV6IVJ7VMEKV6UACDE372LDLNOSRI-2-1220&action=showRecord) — collection 1, record OYYV6IVJ7VMEKV6UACDE372LDLNOSRI-2-1220.
+- [Berl — Rose tree / ברל, עץ Rose](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV7IJNTA2NXLNTQFVQXXCVIRIXDHQ-2-2498&action=showRecord) — collection 1, record OYYV7IJNTA2NXLNTQFVQXXCVIRIXDHQ-2-2498.
+
 ## תיעוד לכל אדם בסדר DFS המקורי
 
 ״לא הוכחה עובדה חדשה״ אינו תוצאה שלילית לאדם שלא נחקר.

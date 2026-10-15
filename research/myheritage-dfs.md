@@ -69,6 +69,19 @@ Seek David’s birth/marriage/death naming his parents, the earlier wife’s ide
 Freide. For the Ruchel original, request Inventory 1373, Bardfalu marriage 14 August 1901, entry 1901-26, asking the
 repository to identify the missing book number. No request was sent and no fee was incurred.
 
+## Exact references for the new claims and candidate comparisons
+
+- [Baruch Jozsef / ברוך יוזף](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=400873593&action=showRecord) — collection 40000, record 400873593.
+- [Szender Yuda / סנדר יהודה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=400873592&action=showRecord) — collection 40000, record 400873592.
+- [Rosa Rachel / רוזה רחל](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243224&action=showRecord) — collection 40000, record 746243224.
+- [Rosa / רוזה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=271938722&action=showRecord) — collection 40000, record 271938722.
+- [Chaja / חיה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746314641&action=showRecord) — collection 40000, record 746314641.
+- [Moishe / מוישה](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243757&action=showRecord) — collection 40000, record 746243757.
+- [Fani — Perl tree / פאני, עץ Perl](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV6H63KPZYCGB3FDB4JW4ABW2HQPQ-11-502990&action=showRecord) — collection 1, record OYYV6H63KPZYCGB3FDB4JW4ABW2HQPQ-11-502990.
+- [Fani — Benharoun tree / פאני, עץ Benharoun](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV6F5HQOGFBNHTIK2P7VBLGP53NKI-1-505614&action=showRecord) — collection 1, record OYYV6F5HQOGFBNHTIK2P7VBLGP53NKI-1-505614.
+- [Berl — Berlin tree / ברל, עץ Berlin](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV6IVJ7VMEKV6UACDE372LDLNOSRI-2-1220&action=showRecord) — collection 1, record OYYV6IVJ7VMEKV6UACDE372LDLNOSRI-2-1220.
+- [Berl — Rose tree / ברל, עץ Rose](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV7IJNTA2NXLNTQFVQXXCVIRIXDHQ-2-2498&action=showRecord) — collection 1, record OYYV7IJNTA2NXLNTQFVQXXCVIRIXDHQ-2-2498.
+
 ## Per-person checkpoint in baseline DFS order
 
 “No new fact established” means exactly that; an unsearched person has not received a negative result.
