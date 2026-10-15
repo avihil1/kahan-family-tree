@@ -1020,3 +1020,29 @@ remains hypothetical. No additional mother-to-child links were created.
 
 **Next:** read Dwora's original and seek Chaim/Leb's marriage to Freide or the earlier wife's death;
 look for records establishing Freide's own age. No correspondence or fees were authorized or incurred.
+
+
+## Ruchel Kahan and Smil Fogel: marriage citation added — 15 October 2026
+
+**Ruchel married Smil Fogel on 14 August 1901 in Bardfalu, Szigeti, Máramaros.** The existing Ruchel
+entry now includes her spouse and the complete citation supplied by Hillel, also verified in the current
+[WikiTree Kahan-384 biography](https://www.wikitree.com/wiki/Kahan-384#Sources) through the public API.
+The linked spouse is [Smil Fogel, Fogel-302](https://www.wikitree.com/wiki/Fogel-302), identified by that
+API response rather than inferred from a name match. No original marriage image was inspected in this pass.
+
+>"Máramaros Vital Records Marriages," database, JewishGen. Groom: FOGEL Smil. Bride: KAHAN Ruchel. Groom DOB: 05-Jan-1875. Bride DOB: 29-Jul-1880. Groom hometown: Alsorona. Bride hometown: Maragyulafalu. Groom father: Leb. Groom mother: FOGEL Prive. Bride father: Chaim Leb. Bride mother: KLEIN Freida. Groom father's hometown: Alsorona. Bride's father's hometown: Maragyulafalu. Bride's father's occupation: farmer. Marriage date: 14-Aug-1901. Marriage town: Bardfalu, Szigeti, Máramaros. Witnesses: MENDELOVICS Lajos, KAHAN Bernad. Comments: "Bride's father deceased. Witness #1 age 43, Kolozsvar; witness #2 age 30, Maragyulafalu.". Citing: Romanian National Archive - Baia Mare Branch - Inventory 1373 - Book, 1901-26.
+
+**What the record establishes as transcribed:** Ruchel's parents are Chaim Leb and Freida Klein;
+Smil's parents are Leb and Prive Fogel. Smil's birth date is 5 January 1875 and Ruchel's 29 July 1880.
+Chaim Leb is already deceased at the marriage, consistent with the existing 24 June 1897 death citation.
+The bride's father's occupation is recorded as farmer. Bernad Kahan's presence as a 30-year-old witness
+is not an explicit statement that he is Ruchel's brother. The citation leaves the book number unspecified;
+only inventory **1373** and entry **1901-26** are retained.
+
+**Earlier wife's chronology:** the census directly places her alive in **1848**; Freide is named as
+mother by **28 December 1867** (Fischel, Book 1098, 08-01). The household transition is therefore
+bracketed by those observations. **A death after the 1848 census and before the later union, by 1867,
+is only a conditional hypothesis if the earlier marriage ended by widowhood.** Different mothers do
+not establish the earlier wife's death; divorce or other explanations are not excluded by the cited records.
+No death year or death interval has been entered as an established vital fact. Her tree spouse label now
+states “alive 1848,” while Chaim's note records this conditional chronology.

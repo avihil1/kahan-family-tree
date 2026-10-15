@@ -762,3 +762,26 @@ WikiTree מעריך שנולדה **בסביבות 1850**, אך הציטוטים 
 
 **המשך:** לקרוא את המקור של דבורה, לחפש את נישואי חיים/לייב לפריידה או את פטירת האישה המוקדמת,
 ולאתר מקור לגילה של פריידה. לא נשלחה התכתבות ולא הוצאו כספים.
+
+
+## רחל כהאן ושמיל פוגל: ציטוט הנישואין נוסף — 15 באוקטובר 2026
+
+**רחל נישאה לשמיל פוגל ב־14 באוגוסט 1901 בברדפלו, מחוז סיגט, מרמרוש.** לרשומה הקיימת של רחל
+נוספו בן הזוג והציטוט המלא שמסר הלל, שאומת גם בביוגרפיה העדכנית של
+[WikiTree Kahan-384](https://www.wikitree.com/wiki/Kahan-384#Sources) דרך ה־API הציבורי.
+בן הזוג המקושר הוא [שמיל פוגל, Fogel-302](https://www.wikitree.com/wiki/Fogel-302), שהוחזר בנתוני
+בת הזוג של הפרופיל ולא הוסק מהתאמת שם. צילום רישום הנישואין המקורי לא נבדק בבדיקה זו.
+
+> "Máramaros Vital Records Marriages," database, JewishGen. Groom: FOGEL Smil. Bride: KAHAN Ruchel. Groom DOB: 05-Jan-1875. Bride DOB: 29-Jul-1880. Groom hometown: Alsorona. Bride hometown: Maragyulafalu. Groom father: Leb. Groom mother: FOGEL Prive. Bride father: Chaim Leb. Bride mother: KLEIN Freida. Groom father's hometown: Alsorona. Bride's father's hometown: Maragyulafalu. Bride's father's occupation: farmer. Marriage date: 14-Aug-1901. Marriage town: Bardfalu, Szigeti, Máramaros. Witnesses: MENDELOVICS Lajos, KAHAN Bernad. Comments: "Bride's father deceased. Witness #1 age 43, Kolozsvar; witness #2 age 30, Maragyulafalu.". Citing: Romanian National Archive - Baia Mare Branch - Inventory 1373 - Book, 1901-26.
+
+**מה שנאמר בתעתיק:** הוריה של רחל הם חיים לייב ופריידה קליין; הוריו של שמיל הם לייב ופריבה פוגל.
+תאריך לידתו של שמיל 5.1.1875 ושל רחל 29.7.1880. אב הכלה כבר נפטר בעת הנישואין — בהתאם לציטוט
+הפטירה הקיים מ־24.6.1897. עיסוקו הרשום הוא חקלאי. ברנאד קהאן מופיע כעד בן 30, אך אין אמירה
+מפורשת שהוא אח הכלה. בציטוט לא צוין מספר ספר; נשמרו רק מצאי **1373** ורישום **1901-26**.
+
+**הכרונולוגיה של האישה המוקדמת:** המפקד מוכיח שהייתה בחיים ב־**1848**; פריידה מופיעה כאם
+עד **28.12.1867** בלידת פישל, ספר 1098, 08-01. אלה גבולות התצפיות על המעבר המשפחתי.
+**פטירה אחרי מפקד 1848 ולפני הקשר המאוחר, עד 1867, היא השערה מותנית בלבד אם הנישואין הקודמים
+הסתיימו באלמנות.** הופעת אם אחרת אינה מוכיחה שהאישה הקודמת נפטרה; המקורות אינם שוללים גירושין
+או הסבר אחר. לא נוספו שנת פטירה או טווח פטירה כעובדה מוכחת. בתווית בת הזוג בעץ צוין ״בחיים ב־1848״,
+ובהערת חיים נשמרה הכרונולוגיה המותנית.
