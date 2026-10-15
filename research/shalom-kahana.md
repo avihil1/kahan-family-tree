@@ -757,3 +757,18 @@ of its root), and the Dov Ber branch has **68 named nodes**. Spouses are exclude
 Only family testimony was added in this update; no new archival or genealogy-site search was performed for this household.
 Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Haim Arie → Shirel**.
 Next: ask about Shirel’s spouse and children, then continue recursively before returning to Ido. The wider DFS remains incomplete.
+
+
+## Eliav household — 15 October 2026
+
+Hillel Kahana supplied **spouse: Maayan; children: two daughters**, in this conversation on 15 October 2026.
+The baseline named Eliav, son of Michal and Yakir Tikochinsky, but had no spouse or descendants for him.
+Maayan is now recorded as his spouse, and the existing additional-children count records **two unnamed daughters**.
+No individual daughter nodes or surnames, dates, or separate maternal links have been invented.
+This update relies on direct family testimony; no new external searches were performed. Named-node totals remain
+135 for the full tree and 68 for the Dov Ber branch, with the two daughters recorded separately as an unnamed count.
+
+Hillel asked to skip **Haim Arie’s entire descendant branch** for now. Those details are preserved, and that branch
+remains deferred rather than completed. Current DFS stack: **Dov Ber → Chaim Arye Leb → Shalom → Michal → Eliav**.
+Next: ask for the two daughters’ names before continuing their branches; return to Renana after Eliav’s branch.
+The earlier Shirel frontier is superseded by this instruction. The overall descendant research remains incomplete.
