@@ -2001,7 +2001,7 @@ family paragraph. The interview itself has not been located; the memoir should n
 
 [Printed p.66, PDF viewer p.226](https://archive.org/details/nybc314151/page/n225/mode/1up), lower right, lists these household heads under **1830**:
 **Moldawan Shlomo — 6 persons; Moldawan Yosif — 5; Moldawan Hers — 6**. The counts are household totals,
-not numbers of children. The Yosif entry is a plausible candidate for our Jozsef, and the other two fit existing
+not numbers of children. The user-supplied image explicitly labels the counts **כוללים כל הנפשות** (including all persons). Thus the entry does not establish five children; their number is unknown. The Yosif entry is a plausible candidate for our Jozsef, and the other two fit existing
 collateral research questions. No ages, parentage or named household members are supplied, so identification is not established.
 
 The same page names **Yechiel Michel Moldawan** and **David Tzvi Cohen** among residents in the 1880s.
