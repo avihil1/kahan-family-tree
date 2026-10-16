@@ -1909,3 +1909,48 @@ No indexed match under one query does not establish that no birth, marriage or d
 - [מציג 1 - 11 מתוך 11 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Breb+epmo.exact&qevents=List).
 - [מציג 1 - 1 מתוך 1 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Gyulafalva+epmo.exact&qevents=List).
 - [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Maragyulafalu+epmo.exact&qevents=List).
+
+
+## Magyar-Zsidó Oklevéltár VII: early Gyulafalva and Bréb evidence — 16 October 2026
+
+User-supplied source, investigated separately from the MyHeritage-only pass. Bibliography verified on the title page:
+Fülöp Grünvald and Sándor Scheiber, eds., *Magyar-Zsidó Oklevéltár*, VII, *Az első országos zsidó conscriptiók,
+1725–1748* (Budapest, 1963). The scanned **published transcription** was visually inspected; these are not photographs
+of the eighteenth-century archival manuscripts. Printed page numbers differ from the PDF viewer numbers.
+
+| Printed page | PDF viewer page | Relevant section and reading |
+| --- | --- | --- |
+| [136](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=138) | 138 | Part of document 15, Máramaros census submitted at Sziget on **8 January 1728** (heading on printed p.134). Under **Gyulafalva**, the leaseholder column records **Moska Nifre**; **Joszip Isak** is entered in the sons column, count 1. No wife is entered in this local block. |
+| [306](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=308) | 308 | Document 15, **1735 Máramaros census**. The place is printed **Gullfalva**. Three named entries: **Salamon Hirschell**, **Forkos Berke**, **Jacob Iszák**. They are counted as 8, 8 and 4 persons respectively. The geographic identification with Gyulafalva is a reading to corroborate, not a family identity. |
+| [747](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=748) | 748 | Document 10, census dated **4 November 1746, Mármarossziget**. In the Kaszó district: **Brééb** has 1 male head, 1 spouse/widow, no counted children or servants; **Gyulafalva** has 1 male head, 1 spouse/widow, 1 child and 2 servants. No individual names appear in these two rows. |
+
+### Translation and interpretation
+
+The 1728 Gyulafalva prose reports two copper vessels and trade in wine and distilled spirits. The household lived
+in nobleman **Stephan Rednik's** house, without land, and had been there three years. Annual house rent was
+10 Hungarian florins; the stated annual palatinal levy was 4 Rhenish florins. Residence from about **1725** is
+arithmetic from the reported three years, not a birthplace or arrival record. The Joszip entry is in a son column;
+its two name elements should not automatically be parsed as a modern given name and inherited surname.
+
+For 1735, the columns distinguish wives, older children, younger children, a tutor, male servants and female servants.
+Salamon's row: 1 wife, 1 older child, 4 younger children, 1 male servant; Forkos: 1 wife, 1 older child, 4 younger
+children, 1 tutor; Jacob: 1 wife, 2 younger children. Totals include the named household head. The continuation on
+printed p.307 supplies livestock, rent and landlord columns; its figures must be aligned across the spread.
+
+For 1746, the column combines spouses **and widows**. The Brééb total is 2 counted persons, assessed at 4 Rhenish
+florins; Gyulafalva has 5, assessed at 10. These are counts within this census's categories, not named pedigrees or
+proof that only one Jewish family ever lived in each village. The header assesses the listed people, including
+children and servants, at 2 Rhenish florins per person. Do not read the final money column as another population count.
+
+### Genealogical consequence
+
+This provides early local names and evidence of Jewish residence in the family's later towns. It **does not establish
+parentage for Jozsef, Chaim Arye or Dov Ber**. The 1728 Joszip was already recorded around 62 years before the tree's
+estimated birth of Jozsef (c.1790); no identity or descent link is supplied. Similarity between Berke and Burek is also
+insufficient. No early individual was attached as an ancestor, and no missing wife was inferred from an empty column.
+
+Next discriminating work: corroborate Gullfalva's place identification, then seek named later households and explicit
+relationships bridging these eighteenth-century residents to the nineteenth-century Bréb family. Published archival
+references: 1728 document ends on p.140 with **O. L. C 29. No 1. 1728-3**; 1735 citation is on p.308 (Acta Judaeorum,
+9 September 1735); 1746 document ends on p.748 with **Htt. Acta Jud. f. 992. (304–309)**. These are the edition's
+historical citations; current archival call numbers and manuscript images have not been verified. No request was sent.
