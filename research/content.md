@@ -1921,7 +1921,7 @@ of the eighteenth-century archival manuscripts. Printed page numbers differ from
 | Printed page | PDF viewer page | Relevant section and reading |
 | --- | --- | --- |
 | [136](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=138) | 138 | Part of document 15, Máramaros census submitted at Sziget on **8 January 1728** (heading on printed p.134). Under **Gyulafalva**, the leaseholder column records **Moska Nifre**; **Joszip Isak** is entered in the sons column, count 1. No wife is entered in this local block. |
-| [306](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=308) | 308 | Document 15, **1735 Máramaros census**. The place is printed **Gullfalva**. Three named entries: **Salamon Hirschell**, **Forkos Berke**, **Jacob Iszák**. They are counted as 8, 8 and 4 persons respectively. The geographic identification with Gyulafalva is a reading to corroborate, not a family identity. |
+| [306](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=308) | 308 | Document 15, **1735 Máramaros census**. The place is printed **Gullfalva**. Three named entries: **Salamon Hirschell**, **Forkos Berke**, **Jacob Iszák**. They are counted as 8, 8 and 4 persons respectively. The place index, printed p.855, explicitly groups Gyulafalva and Gullfalva; this confirms the place, not a family identity. |
 | [747](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=748) | 748 | Document 10, census dated **4 November 1746, Mármarossziget**. In the Kaszó district: **Brééb** has 1 male head, 1 spouse/widow, no counted children or servants; **Gyulafalva** has 1 male head, 1 spouse/widow, 1 child and 2 servants. No individual names appear in these two rows. |
 
 ### Translation and interpretation
@@ -1949,7 +1949,7 @@ parentage for Jozsef, Chaim Arye or Dov Ber**. The 1728 Joszip was already recor
 estimated birth of Jozsef (c.1790); no identity or descent link is supplied. Similarity between Berke and Burek is also
 insufficient. No early individual was attached as an ancestor, and no missing wife was inferred from an empty column.
 
-Next discriminating work: corroborate Gullfalva's place identification, then seek named later households and explicit
+Next discriminating work: seek named later households and explicit
 relationships bridging these eighteenth-century residents to the nineteenth-century Bréb family. Published archival
 references: 1728 document ends on p.140 with **O. L. C 29. No 1. 1728-3**; 1735 citation is on p.308 (Acta Judaeorum,
 9 September 1735); 1746 document ends on p.748 with **Htt. Acta Jud. f. 992. (304–309)**. These are the edition's
@@ -1958,10 +1958,10 @@ historical citations; current archival call numbers and manuscript images have n
 
 ### Readable English translation of the three pages
 
-The complete checked translation, with editable tables: [read online](magyar-zsido-okleveltar-vii-selected-en.html) or [download Word](magyar-zsido-okleveltar-vii-selected-en.docx). It includes all visible text/rows on printed pp.136, 306 and 747, not only the family-relevant excerpts. The rest of the volume remains in progress.
+The complete checked translation, with editable tables: [read online](magyar-zsido-okleveltar-vii-selected-en.html) or [download Word](magyar-zsido-okleveltar-vii-selected-en.docx). It includes all visible text/rows on printed pp.136, 306 and 747, not only the family-relevant excerpts. The complete 873-PDF-page OCR-based draft is now available; it is not fully image-verified.
 
 
-The [full-volume English draft](https://avihil1.github.io/kahan-family-tree/research/magyar-zsido-okleveltar-vii-volume-en.html) has begun with Claude Opus. Its cover states the exact page coverage. It is translated from OCR and is not fully checked against the images; use the separately reviewed three-page translation for the requested census pages.
+The [full-volume English draft](https://avihil1.github.io/kahan-family-tree/research/magyar-zsido-okleveltar-vii-volume-en.html) now covers all 873 PDF pages using Claude Opus. Pages without usable OCR are marked as needing scan inspection. It is translated from OCR and is not fully checked against the images; use the separately reviewed three-page translation for the requested census pages.
 
 
 ## Sefer Marmarosh: identified family passage and 1830 Bréb candidates — 16 October 2026
@@ -2026,3 +2026,35 @@ scan** linked by its catalogue was used instead; its full OCR was screened and r
 The book editions/scans have different viewer pagination; references above use the verified 1983 scan, not guessed
 HebrewBooks offsets. This is not an exhaustive identity resolution for every Kahana in the volume. The earlier
 Hungarian-volume OCR name search returned no clear Kahan/Moldovan match; poor OCR does not establish absence.
+
+
+## Hungarian volume VII: family-evidence follow-up — 16 October 2026
+
+This pass concerns the **Hungarian volume itself**, rather than the later Hebrew community history.
+
+**Additional original-document route found:** [plate V, PDF page 870](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=870)
+reproduces the handwritten **1735 Máramaros census**. The scan was visually inspected. Its Gullfalva brace covers
+**Salamon Hirschell, Forkos Berke and Jacob Iszák**, corresponding to the edition's printed pp.306–307.
+This is a reproduction of the underlying document, whereas the three cited main-text pages are typeset transcriptions.
+The reproduction and transcription derive from the same census and are not independent genealogical witnesses.
+Neither gives a relationship to the nineteenth-century Moldovan/Katz/Kahan family.
+
+**Geography resolved:** [printed p.855, PDF page 856](https://real-eod.mtak.hu/2973/1/Magyar_zsido_okleveltar_VII.pdf#page=856)
+explicitly indexes **Gyulafalva, Gullfalva: 28, 35, 46**; **Brééb: 46**; **Alsó Róna: 46**;
+and **Felső Róna: 28, 35**. The index introduction, printed p.853/PDF854, explains that these numbers are **years**
+(1728, 1735, 1746), not page numbers. The index therefore distinguishes Lower Róna from Upper Róna.
+The **Lazar** listed at **Fölsö Rhona** in the 1735 table (printed p.308/PDF310) is not the same record as the
+**1795 Alsó Rhona Lazar Moldovan** candidate. No identity between those men is established; the earlier row supplies
+no Moldovan surname or named parentage connecting them.
+
+**What this contributes to the family question:** named early Gyulafalva households and an identifiable original
+census reproduction, but **no established ancestor or additional family relationship**. The 1728 Joszip Isak predates
+our Jozsef's estimated birth (c.1790); a repeated name cannot bridge that gap. The 1746 Brééb household remains unnamed.
+No new ancestor was attached to the tree from these entries.
+
+Coverage: searched the source OCR and all 873 English-draft page files for Moldav-/Moldov-/Moldaw-, Kahan/Kahana/Katz,
+Breb/Brééb and Gyulafalva/Gullfalva; read the three relevant census blocks and their continuations, the index explanation
+and Máramaros index, and inspected plate V. No clear Kahan/Katz/Moldovan identity emerged from those searches.
+This is **not proof that those names are absent from every image**: OCR and draft table alignment contain errors,
+and the full volume has not received a line-by-line image audit. No additional mother or father is identified.
+The useful next bridge remains named late-eighteenth-/early-nineteenth-century records for the known Bréb family.
