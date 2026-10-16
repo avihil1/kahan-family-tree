@@ -1954,3 +1954,8 @@ relationships bridging these eighteenth-century residents to the nineteenth-cent
 references: 1728 document ends on p.140 with **O. L. C 29. No 1. 1728-3**; 1735 citation is on p.308 (Acta Judaeorum,
 9 September 1735); 1746 document ends on p.748 with **Htt. Acta Jud. f. 992. (304–309)**. These are the edition's
 historical citations; current archival call numbers and manuscript images have not been verified. No request was sent.
+
+
+### Readable English translation of the three pages
+
+The complete checked translation, with editable tables: [read online](magyar-zsido-okleveltar-vii-selected-en.html) or [download Word](magyar-zsido-okleveltar-vii-selected-en.docx). It includes all visible text/rows on printed pp.136, 306 and 747, not only the family-relevant excerpts. The rest of the volume remains in progress.
