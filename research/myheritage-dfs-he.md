@@ -1,5 +1,135 @@
 # מחקר MyHeritage משורש העץ — 16 באוקטובר 2026
 
+## המשך בבוקר — 16 באוקטובר 2026, ‏10:33 שעון ישראל
+
+**החיפוש חודש בהצלחה ונעצר שוב במגבלה היומית. מחקר DFS לכל העץ עדיין לא הושלם.**
+דפי החיפוש הראשונים לאנשים 48–85 נטענו בהצלחה; אצל מספר 86, תהילה, הוצגה המגבלה.
+יחד עם הבדיקה הקודמת של 0–47, נסקר דף תוצאות ראשון ל־86 מתוך 138 אנשים; זו אינה השלמת מחקרם.
+לאנשים 86–137 עדיין אין סקירה ראשונית שהצליחה. בוצעו גם בדיקות חוזרות עם שינויי שמות ומקומות.
+DFS נותר פתוח אצל משה לייזר; בדיקות בענפים מאוחרים הן הכנת מקורות.
+
+### ראיה מקורית חדשה: נישואי ג׳ק שמואל ליברמן
+
+[תמונת רישום הנישואים המקורי בקוויבק](https://www.myheritage.co.il/research/collection-10723/quebec-marriage-returns-1926-1997?itemId=1260246-&action=showRecord), אוסף 10723, רשומה 1260246-, טופס E,
+תעודה **145146** (באינדקס **upd68-145146**), נבדקה חזותית. נרשמו **Jack Samuel Lieberman**
+ו־**Marie Denise Therese Gloutney (DEVORAH)**, שנישאו **ב־6.11.1968 במונטריאול**.
+הוא נולד **ב־10.12.1946**, היא **ב־21.6.1942**. מקום לידתו **Rumania**, ומקום לידתה קנדה.
+התוספת החדשה היא תאריך נישואים ממקור, שמה האזרחי המלא של הכלה ותאריך לידתה המדויק.
+תאריך לידת ג׳ק, מוצאו ברומניה, זהות אשתו ופטירתו ב־1996 כבר היו ידועים.
+באינדקס נכתב בטעות שמקום לידתו קוויבק; המקור מציין רומניה. הטעות הוסברה בעץ ובתרגום לעברית.
+
+[אינדקס הפטירות האזרחי בקוויבק](https://www.myheritage.co.il/research/collection-20872/canada-quebec-civil-deaths-1926-1997?itemId=1330643-&action=showRecord), אוסף 20872, רשומה 1330643-, מזהה בנפרד את אביו
+**Lipot Lieberman**, אמו **Chaja**, לידה ב־10.12.1946 ופטירה **ב־20.1.1996, סן־לורן, מונטריאול**.
+זו ראיית אינדקס בלבד. המצב המשפחתי **Celibataire** (רווק) מתנגש בנישואים שנבדקו; לא הוכחו גירושים,
+נישואים נוספים או טעות אינדוקס. לא נוסף ילד ולא שויכה אם לילדים על סמך הנישואים בלבד.
+כתובות הרחוב ההיסטוריות והתמונה המלאה לא פורסמו מחדש.
+
+### שיוך יוחסין שנדחה אצל פנינה, דב ושלום
+
+עץ גרינבלט, שעודכן ב־11.10.2026, משייך את [פנינה](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-523075&action=showRecord), [דב](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-523076&action=showRecord)
+ו[שלום](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-509440&action=showRecord) לקלונימוס קלמן כהנא (1816–1899) ולרבקה הרטשטיין־רפפורט (1827–1870).
+שלוש הרשומות המלאות נקראו. שני ההורים הנטענים נפטרו עשרות שנים לפני הלידות ב־1929, ‏1930 ו־1943.
+השיוך נדחה; ההורות הקיימת לחיים אריה ולאה נשמרה. שלוש רשומות מאותו עץ אינן שלוש ראיות עצמאיות.
+תאריכים ומקומות מדויקים נוספים בעץ זה נותרו בלתי מאומתים. ארבעה פרופילים קיימים קיבלו עדכון מקורות
+והסברים; מספר האנשים בעלי השם בעץ נשאר 138.
+
+### מועמדי משה שלא חוברו לעץ ורשימת ניצולים מקורית
+
+- [Mozes Kahan, ‏Gyulafalva, פנקס הניצולים א׳](https://www.myheritage.co.il/research/collection-20020/pinkas-hanitzolim-volume-i-register-of-jewish-survivors-from-jewishgen?itemId=9498-&action=showRecord), אוסף 20020, רשומה 9498-:
+  MyHeritage מציין רשימה 4C. מעקב אחרי מקור זה הוביל ל[סריקת הספר המקורי ב־USHMM](https://www.ushmm.org/media/images/vlpnamelist/AO235/AO235.pdf).
+  **עמוד PDF ‏44, העמוד השמאלי שמספרו המודפס 52, טור שלישי**, כולל **״Kahán Mózes, Gyulafalva״**,
+  בין בעלי אותו שם מ־Berehovo ומ־Hernicse. אין בשורה גיל, הורים, בן זוג או כתובת.
+  נוסח המקור אושר, אך האדם עדיין לא זוהה במשפחה; אין בכך הצדקה לשנות פטירה ב־1944 או להוסיף צאצא.
+  [מדריך האוסף של JewishGen](https://www.jewishgen.org/databases/Holocaust/0064_PinkasNitzolimI.html)
+  משייך את 4C לעמודים מודפסים 57–70, בניגוד למספר 52 בסריקה. יש ליישב את שיוך תת־הרשימה;
+  לא יוחס לשורה זו תאריך מדויק של תת־רשימה.
+- [Moses Leizor Kahan, עץ משתמש](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72J5M5PDPKDK2VPFRXUOKJUAZRY-9-171&action=showRecord):
+  לידה ב־1851, הורים Chaim Leib / Chaje Taube Perl, אישה Ciupa Kudisch, נישואים רשומים ב־16.4.1912,
+  ובן Jakob שנולד **ב־9.3.1887 בסטניסלבוב**. נפתחו גם רשומות ההורים והבן.
+  למשפחה שלנו רצף ילדים שונה, ובו יעקב יליד **21.7.1874**. הזהות לא הוכחה, ו־Chaje Taube לא שויכה
+  לאשתו המוקדמת של חיים שלנו. Węgry עשוי לציין הונגריה; תיוג גאוגרפי מודרני בפולין אינו פוסל לבדו זהות,
+  ונישואים מאוחרים עשויים להיות רישום מאוחר.
+- [Lazer Josef Moldovan, יליד כ־1845](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV73EAWJVPJVTHFBAJG3GK6RKBDIQ-1-500184&action=showRecord),
+  עץ Moldwin: אביו Moses Itzig יליד כ־1813, אמו Sure Sarah, אשתו Rivka, ילדיו Salamon ‏1868 ואברהם ‏1871.
+  זה מועמד נפרד ולא שם חלופי מזוהה למשה לייזר שלנו.
+- [אינדקס נוסעי Giza Moldovan](https://www.myheritage.co.il/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957?itemId=60026210-F&action=showRecord):
+  בת 21, הגיעה ב־2.12.1913 באונייה Kaiserin Auguste Victoria מהמבורג, אביה Moses Moldovan,
+  מקום מגורים אחרון Marmaroszcges; ‏NARA T715, גליל 2231, ‏RG85, שורה 20, תמונה 154/976 במציג.
+  נקרא האינדקס המלא בלבד; המקור לא נבדק. היא לא חוברה לעץ.
+
+### תיקון הגדרות חיפוש ושמות מקומות
+
+בטופס אומת כי **fnmo.1 מפעיל התאמה מדויקת של השם הפרטי**. התיאור הקודם כגמיש היה שגוי ותוקן.
+הסרת הדגל מאפשרת התאמה גמישה; מועמדים רחבים שמוחזרים לפי עיר אינם זיהוי חיובי של האדם המבוקש.
+בחיפוש מקום מדויק: Kahan/Giulești החזיר 17, ‏Kahan/Breb ‏11, ‏Kahan/Gyulafalva ‏1,
+ו־Moldovan/Giulești ‏2. ‏Kahan/Bréb, ‏Gyulafalu ו־Maragyulafalu החזירו אפס בשאילתות המדויקות שלהן.
+ההבדל בין Breb ל־Bréb מדגים מדוע אפס באיות אחד אינו מוכיח היעדר רשומה.
+רשומות Berbești תחת Comuna Giulești אינן הופכות אוטומטית ללידות בכפר Giulești.
+
+### דפי החיפוש המדויקים שנבדקו בבוקר, לפי אדם
+
+כל קישור מתעד עמוד ראשון בלבד, שנת לידה גמישה כשנמסרה ותנאי מקום המקודד בכתובת.
+מצב ההתאמה של השם הפרטי מצוין בנפרד. עדיין דרושות בדיקת זהות, קשרי משפחה ומקורות.
+היעדר התאמה בשאילתה אחת אינו מוכיח שאין רישום לידה, נישואים או פטירה.
+
+- אדם 5: **Berl Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 363 תוצאות עבור Berl Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 6: **Volf Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1891&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 208 תוצאות עבור Volf Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 7: **Malka Malcsi Kahan (Mendelson)**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malka%2F3Malcsi+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1873&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 1,388 תוצאות עבור Malka Malcsi Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 8: **Abraham Mendelson**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents-any%2F1event_1=Event+et.any+ep.Budfalu+epmo.similar&qevents=List). מציג 1 - 20 מתוך 7,859 תוצאות עבור Abraham Mendelson בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 9: **Salamon Mendelson**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1901&qevents-any%2F1event_1=Event+et.any+ep.Budfalu+epmo.similar&qevents=List). מציג 1 - 20 מתוך 41 תוצאות עבור Salamon Mendelson בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 10: **Amalia Malka Mendelson**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents-any%2F1event_1=Event+et.any+ep.Budfalu+epmo.similar&qevents=List). מציג 1 - 20 מתוך 69 תוצאות עבור Amalia Malka Mendelson בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 11: **Jacob Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1874&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 12,474 תוצאות עבור Jacob Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 12: **Pepi Perle Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pepi%2F3Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1898&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 85 תוצאות עבור Pepi Perle Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 13: **Izrael Kahan**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Izrael+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1899&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Izrael Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 14: **Friderika Kahan**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Friderika+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Friderika Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 15: **Riwke Moldovan Kahan (Gancz)**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1877&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Riwke Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 16: **Avrum Leb Gancz**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+ln.Gancz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1904&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). לא נמצאו תוצאות הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 17: **Fradl Moldovan Kahan**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1879&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Fradl Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 18: **Salamon Juda Moldovan Kahan**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Salamon Juda Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 19: **Jaszef Burech Kahan**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Jaszef Burech Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 20: **Riszje Kahan**, שם פרטי גמיש; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Riszje Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 49: **Jozsef Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jozsef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 362 תוצאות עבור Jozsef Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 50: **Rifka Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rifka+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents-any%2F1event_1=Event+et.any+ep.Br%C3%A9b+epmo.similar&qevents=List). מציג 1 - 20 מתוך 311 תוצאות עבור Rifka Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 51: **Seindel Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Seindel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents-any%2F1event_1=Event+et.any+ep.Br%C3%A9b+epmo.similar&qevents=List). מציג 1 - 7 מתוך 7 תוצאות עבור Seindel Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 52: **Dwora Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dwora+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1858&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 28 תוצאות עבור Dwora Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 53: **Abraham Wolf Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham%2F3Wolf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1860&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 12,329 תוצאות עבור Abraham Wolf Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 54: **Baruch Mendl Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Mendl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 360 תוצאות עבור Baruch Mendl Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 55: **David Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 22,296 תוצאות עבור David Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 56: **Josia Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Josia+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 8 מתוך 8 תוצאות עבור Josia Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 57: **Eszter Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 58: **Mozes Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1895&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 351 תוצאות עבור Mozes Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 59: **Leb Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1897&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 88 תוצאות עבור Leb Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 60: **Fischel Moldovan Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fischel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1867&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 73 תוצאות עבור Fischel Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 61: **Dov Ber Bernat Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dov%2F3Ber%2F3Bernat+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1868&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 8 מתוך 8 תוצאות עבור Dov Ber Bernat Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 62: **Jente Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jente+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1894&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 170 תוצאות עבור Jente Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 63: **Lipot Aryeh Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Lipot%2F3Aryeh+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 31 תוצאות עבור Lipot Aryeh Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 64: **Pearl Jessica Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pearl%2F3Jessica+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.2026&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 838 תוצאות עבור Pearl Jessica Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 65: **Jack Samuel Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jack%2F3Samuel+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1946&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 3,545 תוצאות עבור Jack Samuel Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 66: **Carl Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Carl+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 3,847 תוצאות עבור Carl Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 67: **Michael Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Michael+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 5,449 תוצאות עבור Michael Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 68: **Juanita Lieberman (Moss)**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Juanita+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 94 תוצאות עבור Juanita Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 69: **Frida (Freide) Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frida+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1917&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 346 תוצאות עבור Frida Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 70: **Naftali Nandor Lieberman**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Naftali%2F3Nandor+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1919&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 92 תוצאות עבור Naftali Nandor Lieberman בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 71: **Brana Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Brana+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1896&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 64 תוצאות עבור Brana Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 72: **Hane Kahan**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Hane+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 395 תוצאות עבור Hane Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 73: **Ziszel Kahan (Muscal)**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Ziszel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 11 מתוך 11 תוצאות עבור Ziszel Kahan בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 74: **Marco Mordechai Yitzhak Muskal**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Marco%2F3Mordechai%2F3Yitzhak+fnmo.1+ln.Muskal+lnmsrs.false&qevents-event1=Event+et.birth+ey.1934&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). לא נמצאו תוצאות לחיפוש שלך הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 75: **Dov Muskal**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dov+fnmo.1+ln.Muskal+lnmsrs.false&qevents-event1=Event+et.birth+ey.1936&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 192 תוצאות עבור Dov Muskal בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 76: **Chaim Arye Leb Kahana**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Arye%2F3Leb+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 26 תוצאות עבור Chaim Arye Leb Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 77: **Penina Perl Kahana (Miller)**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Penina%2F3Perl+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1929&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 39 תוצאות עבור Penina Perl Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 78: **Dov Kahana**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dov+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1930&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 1,000 תוצאות עבור Dov Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 79: **Zvi Kahana**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Zvi+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 1,439 תוצאות עבור Zvi Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 80: **Rabbi Meir Kahana**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Meir+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1969&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 12,527 תוצאות עבור Meir Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 81: **Shalom Kahana**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Shalom+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1943&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 554 תוצאות עבור Shalom Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 82: **Haim Arie**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Haim%2F3Arie+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 400 תוצאות עבור Haim Arie Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 83: **Shirel**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Shirel+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). לא נמצאו תוצאות לחיפוש שלך הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 84: **Ido**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Ido+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 11 מתוך 11 תוצאות עבור Ido Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 85: **Shalom**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Shalom+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 554 תוצאות עבור Shalom Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 86: **Uria**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Uria+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 3 מתוך 3 תוצאות עבור Uria Kahana בכל האוספים הסקירה לבדה אינה מוכיחה זהות חדשה.
+- אדם 87: **Tehila**, שם פרטי מדויק; [שאילתה](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Tehila+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). הבדיקה לא התבצעה: מגבלה יומית. הסקירה לבדה אינה מוכיחה זהות חדשה.
+
+## תיעוד קודם, לפני ההמשך בבוקר
+
 **מצב: לא הושלם; הוצגה מגבלת חיפוש יומית.** זהו תיעוד ביניים, ולא דו״ח DFS מלא לכל האנשים.
 נקודת המוצא כוללת 138 אנשים בעלי שם, מהשורש בורק יוזף מולדובן כ״ץ, בגרסה a5b531a.
 דפי חיפוש הוכנו לפי סדר DFS, ובהמשך נבדקו רשומות מקושרות נגישות. לא הוכחה הורות חדשה ולא נוסף צאצא בעל שם.
@@ -50,7 +180,8 @@
 פתיחת הפרופיל המלא באתר Rose הובילה לדף כניסה; מקורותיו הנוספים לא נגישו. שלושה דפי Geni שקושרו
 מ־MyHeritage הופיעו ריקים וגם כלי הגלישה לא הצליח לקרוא אותם. אין בכך הוכחה שאין בהם מקורות.
 
-החיפושים משתמשים בהתאמה הגמישה הרגילה של MyHeritage, כולל תרגום שמות ושנת לידה גמישה כשנמסרה.
+תיקון שאומת בטופס: fnmo.1 מפעיל התאמה מדויקת של השם הפרטי, ולא התאמה גמישה רגילה.
+החיפושים הראשונים השתמשו בהגדרה זו ובשנת לידה גמישה כשנמסרה; הגדרת שם המשפחה לא שונתה.
 הדירוג מחזיר גם אנשים מחוץ לטווח השנה והמקום. נבדק רק העמוד הראשון וההצעות שהוצגו בו;
 אין טענה להיעדר רשומה בכל המאגר. מועמדים שלא נפתחו דורשים בדיקה.
 בבדיקה החדשה נעשה שימוש רק ב־MyHeritage ובהפניות שנמצאו בו. נתוני הבסיס שימשו להשוואה,
@@ -87,7 +218,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1790 – 1837; הורה: שורש; הורים לא ידועים. ילדים בעלי שם שכבר בעץ: 1.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Burek Jozsef**, משפחה **Moldovan**, שנת לידה גמישה **1790**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Burek%2F3Jozsef+fnmo.1+ln.Moldovan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1790&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Burek Jozsef Moldovan בכל האוספים
+שאילתה: שם פרטי **Burek Jozsef**, משפחה **Moldovan**, שנת לידה גמישה **1790**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Burek%2F3Jozsef+fnmo.1+ln.Moldovan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1790&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Burek Jozsef Moldovan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 816884227](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=816884227&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: בדיקת MyHeritage, ‏16.10.2026: הרשומה המיובאת מ־Geni מציינת את רפקה ברקוביץ ואת הבן חיים אריה ליב, אך אינה מציינת הורים או תאריכי חיים ליוזף. אין זו ראיה עצמאית להורות.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -97,7 +228,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1827 – 1897; הורה: בורק יוז׳ף מולדובן כץ. ילדים בעלי שם שכבר בעץ: 10.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Chaim Arye Leb**, משפחה **Kahan**, שנת לידה גמישה **1827**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Arye%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1827&qevents=List). מציג 1 - 20 מתוך 24 תוצאות עבור Chaim Arye Leb Kahan בכל האוספים
+שאילתה: שם פרטי **Chaim Arye Leb**, משפחה **Kahan**, שנת לידה גמישה **1827**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Arye%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1827&qevents=List). מציג 1 - 20 מתוך 24 תוצאות עבור Chaim Arye Leb Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746099616](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746099616&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: בדיקת MyHeritage, ‏16.10.2026: שאלת האישה המוקדמת כבר הייתה ידועה. האישה בת ה־22 במפקד 1848 הייתה כבת 57 בשנת 1883. הרשומות המיובאות מעריכות שפרידה נולדה בסביבות 1850 ודוד הרש בסביבות 1855, ומציגות אותה כאמו — שילוב שאינו אפשרי כרונולוגית. האפשרות שדוד נולד מהנישואים המוקדמים עדיין דורשת רשומה המזהה את אמו; אין כאן זיהוי או תאריך פטירה מוכח לאישה הראשונה.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -107,7 +238,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: c. 1847; הורה: חיים אריה ליב מולדובן כהן. ילדים בעלי שם שכבר בעץ: 8.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Moses Laser**, משפחה **Kahan**, שנת לידה גמישה **1847**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moses%2F3Laser+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1847&qevents=List). מציג 1 - 20 מתוך 1,356 תוצאות עבור Moses Laser Kahan בכל האוספים
+שאילתה: שם פרטי **Moses Laser**, משפחה **Kahan**, שנת לידה גמישה **1847**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moses%2F3Laser+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1847&qevents=List). מציג 1 - 20 מתוך 1,356 תוצאות עבור Moses Laser Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -116,7 +247,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1869; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 2.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Efrajm Froim**, משפחה **Kahan**, שנת לידה גמישה **1869**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Efrajm%2F3Froim+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1869&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Efrajm Froim**, משפחה **Kahan**, שנת לידה גמישה **1869**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Efrajm%2F3Froim+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1869&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -125,7 +256,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1889; הורה: אפרים פרוים כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Berl**, משפחה **Kahan**, שנת לידה גמישה **1889**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). מציג 1 - 20 מתוך 363 תוצאות עבור Berl Kahan בכל האוספים
+שאילתה: שם פרטי **Berl**, משפחה **Kahan**, שנת לידה גמישה **1889**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). מציג 1 - 20 מתוך 363 תוצאות עבור Berl Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -134,7 +265,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1891 – 1900; הורה: אפרים פרוים כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Volf**, משפחה **Kahan**, שנת לידה גמישה **1891**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1891&qevents=List). מציג 1 - 20 מתוך 208 תוצאות עבור Volf Kahan בכל האוספים
+שאילתה: שם פרטי **Volf**, משפחה **Kahan**, שנת לידה גמישה **1891**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1891&qevents=List). מציג 1 - 20 מתוך 208 תוצאות עבור Volf Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -143,7 +274,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1873 – 1903; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 3.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Malka Malcsi**, משפחה **Kahan**, שנת לידה גמישה **1873**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malka%2F3Malcsi+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1873&qevents=List). מציג 1 - 20 מתוך 1,395 תוצאות עבור Malka Malcsi Kahan בכל האוספים
+שאילתה: שם פרטי **Malka Malcsi**, משפחה **Kahan**, שנת לידה גמישה **1873**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malka%2F3Malcsi+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1873&qevents=List). מציג 1 - 20 מתוך 1,395 תוצאות עבור Malka Malcsi Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -152,7 +283,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1900 – 1901; הורה: מלכה מלצ׳י כהן (מנדלסון). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Abraham**, משפחה **Mendelson**, שנת לידה גמישה **1900**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents=List). מציג 1 - 20 מתוך 8,009 תוצאות עבור Abraham Mendelson בכל האוספים
+שאילתה: שם פרטי **Abraham**, משפחה **Mendelson**, שנת לידה גמישה **1900**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents=List). מציג 1 - 20 מתוך 8,009 תוצאות עבור Abraham Mendelson בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -161,7 +292,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1901 – 1904; הורה: מלכה מלצ׳י כהן (מנדלסון). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Salamon**, משפחה **Mendelson**, שנת לידה גמישה **1901**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1901&qevents=List). מציג 1 - 20 מתוך 41 תוצאות עבור Salamon Mendelson בכל האוספים
+שאילתה: שם פרטי **Salamon**, משפחה **Mendelson**, שנת לידה גמישה **1901**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1901&qevents=List). מציג 1 - 20 מתוך 41 תוצאות עבור Salamon Mendelson בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -170,7 +301,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1903; הורה: מלכה מלצ׳י כהן (מנדלסון). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Amalia Malka**, משפחה **Mendelson**, שנת לידה גמישה **1903**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents=List). מציג 1 - 20 מתוך 69 תוצאות עבור Amalia Malka Mendelson בכל האוספים
+שאילתה: שם פרטי **Amalia Malka**, משפחה **Mendelson**, שנת לידה גמישה **1903**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents=List). מציג 1 - 20 מתוך 69 תוצאות עבור Amalia Malka Mendelson בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -179,7 +310,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1874; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 3.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Jacob**, משפחה **Kahan**, שנת לידה גמישה **1874**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1874&qevents=List). מציג 1 - 20 מתוך 12,685 תוצאות עבור Jacob Kahan בכל האוספים
+שאילתה: שם פרטי **Jacob**, משפחה **Kahan**, שנת לידה גמישה **1874**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1874&qevents=List). מציג 1 - 20 מתוך 12,685 תוצאות עבור Jacob Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -188,7 +319,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1898; הורה: יעקב כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Pepi Perle**, משפחה **Kahan**, שנת לידה גמישה **1898**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pepi%2F3Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1898&qevents=List). מציג 1 - 20 מתוך 87 תוצאות עבור Pepi Perle Kahan בכל האוספים
+שאילתה: שם פרטי **Pepi Perle**, משפחה **Kahan**, שנת לידה גמישה **1898**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pepi%2F3Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1898&qevents=List). מציג 1 - 20 מתוך 87 תוצאות עבור Pepi Perle Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -197,7 +328,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1899; הורה: יעקב כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Izrael**, משפחה **Kahan**, שנת לידה גמישה **1899**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Izrael+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1899&qevents=List). מציג 1 - 20 מתוך 436 תוצאות עבור Izrael Kahan בכל האוספים
+שאילתה: שם פרטי **Izrael**, משפחה **Kahan**, שנת לידה גמישה **1899**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Izrael+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1899&qevents=List). מציג 1 - 20 מתוך 436 תוצאות עבור Izrael Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -206,7 +337,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1902 – 1902; הורה: יעקב כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Friderika**, משפחה **Kahan**, שנת לידה גמישה **1902**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Friderika+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents=List). מציג 1 - 3 מתוך 3 תוצאות עבור Friderika Kahan בכל האוספים
+שאילתה: שם פרטי **Friderika**, משפחה **Kahan**, שנת לידה גמישה **1902**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Friderika+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents=List). מציג 1 - 3 מתוך 3 תוצאות עבור Friderika Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -215,7 +346,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1877; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 1.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Riwke**, משפחה **Kahan**, שנת לידה גמישה **1877**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1877&qevents=List). מציג 1 - 20 מתוך 111 תוצאות עבור Riwke Kahan בכל האוספים
+שאילתה: שם פרטי **Riwke**, משפחה **Kahan**, שנת לידה גמישה **1877**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1877&qevents=List). מציג 1 - 20 מתוך 111 תוצאות עבור Riwke Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -224,7 +355,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1904; הורה: רבקה מולדובן כהן (גנץ). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Avrum Leb**, משפחה **Gancz**, שנת לידה גמישה **1904**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+fnmo.1+ln.Gancz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1904&qevents=List). מציג 1 - 2 מתוך 2 תוצאות עבור Avrum Leb Gancz בכל האוספים
+שאילתה: שם פרטי **Avrum Leb**, משפחה **Gancz**, שנת לידה גמישה **1904**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+fnmo.1+ln.Gancz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1904&qevents=List). מציג 1 - 2 מתוך 2 תוצאות עבור Avrum Leb Gancz בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -233,7 +364,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1879; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Fradl**, משפחה **Kahan**, שנת לידה גמישה **1879**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1879&qevents=List). מציג 1 - 3 מתוך 3 תוצאות עבור Fradl Kahan בכל האוספים
+שאילתה: שם פרטי **Fradl**, משפחה **Kahan**, שנת לידה גמישה **1879**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1879&qevents=List). מציג 1 - 3 מתוך 3 תוצאות עבור Fradl Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -242,7 +373,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1881; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Salamon Juda**, משפחה **Kahan**, שנת לידה גמישה **1881**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). מציג 1 - 20 מתוך 139 תוצאות עבור Salamon Juda Kahan בכל האוספים
+שאילתה: שם פרטי **Salamon Juda**, משפחה **Kahan**, שנת לידה גמישה **1881**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). מציג 1 - 20 מתוך 139 תוצאות עבור Salamon Juda Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -251,7 +382,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1886 – 1887; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Jaszef Burech**, משפחה **Kahan**, שנת לידה גמישה **1886**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Jaszef Burech**, משפחה **Kahan**, שנת לידה גמישה **1886**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -260,7 +391,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1888; הורה: משה לייזר מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Riszje**, משפחה **Kahan**, שנת לידה גמישה **1888**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). מציג 1 - 2 מתוך 2 תוצאות עבור Riszje Kahan בכל האוספים
+שאילתה: שם פרטי **Riszje**, משפחה **Kahan**, שנת לידה גמישה **1888**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). מציג 1 - 2 מתוך 2 תוצאות עבור Riszje Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -269,7 +400,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: c. 1855; הורה: חיים אריה ליב מולדובן כהן. ילדים בעלי שם שכבר בעץ: 11.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **David Hers**, משפחה **Kahan**, שנת לידה גמישה **1855**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David%2F3Hers+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1855&qevents=List). מציג 1 - 20 מתוך 12,508 תוצאות עבור David Hers Kahan בכל האוספים
+שאילתה: שם פרטי **David Hers**, משפחה **Kahan**, שנת לידה גמישה **1855**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David%2F3Hers+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1855&qevents=List). מציג 1 - 20 מתוך 12,508 תוצאות עבור David Hers Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746100153](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746100153&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: רשומות Geni המיובאות ל־MyHeritage מציגות את פרידה קליין, ילידת כ־1850, כאמו של דוד הרש, יליד כ־1855. שני האומדנים והשיוך האימהי אינם יכולים להיות נכונים יחד. אין בכך הוכחה שהאישה המוקדמת הייתה אמו; ההורות נותרת משוערת עד למציאת מקור מזהה.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -279,7 +410,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1875; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Baruch Josef**, משפחה **Kahan**, שנת לידה גמישה **1875**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Josef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1875&qevents=List). מציג 1 - 20 מתוך 395 תוצאות עבור Baruch Josef Kahan בכל האוספים
+שאילתה: שם פרטי **Baruch Josef**, משפחה **Kahan**, שנת לידה גמישה **1875**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Josef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1875&qevents=List). מציג 1 - 20 מתוך 395 תוצאות עבור Baruch Josef Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 400873593](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=400873593&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: ברשומת Geni המיובאת ל־MyHeritage מופיע ברוך יוזף יליד כ־1850 כבנו של דוד הרש יליד כ־1855, עם אישה בשם מינדיה ובן בשם סנדר יהודה יליד 1881. הדבר מתנגש בלידת ברוך שבאינדקס, 18.3.1875: הוא היה בן שש בלידת הבן המוצע. אין לצרף משפחה זו עד לפתרון הסתירה בין הזהויות.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -289,7 +420,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1876; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Eszter**, משפחה **Kahan**, שנת לידה גמישה **1876**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1876&qevents=List). מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
+שאילתה: שם פרטי **Eszter**, משפחה **Kahan**, שנת לידה גמישה **1876**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1876&qevents=List). מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746158315](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746158315&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -299,7 +430,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1878; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Juda**, משפחה **Kahan**, שנת לידה גמישה **1878**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1878&qevents=List). מציג 1 - 20 מתוך 2,043 תוצאות עבור Juda Kahan בכל האוספים
+שאילתה: שם פרטי **Juda**, משפחה **Kahan**, שנת לידה גמישה **1878**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1878&qevents=List). מציג 1 - 20 מתוך 2,043 תוצאות עבור Juda Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746158579](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746158579&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -309,7 +440,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1880 – 1882; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Abraham**, משפחה **Kahan**, שנת לידה גמישה **1880**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1880&qevents=List). מציג 1 - 20 מתוך 19,031 תוצאות עבור Abraham Kahan בכל האוספים
+שאילתה: שם פרטי **Abraham**, משפחה **Kahan**, שנת לידה גמישה **1880**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1880&qevents=List). מציג 1 - 20 מתוך 19,031 תוצאות עבור Abraham Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746158733](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746158733&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -319,7 +450,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1881; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Chaje Feige**, משפחה **Kahan**, שנת לידה גמישה **1881**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaje%2F3Feige+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). מציג 1 - 20 מתוך 258 תוצאות עבור Chaje Feige Kahan בכל האוספים
+שאילתה: שם פרטי **Chaje Feige**, משפחה **Kahan**, שנת לידה גמישה **1881**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaje%2F3Feige+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). מציג 1 - 20 מתוך 258 תוצאות עבור Chaje Feige Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746159082](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159082&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -329,7 +460,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1884 – 1944; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 6.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Frede Frimet**, משפחה **Kahan**, שנת לידה גמישה **1884**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frede%2F3Frimet+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). מציג 1 - 2 מתוך 2 תוצאות עבור Frede Frimet Kahan בכל האוספים
+שאילתה: שם פרטי **Frede Frimet**, משפחה **Kahan**, שנת לידה גמישה **1884**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frede%2F3Frimet+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). מציג 1 - 2 מתוך 2 תוצאות עבור Frede Frimet Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746159080](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159080&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: הרשומה המיובאת ל־MyHeritage מציינת בת נוספת בשם חיה גנץ ושתי בנות בשם רוזה לבוביצי. שתי רשומות רוזה חולקות תאריך לידה 7.4.1920, פטירה 5.10.2014, הורים ושם בן זוג תואמים, ולכן קיים חשד חזק לכפילות. לא נוספה רוזה נוספת. חיה נותרת מועמדת הדורשת ראיה תומכת.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -339,7 +470,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1911 – 1998; הורה: פרידה פרימט כהן (גנץ). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Freida**, משפחה **Ganz**, שנת לידה גמישה **1911**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Freida+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1911&qevents=List). מציג 1 - 20 מתוך 167 תוצאות עבור Freida Ganz בכל האוספים
+שאילתה: שם פרטי **Freida**, משפחה **Ganz**, שנת לידה גמישה **1911**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Freida+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1911&qevents=List). מציג 1 - 20 מתוך 167 תוצאות עבור Freida Ganz בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -348,7 +479,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1920 – 2014; הורה: פרידה פרימט כהן (גנץ). ילדים בעלי שם שכבר בעץ: 1.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Rosa Rachel**, משפחה **Ganz**, שנת לידה גמישה **1920**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rosa%2F3Rachel+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). מציג 1 - 20 מתוך 572 תוצאות עבור Rosa Rachel Ganz בכל האוספים
+שאילתה: שם פרטי **Rosa Rachel**, משפחה **Ganz**, שנת לידה גמישה **1920**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rosa%2F3Rachel+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). מציג 1 - 20 מתוך 572 תוצאות עבור Rosa Rachel Ganz בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746243224](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243224&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -358,7 +489,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: ? – bef. 2014; הורה: רוזה רחל גנץ (לבוביץ׳). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Moishe**, משפחה **Lebovici**, שנת לידה גמישה **2014**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moishe+fnmo.1+ln.Lebovici+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). מציג 1 - 20 מתוך 194 תוצאות עבור Moishe Lebovici בכל האוספים
+שאילתה: שם פרטי **Moishe**, משפחה **Lebovici**, שנת לידה גמישה **2014**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moishe+fnmo.1+ln.Lebovici+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). מציג 1 - 20 מתוך 194 תוצאות עבור Moishe Lebovici בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746243757](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243757&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: רשומת Geni המיובאת ל־MyHeritage מדווחת על לידה במונטריאול ופטירה בשנת 1991, עם הורים אויגן יענקל לבוביצי ורוזה רחל גנץ. זהו דיווח של עץ משפחה בלבד; לא נבדק מקור פטירה, ולכן 1991 אינה מוצגת כתאריך חיים מאומת באופן עצמאי.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -368,7 +499,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1922 – 2004; הורה: פרידה פרימט כהן (גנץ). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Srul Jankel Yaakov**, משפחה **Ganz**, שנת לידה גמישה **1922**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Srul%2F3Jankel%2F3Yaakov+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1922&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Srul Jankel Yaakov Ganz בכל האוספים
+שאילתה: שם פרטי **Srul Jankel Yaakov**, משפחה **Ganz**, שנת לידה גמישה **1922**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Srul%2F3Jankel%2F3Yaakov+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1922&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Srul Jankel Yaakov Ganz בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746314643](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746314643&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -378,7 +509,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1924 – 2014; הורה: פרידה פרימט כהן (גנץ). ילדים בעלי שם שכבר בעץ: 2.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Fani**, משפחה **Ganz**, שנת לידה גמישה **1924**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fani+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1924&qevents=List). מציג 1 - 20 מתוך 50 תוצאות עבור Fani Ganz בכל האוספים
+שאילתה: שם פרטי **Fani**, משפחה **Ganz**, שנת לידה גמישה **1924**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fani+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1924&qevents=List). מציג 1 - 20 מתוך 50 תוצאות עבור Fani Ganz בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 271938546](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=271938546&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: השוואת עצי MyHeritage: עצי Benharoun, ‏Rose ו־Berlin תואמים לזהותה של פאני, אך עץ Perl משייך רשומה עם אותם פרטים למרדכי מרטין ויינברגר ולאידה רוט. ההורות הסותרת לא אומצה. בעץ Benharoun מדווח שבן הזוג נפטר ב־1958, ללא אימות. העתקות אינן אישור עצמאי.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -388,7 +519,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: living; הורה: פאני גנץ (סגלשטיין). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Betty**, משפחה **Segelstein**, שנת לידה גמישה **ללא**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Betty+fnmo.1+ln.Segelstein+lnmsrs.false). מציג 1 - 20 מתוך 47 תוצאות עבור Betty Segelstein בכל האוספים
+שאילתה: שם פרטי **Betty**, משפחה **Segelstein**, שנת לידה גמישה **ללא**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Betty+fnmo.1+ln.Segelstein+lnmsrs.false). מציג 1 - 20 מתוך 47 תוצאות עבור Betty Segelstein בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -397,7 +528,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: living; הורה: פאני גנץ (סגלשטיין). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **David**, משפחה **Segelstein**, שנת לידה גמישה **ללא**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Segelstein+lnmsrs.false). מציג 1 - 20 מתוך 134 תוצאות עבור David Segelstein בכל האוספים
+שאילתה: שם פרטי **David**, משפחה **Segelstein**, שנת לידה גמישה **ללא**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Segelstein+lnmsrs.false). מציג 1 - 20 מתוך 134 תוצאות עבור David Segelstein בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 271938173](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=271938173&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -407,7 +538,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1927 – 1944; הורה: פרידה פרימט כהן (גנץ). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Berl Bernat**, משפחה **Ganz**, שנת לידה גמישה **1927**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl%2F3Bernat+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). מציג 1 - 13 מתוך 13 תוצאות עבור Berl Bernat Ganz בכל האוספים
+שאילתה: שם פרטי **Berl Bernat**, משפחה **Ganz**, שנת לידה גמישה **1927**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl%2F3Bernat+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). מציג 1 - 13 מתוך 13 תוצאות עבור Berl Bernat Ganz בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746315002](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746315002&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: עצי Berlin ו־Rose ב־MyHeritage מדווחים על פטירה ב־22.5.1944 באושוויץ ומציינים את ההורים דוד הרש גנץ ופרימט קהאן. לא התברר אם הם עצמאיים או על איזה מקור מקורי הסתמכו. היום המדויק נותר דיווח לא מאומת; שנת 1944 נשמרה.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -417,7 +548,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: ? – bef. 2014; הורה: פרידה פרימט כהן (גנץ). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Dori**, משפחה **Ganz**, שנת לידה גמישה **2014**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dori+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). מציג 1 - 20 מתוך 26 תוצאות עבור Dori Ganz בכל האוספים
+שאילתה: שם פרטי **Dori**, משפחה **Ganz**, שנת לידה גמישה **2014**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dori+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). מציג 1 - 20 מתוך 26 תוצאות עבור Dori Ganz בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -426,7 +557,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1884 – 1884; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Israel**, משפחה **Kahan**, שנת לידה גמישה **1884**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Israel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). מציג 1 - 20 מתוך 4,221 תוצאות עבור Israel Kahan בכל האוספים
+שאילתה: שם פרטי **Israel**, משפחה **Kahan**, שנת לידה גמישה **1884**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Israel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). מציג 1 - 20 מתוך 4,221 תוצאות עבור Israel Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746159211](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159211&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -436,7 +567,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1886 – 1887; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Jakob**, משפחה **Kahan**, שנת לידה גמישה **1886**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jakob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). מציג 1 - 20 מתוך 2,514 תוצאות עבור Jakob Kahan בכל האוספים
+שאילתה: שם פרטי **Jakob**, משפחה **Kahan**, שנת לידה גמישה **1886**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jakob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). מציג 1 - 20 מתוך 2,514 תוצאות עבור Jakob Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746159815](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159815&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -446,7 +577,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1887 – 1944; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 5.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Mozses Iczik**, משפחה **Kahan**, שנת לידה גמישה **1887**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozses%2F3Iczik+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Mozses Iczik Kahan בכל האוספים
+שאילתה: שם פרטי **Mozses Iczik**, משפחה **Kahan**, שנת לידה גמישה **1887**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozses%2F3Iczik+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Mozses Iczik Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746159814](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159814&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -456,7 +587,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1912 – 1944; הורה: משה איציק כהן. ילדים בעלי שם שכבר בעץ: 1.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Chaim Leb**, משפחה **Kahan**, שנת לידה גמישה **1912**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1912&qevents=List). מציג 1 - 20 מתוך 1,105 תוצאות עבור Chaim Leb Kahan בכל האוספים
+שאילתה: שם פרטי **Chaim Leb**, משפחה **Kahan**, שנת לידה גמישה **1912**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1912&qevents=List). מציג 1 - 20 מתוך 1,105 תוצאות עבור Chaim Leb Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -465,7 +596,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1939 – 1944; הורה: חיים ליב כהן (לאיוש). ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Eliezer Simcha**, משפחה **Kahan**, שנת לידה גמישה **1939**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eliezer%2F3Simcha+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1939&qevents=List). מציג 1 - 20 מתוך 369 תוצאות עבור Eliezer Simcha Kahan בכל האוספים
+שאילתה: שם פרטי **Eliezer Simcha**, משפחה **Kahan**, שנת לידה גמישה **1939**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eliezer%2F3Simcha+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1939&qevents=List). מציג 1 - 20 מתוך 369 תוצאות עבור Eliezer Simcha Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -474,7 +605,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1920 – 1944; הורה: משה איציק כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Raziel**, משפחה **Kahan**, שנת לידה גמישה **1920**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Raziel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Raziel Kahan בכל האוספים
+שאילתה: שם פרטי **Raziel**, משפחה **Kahan**, שנת לידה גמישה **1920**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Raziel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). מציג 1 - 1 מתוך 1 תוצאות עבור Raziel Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -483,7 +614,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1925 – 2017; הורה: משה איציק כהן. ילדים בעלי שם שכבר בעץ: 1.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Frida**, משפחה **Kahan**, שנת לידה גמישה **1925**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frida+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1925&qevents=List). מציג 1 - 20 מתוך 415 תוצאות עבור Frida Kahan בכל האוספים
+שאילתה: שם פרטי **Frida**, משפחה **Kahan**, שנת לידה גמישה **1925**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frida+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1925&qevents=List). מציג 1 - 20 מתוך 415 תוצאות עבור Frida Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -492,7 +623,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1956 – living; הורה: פרידה כהן (ויסברג). ילדים בעלי שם שכבר בעץ: 3.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Moshe Yitzhak**, משפחה **Weisberg**, שנת לידה גמישה **1956**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moshe%2F3Yitzhak+fnmo.1+ln.Weisberg+lnmsrs.false&qevents-event1=Event+et.birth+ey.1956&qevents=List). מציג 1 - 20 מתוך 351 תוצאות עבור Moshe Yitzhak Weisberg בכל האוספים
+שאילתה: שם פרטי **Moshe Yitzhak**, משפחה **Weisberg**, שנת לידה גמישה **1956**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moshe%2F3Yitzhak+fnmo.1+ln.Weisberg+lnmsrs.false&qevents-event1=Event+et.birth+ey.1956&qevents=List). מציג 1 - 20 מתוך 351 תוצאות עבור Moshe Yitzhak Weisberg בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -501,7 +632,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: living; הורה: משה יצחק ויסברג. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Keren**, משפחה **Weisberg**, שנת לידה גמישה **ללא**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Keren+fnmo.1+ln.Weisberg+lnmsrs.false). מציג 1 - 10 מתוך 10 תוצאות עבור Keren Weisberg בכל האוספים
+שאילתה: שם פרטי **Keren**, משפחה **Weisberg**, שנת לידה גמישה **ללא**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Keren+fnmo.1+ln.Weisberg+lnmsrs.false). מציג 1 - 10 מתוך 10 תוצאות עבור Keren Weisberg בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -510,7 +641,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: living; הורה: משה יצחק ויסברג. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Roi**, משפחה **Weisberg**, שנת לידה גמישה **ללא**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Roi+fnmo.1+ln.Weisberg+lnmsrs.false). מציג 1 - 1 מתוך 1 תוצאות עבור Roi Weisberg בכל האוספים
+שאילתה: שם פרטי **Roi**, משפחה **Weisberg**, שנת לידה גמישה **ללא**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Roi+fnmo.1+ln.Weisberg+lnmsrs.false). מציג 1 - 1 מתוך 1 תוצאות עבור Roi Weisberg בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -519,7 +650,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: living; הורה: משה יצחק ויסברג. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Hila**, משפחה **Weisberg**, שנת לידה גמישה **ללא**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Hila+fnmo.1+ln.Weisberg+lnmsrs.false). מציג 1 - 12 מתוך 12 תוצאות עבור Hila Weisberg בכל האוספים
+שאילתה: שם פרטי **Hila**, משפחה **Weisberg**, שנת לידה גמישה **ללא**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Hila+fnmo.1+ln.Weisberg+lnmsrs.false). מציג 1 - 12 מתוך 12 תוצאות עבור Hila Weisberg בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -528,7 +659,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1927 – 1944; הורה: משה איציק כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: נסקר עמוד החיפוש הראשון; התאמת זהות מעמיקה, חלופות שם ועמודים נוספים טרם הושלמו.
-שאילתה: שם פרטי **Gizi Gitsa**, משפחה **Kahan**, שנת לידה גמישה **1927**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Gizi%2F3Gitsa+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). מציג 1 - 4 מתוך 4 תוצאות עבור Gizi Gitsa Kahan בכל האוספים
+שאילתה: שם פרטי **Gizi Gitsa**, משפחה **Kahan**, שנת לידה גמישה **1927**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Gizi%2F3Gitsa+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). מציג 1 - 4 מתוך 4 תוצאות עבור Gizi Gitsa Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -537,7 +668,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1914 – 1944?; הורה: משה איציק כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Jozsef**, משפחה **Kahan**, שנת לידה גמישה **1914**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jozsef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents=List). מציג 1 - 20 מתוך 362 תוצאות עבור Jozsef Kahan בכל האוספים
+שאילתה: שם פרטי **Jozsef**, משפחה **Kahan**, שנת לידה גמישה **1914**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jozsef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents=List). מציג 1 - 20 מתוך 362 תוצאות עבור Jozsef Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -546,7 +677,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1889; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Rifka**, משפחה **Kahan**, שנת לידה גמישה **1889**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rifka+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Rifka**, משפחה **Kahan**, שנת לידה גמישה **1889**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rifka+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). מספר תוצאות לא נקבע.
 מקור: [MyHeritage, אוסף 40000, רשומה 746160099](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746160099&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
@@ -556,7 +687,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1892; הורה: דוד הירש מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית. נבדקה רשומת MyHeritage מלאה ומקושרת, המיובאת מעץ Geni.
-שאילתה: שם פרטי **Seindel**, משפחה **Kahan**, שנת לידה גמישה **1892**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Seindel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). מציג 1 - 7 מתוך 7 תוצאות עבור Seindel Kahan בכל האוספים
+שאילתה: שם פרטי **Seindel**, משפחה **Kahan**, שנת לידה גמישה **1892**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Seindel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). מציג 1 - 7 מתוך 7 תוצאות עבור Seindel Kahan בכל האוספים
 מקור: [MyHeritage, אוסף 40000, רשומה 746160236](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746160236&action=showRecord). זהו עץ מיובא ולא מקור אזרחי או מצבה שנבדקו.
 ממצא והערכה: רשומת Geni המיובאת ל־MyHeritage מציגה את 24.5.1892 כפטירה, בעוד ציטוט אינדקס הלידה בעץ מציג אותו כתאריך לידה. לא נוסף תאריך פטירה. יש לבדוק את המקורות כדי להכריע אם מדובר בטעות בסוג האירוע.
 המשך: בירור הסתירה במקור מזהה, והמשך חלופות שם ומאגרים רלוונטיים כשיתחדש החיפוש.
@@ -566,7 +697,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1858; הורה: חיים אריה ליב מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Dwora**, משפחה **Kahan**, שנת לידה גמישה **1858**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dwora+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1858&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Dwora**, משפחה **Kahan**, שנת לידה גמישה **1858**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dwora+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1858&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -575,7 +706,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1860; הורה: חיים אריה ליב מולדובן כהן. ילדים בעלי שם שכבר בעץ: 6.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Abraham Wolf**, משפחה **Kahan**, שנת לידה גמישה **1860**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham%2F3Wolf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1860&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Abraham Wolf**, משפחה **Kahan**, שנת לידה גמישה **1860**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham%2F3Wolf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1860&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -584,7 +715,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1884 – 1896; הורה: אברהם וולף כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Baruch Mendl**, משפחה **Kahan**, שנת לידה גמישה **1884**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Mendl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). מציג 1 - 20 מתוך 360 תוצאות עבור Baruch Mendl Kahan בכל האוספים
+שאילתה: שם פרטי **Baruch Mendl**, משפחה **Kahan**, שנת לידה גמישה **1884**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Mendl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). מציג 1 - 20 מתוך 360 תוצאות עבור Baruch Mendl Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -593,7 +724,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1887 – 1888; הורה: אברהם וולף כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **David**, משפחה **Kahan**, שנת לידה גמישה **1887**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **David**, משפחה **Kahan**, שנת לידה גמישה **1887**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -602,7 +733,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1888 – 1894; הורה: אברהם וולף כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Josia**, משפחה **Kahan**, שנת לידה גמישה **1888**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Josia+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Josia**, משפחה **Kahan**, שנת לידה גמישה **1888**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Josia+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -611,7 +742,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1892 – 1935; הורה: אברהם וולף כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Eszter**, משפחה **Kahan**, שנת לידה גמישה **1892**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
+שאילתה: שם פרטי **Eszter**, משפחה **Kahan**, שנת לידה גמישה **1892**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -620,7 +751,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1895 – 1903; הורה: אברהם וולף כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Mozes**, משפחה **Kahan**, שנת לידה גמישה **1895**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1895&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Mozes**, משפחה **Kahan**, שנת לידה גמישה **1895**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1895&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -629,7 +760,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1897; הורה: אברהם וולף כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Leb**, משפחה **Kahan**, שנת לידה גמישה **1897**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1897&qevents=List). מספר תוצאות לא נקבע.
+שאילתה: שם פרטי **Leb**, משפחה **Kahan**, שנת לידה גמישה **1897**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1897&qevents=List). מספר תוצאות לא נקבע.
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -638,7 +769,7 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 בעץ לפני הבדיקה: 1867; הורה: חיים אריה ליב מולדובן כהן. ילדים בעלי שם שכבר בעץ: 0.
 
 כיסוי: החיפוש לא הושלם עקב מגבלה יומית או כשל טעינה; אין זו תוצאה שלילית.
-שאילתה: שם פרטי **Fischel**, משפחה **Kahan**, שנת לידה גמישה **1867**, התאמה דומה/מתורגמת, עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fischel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1867&qevents=List). מציג 1 - 20 מתוך 73 תוצאות עבור Fischel Kahan בכל האוספים
+שאילתה: שם פרטי **Fischel**, משפחה **Kahan**, שנת לידה גמישה **1867**, שם פרטי בהתאמה מדויקת (fnmo.1; אומת בטופס), עמוד 1. [קישור מדויק לחיפוש](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fischel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1867&qevents=List). מציג 1 - 20 מתוך 73 תוצאות עבור Fischel Kahan בכל האוספים
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
@@ -1294,3 +1425,14 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 עובדות או צאצאים חדשים שהוכחו: **אין בתיעוד ביניים זה**. נתוני הבסיס נשמרו.
 המשך: השלמת התאמת זהות, חלופות שם ומקום ומעקב אחר מקורות כשיתחדש החיפוש.
 
+
+
+### הפניות לשאילתות לפי מקום בלבד
+
+- [מציג 1 - 17 מתוך 17 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List).
+- [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Gyulafalu+epmo.exact&qevents=List).
+- [מציג 1 - 2 מתוך 2 תוצאות עבור Moldovan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Moldovan+lnmsrs.false&qevents-event1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List).
+- [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Br%C3%A9b+epmo.exact&qevents=List).
+- [מציג 1 - 11 מתוך 11 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Breb+epmo.exact&qevents=List).
+- [מציג 1 - 1 מתוך 1 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Gyulafalva+epmo.exact&qevents=List).
+- [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Maragyulafalu+epmo.exact&qevents=List).

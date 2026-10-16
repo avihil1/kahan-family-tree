@@ -1,5 +1,135 @@
 # MyHeritage research from the tree root — 16 October 2026
 
+## Morning continuation — 16 October 2026, 10:33 Israel time
+
+**Resumed successfully, then stopped at the daily search limit. The all-person DFS is incomplete.**
+New first-page searches for baseline indices 48–85 succeeded; index 86 (Tehila) displayed the limit.
+Together with the earlier 0–47 screens, 86 of 138 people have an initial result-page screen, not a completed
+investigation. Indices 86–137 have not received a successful initial screen. Earlier people were also retried with
+name/town variants. Strict DFS remains open at Moses Laser; work on later branches is source prefetch.
+
+### Newly established: Jack Samuel Lieberman's marriage
+
+The [original Quebec marriage image](https://www.myheritage.co.il/research/collection-10723/quebec-marriage-returns-1926-1997?itemId=1260246-&action=showRecord), collection 10723, record 1260246-, Form E,
+certificate **145146** (index **upd68-145146**), was visually inspected. It names **Jack Samuel Lieberman** and
+**Marie Denise Therese Gloutney (DEVORAH)**, married **6 November 1968, Montreal**. His birth date is
+**10 December 1946**, hers **21 June 1942**. His birthplace is **Rumania**, hers Canada.
+This adds an original marriage date, the bride's full civil name and precise birth date; Jack's birth date,
+Romanian origin, spouse identity and 1996 death were already in the baseline. MyHeritage's marriage index incorrectly
+labels his birthplace Quebec; the original takes precedence. The tree and Hebrew note now distinguish that error.
+
+The [Quebec civil death index](https://www.myheritage.co.il/research/collection-20872/canada-quebec-civil-deaths-1926-1997?itemId=1330643-&action=showRecord), collection 20872, record 1330643-, independently names father
+**Lipot Lieberman**, mother **Chaja**, birth 10 December 1946 and death **20 January 1996, Saint-Laurent, Montreal**.
+This is index-only evidence; its **Celibataire** marital-status field conflicts with the inspected marriage.
+A divorce, later union or index error has not been established. No new child or maternal assignment was made.
+Historical street addresses and the full marriage image were not republished.
+
+### Rejected ancestry affecting Penina, Dov and Shalom
+
+The Greenblatt tree (updated 11 October 2026) assigns [Penina](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-523075&action=showRecord), [Dov](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-523076&action=showRecord) and
+[Shalom](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-509440&action=showRecord) to Kalonymos Kalman Kahana (1816–1899) and Rivka Hartstein-Rappoport (1827–1870).
+All three full records were read. The alleged parents died decades before these children's 1929, 1930 and 1943 births.
+This proposed ancestry is rejected, and the existing Chaim Arye / Leah parentage remains. These are three profiles
+in one erroneous member tree, not three independent confirmations. Their additional precise dates/places remain
+unverified claims. Four existing tree profiles received source/evidence updates; named node count remains 138.
+
+### Unattached Moses candidates and original survivor list
+
+- [Mozes Kahan, Gyulafalva, Pinkas HaNitzolim I](https://www.myheritage.co.il/research/collection-20020/pinkas-hanitzolim-volume-i-register-of-jewish-survivors-from-jewishgen?itemId=9498-&action=showRecord), collection 20020, record 9498-:
+  MyHeritage labels the list 4C. Following this source led to the [USHMM scan of the original book](https://www.ushmm.org/media/images/vlpnamelist/AO235/AO235.pdf).
+  **PDF page 44, left-hand printed page 52, third column**, has **“Kahán Mózes, Gyulafalva”**, between
+  the Berehovo and Hernicse namesakes. That line gives no age, parents, spouse or street address.
+  Original wording is confirmed, but identity within this family remains unresolved; it does not justify changing
+  any 1944 death or attaching a survivor to the tree. The [JewishGen collection guide](https://www.jewishgen.org/databases/Holocaust/0064_PinkasNitzolimI.html)
+  maps 4C to printed pages 57–70; that differs from this scan's printed page 52. The index/list designation needs
+  reconciliation; no exact sublist date is assigned to this entry here.
+- [Moses Leizor Kahan, member tree](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72J5M5PDPKDK2VPFRXUOKJUAZRY-9-171&action=showRecord):
+  birth 1851, parents Chaim Leib / Chaje Taube Perl, wife Ciupa Kudisch, recorded marriage 16 April 1912,
+  children including Jakob born **9 March 1887, Stanislawow**. Parent and Jakob records were opened.
+  Our Moses has a different documented child chronology, including Jacob born **21 July 1874**. Identity is not
+  established; Chaje Taube is not assigned as our Chaim's earlier wife. “Węgry” can denote Hungary and a modern
+  Polish geocoding label alone does not disprove identity; a late marriage can also be late registration.
+- [Lazer Josef Moldovan, c.1845](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV73EAWJVPJVTHFBAJG3GK6RKBDIQ-1-500184&action=showRecord),
+  Moldwin tree: father Moses Itzig c.1813, mother Sure Sarah, wife Rivka, children Salamon 1868 and Abraham 1871.
+  This is a separate candidate, not an identified alternate name for our Moses Laser.
+- [Giza Moldovan passenger index](https://www.myheritage.co.il/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957?itemId=60026210-F&action=showRecord):
+  age 21, arrived 2 December 1913 on Kaiserin Auguste Victoria from Hamburg, father Moses Moldovan,
+  last residence Marmaroszcges; NARA T715, roll 2231, RG85, row 20, viewer image 154/976.
+  Only the full index was read; no original inspected. She remains unattached.
+
+### Query correction and town variants
+
+The form verified that **fnmo.1 means exact first-name matching**. Earlier descriptions calling it flexible were
+incorrect and are corrected below. Removing that flag enables flexible first names; the resulting broad town-wide
+candidate rankings are not positive identity matches. Exact town screens returned Kahan/Giulești 17, Kahan/Breb 11,
+Kahan/Gyulafalva 1, Moldovan/Giulești 2; Kahan/Bréb, Gyulafalu and Maragyulafalu returned zero under their respective
+exact-town queries. The difference between Breb and Bréb demonstrates why one spelling's zero cannot establish
+absence. Berbești entries under Comuna Giulești also cannot automatically be treated as births in Giulești village.
+
+### Exact morning per-person screens
+
+Each link records page 1 only, a flexible year where provided, and the town predicate encoded in the URL.
+Exact first-name mode is identified separately; candidates still need relationship and original-source checks.
+No indexed match under one query does not establish that no birth, marriage or death registration exists.
+
+- Baseline 5: **Berl Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 363 תוצאות עבור Berl Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 6: **Volf Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1891&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 208 תוצאות עבור Volf Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 7: **Malka Malcsi Kahan (Mendelson)**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malka%2F3Malcsi+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1873&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 1,388 תוצאות עבור Malka Malcsi Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 8: **Abraham Mendelson**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents-any%2F1event_1=Event+et.any+ep.Budfalu+epmo.similar&qevents=List). מציג 1 - 20 מתוך 7,859 תוצאות עבור Abraham Mendelson בכל האוספים No new identity established from this screen alone.
+- Baseline 9: **Salamon Mendelson**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1901&qevents-any%2F1event_1=Event+et.any+ep.Budfalu+epmo.similar&qevents=List). מציג 1 - 20 מתוך 41 תוצאות עבור Salamon Mendelson בכל האוספים No new identity established from this screen alone.
+- Baseline 10: **Amalia Malka Mendelson**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents-any%2F1event_1=Event+et.any+ep.Budfalu+epmo.similar&qevents=List). מציג 1 - 20 מתוך 69 תוצאות עבור Amalia Malka Mendelson בכל האוספים No new identity established from this screen alone.
+- Baseline 11: **Jacob Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1874&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 12,474 תוצאות עבור Jacob Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 12: **Pepi Perle Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pepi%2F3Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1898&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 85 תוצאות עבור Pepi Perle Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 13: **Izrael Kahan**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Izrael+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1899&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Izrael Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 14: **Friderika Kahan**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Friderika+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Friderika Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 15: **Riwke Moldovan Kahan (Gancz)**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1877&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Riwke Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 16: **Avrum Leb Gancz**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+ln.Gancz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1904&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). לא נמצאו תוצאות No new identity established from this screen alone.
+- Baseline 17: **Fradl Moldovan Kahan**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1879&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Fradl Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 18: **Salamon Juda Moldovan Kahan**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Salamon Juda Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 19: **Jaszef Burech Kahan**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Jaszef Burech Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 20: **Riszje Kahan**, flexible first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List). מציג 1 - 17 מתוך 17 תוצאות עבור Riszje Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 49: **Jozsef Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jozsef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 362 תוצאות עבור Jozsef Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 50: **Rifka Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rifka+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents-any%2F1event_1=Event+et.any+ep.Br%C3%A9b+epmo.similar&qevents=List). מציג 1 - 20 מתוך 311 תוצאות עבור Rifka Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 51: **Seindel Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Seindel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents-any%2F1event_1=Event+et.any+ep.Br%C3%A9b+epmo.similar&qevents=List). מציג 1 - 7 מתוך 7 תוצאות עבור Seindel Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 52: **Dwora Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dwora+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1858&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 28 תוצאות עבור Dwora Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 53: **Abraham Wolf Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham%2F3Wolf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1860&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 12,329 תוצאות עבור Abraham Wolf Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 54: **Baruch Mendl Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Mendl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 360 תוצאות עבור Baruch Mendl Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 55: **David Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 22,296 תוצאות עבור David Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 56: **Josia Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Josia+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 8 מתוך 8 תוצאות עבור Josia Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 57: **Eszter Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 58: **Mozes Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1895&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 351 תוצאות עבור Mozes Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 59: **Leb Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1897&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 88 תוצאות עבור Leb Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 60: **Fischel Moldovan Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fischel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1867&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 73 תוצאות עבור Fischel Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 61: **Dov Ber Bernat Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dov%2F3Ber%2F3Bernat+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1868&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 8 מתוך 8 תוצאות עבור Dov Ber Bernat Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 62: **Jente Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jente+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1894&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 170 תוצאות עבור Jente Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 63: **Lipot Aryeh Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Lipot%2F3Aryeh+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 31 תוצאות עבור Lipot Aryeh Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 64: **Pearl Jessica Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pearl%2F3Jessica+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.2026&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 838 תוצאות עבור Pearl Jessica Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 65: **Jack Samuel Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jack%2F3Samuel+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1946&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 3,545 תוצאות עבור Jack Samuel Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 66: **Carl Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Carl+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 3,847 תוצאות עבור Carl Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 67: **Michael Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Michael+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 5,449 תוצאות עבור Michael Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 68: **Juanita Lieberman (Moss)**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Juanita+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 94 תוצאות עבור Juanita Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 69: **Frida (Freide) Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frida+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1917&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 346 תוצאות עבור Frida Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 70: **Naftali Nandor Lieberman**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Naftali%2F3Nandor+fnmo.1+ln.Lieberman+lnmsrs.false&qevents-event1=Event+et.birth+ey.1919&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 92 תוצאות עבור Naftali Nandor Lieberman בכל האוספים No new identity established from this screen alone.
+- Baseline 71: **Brana Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Brana+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1896&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 64 תוצאות עבור Brana Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 72: **Hane Kahan**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Hane+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 395 תוצאות עבור Hane Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 73: **Ziszel Kahan (Muscal)**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Ziszel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 11 מתוך 11 תוצאות עבור Ziszel Kahan בכל האוספים No new identity established from this screen alone.
+- Baseline 74: **Marco Mordechai Yitzhak Muskal**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Marco%2F3Mordechai%2F3Yitzhak+fnmo.1+ln.Muskal+lnmsrs.false&qevents-event1=Event+et.birth+ey.1934&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). לא נמצאו תוצאות לחיפוש שלך No new identity established from this screen alone.
+- Baseline 75: **Dov Muskal**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dov+fnmo.1+ln.Muskal+lnmsrs.false&qevents-event1=Event+et.birth+ey.1936&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 192 תוצאות עבור Dov Muskal בכל האוספים No new identity established from this screen alone.
+- Baseline 76: **Chaim Arye Leb Kahana**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Arye%2F3Leb+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 26 תוצאות עבור Chaim Arye Leb Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 77: **Penina Perl Kahana (Miller)**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Penina%2F3Perl+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1929&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 39 תוצאות עבור Penina Perl Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 78: **Dov Kahana**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dov+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1930&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 1,000 תוצאות עבור Dov Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 79: **Zvi Kahana**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Zvi+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 1,439 תוצאות עבור Zvi Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 80: **Rabbi Meir Kahana**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Meir+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1969&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 12,527 תוצאות עבור Meir Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 81: **Shalom Kahana**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Shalom+fnmo.1+ln.Kahana+lnmsrs.false&qevents-event1=Event+et.birth+ey.1943&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 554 תוצאות עבור Shalom Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 82: **Haim Arie**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Haim%2F3Arie+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 400 תוצאות עבור Haim Arie Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 83: **Shirel**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Shirel+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). לא נמצאו תוצאות לחיפוש שלך No new identity established from this screen alone.
+- Baseline 84: **Ido**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Ido+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 11 מתוך 11 תוצאות עבור Ido Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 85: **Shalom**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Shalom+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 20 מתוך 554 תוצאות עבור Shalom Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 86: **Uria**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Uria+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). מציג 1 - 3 מתוך 3 תוצאות עבור Uria Kahana בכל האוספים No new identity established from this screen alone.
+- Baseline 87: **Tehila**, exact first name; [query](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Tehila+fnmo.1+ln.Kahana+lnmsrs.false&qevents-any%2F1event_1=Event+et.any+ep.Giule%C8%99ti+epmo.similar&qevents=List). Check did not run: daily limit. No new identity established from this screen alone.
+
+## Earlier checkpoint (before the morning continuation)
+
 **Status: incomplete; daily search limit reached.** This is a checkpoint, not a completed all-person DFS report.
 Baseline: 138 named nodes, root Burek Jozsef Moldovan Katz, commit a5b531a. Searches were prefetched in DFS order;
 linked records were subsequently reviewed where accessible. No new named descendant or parent was established.
@@ -53,7 +183,8 @@ and were reviewed normally. Opening a Rose full family-site profile redirected t
 citations were unavailable. Three MyHeritage-linked Geni pages returned blank in the browser and were unavailable
 through the web tool; their originals were not read. Blank pages are not evidence that sources do not exist.
 
-Queries use MyHeritage’s default translated/similar-name matching and a flexible birth year where supplied.
+Correction verified in the search form: fnmo.1 enables exact first-name matching, not default flexible matching.
+The initial queries used that setting and a flexible birth year where supplied; surname settings were unchanged.
 Search ranking often includes people far outside the year/town. Only the displayed first page and any expanded
 suggestions captured there were screened. No collection-wide absence is claimed. Unopened candidates need review.
 Only MyHeritage and references actually linked from it were explored in this new pass. The saved baseline was used
@@ -91,7 +222,7 @@ repository to identify the missing book number. No request was sent and no fee w
 Baseline: 1790 – 1837; root; parents unresolved. Named children already in tree: 1.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Burek Jozsef**, surname **Moldovan**, flexible birth year **1790**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Burek%2F3Jozsef+fnmo.1+ln.Moldovan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1790&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Burek Jozsef Moldovan בכל האוספים
+Query: first **Burek Jozsef**, surname **Moldovan**, flexible birth year **1790**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Burek%2F3Jozsef+fnmo.1+ln.Moldovan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1790&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Burek Jozsef Moldovan בכל האוספים
 Source: [MyHeritage collection 40000, record 816884227](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=816884227&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage review, 16 October 2026: Geni import 816884227 names Rifke Berkovics and son Chaim Arye Leb, but supplies no parents or vital dates for Jozsef. This repeats the linked Geni tree; it is not independent proof of parentage.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -101,7 +232,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: 1827 – 1897; Burek Jozsef Moldovan Katz. Named children already in tree: 10.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Chaim Arye Leb**, surname **Kahan**, flexible birth year **1827**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Arye%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1827&qevents=List). Outcome: מציג 1 - 20 מתוך 24 תוצאות עבור Chaim Arye Leb Kahan בכל האוספים
+Query: first **Chaim Arye Leb**, surname **Kahan**, flexible birth year **1827**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Arye%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1827&qevents=List). Outcome: מציג 1 - 20 מתוך 24 תוצאות עבור Chaim Arye Leb Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746099616](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746099616&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage review, 16 October 2026: the earlier-wife question was already known, not a new discovery. The wife aged 22 in 1848 would have been about 57 in 1883. The imported Geni records simultaneously estimate Freide born c.1850 and David Hersch born c.1855 and assign her as his mother; these claims are chronologically incompatible. David belonging to the earlier marriage is a hypothesis requiring a record naming his mother. Neither the birth span nor this faulty tree establishes the first wife’s identity or death.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -111,7 +242,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: c. 1847; Chaim Arye Leb Moldovan Kahan. Named children already in tree: 8.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Moses Laser**, surname **Kahan**, flexible birth year **1847**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moses%2F3Laser+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1847&qevents=List). Outcome: מציג 1 - 20 מתוך 1,356 תוצאות עבור Moses Laser Kahan בכל האוספים
+Query: first **Moses Laser**, surname **Kahan**, flexible birth year **1847**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moses%2F3Laser+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1847&qevents=List). Outcome: מציג 1 - 20 מתוך 1,356 תוצאות עבור Moses Laser Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -120,7 +251,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1869; Moses Laser Moldovan Kahan. Named children already in tree: 2.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Efrajm Froim**, surname **Kahan**, flexible birth year **1869**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Efrajm%2F3Froim+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1869&qevents=List). Outcome: Result count not established.
+Query: first **Efrajm Froim**, surname **Kahan**, flexible birth year **1869**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Efrajm%2F3Froim+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1869&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -129,7 +260,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1889; Efrajm Froim Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Berl**, surname **Kahan**, flexible birth year **1889**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). Outcome: מציג 1 - 20 מתוך 363 תוצאות עבור Berl Kahan בכל האוספים
+Query: first **Berl**, surname **Kahan**, flexible birth year **1889**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). Outcome: מציג 1 - 20 מתוך 363 תוצאות עבור Berl Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -138,7 +269,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1891 – 1900; Efrajm Froim Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Volf**, surname **Kahan**, flexible birth year **1891**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1891&qevents=List). Outcome: מציג 1 - 20 מתוך 208 תוצאות עבור Volf Kahan בכל האוספים
+Query: first **Volf**, surname **Kahan**, flexible birth year **1891**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1891&qevents=List). Outcome: מציג 1 - 20 מתוך 208 תוצאות עבור Volf Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -147,7 +278,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1873 – 1903; Moses Laser Moldovan Kahan. Named children already in tree: 3.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Malka Malcsi**, surname **Kahan**, flexible birth year **1873**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malka%2F3Malcsi+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1873&qevents=List). Outcome: מציג 1 - 20 מתוך 1,395 תוצאות עבור Malka Malcsi Kahan בכל האוספים
+Query: first **Malka Malcsi**, surname **Kahan**, flexible birth year **1873**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malka%2F3Malcsi+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1873&qevents=List). Outcome: מציג 1 - 20 מתוך 1,395 תוצאות עבור Malka Malcsi Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -156,7 +287,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1900 – 1901; Malka Malcsi Kahan (Mendelson). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Abraham**, surname **Mendelson**, flexible birth year **1900**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents=List). Outcome: מציג 1 - 20 מתוך 8,009 תוצאות עבור Abraham Mendelson בכל האוספים
+Query: first **Abraham**, surname **Mendelson**, flexible birth year **1900**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1900&qevents=List). Outcome: מציג 1 - 20 מתוך 8,009 תוצאות עבור Abraham Mendelson בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -165,7 +296,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1901 – 1904; Malka Malcsi Kahan (Mendelson). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Salamon**, surname **Mendelson**, flexible birth year **1901**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1901&qevents=List). Outcome: מציג 1 - 20 מתוך 41 תוצאות עבור Salamon Mendelson בכל האוספים
+Query: first **Salamon**, surname **Mendelson**, flexible birth year **1901**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1901&qevents=List). Outcome: מציג 1 - 20 מתוך 41 תוצאות עבור Salamon Mendelson בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -174,7 +305,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1903; Malka Malcsi Kahan (Mendelson). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Amalia Malka**, surname **Mendelson**, flexible birth year **1903**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents=List). Outcome: מציג 1 - 20 מתוך 69 תוצאות עבור Amalia Malka Mendelson בכל האוספים
+Query: first **Amalia Malka**, surname **Mendelson**, flexible birth year **1903**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents-event1=Event+et.birth+ey.1903&qevents=List). Outcome: מציג 1 - 20 מתוך 69 תוצאות עבור Amalia Malka Mendelson בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -183,7 +314,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1874; Moses Laser Moldovan Kahan. Named children already in tree: 3.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Jacob**, surname **Kahan**, flexible birth year **1874**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1874&qevents=List). Outcome: מציג 1 - 20 מתוך 12,685 תוצאות עבור Jacob Kahan בכל האוספים
+Query: first **Jacob**, surname **Kahan**, flexible birth year **1874**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1874&qevents=List). Outcome: מציג 1 - 20 מתוך 12,685 תוצאות עבור Jacob Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -192,7 +323,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1898; Jacob Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Pepi Perle**, surname **Kahan**, flexible birth year **1898**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pepi%2F3Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1898&qevents=List). Outcome: מציג 1 - 20 מתוך 87 תוצאות עבור Pepi Perle Kahan בכל האוספים
+Query: first **Pepi Perle**, surname **Kahan**, flexible birth year **1898**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Pepi%2F3Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1898&qevents=List). Outcome: מציג 1 - 20 מתוך 87 תוצאות עבור Pepi Perle Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -201,7 +332,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1899; Jacob Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Izrael**, surname **Kahan**, flexible birth year **1899**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Izrael+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1899&qevents=List). Outcome: מציג 1 - 20 מתוך 436 תוצאות עבור Izrael Kahan בכל האוספים
+Query: first **Izrael**, surname **Kahan**, flexible birth year **1899**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Izrael+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1899&qevents=List). Outcome: מציג 1 - 20 מתוך 436 תוצאות עבור Izrael Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -210,7 +341,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1902 – 1902; Jacob Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Friderika**, surname **Kahan**, flexible birth year **1902**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Friderika+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents=List). Outcome: מציג 1 - 3 מתוך 3 תוצאות עבור Friderika Kahan בכל האוספים
+Query: first **Friderika**, surname **Kahan**, flexible birth year **1902**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Friderika+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1902&qevents=List). Outcome: מציג 1 - 3 מתוך 3 תוצאות עבור Friderika Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -219,7 +350,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1877; Moses Laser Moldovan Kahan. Named children already in tree: 1.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Riwke**, surname **Kahan**, flexible birth year **1877**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1877&qevents=List). Outcome: מציג 1 - 20 מתוך 111 תוצאות עבור Riwke Kahan בכל האוספים
+Query: first **Riwke**, surname **Kahan**, flexible birth year **1877**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1877&qevents=List). Outcome: מציג 1 - 20 מתוך 111 תוצאות עבור Riwke Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -228,7 +359,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1904; Riwke Moldovan Kahan (Gancz). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Avrum Leb**, surname **Gancz**, flexible birth year **1904**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+fnmo.1+ln.Gancz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1904&qevents=List). Outcome: מציג 1 - 2 מתוך 2 תוצאות עבור Avrum Leb Gancz בכל האוספים
+Query: first **Avrum Leb**, surname **Gancz**, flexible birth year **1904**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+fnmo.1+ln.Gancz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1904&qevents=List). Outcome: מציג 1 - 2 מתוך 2 תוצאות עבור Avrum Leb Gancz בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -237,7 +368,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1879; Moses Laser Moldovan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Fradl**, surname **Kahan**, flexible birth year **1879**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1879&qevents=List). Outcome: מציג 1 - 3 מתוך 3 תוצאות עבור Fradl Kahan בכל האוספים
+Query: first **Fradl**, surname **Kahan**, flexible birth year **1879**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1879&qevents=List). Outcome: מציג 1 - 3 מתוך 3 תוצאות עבור Fradl Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -246,7 +377,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1881; Moses Laser Moldovan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Salamon Juda**, surname **Kahan**, flexible birth year **1881**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). Outcome: מציג 1 - 20 מתוך 139 תוצאות עבור Salamon Juda Kahan בכל האוספים
+Query: first **Salamon Juda**, surname **Kahan**, flexible birth year **1881**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). Outcome: מציג 1 - 20 מתוך 139 תוצאות עבור Salamon Juda Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -255,7 +386,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1886 – 1887; Moses Laser Moldovan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Jaszef Burech**, surname **Kahan**, flexible birth year **1886**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). Outcome: Result count not established.
+Query: first **Jaszef Burech**, surname **Kahan**, flexible birth year **1886**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -264,7 +395,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1888; Moses Laser Moldovan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Riszje**, surname **Kahan**, flexible birth year **1888**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). Outcome: מציג 1 - 2 מתוך 2 תוצאות עבור Riszje Kahan בכל האוספים
+Query: first **Riszje**, surname **Kahan**, flexible birth year **1888**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). Outcome: מציג 1 - 2 מתוך 2 תוצאות עבור Riszje Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -273,7 +404,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: c. 1855; Chaim Arye Leb Moldovan Kahan. Named children already in tree: 11.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **David Hers**, surname **Kahan**, flexible birth year **1855**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David%2F3Hers+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1855&qevents=List). Outcome: מציג 1 - 20 מתוך 12,508 תוצאות עבור David Hers Kahan בכל האוספים
+Query: first **David Hers**, surname **Kahan**, flexible birth year **1855**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David%2F3Hers+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1855&qevents=List). Outcome: מציג 1 - 20 מתוך 12,508 תוצאות עבור David Hers Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746100153](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746100153&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage Geni imports 746100153 and 816885017 assign Freide Klein (estimated born c.1850) as mother of David Hersch (estimated born c.1855). Both estimates and the maternal assignment cannot all be correct. This does not establish the earlier wife as David’s mother. His parentage remains provisional pending an identifying original.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -283,7 +414,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: 1875; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Baruch Josef**, surname **Kahan**, flexible birth year **1875**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Josef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1875&qevents=List). Outcome: מציג 1 - 20 מתוך 395 תוצאות עבור Baruch Josef Kahan בכל האוספים
+Query: first **Baruch Josef**, surname **Kahan**, flexible birth year **1875**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Josef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1875&qevents=List). Outcome: מציג 1 - 20 מתוך 395 תוצאות עבור Baruch Josef Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 400873593](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=400873593&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage Geni import 400873593 links a Baruch Jozsef born c.1850 to David Hersch born c.1855 and gives him wife Mindye and son Szender Yuda born 1881. This conflicts with this Baruch’s indexed 18 March 1875 birth: the proposed son would be born when he was six. Do not attach Mindye, Szender or their descendants to this person without resolving the conflicting identities.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -293,7 +424,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: 1876; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Eszter**, surname **Kahan**, flexible birth year **1876**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1876&qevents=List). Outcome: מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
+Query: first **Eszter**, surname **Kahan**, flexible birth year **1876**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1876&qevents=List). Outcome: מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746158315](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746158315&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -303,7 +434,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1878; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Juda**, surname **Kahan**, flexible birth year **1878**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1878&qevents=List). Outcome: מציג 1 - 20 מתוך 2,043 תוצאות עבור Juda Kahan בכל האוספים
+Query: first **Juda**, surname **Kahan**, flexible birth year **1878**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Juda+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1878&qevents=List). Outcome: מציג 1 - 20 מתוך 2,043 תוצאות עבור Juda Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746158579](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746158579&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -313,7 +444,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1880 – 1882; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Abraham**, surname **Kahan**, flexible birth year **1880**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1880&qevents=List). Outcome: מציג 1 - 20 מתוך 19,031 תוצאות עבור Abraham Kahan בכל האוספים
+Query: first **Abraham**, surname **Kahan**, flexible birth year **1880**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1880&qevents=List). Outcome: מציג 1 - 20 מתוך 19,031 תוצאות עבור Abraham Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746158733](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746158733&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -323,7 +454,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1881; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Chaje Feige**, surname **Kahan**, flexible birth year **1881**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaje%2F3Feige+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). Outcome: מציג 1 - 20 מתוך 258 תוצאות עבור Chaje Feige Kahan בכל האוספים
+Query: first **Chaje Feige**, surname **Kahan**, flexible birth year **1881**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaje%2F3Feige+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1881&qevents=List). Outcome: מציג 1 - 20 מתוך 258 תוצאות עבור Chaje Feige Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746159082](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159082&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -333,7 +464,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1884 – 1944; David Hers Moldavan Kahan. Named children already in tree: 6.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Frede Frimet**, surname **Kahan**, flexible birth year **1884**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frede%2F3Frimet+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). Outcome: מציג 1 - 2 מתוך 2 תוצאות עבור Frede Frimet Kahan בכל האוספים
+Query: first **Frede Frimet**, surname **Kahan**, flexible birth year **1884**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frede%2F3Frimet+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). Outcome: מציג 1 - 2 מתוך 2 תוצאות עבור Frede Frimet Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746159080](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159080&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage Geni import 746159080 lists Chaja Ganz as another daughter, and Rosa Rachel Lebovici plus Rosa Lebovici as separate daughters. The two Rosa records share birth 7 April 1920, death 5 October 2014, matching parents and matching spouse names, making duplication likely; no extra Rosa node was added. Chaja is a candidate requiring supporting evidence, not an established new child.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -343,7 +474,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: 1911 – 1998; Frede Frimet Kahan (Ganz). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Freida**, surname **Ganz**, flexible birth year **1911**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Freida+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1911&qevents=List). Outcome: מציג 1 - 20 מתוך 167 תוצאות עבור Freida Ganz בכל האוספים
+Query: first **Freida**, surname **Ganz**, flexible birth year **1911**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Freida+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1911&qevents=List). Outcome: מציג 1 - 20 מתוך 167 תוצאות עבור Freida Ganz בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -352,7 +483,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1920 – 2014; Frede Frimet Kahan (Ganz). Named children already in tree: 1.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Rosa Rachel**, surname **Ganz**, flexible birth year **1920**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rosa%2F3Rachel+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). Outcome: מציג 1 - 20 מתוך 572 תוצאות עבור Rosa Rachel Ganz בכל האוספים
+Query: first **Rosa Rachel**, surname **Ganz**, flexible birth year **1920**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rosa%2F3Rachel+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). Outcome: מציג 1 - 20 מתוך 572 תוצאות עבור Rosa Rachel Ganz בכל האוספים
 Source: [MyHeritage collection 40000, record 746243224](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243224&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -362,7 +493,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: ? – bef. 2014; Rosa Rachel Ganz (Lebovici). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Moishe**, surname **Lebovici**, flexible birth year **2014**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moishe+fnmo.1+ln.Lebovici+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). Outcome: מציג 1 - 20 מתוך 194 תוצאות עבור Moishe Lebovici בכל האוספים
+Query: first **Moishe**, surname **Lebovici**, flexible birth year **2014**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moishe+fnmo.1+ln.Lebovici+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). Outcome: מציג 1 - 20 מתוך 194 תוצאות עבור Moishe Lebovici בכל האוספים
 Source: [MyHeritage collection 40000, record 746243757](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746243757&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage Geni import 746243757 reports birth in Montreal and death in 1991, with parents Eugen Yankel Lebovici and Rosa Rachel Ganz. This narrows the previous obituary bound only as a family-tree claim; no death original was inspected, so 1991 is not entered as an independently established vital date.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -372,7 +503,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: 1922 – 2004; Frede Frimet Kahan (Ganz). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Srul Jankel Yaakov**, surname **Ganz**, flexible birth year **1922**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Srul%2F3Jankel%2F3Yaakov+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1922&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Srul Jankel Yaakov Ganz בכל האוספים
+Query: first **Srul Jankel Yaakov**, surname **Ganz**, flexible birth year **1922**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Srul%2F3Jankel%2F3Yaakov+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1922&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Srul Jankel Yaakov Ganz בכל האוספים
 Source: [MyHeritage collection 40000, record 746314643](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746314643&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -382,7 +513,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1924 – 2014; Frede Frimet Kahan (Ganz). Named children already in tree: 2.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Fani**, surname **Ganz**, flexible birth year **1924**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fani+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1924&qevents=List). Outcome: מציג 1 - 20 מתוך 50 תוצאות עבור Fani Ganz בכל האוספים
+Query: first **Fani**, surname **Ganz**, flexible birth year **1924**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fani+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1924&qevents=List). Outcome: מציג 1 - 20 מתוך 50 תוצאות עבור Fani Ganz בכל האוספים
 Source: [MyHeritage collection 40000, record 271938546](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=271938546&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage comparison: Benharoun, Rose and Berlin trees match Fani’s identity, while Perl Web Site assigns the same Fani entry to Mordechai Martin Weinberger and Ida Roth. That conflicting parent assignment was not adopted. Benharoun reports the husband’s death in 1958, also unverified. Copies with shared details are not independent confirmation.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -392,7 +523,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: living; Fani Ganz (Segelstein). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Betty**, surname **Segelstein**, flexible birth year **none**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Betty+fnmo.1+ln.Segelstein+lnmsrs.false). Outcome: מציג 1 - 20 מתוך 47 תוצאות עבור Betty Segelstein בכל האוספים
+Query: first **Betty**, surname **Segelstein**, flexible birth year **none**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Betty+fnmo.1+ln.Segelstein+lnmsrs.false). Outcome: מציג 1 - 20 מתוך 47 תוצאות עבור Betty Segelstein בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -401,7 +532,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: living; Fani Ganz (Segelstein). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **David**, surname **Segelstein**, flexible birth year **none**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Segelstein+lnmsrs.false). Outcome: מציג 1 - 20 מתוך 134 תוצאות עבור David Segelstein בכל האוספים
+Query: first **David**, surname **Segelstein**, flexible birth year **none**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Segelstein+lnmsrs.false). Outcome: מציג 1 - 20 מתוך 134 תוצאות עבור David Segelstein בכל האוספים
 Source: [MyHeritage collection 40000, record 271938173](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=271938173&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -411,7 +542,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1927 – 1944; Frede Frimet Kahan (Ganz). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Berl Bernat**, surname **Ganz**, flexible birth year **1927**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl%2F3Bernat+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). Outcome: מציג 1 - 13 מתוך 13 תוצאות עבור Berl Bernat Ganz בכל האוספים
+Query: first **Berl Bernat**, surname **Ganz**, flexible birth year **1927**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl%2F3Bernat+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). Outcome: מציג 1 - 13 מתוך 13 תוצאות עבור Berl Bernat Ganz בכל האוספים
 Source: [MyHeritage collection 40000, record 746315002](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746315002&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage Berlin and Rose trees report death on 22 May 1944 at Auschwitz. Both identify parents David Hersch Ganz and Frimit Kahan, but their independence and original basis are unknown. The exact day remains an unverified tree claim; the existing 1944 date is retained.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -421,7 +552,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: ? – bef. 2014; Frede Frimet Kahan (Ganz). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Dori**, surname **Ganz**, flexible birth year **2014**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dori+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). Outcome: מציג 1 - 20 מתוך 26 תוצאות עבור Dori Ganz בכל האוספים
+Query: first **Dori**, surname **Ganz**, flexible birth year **2014**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dori+fnmo.1+ln.Ganz+lnmsrs.false&qevents-event1=Event+et.birth+ey.2014&qevents=List). Outcome: מציג 1 - 20 מתוך 26 תוצאות עבור Dori Ganz בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -430,7 +561,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1884 – 1884; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Israel**, surname **Kahan**, flexible birth year **1884**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Israel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). Outcome: מציג 1 - 20 מתוך 4,221 תוצאות עבור Israel Kahan בכל האוספים
+Query: first **Israel**, surname **Kahan**, flexible birth year **1884**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Israel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). Outcome: מציג 1 - 20 מתוך 4,221 תוצאות עבור Israel Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746159211](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159211&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -440,7 +571,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1886 – 1887; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Jakob**, surname **Kahan**, flexible birth year **1886**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jakob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). Outcome: מציג 1 - 20 מתוך 2,514 תוצאות עבור Jakob Kahan בכל האוספים
+Query: first **Jakob**, surname **Kahan**, flexible birth year **1886**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jakob+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1886&qevents=List). Outcome: מציג 1 - 20 מתוך 2,514 תוצאות עבור Jakob Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746159815](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159815&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -450,7 +581,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1887 – 1944; David Hers Moldavan Kahan. Named children already in tree: 5.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Mozses Iczik**, surname **Kahan**, flexible birth year **1887**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozses%2F3Iczik+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Mozses Iczik Kahan בכל האוספים
+Query: first **Mozses Iczik**, surname **Kahan**, flexible birth year **1887**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozses%2F3Iczik+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Mozses Iczik Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746159814](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746159814&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -460,7 +591,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1912 – 1944; Mozses Iczik Kahan. Named children already in tree: 1.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Chaim Leb**, surname **Kahan**, flexible birth year **1912**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1912&qevents=List). Outcome: מציג 1 - 20 מתוך 1,105 תוצאות עבור Chaim Leb Kahan בכל האוספים
+Query: first **Chaim Leb**, surname **Kahan**, flexible birth year **1912**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Chaim%2F3Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1912&qevents=List). Outcome: מציג 1 - 20 מתוך 1,105 תוצאות עבור Chaim Leb Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -469,7 +600,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1939 – 1944; Chaim Leb Kahan (Lajos). Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Eliezer Simcha**, surname **Kahan**, flexible birth year **1939**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eliezer%2F3Simcha+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1939&qevents=List). Outcome: מציג 1 - 20 מתוך 369 תוצאות עבור Eliezer Simcha Kahan בכל האוספים
+Query: first **Eliezer Simcha**, surname **Kahan**, flexible birth year **1939**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eliezer%2F3Simcha+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1939&qevents=List). Outcome: מציג 1 - 20 מתוך 369 תוצאות עבור Eliezer Simcha Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -478,7 +609,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1920 – 1944; Mozses Iczik Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Raziel**, surname **Kahan**, flexible birth year **1920**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Raziel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Raziel Kahan בכל האוספים
+Query: first **Raziel**, surname **Kahan**, flexible birth year **1920**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Raziel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1920&qevents=List). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Raziel Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -487,7 +618,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1925 – 2017; Mozses Iczik Kahan. Named children already in tree: 1.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Frida**, surname **Kahan**, flexible birth year **1925**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frida+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1925&qevents=List). Outcome: מציג 1 - 20 מתוך 415 תוצאות עבור Frida Kahan בכל האוספים
+Query: first **Frida**, surname **Kahan**, flexible birth year **1925**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Frida+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1925&qevents=List). Outcome: מציג 1 - 20 מתוך 415 תוצאות עבור Frida Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -496,7 +627,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1956 – living; Frida Kahan (Weisberg). Named children already in tree: 3.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Moshe Yitzhak**, surname **Weisberg**, flexible birth year **1956**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moshe%2F3Yitzhak+fnmo.1+ln.Weisberg+lnmsrs.false&qevents-event1=Event+et.birth+ey.1956&qevents=List). Outcome: מציג 1 - 20 מתוך 351 תוצאות עבור Moshe Yitzhak Weisberg בכל האוספים
+Query: first **Moshe Yitzhak**, surname **Weisberg**, flexible birth year **1956**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moshe%2F3Yitzhak+fnmo.1+ln.Weisberg+lnmsrs.false&qevents-event1=Event+et.birth+ey.1956&qevents=List). Outcome: מציג 1 - 20 מתוך 351 תוצאות עבור Moshe Yitzhak Weisberg בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -505,7 +636,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: living; Moshe Yitzhak Weisberg. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Keren**, surname **Weisberg**, flexible birth year **none**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Keren+fnmo.1+ln.Weisberg+lnmsrs.false). Outcome: מציג 1 - 10 מתוך 10 תוצאות עבור Keren Weisberg בכל האוספים
+Query: first **Keren**, surname **Weisberg**, flexible birth year **none**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Keren+fnmo.1+ln.Weisberg+lnmsrs.false). Outcome: מציג 1 - 10 מתוך 10 תוצאות עבור Keren Weisberg בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -514,7 +645,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: living; Moshe Yitzhak Weisberg. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Roi**, surname **Weisberg**, flexible birth year **none**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Roi+fnmo.1+ln.Weisberg+lnmsrs.false). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Roi Weisberg בכל האוספים
+Query: first **Roi**, surname **Weisberg**, flexible birth year **none**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Roi+fnmo.1+ln.Weisberg+lnmsrs.false). Outcome: מציג 1 - 1 מתוך 1 תוצאות עבור Roi Weisberg בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -523,7 +654,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: living; Moshe Yitzhak Weisberg. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Hila**, surname **Weisberg**, flexible birth year **none**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Hila+fnmo.1+ln.Weisberg+lnmsrs.false). Outcome: מציג 1 - 12 מתוך 12 תוצאות עבור Hila Weisberg בכל האוספים
+Query: first **Hila**, surname **Weisberg**, flexible birth year **none**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Hila+fnmo.1+ln.Weisberg+lnmsrs.false). Outcome: מציג 1 - 12 מתוך 12 תוצאות עבור Hila Weisberg בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -532,7 +663,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1927 – 1944; Mozses Iczik Kahan. Named children already in tree: 0.
 
 Coverage: First search page screened; deeper matching, variants and pagination remain open.
-Query: first **Gizi Gitsa**, surname **Kahan**, flexible birth year **1927**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Gizi%2F3Gitsa+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). Outcome: מציג 1 - 4 מתוך 4 תוצאות עבור Gizi Gitsa Kahan בכל האוספים
+Query: first **Gizi Gitsa**, surname **Kahan**, flexible birth year **1927**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Gizi%2F3Gitsa+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1927&qevents=List). Outcome: מציג 1 - 4 מתוך 4 תוצאות עבור Gizi Gitsa Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -541,7 +672,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1914 – 1944?; Mozses Iczik Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Jozsef**, surname **Kahan**, flexible birth year **1914**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jozsef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents=List). Outcome: מציג 1 - 20 מתוך 362 תוצאות עבור Jozsef Kahan בכל האוספים
+Query: first **Jozsef**, surname **Kahan**, flexible birth year **1914**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jozsef+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1914&qevents=List). Outcome: מציג 1 - 20 מתוך 362 תוצאות עבור Jozsef Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -550,7 +681,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1889; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Rifka**, surname **Kahan**, flexible birth year **1889**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rifka+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). Outcome: Result count not established.
+Query: first **Rifka**, surname **Kahan**, flexible birth year **1889**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Rifka+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1889&qevents=List). Outcome: Result count not established.
 Source: [MyHeritage collection 40000, record 746160099](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746160099&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
@@ -560,7 +691,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1892; David Hers Moldavan Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result. Linked full MyHeritage record reviewed (secondary Geni import).
-Query: first **Seindel**, surname **Kahan**, flexible birth year **1892**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Seindel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). Outcome: מציג 1 - 7 מתוך 7 תוצאות עבור Seindel Kahan בכל האוספים
+Query: first **Seindel**, surname **Kahan**, flexible birth year **1892**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Seindel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). Outcome: מציג 1 - 7 מתוך 7 תוצאות עבור Seindel Kahan בכל האוספים
 Source: [MyHeritage collection 40000, record 746160236](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=746160236&action=showRecord). This is a member-tree import, not an inspected civil/cemetery original.
 Finding / assessment: MyHeritage Geni import 746160236 puts 24 May 1892 in the death field, while the baseline birth index citation puts that date in the birth field. No death date was adopted. Inspect the original birth and any death entry to resolve an event-type transcription error.
 Next: resolve the documented conflict in an identifying original; continue variants and applicable record collections when search access returns.
@@ -570,7 +701,7 @@ Next: resolve the documented conflict in an identifying original; continue varia
 Baseline: 1858; Chaim Arye Leb Moldovan Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Dwora**, surname **Kahan**, flexible birth year **1858**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dwora+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1858&qevents=List). Outcome: Result count not established.
+Query: first **Dwora**, surname **Kahan**, flexible birth year **1858**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Dwora+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1858&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -579,7 +710,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1860; Chaim Arye Leb Moldovan Kahan. Named children already in tree: 6.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Abraham Wolf**, surname **Kahan**, flexible birth year **1860**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham%2F3Wolf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1860&qevents=List). Outcome: Result count not established.
+Query: first **Abraham Wolf**, surname **Kahan**, flexible birth year **1860**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham%2F3Wolf+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1860&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -588,7 +719,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1884 – 1896; Abraham Wolf Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Baruch Mendl**, surname **Kahan**, flexible birth year **1884**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Mendl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). Outcome: מציג 1 - 20 מתוך 360 תוצאות עבור Baruch Mendl Kahan בכל האוספים
+Query: first **Baruch Mendl**, surname **Kahan**, flexible birth year **1884**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Baruch%2F3Mendl+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1884&qevents=List). Outcome: מציג 1 - 20 מתוך 360 תוצאות עבור Baruch Mendl Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -597,7 +728,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1887 – 1888; Abraham Wolf Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **David**, surname **Kahan**, flexible birth year **1887**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). Outcome: Result count not established.
+Query: first **David**, surname **Kahan**, flexible birth year **1887**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.David+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1887&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -606,7 +737,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1888 – 1894; Abraham Wolf Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Josia**, surname **Kahan**, flexible birth year **1888**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Josia+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). Outcome: Result count not established.
+Query: first **Josia**, surname **Kahan**, flexible birth year **1888**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Josia+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1888&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -615,7 +746,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1892 – 1935; Abraham Wolf Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Eszter**, surname **Kahan**, flexible birth year **1892**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). Outcome: מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
+Query: first **Eszter**, surname **Kahan**, flexible birth year **1892**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1892&qevents=List). Outcome: מציג 1 - 20 מתוך 186 תוצאות עבור Eszter Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -624,7 +755,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1895 – 1903; Abraham Wolf Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Mozes**, surname **Kahan**, flexible birth year **1895**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1895&qevents=List). Outcome: Result count not established.
+Query: first **Mozes**, surname **Kahan**, flexible birth year **1895**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1895&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -633,7 +764,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1897; Abraham Wolf Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Leb**, surname **Kahan**, flexible birth year **1897**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1897&qevents=List). Outcome: Result count not established.
+Query: first **Leb**, surname **Kahan**, flexible birth year **1897**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Leb+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1897&qevents=List). Outcome: Result count not established.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -642,7 +773,7 @@ Next: complete identity matching, relevant name/town variants and source follow-
 Baseline: 1867; Chaim Arye Leb Moldovan Kahan. Named children already in tree: 0.
 
 Coverage: Search incomplete: daily limit or load timeout; not a negative result.
-Query: first **Fischel**, surname **Kahan**, flexible birth year **1867**, default similar/translated matching, page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fischel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1867&qevents=List). Outcome: מציג 1 - 20 מתוך 73 תוצאות עבור Fischel Kahan בכל האוספים
+Query: first **Fischel**, surname **Kahan**, flexible birth year **1867**, exact first-name matching (fnmo.1; verified in the form), page 1. [Exact search URL](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fischel+fnmo.1+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.birth+ey.1867&qevents=List). Outcome: מציג 1 - 20 מתוך 73 תוצאות עבור Fischel Kahan בכל האוספים
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
@@ -1298,3 +1429,14 @@ Coverage: No individual search submitted before the daily limit.
 Newly established facts or descendants: **none in this checkpoint**. The baseline is retained.
 Next: complete identity matching, relevant name/town variants and source follow-up when search access returns.
 
+
+
+### Town-only query references
+
+- [מציג 1 - 17 מתוך 17 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List).
+- [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Gyulafalu+epmo.exact&qevents=List).
+- [מציג 1 - 2 מתוך 2 תוצאות עבור Moldovan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Moldovan+lnmsrs.false&qevents-event1=Event+et.any+ep.Giule%C8%99ti+epmo.exact&qevents=List).
+- [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Br%C3%A9b+epmo.exact&qevents=List).
+- [מציג 1 - 11 מתוך 11 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Breb+epmo.exact&qevents=List).
+- [מציג 1 - 1 מתוך 1 תוצאות עבור Kahan בכל האוספים](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Gyulafalva+epmo.exact&qevents=List).
+- [לא נמצאו תוצאות](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+ln.Kahan+lnmsrs.false&qevents-event1=Event+et.any+ep.Maragyulafalu+epmo.exact&qevents=List).
