@@ -1959,3 +1959,6 @@ historical citations; current archival call numbers and manuscript images have n
 ### Readable English translation of the three pages
 
 The complete checked translation, with editable tables: [read online](magyar-zsido-okleveltar-vii-selected-en.html) or [download Word](magyar-zsido-okleveltar-vii-selected-en.docx). It includes all visible text/rows on printed pp.136, 306 and 747, not only the family-relevant excerpts. The rest of the volume remains in progress.
+
+
+The [full-volume English draft](https://avihil1.github.io/kahan-family-tree/research/magyar-zsido-okleveltar-vii-volume-en.html) has begun with Claude Opus. Its cover states the exact page coverage. It is translated from OCR and is not fully checked against the images; use the separately reviewed three-page translation for the requested census pages.
