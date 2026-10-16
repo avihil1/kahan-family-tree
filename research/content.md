@@ -1962,3 +1962,67 @@ The complete checked translation, with editable tables: [read online](magyar-zsi
 
 
 The [full-volume English draft](https://avihil1.github.io/kahan-family-tree/research/magyar-zsido-okleveltar-vii-volume-en.html) has begun with Claude Opus. Its cover states the exact page coverage. It is translated from OCR and is not fully checked against the images; use the separately reviewed three-page translation for the requested census pages.
+
+
+## Sefer Marmarosh: identified family passage and 1830 Bréb candidates — 16 October 2026
+
+Source inspected: S. Y. Gross and Y. Yosef Kohen, eds., *Sefer Marmarosh* (Tel Aviv, 1983),
+[Yiddish Book Center / NYPL copy](https://www.yiddishbookcenter.org/collections/yizkor-books/yzk-nybc314151/gross-s-y-kohen-yitshak-sefer-marmarosh-meah-ve-shishim-kehilot-kedoshot-be-yishuvan).
+Scan identifier **nybc314151**. These are retrospective community histories, not civil registers.
+The user's screenshot is the end of **Giulești**, printed **p.63**, above the next community heading, Sarasau.
+Reading across the two columns incorrectly can assign Giulești's Holocaust account to Sarasau.
+The Hungarian VII citation in that screenshot documents early community context; the family passage is on the preceding page.
+
+### Family evidence: printed pp.62–63
+
+[Printed p.62, PDF viewer p.222, left column beneath the portrait](https://archive.org/details/nybc314151/page/n221/mode/1up); continuation on
+[p.63, PDF viewer p.223, upper right](https://archive.org/details/nybc314151/page/n222/mode/1up). Enlarged scans were inspected, not just OCR.
+
+| Person / question | Book report | Assessment against the existing tree |
+| --- | --- | --- |
+| Chaim Leib Kahana | Timișoara dayan; Rabbi Miller of Nazareth Illit's father-in-law; eldest son. | Very strong identification with Chaim Arye Leb (1903), using the combined family, office and place links. His occupation and Miller connection were already known. |
+| Mendel Kahana | Another son; Giulești teacher, later teacher at a religious high school in Netanya. | Strong corroboration of the brother relationship to Shimon Menachem, already identified by family and testimony. The teaching details are newly sourced here. |
+| Father | Printed **David Kahana**, village clerk/secretary; five sons and five daughters. | Given name conflicts with original Bernad/Dov evidence. Retain Dov/Bernat; do not equate David and Dov as interchangeable names. The occupation is a book claim for this likely household. |
+| Sons' education | All five sons studied with Yehuda Rosner at Székelyhíd. | Chaim's teacher was already known; collective sibling attendance is newly documented, not independently verified in school records. |
+| Mother | Unnamed. | Does not independently name Regina Liberman or establish maternal ancestry. |
+| Chaim's death | **2 Sivan 5717**. | Conflicts with the present tree's **23 May 1956**. No vital field overwritten; obtain a grave or death original. |
+| Mendel's death | Tevet 5733; civil date **1 January 1973**. | Existing Netanya screenshot explicitly dates burial **2 January 1973** and gives death in Hebrew. A Hebrew day starts the previous evening, so this need not be a one-day factual contradiction. Time of death remains unverified; do not call the burial date an independently explicit Gregorian death date. |
+
+The current branch has **11 named children (4 male, 7 female, including an infant death)**; the book says **5 sons,
+5 daughters**. These are unreconciled counts. No unnamed fifth son was invented and no daughter deleted.
+This source strengthens identification of the known sibling group; it supplies **no link from Dov/Bernat to Chaim
+Arye born c.1827 and no mother for Dov**. That ancestral relationship remains provisional.
+
+The village article's bibliography names only an interview with an unidentified former Giulești resident plus
+*Magyar-Zsidó Oklevéltár* VII, pp.136, 306, 747. The latter eighteenth-century records cannot support the twentieth-century
+family paragraph. The interview itself has not been located; the memoir should not be counted as an original birth record.
+
+### Earlier Bréb lead: printed p.66
+
+[Printed p.66, PDF viewer p.226](https://archive.org/details/nybc314151/page/n225/mode/1up), lower right, lists these household heads under **1830**:
+**Moldawan Shlomo — 6 persons; Moldawan Yosif — 5; Moldawan Hers — 6**. The counts are household totals,
+not numbers of children. The Yosif entry is a plausible candidate for our Jozsef, and the other two fit existing
+collateral research questions. No ages, parentage or named household members are supplied, so identification is not established.
+
+The same page names **Yechiel Michel Moldawan** and **David Tzvi Cohen** among residents in the 1880s.
+They remain unattached candidates. Tzvi/Hers naming equivalence alone does not identify David Hers of the tree,
+whose estimated birthplace/residence also needs comparison.
+
+Reliability check: p.66 describes the 1746 Bréb resident as without wife, whereas the inspected original published
+census table in VII, printed p.747, has **one head and one spouse/widow**. This concrete disagreement reinforces the
+need to resolve the family names/dates in originals. No other book claim was silently promoted to a vital fact.
+
+Next sources: original **1830 Bréb census** naming Moldawan Yosif (household total 5), Shlomo (6), Hers (6);
+the interview behind Giulești pp.62–63; Chaim's death/grave original. Bréb's bibliography also cites
+Y. Y. Greenwald, *Matzevat Kodesh*, I, New York 1952, **p.22**, and *Oklevéltár* XVI (1976), **p.101**.
+The attribution of each individual 1830 item to an original call number is not supplied here. No request was sent.
+
+### Search coverage and limits
+
+HebrewBooks queries: כהנא, מולדובאן, ברעב, יולישט/יולשט; exact גיולשט did not match its index.
+Fifty-two HebrewBooks page PDFs were saved before the page-feed returned HTTP 429; a subsequent response supplied
+Retry-After 3513 seconds. Further page-feed downloads stopped. An independently available **Yiddish Book Center/NYPL
+scan** linked by its catalogue was used instead; its full OCR was screened and relevant printed pages inspected.
+The book editions/scans have different viewer pagination; references above use the verified 1983 scan, not guessed
+HebrewBooks offsets. This is not an exhaustive identity resolution for every Kahana in the volume. The earlier
+Hungarian-volume OCR name search returned no clear Kahan/Moldovan match; poor OCR does not establish absence.
