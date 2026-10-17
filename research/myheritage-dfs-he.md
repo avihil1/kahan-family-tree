@@ -1726,3 +1726,8 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 | 135 | מאיר יעקב כהן | [Majer Jakob Kahan 1877 p.1](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&p=1&action=query&view_mode=card&qname=Name+fn.Majer%2F3Jakob+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1877) | 115 / 20 | לא הוכחה עובדה חדשה; זיהוי מפורט ובדיקת המקורות פתוחים. |
 | 136 | רחל כהן (פוגל) | [Ruchel Kahan 1880 p.1](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&p=1&action=query&view_mode=card&qname=Name+fn.Ruchel+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1880) | 267 / 20 | לא הוכחה עובדה חדשה; זיהוי מפורט ובדיקת המקורות פתוחים. |
 | 137 | פרימט כהן | [Frimet Kahan 1883 p.1](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&p=1&action=query&view_mode=card&qname=Name+fn.Frimet+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1883) | 83 / 20 | לא הוכחה עובדה חדשה; זיהוי מפורט ובדיקת המקורות פתוחים. |
+
+
+## מוזס יונגר: סיווג כנספה בשואה — 18 באוקטובר 2026
+
+מוזס יונגר מסומן כעת במפורש כמי ש**נספה בשואה**, ב**מחנה הריכוז מאוטהאוזן ב־24 בפברואר 1945**, לפי [רישום הפטירה המאוחר המקורי שנבדק](https://www.myheritage.co.il/research/collection-11007/germany-hesse-deaths?itemId=2762220-&action=showRecord), ‏HStAMR Best. 926 Nr. 393, ‏Sterbenebenregister 1956, עמ׳ 51, רשומה 5244. הזיהוי עם האדם במשפחה נותר **מסתבר**, על סמך תאריך הלידה המדויק והעיירה התואמים; שדות ההורים ובן הזוג בתעודה ריקים. זו הבהרת ההקשר ההיסטורי של הפטירה שכבר תועדה, ולא מקור חדש או שינוי ברמת הביטחון בזיהוי. הדברים מצוינים בעץ באנגלית ובעברית.

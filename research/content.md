@@ -2214,3 +2214,8 @@ but names mother Chaya Feiga Markovits rather than Reize, and marriage to Abraha
 This remains a conflicting member-tree candidate: no mother, spouse or descendants merged. Seindel's copied profile
 labels the baseline birth date as death; no date was changed. Lipot's Quebec civil index adds corroboration and residence,
 while the memorial and Chaja obituary repeat known sources. [Full bilingual per-person ledger](myheritage-dfs.md).
+
+
+## Mozes Junger: Shoah victim classification — 18 October 2026
+
+Mozes Junger is now explicitly identified as a **Shoah victim**, having perished at **Mauthausen concentration camp on 24 February 1945**, according to the [inspected original retrospective death registration](https://www.myheritage.co.il/research/collection-11007/germany-hesse-deaths?itemId=2762220-&action=showRecord), HStAMR Best. 926 Nr. 393, Sterbenebenregister 1956, S. 51, entry 5244. The identification with this family profile remains **probable**, based on the matching exact birth date and town; the certificate leaves parental and spouse fields blank. This clarifies the historical context of the already documented death. It is not a newly located record or a change in the identity confidence. The tree states this in English and Hebrew.
