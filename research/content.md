@@ -2219,3 +2219,102 @@ while the memorial and Chaja obituary repeat known sources. [Full bilingual per-
 ## Mozes Junger: Shoah victim classification — 18 October 2026
 
 Mozes Junger is now explicitly identified as a **Shoah victim**, having perished at **Mauthausen concentration camp on 24 February 1945**, according to the [inspected original retrospective death registration](https://www.myheritage.co.il/research/collection-11007/germany-hesse-deaths?itemId=2762220-&action=showRecord), HStAMR Best. 926 Nr. 393, Sterbenebenregister 1956, S. 51, entry 5244. The identification with this family profile remains **probable**, based on the matching exact birth date and town; the certificate leaves parental and spouse fields blank. This clarifies the historical context of the already documented death. It is not a newly located record or a change in the identity confidence. The tree states this in English and Hebrew.
+
+
+## Ten additional Hungarian document volumes — 18 October 2026
+
+**Result: new Bréb/Máramaros community evidence, but no new proved ancestor, parentage or descendant.**
+The ten new local PDFs were searched across **5,350 PDF pages**. Volume VII, already translated and researched,
+was retained as a comparison, bringing the local inventory to 11 volumes / 6,223 PDF pages. These are publication
+years from 1965–1980, not successive nineteenth-century civil registers: the new volumes' main document ranges
+end between 1741 and 1789. Most precede Jozsef's estimated c.1790 birth. Some editorial material is later.
+The [institutional collection catalogue](https://kisebbsegkutato.tk.elte.hu/adatbazis/magyar-zsido-okleveltar) supplies the public PDFs. The books publish documentary
+transcriptions; inspecting a scanned book page is not inspecting the original archival manuscript.
+
+### New local entry: Bréb, 1768
+
+**Magyar-Zsidó Oklevéltár XVI (Budapest, title-date 1974), document 22, printed pp. 100–103;
+Bréb row in section 22/2, printed p. 101, [PDF page 103](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XVI.pdf#page=103).**
+The introduction on printed p. 100 / PDF 102 dates the county submission **3 June 1768, Máramarossziget**.
+Archive citation exactly as published: **O. L. C.-29. Lad. B. fasc. 13. nr. 3/382–3.**
+The Bréb row and headings were visually checked in the supplied scan.
+
+| Published field | Transcription/value | English reading |
+|---|---|---|
+| Settlement | Bréb | Bréb |
+| Household name | Moska Moszkovics | Preserve the published name; no identity equation with Moldovan/Kahan |
+| Persons | 7 | Headcount including wife and children; **not seven children** |
+| Contribution, florins / kreuzer | 3 / — | Contribution amount; dash retained |
+| Tolerance tax, florins / kreuzer | 1 / — | Tolerance-tax amount; dash retained |
+| Lease/rent, florins / kreuzer | 7 / — | Lease/rent amount; dash retained |
+| Occupation | Collective distillers label in the table | Spirits distilling; the printed column applies collectively |
+
+The headcount heading includes **“Capita inclusis uxore et prolibus”**: persons including wife and children.
+Wife and children are not named; neither are ages, a father or birthplace. The row cannot tell us seven children's
+names, identify Moska as Jozsef's father, or prove continuity with the unnamed 1746 Bréb household previously
+found in VII. No person or relationship was added from it. It is linked in Jozsef's profile as **earlier community
+context only**. A similar personal name, local residence or plausible generation is insufficient for parentage.
+
+### 1749: Polish origins claimed by the community petitioners
+
+**Volume XIII (Budapest, 1970), documents 206–207, printed pp. 223–224,
+[PDF pages 225–226](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XIII.pdf#page=225), 2 September 1749.** Both printed page images were inspected.
+Document 206 describes **96 households**, mainly living by spirits distilling near the Polish border, paying
+village contributions, rent and a collective annual protection payment of **100 florins** to the county head.
+It is signed by community delegates **Jonas Samson** and **Isaac Samuel**. Archive citation:
+**OL. C.-29. Lad. A. fasc. 3. nr. 3. (168.)**
+
+Document 207 asks for relief from **700 Rhenish florins** of tolerance tax. The petitioners state they may be
+forced to leave the county and return to Poland, from which they say they had all come. Selected English
+translation of the relevant clause: *We would be compelled to leave the county entirely and return to Poland,
+from which each and every one of us came, withdrawing ourselves from this unbearable burden.*
+Archive citation: **OL. C.-29. Lad. A. fasc. 3. nr. 3. (169–70.)**
+
+This is a collective representation in a petition. It does **not** identify Jozsef or establish Poland as the
+birthplace of every later Bréb resident, and the signatories were not attached as relatives. It offers a possible
+regional migration background to test against identifying records, not a new origin assigned to your family.
+
+### Coverage and rejected lookalikes
+
+The existing OCR was extracted using `pdftotext -layout`, retaining PDF page boundaries. Searches covered the
+complete extracted text, with accent-insensitive variants and inspection of relevant name/place index hits.
+Scope included Bréb/Brééb/Breb, Gyulafalva/Gullfalva/Gyulafalu and Giulești, Máramaros/Mármaros/Maromoros/
+Marmoros/Marmatia/Sziget, Moldovan/Moldav/Moldaw/Moldow, Kahan/Kahane/Kahana/Kohan/Kohn/Cohn/Cohen/Katz/Catz/Kacz,
+and Burek/Burech/Burok variants. Common given names alone were not accepted as identifiers.
+
+False positives include **Moldova/Moldovia as a place**, modern editor/historian **Sámuel Kohn**, the **Katzendorfer
+vineyard**, and OCR/name matches in distant communities. Volume XVI's **Simon Kohan** (PDF 28) and **Kohan Salamon**
+(PDF 30) are in **Arad County's 1767 returns**, not Máramaros; **Burok Abeles** (PDF 161) is in the Óbuda/Pest
+context. No kinship was inferred. Documents about taxes, trade restrictions or a county's petition are not a
+register of this family's children.
+
+| Volume | Publication year | Main document dates | PDF pages searched | Result |
+|---|---|---|---|---|
+| [VIII](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_VIII.pdf) | 1965 | 1264–1760 | 545 | Máramaros 1728–1730 robbery petitions; Moldovia is a place, not a Moldovan family identification. |
+| [X](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_X.pdf) | 1967 | 1150–1766 | 626 | Surname-like/editorial hits do not identify this family; Gabriel Katz/Rechnitz is a different rabbinic context. |
+| [XI](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XI.pdf) | 1968 | 1446–1741 | 546 | County/public-health and unrelated surname hits; no identifiable family match established. |
+| [XII](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XII.pdf) | 1969 | 1414–1748 | 484 | Kohn Wolf in a western-Hungarian/Nikolsburg dispute, not an identified Bréb/Gyulafalu relative. |
+| [XIII](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XIII.pdf) | 1970 | 1296–1760 | 532 | New community context: 1749 Máramaros petitions, printed pp. 223–224, documents 206–207. |
+| [XIV](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XIV.pdf) | 1971 | 1742–1769 | 575 | Tax administration and 1763 counterfeit-coin correspondence; no identifying family relationship. |
+| [XV](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XV.pdf) | 1972 | 1408–1770 | 505 | 1759 salt-price petition and tax tables; useful county context, not a family identification. |
+| [XVI](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XVI.pdf) | 1974 | 1412–1770 | 573 | New Bréb entry: Moska Moszkovics, seven household persons, 1768; no established family link. |
+| [XVII](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XVII.pdf) | 1977 | 1431–1770 | 458 | Transylvanian/community and Cohn surname hits; no identifiable family match established. |
+| [XVIII](https://kisebbsegkutato.tk.elte.hu/uploads/files/olvasoszoba/magyarzsidookleveltar/Magyar_zsido_okleveltar_XVIII.pdf) | 1980 | 1290–1789 | 506 | Earlier Buda/Transylvania and editorial surname hits; no identifiable family match established. |
+
+
+### Limits and the next original
+
+This is a full-volume OCR/name-and-place search with selected image verification, not a complete translation or
+visual reading of every page. Unindexed/image-only pages and OCR errors can conceal names. A no-match outcome
+means no identifiable match was established by this method; it does not prove absence from the surviving archives.
+Printed page numbers and PDF page numbers are deliberately given separately. No new genealogical edge was accepted.
+
+Prepared request, **not sent**: To the Hungarian National Archives, request the original 1768 Máramaros county
+census submitted 3 June 1768, former O. L. C.-29, Lad. B, fasc. 13, nr. 3/382–3, Kaszó district, Bréb row
+Moska Moszkovics (seven persons), published in volume XVI, document 22/2, p. 101. Ask for the full sheet, headings,
+neighboring rows and any continuation or marginal annotations. The published table does not name wife/children;
+the original may or may not add identifying detail. This request does not replace the already prepared Bréb
+Register 1271/1838-widow requests, which remain closer to Jozsef's lifetime. No correspondence or fees authorized here.
+
+
+Verification note: an optional Claude Opus image-review attempt timed out after 300 seconds without a usable review. No Claude confirmation is claimed. The key volume XVI pages 100–101 (PDF 102–103) and volume XIII pages 223–224 (PDF 225–226) were directly checked against the supplied scans. The search pipeline also recovered the previously known Bréb/Gyulafalva references in volume VII as a positive control.
