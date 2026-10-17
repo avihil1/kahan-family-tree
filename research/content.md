@@ -2196,3 +2196,21 @@ Initial reset check: [Moses Kahan, exact first name, birth-year relevance 1847, 
 | 43 | Moshe Yitzhak Weisberg | [Moshe Yitzhak Weisberg 1956 p.1 exact first](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Moshe%2F3Yitzhak+fnmo.1+ln.Weisberg+lnmsrs.false&qevents-event1=Event+et.birth+ey.1956&qevents=List) | Check did not run: daily limit |
 
 Source families not explicitly examined remain open; a query table is not a claim that every applicable source was searched.
+
+
+## MyHeritage evening continuation — 17 October 2026
+
+Routine searches now use the observed GraphQL API within the existing signed-in session. 89 query captures for
+78 baseline people include first queries for the 52 previously unqueried names. All 138 baseline people now have
+an initial query capture; the detailed DFS and pagination remain incomplete. No new named descendant was proved.
+
+The strongest new source is [Mozes Junger's original retrospective death registration](https://www.myheritage.co.il/research/collection-11007/germany-hesse-deaths?itemId=2762220-&action=showRecord), HStAMR Best. 926
+Nr. 393, Sterbenebenregister 1956, S. 51, entry 5244, Arolsen 4 July 1956 (image 45/400). His exact birth date
+17 December 1896 and Máragyulafalva match the tree. The original records death **24 February 1945, Mauthausen**;
+MyHeritage indexes March incorrectly. Blank parental/spouse fields leave identification probable. The tree labels it so.
+
+[Eszter Junger née Moldovan](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=811042375&action=showRecord), born 25 November 1876 at Bréb, has the same father/date/town as our Eszter,
+but names mother Chaya Feiga Markovits rather than Reize, and marriage to Abraham Junger on 22 June 1896.
+This remains a conflicting member-tree candidate: no mother, spouse or descendants merged. Seindel's copied profile
+labels the baseline birth date as death; no date was changed. Lipot's Quebec civil index adds corroboration and residence,
+while the memorial and Chaja obituary repeat known sources. [Full bilingual per-person ledger](myheritage-dfs.md).
