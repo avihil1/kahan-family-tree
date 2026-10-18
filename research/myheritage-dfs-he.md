@@ -1,5 +1,9 @@
 # מחקר MyHeritage משורש העץ — 16 באוקטובר 2026
 
+**כיסוי נוכחי, 19 באוקטובר 2026:** 141 אנשים בשמם בעץ; לכל 138 שמות הבסיס יש חיפוש ראשוני קודם שנשמר, אך מחקר DFS המפורט טרם הושלם. בהמשך זה נבחנו עד כה 43 בקשות חיפוש ועמודים ושמונה רשומות MyHeritage מלאות. מקורות וזהויות בענף משה עדיין פתוחים; אצוות דוד הירש היא הכנת מקורות. הסעיפים המאוחרים המתוארכים גוברים על ספירות היסטוריות סותרות בהמשך.
+
+**הוראת פרסום נוכחית, 19 באוקטובר 2026:** GitHub ו־GitHub Pages בלבד. מסמך Stash הוסר לבקשת הלל; אומת שכל 17 הקבצים נשמרו ב־GitHub החי. אזכורי הפרסום ב־Stash בהמשך הם יומן היסטורי מתוארך; המסמך לא ייווצר שם מחדש.
+
 ## המשך בבוקר — 16 באוקטובר 2026, ‏10:33 שעון ישראל
 
 **החיפוש חודש בהצלחה ונעצר שוב במגבלה היומית. מחקר DFS לכל העץ עדיין לא הושלם.**
@@ -1731,3 +1735,191 @@ DFS נותר פתוח אצל **משה לייזר מולדובן קהאן**, וא
 ## מוזס יונגר: סיווג כנספה בשואה — 18 באוקטובר 2026
 
 מוזס יונגר מסומן כעת במפורש כמי ש**נספה בשואה**, ב**מחנה הריכוז מאוטהאוזן ב־24 בפברואר 1945**, לפי [רישום הפטירה המאוחר המקורי שנבדק](https://www.myheritage.co.il/research/collection-11007/germany-hesse-deaths?itemId=2762220-&action=showRecord), ‏HStAMR Best. 926 Nr. 393, ‏Sterbenebenregister 1956, עמ׳ 51, רשומה 5244. הזיהוי עם האדם במשפחה נותר **מסתבר**, על סמך תאריך הלידה המדויק והעיירה התואמים; שדות ההורים ובן הזוג בתעודה ריקים. זו הבהרת ההקשר ההיסטורי של הפטירה שכבר תועדה, ולא מקור חדש או שינוי ברמת הביטחון בזיהוי. הדברים מצוינים בעץ באנגלית ובעברית.
+
+
+## אלטע ינטה: אישור משפחתי — 18 באוקטובר 2026
+
+הלל אישר ב־18 באוקטובר 2026 שאלטע ינטה (Jente) נספתה באושוויץ ב־1944. זו עדות משפחתית ולא רישום פטירה אזרחי מקורי. לוח ההנצחה המשפחתי של ליפוט, שנבדק קודם, מכנה את אמו אלטע ינטה בת בערל ומנציח את הוריו ואחיו ואחיותיו שנרצחו באושוויץ ב־1944. דף ההנצחה בבאר חיים מונה בנפרד את אלטע ינטה בין אחיות המחבר שנספו בשואה; אין בו תאריך פטירה או מקום מוות אישי. הלידה ב־7 בפברואר 1894 נשמרת כטענה מאינדקס.
+
+[Lipot memorial / לוח ההנצחה של ליפוט](https://images.findagrave.com/photos/2023/176/131335147_24c45f38-da7d-4ceb-9ec4-dab019c3aa0f.jpeg); [Be’er Chaim / באר חיים, 00008](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/documentation4/5/full_pdf_srika/9835770/00008.jpg).
+
+
+## דף עד נפרד על ינטה קהאן: הזהות טרם הוכחה — 18 באוקטובר 2026
+
+הלל מסר את [רשומת יד ושם 9032173](https://collections.yadvashem.org/en/names/9032173), ובכך אישר בדיקת מקור זה לצד מחקר MyHeritage.
+תמונת דף העד המקורי נבדקה בדפדפן הקיים בידי משימת המחקר הראשית. הוא מתעד **ינטה קהאן מסיגט**, שהייתה
+בגטו סיגט חודש אחד ב־**1944**, נלקחה לאושוויץ ונרצחה. שדות תאריך הלידה, הגיל, ההורים ובן הזוג ריקים.
+המוסרת היא **בריינדל איינהורן לבית קליין**, המגדירה עצמה במפורש כ**נכדתה** וכניצולה.
+לצד החתימה התאריך **4/3/09**; סדר היום והחודש לא הוכרע כאן.
+
+זו עדות שנבדקה כעת על **מועמדת שטרם זוהתה**, ולא זיהוי עצמאי של אלטע ינטה/Jente שבעץ.
+אין בדף חיבור לילדיה ממשפחת ליברמן. לא נוספו אדם או קשר חדש, והמועמדת לא צורפה לינטה כמקור מזוהה.
+הבדיקה המכריעה הבאה: מקור הנוקב בשמות הוריה של בריינדל ומחבר אחד מהם למשק הבית של ינטה ויעקב ליברמן.
+שם, סיגט ואושוויץ לבדם אינם מספיקים. שדה הפטירה של ינטה בעץ נשען על אישור הלל ועל לוח ההנצחה המשפחתי
+שזוהה בנפרד.
+
+[דף העד המקורי, סריקה 143](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/NEW_APP/SRIKA_DAFED/08042010_8496/143.jpg).
+
+
+## המשך DFS מאומת — 18–19 באוקטובר 2026
+
+**המחקר המפורט לכל העץ טרם הושלם.** לכל 138 השמות בעץ הבסיס יש חיפוש ראשוני קודם שנשמר;
+אין פירוש הדבר ש־138 מחקרים אישיים הושלמו. בעץ המורשה הנוכחי 140 אנשים, כולל יוסף מרדכי שאושר בעדות
+המשפחה ודב כהן המסומן כקשר מסופק. תחילה נרשם אישור הלל על ינטה. במעבר זה טרם הוכחו קרוב חדש
+ששמו ידוע או זהותו של משה לייזר המבוגר.
+
+משימת המחקר הראשית הריצה את האצוות בלשונית MyHeritage המחוברת הקיימת, משום שמחבר הדפדפן הנפרד של
+משימת הרקע החזיר הודעת “browser already in use”. כל אצווה נפתחה בחיפוש רגיל בממשק; הבקשה שנצפתה שימשה
+ל־API מאותו מקור ובאותה התחברות. כל 24 בקשות החיפוש והעמודים שלהלן הצליחו, ללא הודעת מגבלה מפורשת.
+לא נפתח תהליך דפדפן נוסף, לא הוחלף חשבון, לא נרכשה גישה, לא נשלחו פניות, לא נעקפה מגבלה ולא נקבעה הרצה
+מחזורית. העבודה עברה את חצות לפי השעון המקומי.
+
+### הערכה לכל אדם בסדר DFS
+
+| אדם / בסיס קודם | מה הוכח במעבר | סתירה או פער / המקור המכריע הבא |
+| --- | --- | --- |
+| משה לייזר, בערך 1847; הקישור מילד המפקד למבוגר לא הוכרע | לא הוכחה עובדה משפחתית חדשה. נבדקו חלופות Mojse Kahan ו־Mozes Moldovan; הרשומות המלאות של ועידת התביעות 20231/98862- ו־20231/101723- מציינות בני 17 ו־20 באוסף מתקופת המלחמה ולכן אינן המבוגר שלנו. | מועמדי רשימות הנוסעים דורשים השוואת המקורות ומשקי הבית. נישואי באדן 1906 ופטירת וינה 1898 בעץ משתמש נותרו ללא שיוך. דרוש מקור נישואים/פטירה או מקור של ילד המזהה במפורש את הורי המבוגר או את אשתו. |
+| אפרים/Froim, לידה מדווחת 6.3.1869; אישה אסתר/נסטלה הובר | לא הוכחו עובדה חדשה או צאצא. דפי Efraim Kahan ‏2–10 החזירו 164 רשומות שונות; דפי Ephraim ‏2–6 החזירו 100. חיפושי Eszter Huber/Gyulafalu ו־Efrajm/Froim Moldovan החזירו אפס בהיקפם המוגדר. | בדף Efraim ‏7 הוחזרו 19 כרטיסים ובדף 9 רק 18: שלושה מקומות תוצאה לא סופקו. אין לומר שכל 187 הרשומות אומתו. דפי Ephraim ‏7–37 לא נבדקו. דרושים רישומי הלידה, הנישואים והבנים המקוריים. |
+| בערל, לידה מדווחת 1.6.1889; בן אפרים | לא הוכחו זהות חדשה או משפחה מאוחרת. נבדק דף Kahan ‏2 וכל ארבע תוצאות Moldovan. | נוסע רוסי ועצי משפחות אחרות לא חוברו לאפרים/הובר. רישום העלייה ב־IGRA משנות 1940–1948 הוא רמז ללא שיוך ודורש פרטים מזהים והשוואה ללידה המקורית. |
+| וולף, טענה מיובאת 1891–1.7.1900; בן אפרים | לא הוכחה עובדה משפחתית חדשה. נבדקו דף Kahan ‏2 ודף Moldovan ‏1. רוב תוצאות Moldovan עוסקות בוולף מאיר בן יוסף הירש וחנה, או בילד יליד קישינב 1886. | דף Moldovan ‏2 נותר פתוח. הפטירה המדווחת ב־1900 לא אומתה במקור; מבוגרים בעלי שם דומה לא שויכו לילד זה. |
+
+הרשומות הלא־תואמות אינן מוכיחות באופן עצמאי את המין ואת ההורים שברשומות הבסיס. לא הוסקו מין, אם,
+אב או אחאות משם או מרשימת בני זוג. מקור מהמעבר הנוכחי המאמת קשרים אלה עדיין חסר.
+
+### רשומות מלאות שנבדקו ורמזים שלא מוזגו
+
+- [Mojse Kahan, ‏20231/98862-](https://www.myheritage.co.il/research/collection-20231/hungary-claims-conference-from-jewishgen?itemId=98862-&action=showRecord): בן 17, מרמרוש־סיגט, קוד פנימי 25655/מסמך 46. [Mozes Moldovan, ‏20231/101723-](https://www.myheritage.co.il/research/collection-20231/hungary-claims-conference-from-jewishgen?itemId=101723-&action=showRecord): בן 20, סיגט, קוד 3315/מסמך 11. אלה אינדקסים נגזרים של ועידת התביעות/JewishGen ולא תמונות מקור שנבדקו; שניהם אינם המבוגר יליד בערך 1847.
+- [Moses Kahan, ‏10512/8536732-](https://www.myheritage.co.il/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957?itemId=8536732-&action=showRecord): בן 36, רומניה, State of Nebraska, הגעה לניו יורק 1886, שורה 31; NARA M237, גליל 497, ‏RG36, תצוגה 117/1005. האינדקס המלא נקרא; השוואת המקור ממתינה בשמירת ביניים זו.
+- [Moses Kahan, ‏20989/4423911-](https://www.myheritage.co.il/research/collection-20989/united-kingdom-ireland-outgoing-passenger-lists-1890-1960?itemId=4423911-&action=showRecord): בן 46, נשוי, זר שאינו בריטי; יצא מליברפול לקוויבק ב־Lake Winnipeg ב־20.6.1896, כרטיס 9448, שורה 52, ‏BT27/1609, תצוגה 423/501. באינדקס המלא שנקרא אין שמות הורים או בת זוג מזהים; השוואת המקור ממתינה.
+- [Moses Kahan, ייבוא FamilySearch ‏40001/1958296235](https://www.myheritage.co.il/research/collection-40001/familysearch-family-tree?itemId=1958296235&action=showRecord) טוען לפטירה בווינה ב־1898 ולמין זכר, ומקשר ל־[FS G8TW-6SC](https://familysearch.org/ark:/61903/4:1:G8TW-6SC). זו טענת עץ משתמש ללא חיבור זהות בתוכן שנשמר, ולא פטירה מאומתת של משה שלנו.
+- [אפרים כהנא, ייבוא Geni ‏40000/839932135](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=839932135&action=showRecord): פטירה בערך 1952 בבני ברק, אישה Devoira לבית Kahn ובן שמעון יצחק; מקשר ל־[Geni ‏6000000227170543840](https://www.geni.com/people/Efraim-Kahana/6000000227170543840). אין הורים או לידה המזהים אותו עם אפרים יליד 1869; לא מוזג.
+- [Joachim/דוד כהנא, ‏JOWBR ‏11019/2030275-F](https://www.myheritage.co.il/research/collection-11019/worldwide-jewish-burial-registry-from-jewishgen?itemId=2030275-F&action=showRecord): אב אפרים, פטירה מאונדקסת 11.10.1903/חשוון תרס״ד, ברודי, שורה 101/קבר 34; הסימון המפורש זכר מתייחס ל־Joachim. המצבה המקורית ואי־ההתאמה לכאורה בין התאריכים לא נבדקו. שם האב אינו מזהה את אפרים שלנו; לא נוסף ילד.
+- [Ephraim Kohan, ‏10512/12332752-](https://www.myheritage.co.il/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957?itemId=12332752-&action=showRecord): בן 23, רוסיה, Normannia, הגעה לניו יורק 1891, שורה 45; ‏M237 גליל 578/‏RG36, תצוגה 246/789. האינדקס המלא נקרא; המקור ממתין. לא שויכה הגירה לאפרים שבעץ.
+
+### היקף החיפוש המדויק לפי עמוד
+
+כל השמות הפרטיים הוגדרו במצב המדויק שנצפה; הרחבות איות/תרגום ושנת לידה המשמשת לדירוג עדיין עשויות
+להחזיר אנשים אחרים. אפס מתייחס רק לחיפוש שהצליח בהיקף הנתון. שדות נעולים או פרטיים לא טופלו כראיות נגישות.
+כאן מפורסמים פרטי מועמדים רלוונטיים בלבד; בתצלומי תוצאות החיפוש הנקיים נשמרו מזהי הרשומות להמשך הבדיקה.
+
+| חיפוש | עמוד | HTTP | סך מוצג | כרטיסים שהוחזרו |
+| --- | --- | --- | --- | --- |
+| [Mojse Kahan 1847](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mojse+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1847) | 1 | 200 | 10 | 10 |
+| [Mozes Moldovan 1847](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1847) | 1 | 200 | 25 | 20 |
+| [Eszter Huber 1870 / Gyulafalu](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Huber+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1870&qevents-any%2F1event_1=Event+et.any+ep.Gyulafalu+epmo.exact) | 1 | 200 | 0 | 0 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 2 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 3 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 4 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=5&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 5 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=6&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 6 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=7&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 7 | 200 | 187 | 19 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=8&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 8 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=9&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 9 | 200 | 187 | 18 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=10&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 10 | 200 | 187 | 7 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 2 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 3 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 4 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=5&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 5 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=6&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 6 | 200 | 735 | 20 |
+| [Mozes Moldovan 1847](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1847) | 2 | 200 | 25 | 5 |
+| [Efrajm Moldovan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Efrajm+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 1 | 200 | 0 | 0 |
+| [Froim Moldovan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Froim+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 1 | 200 | 0 | 0 |
+| [Berl Kahan 1889](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1889) | 2 | 200 | 363 | 20 |
+| [Berl Moldovan 1889](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1889) | 1 | 200 | 4 | 4 |
+| [Volf Kahan 1891](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1891) | 2 | 200 | 208 | 20 |
+| [Volf Moldovan 1891](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1891) | 1 | 200 | 25 | 20 |
+
+
+## יתר צאצאי משה: הערכת מקורות נוספת — 19 באוקטובר 2026
+
+כל **19 הבקשות הבאות הצליחו**; בהמשך הנוכחי יש כעת **43 בקשות חיפוש ועמודים שהצליחו**.
+אלה היקפי מקור, ולא 43 מחקרים אישיים שהושלמו. לא הוכחה זהות משפחתית חדשה באצווה.
+סימוני המין והקשרים להורים נותרים טענות מיובאות במקום שבו טרם נבדק מקור עצמאי.
+
+| אדם / בסיס | חדש לעומת הבסיס, ראיות וסתירות | המקור הבא / מצב |
+| --- | --- | --- |
+| מלכה/מלצ׳י קהאן–מנדלסון, בערך 1873–1903; בת משה | אין עובדה חדשה. חיפוש בשם הנשוי Malcsi Mendelson החזיר אפס; החיפושים הקודמים בבודפאלו/גיולפאלו נשמרו. | נישואים מקוריים ללייב מנדלסון ופטירת 1903 עם הורים; לא הוכרע. |
+| אברהם מנדלסון, 16.4.1900–1.12.1901; בן מלכה | אין עובדה חדשה. חיפוש מדויק ב־Budesti החזיר אפס. איות המקום נצפה בעץ Moldwin ב־MyHeritage ואינו מוכיח את מקום לידת אברהם. | לידה ופטירה מקוריות בבודפאלו, בהשוואת לייב ומלכה; לא הוסק צאצא. |
+| שלמון מנדלסון, 22.10.1901–7.5.1904; בן מלכה | נבדקו דפים 2–3 מתוך 41, ובצירוף דף 1 הקודם הושלם עימוד ההיקף הזה. רוב התוצאות הן מבוגרים שילדיהם נולדו לפני 1901. רישום ועידת התביעות של Salamon Mendelsohn דורש בדיקת גיל וזהות מלאה. | לידה מקורית ב־1901 ופטירה ב־1904; לא שויכו ניצול או ילד. |
+| אמליה מלכה מנדלסון, לידה מדווחת 1903; בת מלכה | נבדקו דפים 2–4 מתוך 69. אמליה ילידת 1889 מרומניה שנפטרה בישראל היא בת גלנצטיין, ולא הילדה הזו. משפחות לורן ושטוקהולם הקדומות אינן תואמות כרונולוגית. קבורת אמליה בטבלדה ב־1987 נותרה מועמדת בשם בלבד. | רישום JOWBR מלא עם אב או גיל, ואחריו לידה מקורית; לא שויכו הגירה או פטירה בארגנטינה. |
+| יעקב קהאן, 21.7.1874; בן משה, אישה אסתר פרידמן | חיפוש בשם Moldovan החזיר 175, ונבדק דף 1. מפקד איווה של יליד רומניה בערך 1873 ונוסע לבולטימור יליד הונגריה בערך 1873 הם מועמדים; הנוסע מציין אישה פלוריקה ולא אסתר המדווחת. אלתר יעקב חיים מברב בעץ משתמש מציין אב משה ואם שפרינצה שרטר אך אין תאריך לידה. | דרושים משק הבית, האישה, הילדים והמקורות המלאים; לא מוזג מועמד. עימוד נוסף פתוח. |
+| פפי/פרל קהאן, 4.2.1898; בת יעקב | דפים 2–6 הוסיפו 98 כרטיסים. הסך המוצג נע בין 119 ל־120 ובדף 3 הוחזרו 18, ולכן אין לטעון שכל 120 אומתו. רוב הדפים המאוחרים הם לורן במאה ה־18 או פרלה אחרת ילידת 1930, בת משה יהודה וחנה. רמזי IGRA מ־1939/1940 עדיין לא הוכחו. | פרטים מזהים במקור IGRA; לידה/נישואים עם יעקב ואסתר יכריעו. לא שויכו הגירה, בעל או צאצאים. |
+| ישראל קהאן, 18.9.1899; בן יעקב | עדיין אין עובדה חדשה. הסקירות הקודמות אינן מזהות את ילד קפולנוקמונושטור מ־1899; לבעלי שם דומה מהאזור תאריכים והורים שונים. חיפוש Moldovan נוסף הוכן בנפרד. | לידה מקורית ואירוע מאוחר עם הורים; פתוח. |
+| פרדריקה קהאן, טענה 1902–13.9.1902; בת יעקב | נבחנה מחדש, ללא הרצה חוזרת, סקירת שלוש התוצאות הקודמת: ילידת בודפשט 1908, פרדריקה גנץ ילידת בערך 1893 אשת ארון קהאן, וילדת בודפשט 1916–1923. אף אחת אינה מזהה את התינוקת מ־1902. | פטירה מקורית ב־1902 עם גיל והורים. הצעות מורחבות בשם “F.” אינן זיהוי שלה. |
+| רבקה קהאן–גנץ, 1877; בת משה | חיפוש חדש בשם הנשוי Riwke Gancz החזיר אפס. אין עובדה חדשה. | נישואים מקוריים ולידת הבן עם שני ההורים; הרחבת שם משפחה אינה הוכחת קרבה. |
+| אברום לייב גנץ, 1904; בן רבקה | שתי תוצאות מורחבות: אב לילד יליד קישינב 1886 ואדם שנפטר בווהלין ב־1880. הכרונולוגיות אינן מתאימות לילד יליד 1904. אין עובדה חדשה. | לידה מקורית ונישואים/פטירה מאוחרים; לא הוכרע. |
+| פראדל קהאן, 1879; בת משה | חיפוש Moldovan החזיר אפס. אין עובדה חדשה. | לידה מקורית, ובהמשך נישואים בשם נשוי הנתמך במקור אם יזוהה. |
+| שלמון יהודה קהאן, 1881; בן משה | נמצא עץ משתמש עם בן דוד ללא גיל/הורים, ואדם ברשימת נפגעים מ־1917 שנולד ב־1888 בג׳רג׳וטלגש, צ׳יק. אין באלה זיהוי עם יליד 1881. | הקשר מלא בעץ Weinstein ומקור עם הורים לפני הוספת דוד. לא נוסף ילד. |
+| יאזף בורך קהאן, 1886; בן משה | חיפוש Moldovan החזיר אפס. אין עובדה חדשה. | לידה מקורית ואירוע חיים מאוחר; לא הוכרע. |
+| ריז׳ה קהאן, 1888; בת משה | חיפוש Moldovan החזיר אפס. אין עובדה חדשה. | לידה מקורית ונישואים/פטירה; לא הוכרע. |
+
+הרשומות הלא־תואמות מדגימות מדוע שם דומה או דירוג לפי שנת לידה אינם זיהוי. אפס בחיפוש אינו מוכיח שפנקסי
+העיירה המקוריים חסרים. מקורות רשימות הנוסעים ובית העלמין התבקשו דרך הדפדפן הקיים וטרם נבדקו בשמירת ביניים
+זו. פערי המקור והזהות בענף משה נשארו במחסנית DFS; בקשות מענף דוד הירש הן הכנת מקורות עד הערכת הראיות.
+
+| חיפוש | עמוד | HTTP | סך מוצג | כרטיסים שהוחזרו |
+| --- | --- | --- | --- | --- |
+| [Malcsi Mendelson 1873](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malcsi+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1873) | 1 | 200 | 0 | 0 |
+| [Abraham Mendelson 1900 / Budesti](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1900&qevents-any%2F1event_1=Event+et.any+ep.Budesti+epmo.exact) | 1 | 200 | 0 | 0 |
+| [Salamon Mendelson 1901](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1901) | 2 | 200 | 41 | 20 |
+| [Salamon Mendelson 1901](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1901) | 3 | 200 | 41 | 1 |
+| [Amalia Malka Mendelson 1903](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1903) | 2 | 200 | 69 | 20 |
+| [Amalia Malka Mendelson 1903](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1903) | 3 | 200 | 69 | 20 |
+| [Amalia Malka Mendelson 1903](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1903) | 4 | 200 | 69 | 9 |
+| [Jacob Moldovan 1874](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1874) | 1 | 200 | 175 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 2 | 200 | 120 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 3 | 200 | 119 | 18 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 4 | 200 | 120 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=5&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 5 | 200 | 120 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=6&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 6 | 200 | 120 | 20 |
+| [Riwke Gancz 1877](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+fnmo.1+ln.Gancz+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1877) | 1 | 200 | 0 | 0 |
+| [Avrum Leb Gancz 1904](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+fnmo.1+ln.Gancz+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1904) | 1 | 200 | 2 | 2 |
+| [Fradl Moldovan 1879](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1879) | 1 | 200 | 0 | 0 |
+| [Salamon Juda Moldovan 1881](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1881) | 1 | 200 | 2 | 2 |
+| [Jaszef Burech Moldovan 1886](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1886) | 1 | 200 | 0 | 0 |
+| [Riszje Moldovan 1888](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1888) | 1 | 200 | 0 | 0 |
+
+
+## מקורות יד ושם: משק הבית של משה יצחק — 19 באוקטובר 2026
+
+הלל הרחיב את היקף המקורות ליד ושם לכל נספי השואה שבעץ, כולל בני זוג. חבילה ראשונה זו כוללת ארבעה דפי עד
+מקוריים שנבדקו, כולם בחתימת **פרידה כהן וייסברג**, בת/אחות, מ־**1 ביולי 1999**. אלה עדויות קשורות של אותה
+מוסרת, ולא ארבעה מפקדי משפחה עצמאיים.
+
+- [משה יצחק, 3619896](https://collections.yadvashem.org/en/names/3619896), [סריקה מקורית 39](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/39.jpg): הורים **דוד צבי ורייזה**, אישה **אסתר לבית כהן**, **שמונה ילדים**, גטו ברבשט ו**אושוויץ, 1944**. הלידה המשוערת **1892** והגיל **55** סותרים זה את זה ואת **9 בדצמבר 1887** שבבסיס. לא הוחלף תאריך לידה בלי הסבר. ארבעה ילדים בשמם מקושרים למשק הבית המזוהה ויוז׳ף נותר מסופק. לכן **ארבעה ילדים טרם זוהו בוודאות, או שלושה אם יוז׳ף שייך**. לא נוצרו שמות לילדים אנונימיים או שיוכי אם נוספים.
+- [חיים לייב, 3620419](https://collections.yadvashem.org/en/names/3620419), [סריקה מקורית 37](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/37.jpg): **1912**, משה יצחק ואסתר, אישה **מינדל רייך**, **ילד אחד**. שדות תאריך ומקום המוות מסומנים בקווים, ובנסיבות **לא ידוע**. הפטירה הקיימת ב־1944 מסומנת כעת כטענת עץ משתמש. מניין הילד אינו מזהה כשלעצמו את אליעזר שמחה; ההקבלה לרישום Lajos עדיין לא הוכחה.
+- [גיזי/גיצא, 3620422](https://collections.yadvashem.org/en/names/3620422), [סריקה מקורית 40](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/40.jpg): נקבה, **1927**, **17**, תלמידה, הורים משה יצחק ואסתר, גטו ברבשט, **אושוויץ 1944**. שדות בן הזוג והילדים הריקים אינם מוכיחים היעדר ילדים.
+- [רזיאל, 3945703](https://collections.yadvashem.org/en/names/3945703), [סריקה מקורית 38](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/38.jpg): זכר, **1920**, **24**, אותם הורים, גטו ברבשט, **אושוויץ 1944**. אותו סייג חל על שדות בן הזוג והילדים.
+
+המקורות מבססים כעת את מנייני הילדים שנמסרו ומבהירים מה נאמר בעדויות ומה לא נאמר. רוב השמות, השנים וקשרי
+ההורים כבר היו בבסיס. לא נוסף אדם בשמו ולא השתנה קשר הורות. הבדיקה המורחבת של כלל הנספים עדיין בעבודה;
+אין כאן טענה שכל הנספים כבר נחקרו.
+
+
+## מרגיט ליברמן: תוספת משפחתית — 19 באוקטובר 2026
+
+**כעת 141 אנשים בשמם בעץ.** בדיקות 140 הרשומות ובסיס MyHeritage המקורי של 138 אנשים הן ספירות היסטוריות,
+ולא אישורים מתוקנים. הלל ביקש במפורש להוסיף את **מרגיט ליברמן**, נקבה, כבת **ינטה / Inte ליברמן**.
+היא נוספה מעדות משפחתית, ללא המצאת לידה, פטירה, בן זוג או ילדים. [פרופיל Geni שסופק](https://www.geni.com/people/Margit-Lieberman/6000000016589804351?through=6000000016589686765)
+מחזיר **חידת אימות אנושית של Imperva** בדפדפן הקיים, גם בכתובת הקנונית; הדף לא נקרא. לא נעקפו אימות או
+התחברות. ייתכן שהמשבצת הקודמת של ילד אחד שלא זוהה מתייחסת למרגיט, ולכן אינה נספרת כילד חמישי נוסף.
+כעת ארבעה ילדים בשמם, כולל פרידה המסומנת כמסופקת; שלמות הרשימה טרם אומתה.
+
+במשימה הראשית הורצו **24 היקפי חיפוש ועמודים ב־MyHeritage** עבור **Margit Lieberman / Liberman / Liebermann**,
+דפים 1–8 לכל חלופה. נשמרו **445 שורות / 165 מזהי רשומות שונים**, והסך המוצג השתנה. אלה לכידות חיפוש ולא
+24 מחקרים אישיים שהושלמו. לא הוכח חיבור בטוח למשפחה. מועמדת Margit מסביבות 1913 בדש מציינת הורים
+**Ferenc ו־Jente לבית Mark**, שאינם תואמים למשק הבית של יאנקל וינטה קהאן; לא מוזגו תאריכים או קרובים.
+גם תוצאות מלכה/מרגיט פריי משנות ה־1880 אינן תואמות בהורים. התוצאות הנקיות שנבחנו במשימה הראשית נשמרו
+בנקודת ההמשך; אין כאן שלילה מעבר לתשובות הנגישות הללו. אימות אנושי ממתין, ומחקר מרגיט וצאצאיה פתוח.
+
+צילום Geni נוסף שמסר הלל חוזר על **ליפוט אריה ליברמן 1914–1989**, אשתו **חיה גנץ 1924–2011** והילדים
+**ג׳ק שמואל (יאנקו) 1946–1996** ו**פרל**, בערך **1955**. כולם כבר היו בעץ; לא נוצרו כפילות או קשר אם חדש.
+נוסף **Janku / יאנקו** ככינוי ממקור של ג׳ק ו־**בערך 1955** כלידה משוערת במפורש של פרל מהצילום.
+[מודעת ההלוויה המקורית של פרל](https://www.paperman.com/funerals/Pearl-Jessica-Lieberman-BF820F71)
+משמרת פטירה **20 בינואר 2026** והלוויה **22 בינואר**; טווח החיים הפתוח בצילום אינו מעודכן.
+
+**חזית המחקר:** מעבר DFS שביקש המשתמש: יוז׳ף ← חיים אריה ← דב/ברנאט ← ינטה ← **מרגיט**; אימות Geni
+והיעדר חיבור מזהה לתוצאות מגבילים את המשך המחקר האישי. זיהוי משה המבוגר, מקורות אפרים ומועמדי הנוסעים
+ובית העלמין בענף משה עדיין פתוחים. בקשות דוד הירש הן הכנת מקורות. סקירת יד ושם המורחבת לכל הנספים ובני
+הזוג בעבודה; בשמירת פרסום זו שולבו רק ארבעת דפי העד המקוריים שבחבילה הקודמת. GitHub ו־GitHub Pages בלבד;
+מסמך Stash שהוסר לא ייווצר מחדש.

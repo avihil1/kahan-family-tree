@@ -1,5 +1,9 @@
 # MyHeritage research from the tree root — 16 October 2026
 
+**Current coverage, 19 October 2026:** 141 named tree profiles; all 138 original baseline names have earlier initial query captures, while the detailed DFS remains incomplete. This continuation has evaluated 43 new query-page requests and eight full MyHeritage records so far. Pending originals and identity gaps remain in Moses’s branch; the David Hers batch is prefetch. Later dated sections supersede conflicting historical counts below.
+
+**Current publication instruction, 19 October 2026:** GitHub/GitHub Pages only. The Stash artifact was removed at Hillel’s request; all 17 files were verified preserved in live GitHub. Earlier Stash publication statements below are dated history; the artifact will not be recreated.
+
 ## Morning continuation — 16 October 2026, 10:33 Israel time
 
 **Resumed successfully, then stopped at the daily search limit. The all-person DFS is incomplete.**
@@ -1760,3 +1764,197 @@ remain applicable. Record source-family coverage remains incomplete.
 ## Mozes Junger: Shoah victim classification — 18 October 2026
 
 Mozes Junger is now explicitly identified as a **Shoah victim**, having perished at **Mauthausen concentration camp on 24 February 1945**, according to the [inspected original retrospective death registration](https://www.myheritage.co.il/research/collection-11007/germany-hesse-deaths?itemId=2762220-&action=showRecord), HStAMR Best. 926 Nr. 393, Sterbenebenregister 1956, S. 51, entry 5244. The identification with this family profile remains **probable**, based on the matching exact birth date and town; the certificate leaves parental and spouse fields blank. This clarifies the historical context of the already documented death. It is not a newly located record or a change in the identity confidence. The tree states this in English and Hebrew.
+
+
+## Alta Yenta / Jente: family confirmation — 18 October 2026
+
+Hillel confirmed on 18 October 2026 that Alta Yenta (Jente) died at Auschwitz in 1944. This is family testimony, not an original civil death record. Lipot’s previously inspected family memorial names his mother Alta Yenta daughter of Berl and commemorates his parents and siblings murdered at Auschwitz in 1944. The Be’er Chaim memorial separately names Alta Yenta among the author’s sisters who were Shoah victims; it supplies no individual death date or place. Birth 7 February 1894 is retained as an indexed claim.
+
+[Lipot memorial / לוח ההנצחה של ליפוט](https://images.findagrave.com/photos/2023/176/131335147_24c45f38-da7d-4ceb-9ec4-dab019c3aa0f.jpeg); [Be’er Chaim / באר חיים, 00008](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/documentation4/5/full_pdf_srika/9835770/00008.jpg).
+
+
+## Separate Yenta Kahan testimony: identity unresolved — 18 October 2026
+
+Hillel supplied [Yad Vashem 9032173](https://collections.yadvashem.org/en/names/9032173), authorizing this specific source alongside the MyHeritage investigation.
+The original Page of Testimony was visually inspected in the existing browser by the parent research task. It records
+**Yenta Kahan of Sighet**, one month in the Sighet ghetto in **1944**, and that she was taken to Auschwitz and killed.
+The birth date, age, parents and spouse fields are blank. The submitter is **Breindel Einhorn, née Klein**, explicitly
+her **granddaughter**, who identifies herself as a survivor. The signature is dated **4/3/09**; its day/month order
+is not resolved here.
+
+This is a newly inspected testimony about an **unidentified candidate**, not independent identification of our
+Alta Yenta/Jente. It supplies no connection to her Lieberman children. No new person or relationship was added,
+and the candidate is not attached to Jente as an established source. Next discriminant: a record naming Breindel’s
+parents and connecting one parent to the Jente/Jakov Lieberman household. Name, Sighet and Auschwitz alone are
+insufficient. Jente’s tree death field rests on Hillel’s confirmation and the separately identified family memorial.
+
+[Original testimony, scan 143](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/NEW_APP/SRIKA_DAFED/08042010_8496/143.jpg).
+
+
+## Authenticated DFS continuation — 18–19 October 2026
+
+**The detailed DFS remains incomplete.** All 138 original baseline names have an earlier initial query capture;
+that is not 138 completed investigations. The current authorized tree has 140 named people, including family-confirmed
+Yosef Mordechai and provisional Dov Cohen. This continuation first recorded Hillel’s confirmation about Jente;
+it has not established a new named relative or an adult identity for Moses Laser.
+
+The parent research session executed the prepared batches in the existing signed-in MyHeritage tab because this
+background task’s separate browser connector reported “browser already in use”. Each batch began with an ordinary
+UI search, captured its actual current request, and reused only the observed same-origin API within that session.
+All 24 query-page requests below succeeded without an explicit limit response. No additional browser process,
+account, paid access, correspondence, limit bypass or recurring schedule was used. Dates crossed local midnight.
+
+### Per-person evaluation in DFS order
+
+| Person / baseline | What this pass establishes | Contradiction or gap / next decisive record |
+| --- | --- | --- |
+| Moses Laser, c.1847; census-child/adult identification previously unresolved | No new family fact. Mojse Kahan and Mozes Moldovan surname variants were evaluated; full Claims Conference records 20231/98862- and 20231/101723- give ages 17 and 20 in a WWII-era collection, excluding these as our adult. | Passenger candidates still need original household comparison; the Baden 1906 index and the 1898 Vienna member-profile death remain unattached. Obtain a marriage/death or child’s original explicitly identifying the adult’s parents/spouse. |
+| Efrajm/Froim, reported 6 March 1869; spouse Eszter/Nasztale Huber | No new family fact or descendant. Efraim Kahan pages 2–10 returned 164 distinct records; Ephraim pages 2–6 returned 100. Eszter Huber/Gyulafalu and Efrajm/Froim Moldovan returned zero in their stated scopes. | Efraim page 7 returned 19 cards, page 9 returned 18: three advertised slots were not delivered. Older page 1 plus these pages must not be described as all 187 records verified. Ephraim pages 7–37 remain unexamined. Birth, marriage and sons’ original entries are still required. |
+| Berl, reported 1 June 1889, Efrajm’s son | No new identity or later family established. Additional Kahan page 2 and all four returned Moldovan hits were examined. | The Russian passenger and other-family profiles do not connect to Efrajm/Huber. The IGRA Immigration 1940–1948 entry is an unattached lead requiring identifying details; a birth-original comparison is still needed. |
+| Volf, reported 1891–1 July 1900, Efrajm’s son | No new family fact. Kahan page 2 and Moldovan page 1 were examined. Most Moldovan results concern the different Wolf Meir, son of Yosef Hersh and Chana, or the 1886 Kishinev child. | Moldovan page 2 remains open. The reported 1900 death has not been verified from an original; adult namesakes are not adopted as this child. |
+
+Sex and parental assignments in these baseline profiles were not independently proved by the nonmatching records;
+no sex label, mother, father or sibling edge was inferred from a name or a spouse list. A current-pass original
+confirming these relationships is still missing.
+
+### Full records evaluated and unmerged leads
+
+- [Mojse Kahan, 20231/98862-](https://www.myheritage.co.il/research/collection-20231/hungary-claims-conference-from-jewishgen?itemId=98862-&action=showRecord): age 17, Marmarossziget, internal code 25655, document code 46. [Mozes Moldovan, 20231/101723-](https://www.myheritage.co.il/research/collection-20231/hungary-claims-conference-from-jewishgen?itemId=101723-&action=showRecord): age 20, Maramaros Siget, code 3315/document 11. These are derivative Claims Conference/JewishGen indexes, not inspected originals, and are excluded as the c.1847 adult.
+- [Moses Kahan, 10512/8536732-](https://www.myheritage.co.il/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957?itemId=8536732-&action=showRecord): age 36, Romania, State of Nebraska, 1886 New York arrival, row 31; NARA M237 roll 497, RG36, viewer 117/1005. Full index read; original comparison pending at this checkpoint.
+- [Moses Kahan, 20989/4423911-](https://www.myheritage.co.il/research/collection-20989/united-kingdom-ireland-outgoing-passenger-lists-1890-1960?itemId=4423911-&action=showRecord): age 46, married, foreign/non-British, departed Liverpool for Quebec on Lake Winnipeg, 20 June 1896, ticket 9448, line 52, BT27/1609, viewer 423/501. Full index read; no identifying parents/spouse names shown in that capture. Original comparison pending.
+- [Moses Kahan, FamilySearch import 40001/1958296235](https://www.myheritage.co.il/research/collection-40001/familysearch-family-tree?itemId=1958296235&action=showRecord) reports death Vienna 1898, male. It links [FS G8TW-6SC](https://familysearch.org/ark:/61903/4:1:G8TW-6SC). This is a member-profile assertion without an identity bridge in the captured record, not a verified death for our Moses.
+- [Efraim Kahana, Geni import 40000/839932135](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=839932135&action=showRecord): c.1952 Bnei Brak death, wife Devoira née Kahn, son Shimon Yitzchak; links [Geni 6000000227170543840](https://www.geni.com/people/Efraim-Kahana/6000000227170543840). No parents or birth identify him with Efrajm born 1869. Unmerged.
+- [Joachim/David Kahane, JOWBR 11019/2030275-F](https://www.myheritage.co.il/research/collection-11019/worldwide-jewish-burial-registry-from-jewishgen?itemId=2030275-F&action=showRecord): father Efrayim, death indexed 11 October 1903/Heshvan 5664, Brody, line 101/grave 34; explicit male applies to Joachim. The original stone and the apparent calendar discrepancy were not checked. A father named Efrayim does not identify our Efrajm; no child was added.
+- [Ephraim Kohan, 10512/12332752-](https://www.myheritage.co.il/research/collection-10512/ellis-island-other-new-york-passenger-lists-1820-1957?itemId=12332752-&action=showRecord): age 23, Russia, Normannia, 1891 New York, line 45; M237 roll 578/RG36, viewer 246/789. Full index read, original comparison pending; no migration assigned to Efrajm.
+
+### Exact query/page coverage
+
+All first-name modes below are the observed exact mode; spelling/translation and birth-year relevance can still
+produce other identities. A count of zero is limited to that successfully executed query. Captured fields from locked
+or private placeholders were not treated as accessible evidence. Only relevant candidate facts are published here;
+the sanitized per-query snapshots preserve the returned record identifiers for continued evaluation.
+
+| Query | Page | HTTP | Advertised total | Returned cards |
+| --- | --- | --- | --- | --- |
+| [Mojse Kahan 1847](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mojse+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1847) | 1 | 200 | 10 | 10 |
+| [Mozes Moldovan 1847](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1847) | 1 | 200 | 25 | 20 |
+| [Eszter Huber 1870 / Gyulafalu](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Eszter+fnmo.1+ln.Huber+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1870&qevents-any%2F1event_1=Event+et.any+ep.Gyulafalu+epmo.exact) | 1 | 200 | 0 | 0 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 2 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 3 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 4 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=5&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 5 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=6&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 6 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=7&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 7 | 200 | 187 | 19 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=8&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 8 | 200 | 187 | 20 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=9&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 9 | 200 | 187 | 18 |
+| [Efraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=10&action=query&view_mode=card&qname=Name+fn.Efraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 10 | 200 | 187 | 7 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 2 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 3 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 4 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=5&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 5 | 200 | 735 | 20 |
+| [Ephraim Kahan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=6&action=query&view_mode=card&qname=Name+fn.Ephraim+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 6 | 200 | 735 | 20 |
+| [Mozes Moldovan 1847](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Mozes+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1847) | 2 | 200 | 25 | 5 |
+| [Efrajm Moldovan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Efrajm+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 1 | 200 | 0 | 0 |
+| [Froim Moldovan 1869](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Froim+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1869) | 1 | 200 | 0 | 0 |
+| [Berl Kahan 1889](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1889) | 2 | 200 | 363 | 20 |
+| [Berl Moldovan 1889](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Berl+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1889) | 1 | 200 | 4 | 4 |
+| [Volf Kahan 1891](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1891) | 2 | 200 | 208 | 20 |
+| [Volf Moldovan 1891](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Volf+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1891) | 1 | 200 | 25 | 20 |
+
+
+## Moses’s remaining descendants: additional source evaluation — 19 October 2026
+
+The next **19 requests all succeeded**, bringing this continuation to **43 successful query-page requests**.
+These are source scopes, not 43 completed personal investigations. No new family identity was established in this batch.
+The existing sex labels and parental edges remain imported claims where an independent original has not been inspected.
+
+| Person / baseline | New versus baseline, evidence and contradictions | Next record / status |
+| --- | --- | --- |
+| Malka/Malcsi Kahan–Mendelson, c.1873–1903; Moses’s daughter | No new fact. Married-name Malcsi Mendelson query returned zero; earlier Budfalu/Gyulafalu queries remain logged. | Original marriage to Leb Mendelson, and 1903 death naming parents; unresolved. |
+| Abraham Mendelson, 16 April 1900–1 December 1901; Malka’s son | No new fact. Exact Budesti query returned zero. This town spelling is observed in the MyHeritage Moldwin tree, not proof of Abraham’s birthplace. | Birth/death originals at Budfalu, comparing parents Leb/Malka; no new descendant inferred. |
+| Salamon Mendelson, 22 October 1901–7 May 1904; Malka’s son | Pages 2–3 of 41 were evaluated, completing the stated pagination with earlier page 1. Most entries concern older adults with children born before 1901. The Claims Conference Salamon Mendelsohn entry needs its full age/identity checked. | Original 1901 birth and 1904 death; no survivor identity or child assigned. |
+| Amalia Malka Mendelson, reported 1903 birth; Malka’s daughter | Pages 2–4 of 69 were evaluated. The repeated Romania/Israel Amalia born 1889 is Glanzstein’s daughter and is not this child. Older Lorraine/Stockholm families also fail chronology. The earlier Tablada burial of Amalia in 1987 remains a name-only candidate. | Full JOWBR burial identifying her father or age, then original birth. No Argentine migration or death assigned. |
+| Jacob Kahan, 21 July 1874; Moses’s son, spouse Eszter Friedman | New Moldovan-surname scope returned 175, page 1 examined. A c.1873 Romania-born Iowa census man and c.1873 Hungary-born Baltimore passenger are candidates; the latter names wife Florica, not the reported Eszter. The Breb Alter Yaakov Chaim member-tree import names father Moses, mother Shprintza Schroter but no birth date. | Full household, spouse, children and originals needed; no Moldovan candidate merged. Broader pagination remains open. |
+| Pepi/Perle Kahan, 4 February 1898; Jacob’s daughter | Pages 2–6 added 98 returned cards. Advertised total fluctuated 119/120 and page 3 returned 18, so this is not “all 120 verified”. Most later pages concern eighteenth-century Lorraine or a different Perla born 1930, parents Moses Juda/Hana. Existing IGRA 1939/1940 leads remain unproved. | The known IGRA source requires identifying details; birth/marriage naming Jacob/Eszter would discriminate. No migration, spouse or descendants assigned. |
+| Izrael Kahan, 18 September 1899; Jacob’s son | No new fact yet. Existing source screens do not identify the 1899 Kápolnokmonostor child; regional namesakes have different parentage/dates. New Moldovan-surname query is queued separately. | Original birth and later event identifying parents; open. |
+| Friderika Kahan, reported 1902–13 September 1902; Jacob’s daughter | The earlier complete three-result exact-name screen was re-evaluated without rerunning it: 1908 Budapest birth, c.1893 Friderika Ganz wife Aron Kahan, and 1916–1923 Budapest child. None identifies the 1902 infant. | Original 1902 death with age/parents. Expanded “F.” suggestions are not her identity. |
+| Riwke Kahan–Gancz, 1877; Moses’s daughter | New married-surname Riwke Gancz query returned zero. No new fact. | Original marriage and son’s birth naming both parents; surname expansion is not proof of kinship. |
+| Avrum Leb Gancz, 1904; Riwke’s son | Two expanded results: a father of a child born Kishinev 1886 and a man who died Volhynia 1880. These chronologies cannot identify the child born 1904. No new fact. | Original birth and later marriage/death; unresolved. |
+| Fradl Kahan, 1879; Moses’s daughter | Moldovan-surname query returned zero. No new fact. | Original birth; later marriage under a supported married name, if identified. |
+| Salamon Juda Kahan, 1881; Moses’s son | Moldovan scope found a member tree naming son David without age/parents, plus a 1917 casualty-list man born 1888 at Gyergyotölgyes, Csik. Neither establishes identity with our 1881 child. | Full Weinstein-tree context and a source naming parents before adding David. No child added. |
+| Jaszef Burech Kahan, 1886; Moses’s son | Moldovan-surname scope returned zero. No new fact. | Original birth and later vital event; unresolved. |
+| Riszje Kahan, 1888; Moses’s daughter | Moldovan-surname scope returned zero. No new fact. | Original birth and marriage/death; unresolved. |
+
+The nonmatching records demonstrate why a similar name or birth-year ranking cannot establish identity. Zero-result
+scopes do not establish that the original town registers are absent. Passenger and cemetery originals were requested
+through the existing browser proxy and remain pending at this checkpoint. The open original/identity gaps in Moses’s
+branch remain on the DFS stack; later David Hers branch requests are prefetch until their evidence is evaluated.
+
+| Query | Page | HTTP | Advertised total | Returned cards |
+| --- | --- | --- | --- | --- |
+| [Malcsi Mendelson 1873](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Malcsi+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1873) | 1 | 200 | 0 | 0 |
+| [Abraham Mendelson 1900 / Budesti](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Abraham+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1900&qevents-any%2F1event_1=Event+et.any+ep.Budesti+epmo.exact) | 1 | 200 | 0 | 0 |
+| [Salamon Mendelson 1901](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1901) | 2 | 200 | 41 | 20 |
+| [Salamon Mendelson 1901](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Salamon+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1901) | 3 | 200 | 41 | 1 |
+| [Amalia Malka Mendelson 1903](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1903) | 2 | 200 | 69 | 20 |
+| [Amalia Malka Mendelson 1903](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1903) | 3 | 200 | 69 | 20 |
+| [Amalia Malka Mendelson 1903](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Amalia%2F3Malka+fnmo.1+ln.Mendelson+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1903) | 4 | 200 | 69 | 9 |
+| [Jacob Moldovan 1874](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jacob+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1874) | 1 | 200 | 175 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=2&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 2 | 200 | 120 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=3&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 3 | 200 | 119 | 18 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=4&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 4 | 200 | 120 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=5&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 5 | 200 | 120 | 20 |
+| [Perle Kahan 1898](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=6&action=query&view_mode=card&qname=Name+fn.Perle+fnmo.1+ln.Kahan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1898) | 6 | 200 | 120 | 20 |
+| [Riwke Gancz 1877](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riwke+fnmo.1+ln.Gancz+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1877) | 1 | 200 | 0 | 0 |
+| [Avrum Leb Gancz 1904](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Avrum%2F3Leb+fnmo.1+ln.Gancz+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1904) | 1 | 200 | 2 | 2 |
+| [Fradl Moldovan 1879](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Fradl+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1879) | 1 | 200 | 0 | 0 |
+| [Salamon Juda Moldovan 1881](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Salamon%2F3Juda+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1881) | 1 | 200 | 2 | 2 |
+| [Jaszef Burech Moldovan 1886](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Jaszef%2F3Burech+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1886) | 1 | 200 | 0 | 0 |
+| [Riszje Moldovan 1888](https://www.myheritage.co.il/research?s=1&formId=master&formMode=1&useTranslation=1&exactSearch=&p=1&action=query&view_mode=card&qname=Name+fn.Riszje+fnmo.1+ln.Moldovan+lnmsrs.false&qevents=List&qevents-event1=Event+et.birth+ey.1888) | 1 | 200 | 0 | 0 |
+
+
+## Yad Vashem originals: Moshe Yitzchak’s household — 19 October 2026
+
+Hillel expanded the source scope to Yad Vashem for all tree Shoah victims, including spouses. This first packet
+covers four inspected original Pages of Testimony, all signed by **Frida Kohen Veisberg**, daughter/sister, on
+**1 July 1999**. The same witness’s four pages are related evidence, not four independent household censuses.
+
+- [Moshe Yitzchak, 3619896](https://collections.yadvashem.org/en/names/3619896), [original scan 39](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/39.jpg): parents **David Tzvi / Reiza**, wife **Ester née Kohen**, **eight children**, Berbești ghetto and **Auschwitz, 1944**. Approximate birth **1892** and age **55** conflict internally and with the baseline **9 December 1887**. No birth date was silently substituted. Four named children are securely placed in the household; Jozsef remains provisional. The roster therefore has **four not securely identified children, or three if Jozsef belongs**. No anonymous named nodes or extra maternal assignments were created.
+- [Chaim Leib, 3620419](https://collections.yadvashem.org/en/names/3620419), [original scan 37](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/37.jpg): **1912**, Moshe Yitzchak/Ester, wife **Mindl Reich**, **one child**. Date and place of death are dashed, circumstances **לא ידוע — unknown**. The existing 1944 death is now explicitly a member-profile claim. The child count does not itself identify Eliezer Simcha, and the Lajos index pairing remains unproved.
+- [Gizi/Gitza, 3620422](https://collections.yadvashem.org/en/names/3620422), [original scan 40](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/40.jpg): female, **1927**, **17**, pupil, parents Moshe Yitzchak/Ester, Berbești ghetto, **Auschwitz 1944**. Blank/dashed spouse and child fields do not prove childlessness.
+- [Raziel, 3945703](https://collections.yadvashem.org/en/names/3945703), [original scan 38](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/09080737_245_7027/38.jpg): male, **1920**, **24**, same parents, Berbești ghetto, **Auschwitz 1944**. Same limitation on blank spouse/child fields.
+
+The originals newly establish the recorded family-size claims and clarify what the testimonies do and do not say.
+Most names, years and parent links already existed in the baseline. No named person was added and no parental edge
+changed. The expanded all-victim review is still in progress; this is not a declaration that all victims were researched.
+
+
+## Margit Lieberman family addition — 19 October 2026
+
+**Current tree: 141 named people.** Earlier 140-profile audits and the 138-person original MyHeritage baseline are
+historical counts, not revised certifications. Hillel explicitly requested adding **Margit Lieberman**, female, under
+**Jente / Inte Liberman**. Added from family testimony with no invented birth, death, spouse or children.
+The [supplied Geni profile](https://www.geni.com/people/Margit-Lieberman/6000000016589804351?through=6000000016589686765)
+returns an **Imperva human CAPTCHA** in the existing browser, including the canonical URL; the page was not read.
+No CAPTCHA or login bypass was attempted. The old one-unidentified-child slot may be Margit, so it is not counted
+as an extra fifth child. Four children are now named, including provisional Frida; completeness remains unverified.
+
+The parent session executed **24 MyHeritage query-page scopes** for **Margit Lieberman / Liberman / Liebermann**,
+pages 1–8 per variant. They returned **445 captured rows / 165 distinct record IDs**, with varying advertised totals.
+These are query captures, not 24 completed investigations. No secure record-to-family bridge was established.
+The 1913 Dees Margit candidate names **Ferenc / Jente née Mark**, differing from the Jankel/Jente Kahan household;
+no candidate dates or relatives were merged. The common 1880s Malka/Margit Frey results likewise fail parentage.
+The parent’s evaluated sanitized captures are saved in the continuation checkpoint; no negative claim extends beyond
+these accessible responses. Human verification is pending, and Margit’s personal/descendant DFS remains open.
+
+Hillel’s additional Geni screenshot repeats **Lipot Aryeh Lieberman 1914–1989**, wife **Chaja Ganz 1924–2011**,
+and children **Jack Samuel (Janku) 1946–1996** and **Pearl**, approximately **1955**. All already existed in the tree;
+no duplicate node or new maternal edge was created. Added **Janku** as Jack’s sourced alias and **c.1955** as Pearl’s
+visibly estimated birth from the screenshot. The [original Pearl funeral notice](https://www.paperman.com/funerals/Pearl-Jessica-Lieberman-BF820F71)
+retains death **20 January 2026** and funeral **22 January**; the screenshot’s open-ended lifespan is outdated.
+
+**Frontier:** user-directed DFS detour Jozsef → Chaim Arye → Dov/Bernat → Jente → **Margit**; Geni CAPTCHA and
+unidentified source matches block that person’s deeper pass. Earlier adult Moses identity, Efrajm originals and
+Moses-branch passenger/cemetery candidates remain open. David Hers requests are prefetch. The expanded Yad Vashem
+all-victim/spouse review is ongoing; only the four original testimonies in the preceding packet have been integrated
+in this publication checkpoint. GitHub/GitHub Pages only; the removed Stash artifact will not be recreated.

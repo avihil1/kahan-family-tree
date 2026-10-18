@@ -1,5 +1,7 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
+**Current publication instruction, 19 October 2026:** GitHub/GitHub Pages only. The Stash artifact was removed at Hillel’s request; all 17 files were verified preserved in live GitHub. Earlier Stash publication statements below are dated history; the artifact will not be recreated.
+
 Started 15 October 2026. **In progress; not a completed investigation.**
 Baseline: GitHub commit `c185c11`, 52 named people in this descendant branch; 119 named people in the full tree.
 Private-child counts are not named people. The starting records are preserved locally separately from changes.
@@ -789,3 +791,59 @@ Death lower bound supplied by Hillel on 18 October 2026: Yosef Mordechai died no
 
 
 Accuracy correction, 18 October 2026: see the [140-person evidence review](./content.md#accuracy-review-18-october-2026). It supersedes older book quotations, individually unproved child death details and stale roster counts above.
+
+
+## Alta Yenta / Jente: family confirmation — 18 October 2026
+
+Hillel confirmed on 18 October 2026 that Alta Yenta (Jente) died at Auschwitz in 1944. This is family testimony, not an original civil death record. Lipot’s previously inspected family memorial names his mother Alta Yenta daughter of Berl and commemorates his parents and siblings murdered at Auschwitz in 1944. The Be’er Chaim memorial separately names Alta Yenta among the author’s sisters who were Shoah victims; it supplies no individual death date or place. Birth 7 February 1894 is retained as an indexed claim.
+
+[Lipot memorial / לוח ההנצחה של ליפוט](https://images.findagrave.com/photos/2023/176/131335147_24c45f38-da7d-4ceb-9ec4-dab019c3aa0f.jpeg); [Be’er Chaim / באר חיים, 00008](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/documentation4/5/full_pdf_srika/9835770/00008.jpg).
+
+
+## Separate Yenta Kahan testimony: identity unresolved — 18 October 2026
+
+Hillel supplied [Yad Vashem 9032173](https://collections.yadvashem.org/en/names/9032173), authorizing this specific source alongside the MyHeritage investigation.
+The original Page of Testimony was visually inspected in the existing browser by the parent research task. It records
+**Yenta Kahan of Sighet**, one month in the Sighet ghetto in **1944**, and that she was taken to Auschwitz and killed.
+The birth date, age, parents and spouse fields are blank. The submitter is **Breindel Einhorn, née Klein**, explicitly
+her **granddaughter**, who identifies herself as a survivor. The signature is dated **4/3/09**; its day/month order
+is not resolved here.
+
+This is a newly inspected testimony about an **unidentified candidate**, not independent identification of our
+Alta Yenta/Jente. It supplies no connection to her Lieberman children. No new person or relationship was added,
+and the candidate is not attached to Jente as an established source. Next discriminant: a record naming Breindel’s
+parents and connecting one parent to the Jente/Jakov Lieberman household. Name, Sighet and Auschwitz alone are
+insufficient. Jente’s tree death field rests on Hillel’s confirmation and the separately identified family memorial.
+
+[Original testimony, scan 143](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/NEW_APP/SRIKA_DAFED/08042010_8496/143.jpg).
+
+
+## Margit Lieberman family addition — 19 October 2026
+
+**Current tree: 141 named people.** Earlier 140-profile audits and the 138-person original MyHeritage baseline are
+historical counts, not revised certifications. Hillel explicitly requested adding **Margit Lieberman**, female, under
+**Jente / Inte Liberman**. Added from family testimony with no invented birth, death, spouse or children.
+The [supplied Geni profile](https://www.geni.com/people/Margit-Lieberman/6000000016589804351?through=6000000016589686765)
+returns an **Imperva human CAPTCHA** in the existing browser, including the canonical URL; the page was not read.
+No CAPTCHA or login bypass was attempted. The old one-unidentified-child slot may be Margit, so it is not counted
+as an extra fifth child. Four children are now named, including provisional Frida; completeness remains unverified.
+
+The parent session executed **24 MyHeritage query-page scopes** for **Margit Lieberman / Liberman / Liebermann**,
+pages 1–8 per variant. They returned **445 captured rows / 165 distinct record IDs**, with varying advertised totals.
+These are query captures, not 24 completed investigations. No secure record-to-family bridge was established.
+The 1913 Dees Margit candidate names **Ferenc / Jente née Mark**, differing from the Jankel/Jente Kahan household;
+no candidate dates or relatives were merged. The common 1880s Malka/Margit Frey results likewise fail parentage.
+The parent’s evaluated sanitized captures are saved in the continuation checkpoint; no negative claim extends beyond
+these accessible responses. Human verification is pending, and Margit’s personal/descendant DFS remains open.
+
+Hillel’s additional Geni screenshot repeats **Lipot Aryeh Lieberman 1914–1989**, wife **Chaja Ganz 1924–2011**,
+and children **Jack Samuel (Janku) 1946–1996** and **Pearl**, approximately **1955**. All already existed in the tree;
+no duplicate node or new maternal edge was created. Added **Janku** as Jack’s sourced alias and **c.1955** as Pearl’s
+visibly estimated birth from the screenshot. The [original Pearl funeral notice](https://www.paperman.com/funerals/Pearl-Jessica-Lieberman-BF820F71)
+retains death **20 January 2026** and funeral **22 January**; the screenshot’s open-ended lifespan is outdated.
+
+**Frontier:** user-directed DFS detour Jozsef → Chaim Arye → Dov/Bernat → Jente → **Margit**; Geni CAPTCHA and
+unidentified source matches block that person’s deeper pass. Earlier adult Moses identity, Efrajm originals and
+Moses-branch passenger/cemetery candidates remain open. David Hers requests are prefetch. The expanded Yad Vashem
+all-victim/spouse review is ongoing; only the four original testimonies in the preceding packet have been integrated
+in this publication checkpoint. GitHub/GitHub Pages only; the removed Stash artifact will not be recreated.
