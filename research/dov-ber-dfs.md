@@ -705,3 +705,48 @@ Marco’s next decisive records are his original gravestone and a birth/marriage
 No external contact, trial or purchase was made. The named tree total is now **138 nodes**, or **136 descendants including
 this probable match**; the Dov Ber branch has **71 named nodes including Marco’s provisional placement**. Spouses and
 unnamed counts are excluded from those totals. The full DFS and Renana family interview remain unfinished.
+
+
+## Audit of Dov/Bernat’s eleven linked children — 18 October 2026
+
+**Not all eleven are verified to the same standard, and the roster is not proved complete.** The current tree has **four males and seven females**. All eleven sex labels have source support; none is based only on the sound of a given name. Explicit M/F values were rechecked today in WikiTree’s verbatim JewishGen birth-index citations through its public getBio API for Jente, Brana, Hane, Ziszel, Leb and Majer Jakab. These are citations to an index, not fresh original-image verification or independent corroboration of that index. The records had previously been checked in the authenticated regional index. For the other five, the basis is explicit family roles in testimony/memorial sources.
+
+| Child | Sex shown | Parentage / sex evidence and limit |
+|---|---|---|
+| [Jente / Alta Yenta](https://www.wikitree.com/wiki/Kahan-379) | Female | F in 1894 birth-index citation, Book 1101, 37-01; Lipot’s inspected memorial calls her his mother and daughter of Berl. Geni’s Avraham-father conflict remains. |
+| [Brana](https://www.wikitree.com/wiki/Kahan-383) | Female | F in birth 1896-34, Inventory 1371 Book 51, and death 1898-10; Bernat/Regina named. Index evidence; originals not inspected. |
+| [Hane](https://www.wikitree.com/wiki/Kahan-380) | Female | F in birth index 1900-67, Inventory 1373 Book 34; Bernad/Regina named. Original not inspected; later-life identity remains open. |
+| [Ziszel / Zisl Muskal](https://www.wikitree.com/wiki/Kahan-381) | Female | F in birth index 1902-45, Book 35; inspected stone calls her daughter of Dov, wife and mother. Strong converging evidence. |
+| [Chaim Arye Leb](https://www.wikitree.com/wiki/Kahana-151) | Male | Inspected original birth 1903-64 explicitly records boy and parents Bernad/Regina. Strongest civil-original evidence in this sibling set. |
+| [Feige Adler](https://www.wikitree.com/wiki/Kahan-395) | Female | Identified as wife in inspected husband’s testimony; family memorial names her as child of Dov/Rivka. Exact birth not verified. |
+| [Reiza Wieder](https://www.wikitree.com/wiki/Kahan-407) | Female | Inspected testimony explicitly identifies wife Reiza, daughter of Dov. Birth-date conflict c.1904 versus 1898 remains. |
+| [Majer Jakab / Meir Yaakov](https://www.wikitree.com/wiki/Kahan-382) | Male | M in birth index 1905-72, Inventory 1373 Book 36; Bernad/Regina and Roza Indig marriage annotation. Original not inspected; Geni Dov Heller conflict unresolved. |
+| [Abraham Lieber](https://www.wikitree.com/wiki/Kahan-391) | Male | Inspected brother’s testimony 1501887 names father Dov/Bernat, mother Rivka/Reghina; male family roles explicit. Birth-year conflict remains. |
+| [Freide / Frida Herskovits](https://www.wikitree.com/wiki/Kahan-394) | Female | Inspected husband’s testimony identifies wife Frida; own testimony index 837292 and family memorial connect her to Berl/Dov and Rifke. No inspected birth original. |
+| [Shimon Menachem / Menachem](https://www.wikitree.com/wiki/Kahan-398) | Male | Original testimony calls him son/brother; official burial register names father Dov. Identification with full Shimon Menachem profile also uses family testimony; birth year unresolved. |
+
+**Unresolved count conflict:** Sefer Marmarosh (1983), printed pp.62–63, says five sons/five daughters for the very likely matching household. Omitting Brana, who died in infancy, leaves **four sons/six daughters**, not five/five. The discrepancy could reflect an incomplete or inaccurate account or an unresolved identity in the reconstructed roster; no specific explanation is established. Do not change Hane or another child to male to make the numbers fit. No sex field or parent-child edge changed in this audit. The next decisive work is original birth/death entries for the index-only cases, followed by a reconciled household roster; family-role evidence does not verify every date or prove there were no additional children.
+
+Strongest directly accessible references: [Leb original birth](leb-1903-birth.pdf), [Zisl original stone](https://kdh.org.il/wp-content/themes/firma-child/assets/images/pic/picmaz/26639.jpg), [Abraham Lieber original testimony](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/25021218_207_1709/20.jpg), [Reiza daughter-of-Dov original](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/arch1_yadvashem/22021838_249_1215/6.jpg), and [Sefer Marmarosh family account](https://archive.org/details/nybc314151/page/n221/mode/1up).
+
+
+### Dov’s own source list: six civil births and an additional child lead
+
+On 18 October 2026 the complete biography and source list of [WikiTree Kahan-376](https://www.wikitree.com/wiki/Kahan-376#Sources) were retrieved successfully through the public `getBio` API. The ordinary web reader failed; this was an access failure, not missing sources. This changed the scope from checking the eleven linked children’s profiles to checking the father’s own citations and research notes.
+
+The list cites **six different birth entries**, all already represented in this tree. Each explicitly identifies Bernat/Bernath/Bernad Kahan and Rifke/Regina Lieberman/Liberman as parents. These are substantive parentage and sex evidence, not merely member-tree relationships:
+
+| Child and date | Sex in cited index | Exact cited archive reference |
+|---|---|---|
+| Jente, 7 February 1894 | F | Romanian National Archive, Baia Mare Branch, Book 1101, 37-01 |
+| Brana, 20 February 1896 | F | Inventory 1371, Book 51, 1896-34; death 5 January 1898, 1898-10, also F |
+| Hane, 26 March 1900 | F | Inventory 1373, Book 34, 1900-67 |
+| Ziszel, 24 February 1902 | F | Inventory 1373, Book 35, 1902-45; marriage annotation Joachim Muscal, 19 October 1933 |
+| Leb, 10 April 1903 | M | Inventory 1373, Book 35, 1903-64; original birth image previously inspected |
+| Majer Jakab, 21 March 1905 | M | Inventory 1373, Book 36, 1905-72; marriage annotation Roza Indig, 27 March 1937 |
+
+The citations identify the database as **JewishGen, Máramaros Vital Records Births/Deaths**, retrieved by the WikiTree contributor on 24 July 2024. Re-reading the citations is not a new search of JewishGen and does not turn an index into an inspected original. The same citation repeated on a child’s profile is one underlying source, not independent corroboration.
+
+**Additional child lead: Yosef Mordechai.** Dov’s research notes attribute this name to Ancestry.com trees but provide no linked tree, date, mother, vital entry or explicit sex field. Record him here as a proposed child requiring identifying evidence; do not add an established parent-child edge or assign a male field solely from the name. This is a newly recorded lead in this audit, not a newly proved son or a resolution of the book’s five-son claim.
+
+The same note calls **Meir Yaakov, born 21 May 1905**, a further child. The existing tree already includes **Majer Jakab, born 21 March 1905**, whose cited birth entry also names Roza Indig in a marriage annotation. Similar names and a two-month date discrepancy make a duplicate/variant a plausible explanation, not proof of two boys. Keep one existing Majer/Meir profile; obtain the Ancestry source and compare the original birth and spouse before either merging a distinct identity or creating a second child. No new child or sex assignment was added from these uncited tree claims.
