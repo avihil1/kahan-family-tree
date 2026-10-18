@@ -783,3 +783,6 @@ Dov Cohen birth estimate, supplied by Hillel on 18 October 2026: most probably 1
 
 
 **Provisional tree leaf added at Hillel’s explicit request, 18 October 2026:** Dov Cohen now appears under Yosef Mordechai, with the existing `possible` marker and a bilingual note identifying the father-son relationship as tentative. Birth is displayed as c.1943, possibly1942–1944, from Hillel’s estimate. This supersedes the earlier decision to keep him only in Yosef’s note. No spouse, mother, descendants or death date are invented; the leaf is a family hypothesis, not new documentary proof.
+
+
+Death lower bound supplied by Hillel on 18 October 2026: Yosef Mordechai died no earlier than 1986. Record 1986 or later, inclusive; no exact death year, place or grave has been established. Do not convert this into an exact 1986 death.
