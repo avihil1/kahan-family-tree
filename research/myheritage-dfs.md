@@ -1945,7 +1945,7 @@ These are query captures, not 24 completed investigations. No secure record-to-f
 The 1913 Dees Margit candidate names **Ferenc / Jente née Mark**, differing from the Jankel/Jente Kahan household;
 no candidate dates or relatives were merged. The common 1880s Malka/Margit Frey results likewise fail parentage.
 The parent’s evaluated sanitized captures are saved in the continuation checkpoint; no negative claim extends beyond
-these accessible responses. Human verification is pending, and Margit’s personal/descendant DFS remains open.
+these accessible responses. The challenge later cleared; private information still limits Margit’s personal/descendant DFS. See the access update below.
 
 Hillel’s additional Geni screenshot repeats **Lipot Aryeh Lieberman 1914–1989**, wife **Chaja Ganz 1924–2011**,
 and children **Jack Samuel (Janku) 1946–1996** and **Pearl**, approximately **1955**. All already existed in the tree;
@@ -1953,8 +1953,25 @@ no duplicate node or new maternal edge was created. Added **Janku** as Jack’s 
 visibly estimated birth from the screenshot. The [original Pearl funeral notice](https://www.paperman.com/funerals/Pearl-Jessica-Lieberman-BF820F71)
 retains death **20 January 2026** and funeral **22 January**; the screenshot’s open-ended lifespan is outdated.
 
-**Frontier:** user-directed DFS detour Jozsef → Chaim Arye → Dov/Bernat → Jente → **Margit**; Geni CAPTCHA and
+**Frontier:** user-directed DFS detour Jozsef → Chaim Arye → Dov/Bernat → Jente → **Margit**; Geni private information and
 unidentified source matches block that person’s deeper pass. Earlier adult Moses identity, Efrajm originals and
 Moses-branch passenger/cemetery candidates remain open. David Hers requests are prefetch. The expanded Yad Vashem
 all-victim/spouse review is ongoing; only the four original testimonies in the preceding packet have been integrated
 in this publication checkpoint. GitHub/GitHub Pages only; the removed Stash artifact will not be recreated.
+
+
+## Geni access update: public relationships, private identity fields — 19 October 2026
+
+The initial CAPTCHA cleared without a bypass. The [private-profile public stub](https://www.geni.com/people/private/6000000016589804351)
+now explicitly lists **Jacov (Jankel) Lieberman / Jente Lieberman** as parents and **Lipot Aryeh / Frida / Naftali**
+as siblings. The name is **PRIVATE**. **Hillel identifies that profile as Margit**; the stub supplies secondary
+relationship corroboration, not an independently visible name, original vital record or accessible descendant roster.
+Dates, spouse and children remain private/unavailable. The current DFS gap is private information, not an active CAPTCHA.
+
+[Jente’s public page](https://www.geni.com/people/Jente-Lieberman/6000000016589578823) shows husband Jacov, four masked
+children and timeline births Lipot 1914, Frida 1917, Naftali 1919. Its Avraham-father claim is the known conflict;
+it does not override the separately cited Bernat/Dov evidence. [Jacov’s page](https://www.geni.com/people/Jacov-Jankel-Lieberman/6000000016589418664)
+reports 1892/Romania, father Abraham Lieber Lieberman, and the same four masked children/timeline; these remain tree assertions.
+[Lipot’s page](https://www.geni.com/people/Lipot-Aryeh-Lieberman/6000000209156329846) gives 1914–1989 and father Jacov,
+but masks mother, spouse and two children. Chaja/Jack/Pearl are retained from their linked family sources and notices;
+the private fields were not represented as newly readable evidence. No additional person or private detail was extracted.
