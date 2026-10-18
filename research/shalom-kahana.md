@@ -822,3 +822,25 @@ to Renana’s existing entry; it does not establish a married surname for Renana
 Source: direct family testimony in this conversation, 15 October 2026. No external search was performed.
 Named-descendant counts are unchanged. DFS remains at **Dov Ber → Chaim Arye Leb → Shalom → Michal → Renana**.
 Next: ask for their children, if any. Haim Arie’s branch remains deferred; overall research remains incomplete.
+
+
+## Shalom’s children: names and sex — 18 October 2026
+
+Hillel supplied the following sibling names and sex directly. These update the existing fourteen children of Shalom and Ruth; no child is added or duplicated. Newly supplied surnames are display names, not evidence identifying spouses.
+
+| Existing name | Confirmed display name | Sex |
+|---|---|---|
+| Yael | Yael Adoram | Female |
+| Elisheva | Elisheva Shezifi | Female |
+| Avia | Avia Prinz | Female |
+| Lea | Lea Eyal | Female |
+| Iska | Iska Glazer | Female |
+| Haim Arie | Haim Arie | Male |
+| Yedidia | Yedidia | Male |
+| Nachshon | Nachshon | Male |
+| Ishai | Ishai | Male |
+| Hillel Kahana | Hillel Kahana | Male |
+| Akiva | Akiva | Male |
+| Gad | Gad | Male |
+
+Michal remains Female. Rachel (1972–1972) remains Female; the instruction about the remaining siblings is applied to the thirteen previously supplied names, not to reversing Rachel’s established entry. Total fourteen children: seven males, seven females. Stable person keys and descendant links are preserved.
