@@ -38,7 +38,7 @@ svg{direction:ltr;width:100%;height:100%;display:block;cursor:grab}
 #panel .original-name{font-size:.8rem;color:var(--mu);margin:0 0 8px;overflow-wrap:anywhere}
 #panel h2{font-size:1.4rem;line-height:1.3;margin:0 0 20px}
 #panel dl{margin:0;font-size:1rem;line-height:1.7}#panel dt{color:var(--mu);font-size:.8rem;margin-top:16px;font-weight:bold}#panel dd{margin:4px 0 0;padding-bottom:12px;border-bottom:1px solid var(--bd)}
-#panel dd p{margin:0 0 1em;white-space:pre-line}#panel dd p:last-child{margin-bottom:0}
+#panel dd p{margin:0 0 1.2em;white-space:pre-line;max-inline-size:70ch}#panel dd p:last-child{margin-bottom:0}
 #panel .x{position:static;border:0;background:none;font-size:1.4rem;line-height:1;padding:4px 8px}
 #panel ul.src{margin:0;padding-inline-start:20px}#panel ul.src li{margin-bottom:8px}#panel .links{margin-top:20px;display:flex;gap:8px;flex-wrap:wrap}
 #panel .links a{border:1px solid var(--bd);border-radius:6px;padding:3px 10px;text-decoration:none;font-size:.85rem}
@@ -171,7 +171,7 @@ function renderPanel(d) {
     ${p.xkids ? `<dt>${language === 'he' ? 'ילדים עם ' : 'Children with '}${esc(tr(p.xspouseName))}</dt><dd>${p.xkids.length}${language === 'he' ? ', מוצגים תחת ההורה האחר ומחוברים בקווים מקווקווים. שני ההורים צאצאי המשפחה.' : ', shown under the other parent and connected with dashed lines. Both parents are descendants.'}</dd>` : ''}
     ${p.private ? `<dt>Additional descendants</dt><dd>${language === 'he' ? `${p.private} ${p.privateSrc ? 'ילדים נוספים' : 'צאצאים נוספים'} פרטיים או שטרם זוהו בשמותיהם בעץ; מקור: ` : `${p.private} more ${p.privateSrc ? 'children' : 'descendants'} are private or not yet identified in this tree; source: `}${esc(p.privateSrc || 'WikiTree')}</dd>` : ''}
     ${p.sources && p.sources.length ? `<dt>Sources &amp; links</dt><dd><ul class="src">${p.sources.map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></li>`).join('')}</ul></dd>` : ''}
-    ${p.note ? `<dt>Note</dt><dd>${esc(p.note).split(/\n\s*\n/).map(text => `<p>${text.replace(/https:\/\/[^\s)]+/g, u => `<a href="${u}" target="_blank" rel="noopener">${(s => /^\d+$/.test(s) ? s : new URL(u).hostname.replace("www.", ""))(u.split("/").filter(Boolean).pop())}</a>`)}</p>`).join('')}</dd>` : ''}
+    ${p.note ? `<dt>Note</dt><dd>${p.note.split(/\n\s*\n/).flatMap(text => Array.from(new Intl.Segmenter(language, {granularity: 'sentence'}).segment(text), text => text.segment.trim())).map(text => `<p>${esc(text).replace(/https:\/\/[^\s)]+/g, u => `<a href="${u}" target="_blank" rel="noopener">${(s => /^\d+$/.test(s) ? s : new URL(u).hostname.replace("www.", ""))(u.split("/").filter(Boolean).pop())}</a>`)}</p>`).join('')}</dd>` : ''}
     </dl><div class="links">${p.url ? `<a href="${esc(p.url)}" target="_blank" rel="noopener">${{yv: 'Yad Vashem record ↗', geni: 'Geni profile ↗', story: 'Family story ↗', wiki: 'Wikipedia article ↗', obit: 'Funeral or memorial source ↗'}[p.src] || (p.url.includes('wikitree.com') ? 'WikiTree profile ↗' : 'Source record ↗')}</a>` : ''}
     ${p.yv ? `<a href="${esc(p.yv)}" target="_blank" rel="noopener">Yad Vashem record ↗</a>` : ''}
     ${p.geni ? `<a href="${esc(p.geni)}" target="_blank" rel="noopener">Geni profile ↗</a>` : ''}</div>`;
