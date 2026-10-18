@@ -1,6 +1,11 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
-**Current research scope, 19 October 2026:** Hillel stopped the MyHeritage subscription. No further MyHeritage queries or paid-record access are authorized. Continue the 144-person tree investigation primarily through the existing authenticated Geni session, in depth-first order, inspecting accessible profiles, sources, media and revisions. Earlier MyHeritage captures remain historical evidence; pending MyHeritage queries are suspended, not completed. The already-read Yad Vashem originals are recorded separately below. Private fields remain unavailable. Initial Geni child-profile reads are prefetch until evaluated in order; no claim of a completed all-person DFS is made.
+**Current research scope, 19 October 2026:** Hillel stopped the MyHeritage subscription. No further MyHeritage queries
+or paid-record access are authorized. Continue the 145-person tree investigation primarily through the existing
+authenticated Geni session, in depth-first order, inspecting accessible profiles, sources, media and revisions.
+Earlier MyHeritage captures remain historical evidence; pending MyHeritage queries are suspended, not completed. The
+already-read Yad Vashem originals are recorded separately below. Private fields remain unavailable. Initial Geni
+child-profile reads are prefetch until evaluated in order; no claim of a completed all-person DFS is made.
 
 **Current publication instruction, 19 October 2026:** GitHub/GitHub Pages only. The Stash artifact was removed at Hillel’s request; all 17 files were verified preserved in live GitHub. Earlier Stash publication statements below are dated history; the artifact will not be recreated.
 
@@ -897,7 +902,9 @@ only the private Margit profile’s public family relationships; dates/descendan
 
 ## Geni-led source checkpoint — 19 October 2026
 
-The authenticated Geni review now supplies the following evaluated evidence. Profile assertions and attached indexes remain distinct from original registers. No named person or parent link was added, removed or merged; the tree remains at **141** people.
+The authenticated Geni review now supplies the following evaluated evidence. Profile assertions and attached indexes
+remain distinct from original registers. No named person or parent link was added, removed or merged; the tree remains
+at **141** people.
 
 | Evaluated scope | Finding versus the existing tree | Remaining gap |
 | --- | --- | --- |
@@ -906,24 +913,44 @@ The authenticated Geni review now supplies the following evaluated evidence. Pro
 | Jente’s Lieberman household, five accessible profile scopes | Jente, Lipot, Frida and Naftali Sources tabs loaded empty states and Media tabs said no documents; Margit remains a private profile with public immediate-family relationships only. The four named children and Lipot’s household were already recorded. | No new dates, private names or complete descendant roster are established by empty panels. A privacy message is an access limit, not evidence that a spouse or child never existed. |
 | Brana [birth1896-34](https://www.geni.com/documents/view?doc_id=6000000174917484821), [death1898-10](https://www.geni.com/documents/view?doc_id=6000000184189792888) | Personally read indexes: female, **20 February1896**, father Bernath32/mother Regina27, mother from Falu-Sugatag; died **5 January1898**, age23months, parents Bernat/Regina. Existing tree dates retained; Geni’s27February profile value conflicts. Birth **Inventory1371/Book51**, death **Inventory1371/Book180**. | Both are transcription screenshots. The attached death extract’s **Book180** conflicts with the earlier ledger’s **Book53** for the same1898-10; catalogue reference unresolved. Original register entries are pending. Already-known death-index lead, re-inspected: **“Izrael JUNGER, father’s brother-in-law, reported death.”** The connecting sister/spouse and identity with Sztrul Junger elsewhere are unproved; no new relative is attached. |
 
-The remaining child-profile packets and their attachments are prefetch until evaluated in DFS order. The all-person investigation and the all-victim/spouse Yad Vashem review remain incomplete. MyHeritage queries and paid access are stopped under the current instruction.
+The remaining child-profile packets and their attachments are prefetch until evaluated in DFS order. The all-person
+investigation and the all-victim/spouse Yad Vashem review remain incomplete. MyHeritage queries and paid access are
+stopped under the current instruction.
 
+ ### Reiza/Wieder source comparison
 
-### Reiza/Wieder source comparison
+The Geni pass read Avraham and four linked child profiles, then opened all three attached testimonies and the
+birth-index image. Shoshana Ovitz’s **2 September1999** original is the **already-known1171294**:1896/age48,
+parentsYaakovTzvi/Brana, wife**Rachel**, **7–8children**, no child names. The wife’s name and count remain conflicts
+against Reiza/seven elsewhere. The other two attachments repeat Meir/Menachem’s already-read originals; they are not
+additional witnesses. The Geni child profiles name Tzipora, Rachel, YaakovTzvi and Menachem, without independent
+support for an extra Mirl row.
 
-The Geni pass read Avraham and four linked child profiles, then opened all three attached testimonies and the birth-index image. Shoshana Ovitz’s **2 September1999** original is the **already-known1171294**:1896/age48, parentsYaakovTzvi/Brana, wife**Rachel**, **7–8children**, no child names. The wife’s name and count remain conflicts against Reiza/seven elsewhere. The other two attachments repeat Meir/Menachem’s already-read originals; they are not additional witnesses. The Geni child profiles name Tzipora, Rachel, YaakovTzvi and Menachem, without independent support for an extra Mirl row.
+The [attached JewishGen birth index](https://www.geni.com/documents/view?doc_id=6000000208696531821) says **Abraham,
+male,10March1896,Desze**, father**VIDER Jakobb,Hernecs,42**, mother**FEIG Brane,Karacsonyfálva,28**,
+**Inventory1371/Book45/1896-40**. This newly inspected transcription documents the precise Geni birth assertion; the
+original register is pending, and identifying the indexed child with this husband does not erase the
+testimonial1895/1900 conflict. No eighth child, extra marriage or additional ancestor is inferred. The [niece’s
+attached original](https://www.geni.com/documents/view?doc_id=6000000208696393859) is linked in Reiza’s existing
+panel. All141 people remain; Mirl stays provisional. Later sibling attachments remain prefetch until their turn.
 
-The [attached JewishGen birth index](https://www.geni.com/documents/view?doc_id=6000000208696531821) says **Abraham, male,10March1896,Desze**, father**VIDER Jakobb,Hernecs,42**, mother**FEIG Brane,Karacsonyfálva,28**, **Inventory1371/Book45/1896-40**. This newly inspected transcription documents the precise Geni birth assertion; the original register is pending, and identifying the indexed child with this husband does not erase the testimonial1895/1900 conflict. No eighth child, extra marriage or additional ancestor is inferred. The [niece’s attached original](https://www.geni.com/documents/view?doc_id=6000000208696393859) is linked in Reiza’s existing panel. All141 people remain; Mirl stays provisional. Later sibling attachments remain prefetch until their turn.
+ ### Hane and Ziszel: indexed births, existing household evidence
 
+The next sibling sources were read directly:
+[Hane1900-67](https://www.geni.com/documents/view?doc_id=6000000184107410993), **26March1900, female,
+Bernat32/Regina30, Inventory1373/Book34**, and
+[Ziszel1902-45](https://www.geni.com/documents/view?doc_id=6000000174881174040), **24February1902, female,
+Bernat34/Regina32, Inventory1373/Book35**, with the already-known **JoachimMuscal marriage19October1933** annotation.
+Both are index screenshots, not original registers. Hane’s Geni1944 death is absent from the birth source and remains
+unverified. Ziszel’s “natural father rather than legal father” comment supplies no alternate biological parent or
+marital history. The Geni cemetery attachments repeat sources Hillel added15October; Yoachim’s sparse profile does not
+erase the children already supported elsewhere. No new date, person or parent link is adopted from this step.
 
-### Hane and Ziszel: indexed births, existing household evidence
+ ## Named Geni descendant candidates — 19 October 2026
 
-The next sibling sources were read directly: [Hane1900-67](https://www.geni.com/documents/view?doc_id=6000000184107410993), **26March1900, female, Bernat32/Regina30, Inventory1373/Book34**, and [Ziszel1902-45](https://www.geni.com/documents/view?doc_id=6000000174881174040), **24February1902, female, Bernat34/Regina32, Inventory1373/Book35**, with the already-known **JoachimMuscal marriage19October1933** annotation. Both are index screenshots, not original registers. Hane’s Geni1944 death is absent from the birth source and remains unverified. Ziszel’s “natural father rather than legal father” comment supplies no alternate biological parent or marital history. The Geni cemetery attachments repeat sources Hillel added15October; Yoachim’s sparse profile does not erase the children already supported elsewhere. No new date, person or parent link is adopted from this step.
-
-
-## Named Geni descendant candidates — 19 October 2026
-
-The tree now contains **144 named profiles**, including three additions explicitly marked **provisional**, supported by accessible Geni family relationships. No original vital record or independent family confirmation is claimed for them.
+The tree now contains **144 named profiles**, including three additions explicitly marked **provisional**, supported
+by accessible Geni family relationships. No original vital record or independent family confirmation is claimed for
+them.
 
 | Added named person | Relationship evidence and source | Count and uncertainty |
 | --- | --- | --- |
@@ -931,12 +958,20 @@ The tree now contains **144 named profiles**, including three additions explicit
 | [Chaim-Arie Kahana](https://www.geni.com/people/Chaim-Arie-Kahana/6000000009232793282) | Explicit son of **Dov1930 (6000000002683180809) and EstherGolda**; private wife, two private child slots. Hebrew name **חיים אריה לייב הלר** retains a Heller variant. | Separate from grandfather Chaim and existing Zvi; dates/status unverified. Two unnamed child slots are secondary claims, not a complete census. |
 | [Aviad Kahana](https://www.geni.com/people/Aviad-Kahana/6000000004174199343) | Explicit same parents, wife **Miri Kahana**, six private child slots. Son/husband wording supports male. | No proved identity with existing Zvi. Dates/status unverified; no private child names inferred. |
 
-Dov’s **six children in Wikipedia versus seven slots in Geni** remain unresolved. Zvi and RabbiMeir are preserved. The former fixed four-unnamed display counter is removed, rather than added to two new candidate names to imply eight. No replacement total or overlap is asserted. Meir’s Geni parentage/five-child count corroborates the already-recorded household; those children are not new discoveries. Shalom and Ruth’s family-confirmed **fourteen** remain unchanged despite Geni’s older eighteen slots. Reciprocal Geni links belong to one collaborative tree, not independent sources.
+Dov’s **six children in Wikipedia versus seven slots in Geni** remain unresolved. Zvi and RabbiMeir are preserved. The
+former fixed four-unnamed display counter is removed, rather than added to two new candidate names to imply eight. No
+replacement total or overlap is asserted. Meir’s Geni parentage/five-child count corroborates the already-recorded
+household; those children are not new discoveries. Shalom and Ruth’s family-confirmed **fourteen** remain unchanged
+despite Geni’s older eighteen slots. Reciprocal Geni links belong to one collaborative tree, not independent sources.
 
+ ### Geni access repair and exact DFS frontier
 
-### Geni access repair and exact DFS frontier
-
-A later **changed-wait check** clicked Sources and waited for the actual **Add Source** panel, repairing the earlier header-only reads. Chaim1903, AvrahamLieber, Menachem, AvrahamWieder and Tsipora then each displayed the loaded empty Sources state. This means no fact-bound source was displayed in those panels; documents in Media were examined separately. Reiza’s repaired Sources panel is also empty, while her loaded Media has **one photo and no documents**; it does not supply a birth original. The previously captured Dov Revisions route still lacks a revision panel, so that check remains **not loaded**, with no negative conclusion about revisions. MyHeritage remains stopped.
+A later **changed-wait check** clicked Sources and waited for the actual **Add Source** panel, repairing the earlier
+header-only reads. Chaim1903, AvrahamLieber, Menachem, AvrahamWieder and Tsipora then each displayed the loaded empty
+Sources state. This means no fact-bound source was displayed in those panels; documents in Media were examined
+separately. Reiza’s repaired Sources panel is also empty, while her loaded Media has **one photo and no documents**;
+it does not supply a birth original. The previously captured Dov Revisions route still lacks a revision panel, so that
+check remains **not loaded**, with no negative conclusion about revisions. MyHeritage remains stopped.
 
 | Visited person or explicit household scopes | Evidence summary and exact remaining gap |
 | --- | --- |
@@ -949,4 +984,59 @@ A later **changed-wait check** clicked Sources and waited for the actual **Add S
 | Dov1930; Chaim-Arie; Meir; Aviad | Explicit Geni parents read; two provisional named children added, Meir not duplicated, Zvi preserved. Six-versus-seven total and masked-slot overlap unresolved; descendants remain private. |
 | Shalom; fourth private Chaim-child profile | Geni overview rechecked; family-confirmed fourteen retained. The fourth sibling profile is private; no name/date/descendants inferred. Shalom’s detailed descendant frontier remains the existing family ledger, not a completed Geni pass. |
 
-**Next DFS frontier:** resolve the accessible/private boundaries of the just-named leaves and Dov1930’s remaining named branches, then continue Shalom’s descendants in the recorded order, followed by Dov/Bernat’s remaining sibling branches (Feige, Meir/Majer, AvrahamLieber, Freida, Menachem and YosefMordechai). Their initial profile reads and later sibling indexes are **prefetch**, with previously inspected YadVashem sources retained. Root/Moses/Efrajm scopes remain open outside this partial Dov pass. A visited profile is not a completed descendant investigation; no full-tree completion is claimed.
+**Next DFS frontier:** resolve the accessible/private boundaries of the just-named leaves and Dov1930’s remaining
+named branches, then continue Shalom’s descendants in the recorded order, followed by Dov/Bernat’s remaining sibling
+branches (Feige, Meir/Majer, AvrahamLieber, Freida, Menachem and YosefMordechai). Their initial profile reads and
+later sibling indexes are **prefetch**, with previously inspected YadVashem sources retained. Root/Moses/Efrajm scopes
+remain open outside this partial Dov pass. A visited profile is not a completed descendant investigation; no full-tree
+completion is claimed.
+
+ ## Naomi Adoram and the current 145-person checkpoint — 19 October 2026
+
+[Naomi
+Adoram](https://www.geni.com/people/%D7%A0%D7%A2%D7%9E%D7%99-%D7%90%D7%93%D7%95%D7%A8%D7%9D/6000000004754685003) is
+added **provisionally** under family-confirmed Yael Adoram. Naomi explicitly says **daughter of Ben Adoram and Yael
+Adoram**; both parents reciprocally name her. “Daughter” supports female.
+[Ben](https://www.geni.com/people/Ben-Adoram/6000000003819914515) is shown inline as Yael’s spouse from their
+reciprocal links. These are secondary assertions within one Geni tree, not independent birth records. Dates, present
+life status, Naomi’s spouse and descendants remain unestablished.
+
+The tree now has **145 named profiles**, including these four Geni-supported provisional additions. Yael’s nine child
+slots/additional private N.N. spouse placeholder, Ben’s five slots, and Naomi’s four full/four half sibling slots
+remain unreconciled. No second union, extra named child, duplicate identity or fixed unnamed-child total is inferred.
+The earlier Dov paragraph is rewritten to describe the current displayed candidates and removed counter consistently;
+the historical research ledger remains preserved.
+
+**DFS boundary:** Haim Arie, Shalom’s son, and his descendants are explicitly **skipped at the user’s instruction**.
+This is a different person from the newly added Chaim-Arie, son of Dov1930. Other private or not-yet-identified
+Shalom-child profiles remain gaps, not completed branches. The Geni all-person DFS is still incomplete.
+
+ ### Later Dov branches: fifteen prepared profile comparisons
+
+These **15** profiles were read with the corrected loading check: **14 public profiles with loaded Sources/Media
+panels and one private stub**. They remain **prefetch outside the unresolved Chaim-descendant frontier**, not a claim
+that those descendant branches were exhausted. The public profiles’ empty bound-Sources panels are distinct from
+Media. No new named person, exact date, parent link or individual child death is adopted from this packet.
+
+| Profile read | Comparison and next discriminant |
+| --- | --- |
+| [Nathan Adler](https://www.geni.com/people/Nathan-Yitzchak-Aizik-Natan-Adler/6000000016807164601) | Male, Nachum/Zissel, Feige and three named children repeat the known household.1902 versus the earlier civil1904 remains unresolved; original birth needed. |
+| [Dov Adler](https://www.geni.com/people/Dov-Adler/6000000184192965862) | Explicit son;1930/1944 are tree claims. The known testimony’s age14 does not independently establish a precise birth or individual death. |
+| [Yehudit Adler](https://www.geni.com/people/Yehudit-Adler/6000000184193278884) | Explicit daughter; same1930/1944 claims, no new original. Shared birth-year assertion does not prove twins. |
+| [Esther Adler](https://www.geni.com/people/Esther-Adler/6000000184191569958) | Explicit daughter;1933/1944 repeat age-based/tree assertions, without an individual death original. |
+| [Private child of Meir/Majer branch](https://www.geni.com/people/private/6000000016805454758) | Private stub; no new name, sex, dates or identification with the other Meir household inferred. |
+| [Kreindel Kahan](https://www.geni.com/people/Kreindel-Kahan/6000000184194362826) | Wife of AvrahamLieber, mother of Dov/Binyamin;1914 remains a member-tree birth claim. No new original. |
+| [Dov Kahan, son of Avraham](https://www.geni.com/people/Dov-Kahan/6000000184192346853) | Explicit son; estimated birth-range and1944 assertions add no independent death proof. Attached father testimony is the already-inspected source. |
+| [Binyamin Kahan](https://www.geni.com/people/Binyamin-Kahan/6000000184192346860) | Explicit son; **same father PDF as Dov**, not a second witness or individual child testimony. Blank child death cells remain blank evidence. |
+| [Yitzchak Herskovitz](https://www.geni.com/people/Yitzchak-Herskovitz/6000000016807062667) | Male, son of Israel, husband of Freida;1913/1944 remain Geni assertions without new originals. No child inferred from empty panels. |
+| [Frimed Kahan](https://www.geni.com/people/Frimed-Kahan/6000000184193973821) | Female, MenachemBerkovitz/AlteChayaRachel, Menachem’s wife and two daughters repeat the known original testimony. |
+| [Freida Kahan](https://www.geni.com/people/Freida-Kahan/6000000184194107827) | Explicit daughter;1940 already appears in the parent testimony. Geni1944 is not a new individual death source. |
+| [Tova Blima Kahan](https://www.geni.com/people/Tova-Kahan/6000000184194309830) | Explicit daughter;1942 already known; no individual death date/place supplied by the blank original child cells. |
+| [Chaya Roza Kahana](https://www.geni.com/people/Chaya-Roza-Kahana-Indig/6000000002683182371) | Wife of MeirYakob and mother of Dov/Tzippora; repeated Indig parentage links are secondary and do not resolve Bodrits/Davidovits or paternal-ancestor conflicts. |
+| [Dov Kahana, son of Meir](https://www.geni.com/people/Dov-Kahana/6000000002683182343) | Four private child slots already known. **28November1937/12April2019** are newly compared precise Geni assertions; existing year-only fields retained, original dates unverified. Distinct from cousin Dov1930. |
+| [Tzippora Neuman](https://www.geni.com/people/Tzippora-Neuman/6000000002683182350) | Meir/ChayaRoza daughter, MenachemNeeman wife, four private child slots. **17December1939** is a precise Geni assertion, not adopted as an independently verified birth. |
+
+The two Avraham-son Media links both point to [one father testimony
+PDF](https://www.geni.com/documents/view?doc_id=6000000184189835907). Repetition across child profiles does not
+multiply witnesses or fill their individual death fields. All145 named people and existing confidence qualifiers are
+preserved.
