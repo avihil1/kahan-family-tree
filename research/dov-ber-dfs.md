@@ -786,3 +786,6 @@ Dov Cohen birth estimate, supplied by Hillel on 18 October 2026: most probably 1
 
 
 Death lower bound supplied by Hillel on 18 October 2026: Yosef Mordechai died no earlier than 1986. Record 1986 or later, inclusive; no exact death year, place or grave has been established. Do not convert this into an exact 1986 death.
+
+
+Accuracy correction, 18 October 2026: see the [140-person evidence review](./content.md#accuracy-review-18-october-2026). It supersedes older book quotations, individually unproved child death details and stale roster counts above.
