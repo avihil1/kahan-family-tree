@@ -767,3 +767,8 @@ Hillel also explicitly confirms **Yosef Mordechai**, brother of his grandfather 
 - Shorter exact phrase **כהנא יוסף** returned two files, both original hits inspected: [March1957, GL-15499/7, 000a35a](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&docid=6a5bb124347facbd_585158a3cc8e02af&dapvm=2), **scan22/221, printed p.10, rows545–546**: adult **Nizmah Kahana, 1933**, followed by **Yosef, 1950** in the household, a child, not a son of Dov who died1928. [Haifa August–December1934, GL-15489/8, 0009nf9](https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&docid=fcd885cf67020266_585158a3cc8e02af&dapvm=2), **scan217/408, rows369–370**: **Rachel Kahana,24**, then **Yosef Kopetsik,16** (surname transliteration approximate). The OCR concatenated adjacent rows. Neither hit is attached.
 
 **Result:** family membership and survival recorded from Hillel; no identified arrival record yet. Next discriminating facts are a civil name used in Israel, approximate arrival period, spouse, residence or burial. These can distinguish the target from many Yosef Cohen/Kahana names. No dates, spouse or children are invented to close the search.
+
+
+### Yosef Mordechai: family birth estimate — 18 October 2026
+
+Hillel initially said Yosef Mordechai was born no earlier than 1906, then clarified: **his guess is 1906–1910**. Record **born approximately 1906–1910**, attributed to Hillel’s family estimate and explicitly unverified. This is a search priority, not an exact birth date or a hard exclusion rule. No new birth or arrival record was identified by this update. The earlier note that no birth information had been supplied is superseded by this estimated range; other unknown dates remain blank.

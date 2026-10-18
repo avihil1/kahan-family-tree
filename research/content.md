@@ -2402,3 +2402,8 @@ Hillel supplied the following sibling names and sex directly. These update the e
 | Gad | Gad | Male |
 
 Michal remains Female. Rachel (1972–1972) remains Female; the instruction about the remaining siblings is applied to the thirteen previously supplied names, not to reversing Rachel’s established entry. Total fourteen children: seven males, seven females. Stable person keys and descendant links are preserved.
+
+
+### Yosef Mordechai: family birth estimate — 18 October 2026
+
+Hillel initially said Yosef Mordechai was born no earlier than 1906, then clarified: **his guess is 1906–1910**. Record **born approximately 1906–1910**, attributed to Hillel’s family estimate and explicitly unverified. This is a search priority, not an exact birth date or a hard exclusion rule. No new birth or arrival record was identified by this update. The earlier note that no birth information had been supplied is superseded by this estimated range; other unknown dates remain blank.
