@@ -2407,3 +2407,8 @@ Michal remains Female. Rachel (1972–1972) remains Female; the instruction abou
 ### Yosef Mordechai: family birth estimate — 18 October 2026
 
 Hillel initially said Yosef Mordechai was born no earlier than 1906, then clarified: **his guess is 1906–1910**. Record **born approximately 1906–1910**, attributed to Hillel’s family estimate and explicitly unverified. This is a search priority, not an exact birth date or a hard exclusion rule. No new birth or arrival record was identified by this update. The earlier note that no birth information had been supplied is superseded by this estimated range; other unknown dates remain blank.
+
+
+### Yosef Mordechai: possible son Dov Cohen — 18 October 2026
+
+Hillel tentatively recalled that Yosef Mordechai **probably had a child named Dov Cohen (דב כהן)**. This is recorded in Yosef’s bilingual information note as a **possible son**, not a verified father-son relationship or an identified new person. No dates, mother, spouse or residence were supplied. Do not merge this lead with Dov Kahana (grandson/other branch) or another Dov Cohen by name alone. Search Cohen/Kohen as well as Kahan/Kahana. Public-web searches for the paired names in Hebrew and English on 18 October did not identify a matching father-son source in the returned results; this was not an exhaustive archive search. An original arrival household, marriage or gravestone naming the father could establish the connection.
