@@ -2412,3 +2412,9 @@ Hillel initially said Yosef Mordechai was born no earlier than 1906, then clarif
 ### Yosef Mordechai: possible son Dov Cohen — 18 October 2026
 
 Hillel tentatively recalled that Yosef Mordechai **probably had a child named Dov Cohen (דב כהן)**. This is recorded in Yosef’s bilingual information note as a **possible son**, not a verified father-son relationship or an identified new person. No dates, mother, spouse or residence were supplied. Do not merge this lead with Dov Kahana (grandson/other branch) or another Dov Cohen by name alone. Search Cohen/Kohen as well as Kahan/Kahana. Public-web searches for the paired names in Hebrew and English on 18 October did not identify a matching father-son source in the returned results; this was not an exhaustive archive search. An original arrival household, marriage or gravestone naming the father could establish the connection.
+
+
+Dov Cohen birth estimate, supplied by Hillel on 18 October 2026: most probably 1943, possibly 1942 or 1944. Use approximately 1943 (range 1942–1944), not a verified exact year. His relationship as Yosef Mordechai’s son remains tentative.
+
+
+**Provisional tree leaf added at Hillel’s explicit request, 18 October 2026:** Dov Cohen now appears under Yosef Mordechai, with the existing `possible` marker and a bilingual note identifying the father-son relationship as tentative. Birth is displayed as c.1943, possibly1942–1944, from Hillel’s estimate. This supersedes the earlier decision to keep him only in Yosef’s note. No spouse, mother, descendants or death date are invented; the leaf is a family hypothesis, not new documentary proof.
