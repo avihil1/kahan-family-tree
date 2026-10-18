@@ -2154,3 +2154,54 @@ The two Avraham-son Media links both point to [one father testimony
 PDF](https://www.geni.com/documents/view?doc_id=6000000184189835907). Repetition across child profiles does not
 multiply witnesses or fill their individual death fields. All145 named people and existing confidence qualifiers are
 preserved.
+
+## Geni internal search: Moses and Efrajm — 19 October 2026
+
+The ordinary signed-in **All of Geni** name-search path was exercised and returned actual Geni result pages. The
+promotional MyHeritage link was not used. **Six result-page captures** are archived, including the initial exact-name
+zero, whose original raw capture was preserved without repeating the query. These are query-specific results, not
+proof that a person is absent from Geni.
+
+| Name query | Observed result and reviewed scope |
+| --- | --- |
+| [Moses Laser Kahan](https://www.geni.com/search?search_type=people&names=Moses+Laser+Kahan) |Loaded “No results found”; initial raw result captured. |
+| [Moses Kahan](https://www.geni.com/search?search_type=people&names=Moses+Kahan) |16 advertised people, single result page screened. One household candidate inspected below; no identity established. |
+| [Moses Moldovan](https://www.geni.com/search?search_type=people&names=Moses+Moldovan) |Loaded “No results found” for this exact scope. |
+| [Efrajm Kahan](https://www.geni.com/search?search_type=people&names=Efrajm+Kahan) |Loaded “No results found” for this spelling. |
+| [Froim Kahan](https://www.geni.com/search?search_type=people&names=Froim+Kahan) |5 advertised people on one page screened; older Polish households and a1904birth, without a bridge to the1869 household. |
+| [Efraim Kahan](https://www.geni.com/search?search_type=people&names=Efraim+Kahan) |3 advertised people on one page screened; Iacov/Chaja’s son, the1878SrulIcko/Sura son, and a broadly estimated1827–1887 husband of Hudel. No identifying bridge. A different spouse or broad age range alone does not categorically exclude the last profile. |
+
+[Moses Leizor Kahan6000000175078345151](https://www.geni.com/people/Moses-Leizor-Kahan/6000000175078345151) is an
+**unattached candidate**, not a newly identified ancestor. Its tree claims birth1851, parentsChaimLeib/ChajeTaube,
+wifeCiupa and eight child slots, with loaded empty Sources/Media panels. [Ciupa née
+Kudisch](https://www.geni.com/people/Ciupa-Cipy-Kahan/6000000175078322267) is shown born1866Pokhivka,
+died7October1927Stanisławów as a widow, parentsDawid/Feige. Her1866birth cannot make her mother of our Efrajm1869, but
+an unproved earlier union would remain possible if the Moses identity were ever bridged; this is not a categorical
+identity disproof.
+
+The inspected [Rifke](https://www.geni.com/people/Rifke-Kahan/6000000031262537078) is born1885, wife of
+NuchimErdstein, versus our Riwke1877/ChaimGancz. The inspected
+[Jakob](https://www.geni.com/people/Jakob-Kahan/6000000000225927889) is born9March1887Stanisławów,
+wifeHava/Ewa/Bounia, died12September1942, versus our Jacob21July1874/EstherFriedman. These household differences leave
+**no demonstrated record bridge** in this pass; they do not justify importing ChajeTaube as mother or importing the
+candidate household’s ancestors. “Węgry” can denote Hungary in Polish, while the profile geocodes it to Poland; the
+Stanisławów geocoding is also ambiguous. No migration is proved from those labels.
+
+The previously captured lead was opened directly in Geni and redirected to [Efraim
+Kahana6000000227170543840](https://www.geni.com/people/Efraim-Kahana/6000000227170543840). The accessible profile
+estimates birth1856–1888, deathcirca1952BneiBrak, wifeDevoira and sonShimonYitzchak, without a father or birth town;
+its actual Sources/Media panels loaded empty. This remains **unattached** to Efrajm1869/EszterHuber: the broad birth
+estimate includes1869 but does not identify him, and the spouse/household differs without an independent bridge. The
+surname is **Kahana**, so omission from the **Kahan** query is not evidence of index incompleteness. No further
+MyHeritage query was run.
+
+A separate parent-filter experiment failed both known-person controls: **YosefMordechaiKahan + Bernat** and
+**MosesKahan + ChaimLeib** did not recover their known profiles. That invocation path is therefore **unvalidated for
+this investigation**. The three planned Dov-name target queries **did not run**; no zero, absence or exclusion about
+DovCohen is inferred. His existing provisional identity remains unresolved.
+
+Root/Jozsef’s parents, Moses’s identity bridge and Efrajm’s household gaps remain unresolved. The tree remains145; no
+candidate parent or child from this search is attached. The next source must connect a known date, spouse, parent or
+child through an original or independently identified record; more ancestry from the candidate alone cannot supply
+that bridge. The Geni DFS and all-victim/spouse YadVashem review remain incomplete, with the explicit HaimArie
+exclusion and private/identity frontiers preserved.
