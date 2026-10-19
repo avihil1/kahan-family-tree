@@ -1,13 +1,13 @@
 # MyHeritage research from the tree root — 16 October 2026
 
 **Current research scope, 19 October 2026:** Hillel stopped the MyHeritage subscription. No further MyHeritage queries
-or paid-record access are authorized. Continue the 145-person tree investigation primarily through the existing
+or paid-record access are authorized. Continue the 149-person tree investigation primarily through the existing
 authenticated Geni session, in depth-first order, inspecting accessible profiles, sources, media and revisions.
 Earlier MyHeritage captures remain historical evidence; pending MyHeritage queries are suspended, not completed. The
 already-read Yad Vashem originals are recorded separately below. Private fields remain unavailable. Initial Geni
 child-profile reads are prefetch until evaluated in order; no claim of a completed all-person DFS is made.
 
-**Current coverage, 19 October 2026:** 145 named tree profiles; all 138 original baseline names have earlier initial
+**Current coverage, 19 October 2026:** 149 named tree profiles; all 138 original baseline names have earlier initial
 query captures, while the detailed DFS remains incomplete. This continuation has evaluated 43 new query-page requests
 and eight full MyHeritage records so far. Pending originals and identity gaps remain in Moses’s branch; the David Hers
 batch is prefetch. Later dated sections supersede conflicting historical counts below.
@@ -2215,3 +2215,27 @@ profiles**. This is secondary tree evidence; names and further descendant detail
 remains unresolved. Other unresolved Yael placeholders are not assigned to Ben, and no additional union or fixed total
 for all Yael’s children is inferred. This update supersedes the earlier decision to omit the aggregate counter for
 this couple.
+
+## Ben and Yael Adoram’s named children — 19 October 2026
+
+Hillel Kahana confirmed the five-child roster: **Naomi, Itamar, Shalom, Ariel and Aviad Adoram**. He also confirmed
+that **Ben and Benzion are the same person**, and that the overlapping child records refer to the same family members.
+The four unnamed slots are replaced by the four sons’ names; they are not four extra children. The tree now has **149
+named profiles**. The five relationships are family-confirmed, and the male/female labels follow the explicit
+son/daughter relationships. Original vital records and dates remain unverified.
+
+Sources are Hillel’s confirmation, the supplied Geni screenshot and the [Ben
+Adoram](https://www.geni.com/people/Ben-Adoram/6000000003819914515) and [Yael
+Adoram](https://www.geni.com/people/Yael-Adoram/6000000004724459007) parent rosters. Five child source/media panels
+were inspected without further spouse or child links being displayed; that does not establish childlessness. Further
+descendants and current life status remain unestablished. The confirmed duplicate identities do not add another union
+or four additional people. This supersedes the earlier aggregate count and provisional relationship wording for this
+household. Descendant research remains open.
+
+## Geni merge audit — 20 October 2026
+
+Four duplicate child-record pairs were merged and verified; Yael’s Geni profile now lists five children. The
+Ben/Benzion merge request was submitted and approved by Hillel, but still awaits account-owner approval: that
+parent-record merge is **pending**, not completed. Family confirmation supports one Ben/Benzion identity and the
+five-child roster independently of that pending workflow. Date conflicts remain unresolved, and no dates were adopted
+from the merge workflow. Further descendant research remains open.
