@@ -1173,3 +1173,47 @@ earlier-wife history and the c.1855 estimate were already known, not new discove
 
 The next accessible branch is Eszter. One attempted external-reference check did not retrieve the requested page, so
 it produced no genealogical evidence. No new relative or date has been confirmed. The broader DFS remains unfinished.
+
+## Further historical Geni profiles — 20 October 2026
+
+The repaired batch completed overview and loaded Sources/Media checks for four historical profiles. Each repeats the
+baseline birth date and David/Reize family links; none supplies independent verification. No date, confidence flag,
+spouse or descendant is changed from this batch. Empty spouse/child displays do not establish childlessness.
+
+| Person and Geni citation | Per-person review and remaining gap |
+| --- | --- |
+| [Eszter Moldavan Kahan](https://www.geni.com/people/Eszter-Moldovan-Kahan/6000000209193798840) |Existing birth date repeated; Sources empty and Media explicitly lists no documents. The separate marriage/household lead still needs an identifying original.|
+| [Juda Moldavan Kahan](https://www.geni.com/people/Juda-Moldovan-Kahan/6000000209194054822) |Existing birth date and family repeated; loaded Sources/Media have no attached documentary evidence. Spouse/descendants remain unestablished.|
+| [Abraham Moldavan Kahan](https://www.geni.com/people/Abraham-Moldovan-Kahan/6000000209193980843) |Existing birth date and family repeated; loaded Sources/Media have no attached documentary evidence. Spouse/descendants remain unestablished.|
+| [Chaje Feige Kahan](https://www.geni.com/people/Chaje-Feige-Kahan/6000000209194004841) |Existing birth date and family repeated; loaded Sources/Media have no attached documentary evidence. Spouse/descendants remain unestablished.|
+
+The root-pass capture count is now fourteen loaded overview/Source/Media scopes: the earlier nine, these four and the
+successful Frede capture. Frede/Ganz’s displayed child links repeat the baseline family and its previously qualified
+duplicate/candidate questions; they are not six new children. Five targeted Adoram birth-field overviews are separate
+from these root-pass panel checks. The broader DFS is still unfinished, with the Moses/Froim identity gaps preserved
+and continued Frede/Ganz review pending.
+
+## Adoram children’s reported birth dates — 20 October 2026
+
+At the user’s request, birth-date information from a fresh Geni field review is now displayed for the five named
+children. These are **reported profile claims**, separate from Hillel’s confirmation of their identities and
+parentage. No original birth records or family confirmation of the dates were obtained.
+
+| Child | Displayed birth information | Evidence limit or conflict |
+| --- | --- | --- |
+| Shalom Adoram |8 December 1997|Current Geni profile field; unverified as an original birth date.|
+| Itamar Adoram |16 August 1999, explicitly labeled as the current Geni main-field claim|An earlier unsaved merge comparison also recorded8 December1997. The new main-page read does not resolve that disagreement.|
+| Ariel Adoram |27 January 2001|Current Geni profile field; unverified as an original birth date.|
+| Naomi Adoram |2002 only|Current claim circa6 October2002 versus earlier30 September2002. Both alternatives remain recorded; neither exact date is chosen.|
+| Aviad Adoram |Unknown|Only an automatic broad range was displayed; it is not adopted as a birth date or year.|
+
+### Checkpoint summary
+
+The tree remains **149 named profiles**, with five family-confirmed children under Yael and Ben/Benzion. Birth fields
+now distinguish three reported main-field dates, Naomi’s disputed day/month and Aviad’s unknown date; Itamar’s legacy
+alternative is explicitly retained. No new relative, private profile identifier, child-profile URL or other person’s
+birth date is added. The four dated profiles also report Israel as birth country; no city or birth country for Aviad
+is inferred. The broader root DFS remains unfinished. The root pass now has fourteen loaded overview/Source/Media
+captures, including the successfully repaired four-profile batch and Frede. The five targeted birth-field overviews
+are counted separately. The failed first hidden-children click is not counted as a completed batch. Moses/Froim
+identity gaps and further Frede/Ganz descendant review remain open.
