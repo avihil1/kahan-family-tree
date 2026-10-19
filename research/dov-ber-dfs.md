@@ -1217,3 +1217,36 @@ is inferred. The broader root DFS remains unfinished. The root pass now has four
 captures, including the successfully repaired four-profile batch and Frede. The five targeted birth-field overviews
 are counted separately. The failed first hidden-children click is not counted as a completed batch. Moses/Froim
 identity gaps and further Frede/Ganz descendant review remain open.
+
+## Consolidated Geni checkpoint: 28 record pages — 20 October 2026
+
+Fourteen further overview/loaded Sources/Media scopes extend the earlier fourteen-page checkpoint to **28 record
+pages**. These are not 28 different baseline people: a second Rosa record concerns the existing Rosa Rachel, and
+spouse/collateral and unattached-candidate records are counted separately. The five targeted Adoram birth-field
+reviews remain separate. No new relative or independently verified vital date is established by this batch.
+
+| Additional record scope | Comparison with baseline and remaining limit |
+| --- | --- |
+| Rosa Rachel Ganz (Lebovici) |Existing family, obituary evidence and dates retained. No new independent original accepted.|
+| Moishe Lebovici |Existing Rosa child record reviewed; no new original or descendant relationship established.|
+| Srul Jankel Yaakov Ganz |Existing family record reviewed; dates and confidence remain unchanged.|
+| Fani Ganz (Segelstein) |Parents, spouse and Betty/David links repeat existing evidence. The obituary-named later descendants remain without established intermediate parentage.|
+| Betty Segelstein |Linked Geni display-name alternative Elizabeth is recorded as a secondary claim. The obituary’s Betty name remains canonical; no other private details are adopted.|
+| David Segelstein |Geni leaves gender unspecified; earlier obituary evidence supporting the existing male label is retained. Missing child links do not establish childlessness.|
+| Berl Bernat Ganz |Geni repeats the known year/fate assertions; it supplies no new individual original. Existing testimony qualifications remain.|
+| Second Rosa record |Known dates, parents and husband match existing Rosa Rachel; this strengthens a possible duplicate-record interpretation, not an additional child or independent witness. Freida Ganz (Reif), with her separate SSA/interview evidence, remains distinct.|
+| Chaja candidate |Unsupported tree assertions do not identify an extra child or establish a match to the separately documented survivor. The candidate stays unattached.|
+| [Israel Kahan](https://www.geni.com/people/Israel-Moldovan-Kahan/6000000209194154828) |Historical Geni family/date assertions repeat the baseline; the secondary citation does not verify dates or change confidence.|
+| [Jakob Kahan](https://www.geni.com/people/Jakob-Moldovan-Kahan/6000000209194170823) |Historical Geni family/date assertions repeat the baseline; the secondary citation does not verify dates or change confidence.|
+| [Mozses Iczik Kahan](https://www.geni.com/people/Mozses-Iczik-Moldovan-Kahan/6000000209194025852) |Geni does not add an independent original; the existing testimony-based household and its unresolved claims remain qualified.|
+| [Rifka Kahan](https://www.geni.com/people/Rifka-Kahan/6000000209194166836) |Historical profile repeats the known family/date claim; no newly established spouse or descendant is inferred.|
+| [Seindel Kahan](https://www.geni.com/people/Seindel-Kahan/6000000209194224823) |The Geni death-field date versus the baseline birth-field date is an already-known event-type conflict. No death is inferred or adopted.|
+
+### Current checkpoint summary
+
+The tree remains **149 named people**. All graph relationships, sex labels, dates and confidence flags are preserved,
+including the separately qualified Adoram birth-date update. This batch records Betty’s attributed display-name
+alternative and historical source references, mostly already cited, not new relatives or original vital facts. The
+next accessible main branch is Dov/Bernat. Moses/Froim identity gaps, the separate Freida/Dori Geni identity gaps and
+Fani’s intermediate-descendant parentage remain unfinished; absence from a displayed Geni family list does not erase
+earlier independent evidence. The full root-to-descendant DFS is not complete.
