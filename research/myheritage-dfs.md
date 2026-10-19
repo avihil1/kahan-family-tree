@@ -2239,3 +2239,51 @@ Ben/Benzion merge request was submitted and approved by Hillel, but still awaits
 parent-record merge is **pending**, not completed. Family confirmation supports one Ben/Benzion identity and the
 five-child roster independently of that pending workflow. Date conflicts remain unresolved, and no dates were adopted
 from the merge workflow. Further descendant research remains open.
+
+## Baruch Josef: inspected merge history — 20 October 2026
+
+The c.1850 Baruch/father-David-c.1855 conflict and the Mindye/Szender-1881 household were **already documented in the
+baseline**. No new wife, son, ancestry or birth fact is established by this pass. The baseline indexed birth remains
+**18 March 1875**.
+
+The newly inspected [Geni merge comparison](https://www.geni.com/merge/view?revision_id=88129149290) records a **17
+December 2025** merger of the c.1850 record with the 18 March 1875 record. This identifies a platform action behind
+the combined tree assertions. It does **not** prove the people were identical or attach the c.1850 household to the
+indexed 1875 child. An original identifying record is still needed. The existing birth/parent links are retained as
+previously qualified; Mindye, Szender and their descendants are not added.
+
+## Pearl Jessica Lieberman: obituary scope — 20 October 2026
+
+The [original Paperman notice](https://www.paperman.com/funerals/Pearl-Jessica-Lieberman-BF820F71) names
+nieces/nephews, but no spouse or children. Whether Pearl ever married or had children remains unconfirmed; omission
+from an obituary does not establish either claim. Her recorded death on 20 January 2026 and funeral on 22 January
+remain unchanged. No spouse or descendant is invented or deleted from this inference.
+
+## Current Geni walk: bounded coverage — 20 October 2026
+
+This checkpoint has **nine profile overviews with loaded Sources and Media panels inspected**: Jozsef, Rifke, Chaim,
+Freide, David, Reize, Baruch and the already-known candidate household’s Mindye and Szender. Four records correspond
+to baseline-person scopes, with Baruch’s identity still unresolved; four are spouse/collateral scopes and one is an
+unattached child candidate. The source/media panels supplied no new original records. This is not nine new relatives
+or a completed investigation of the 149-person tree.
+
+Seven quick name-search scopes were checked on their first result pages; the displayed counts were:
+
+| Entered name | Displayed count |
+| --- | --- |
+| Moses Laser Moldovan Kahan |0|
+| Efrajm Froim Kahan |0|
+| Moses Kahane |13|
+| Froim Kahan |5|
+| Berl Kahan |6|
+| Volf Kahan |6|
+| Eszter Nasztale Huber |0|
+
+No canonical Geni identity was established for Moses, Efrajm, Berl or Volf from these scopes. The counts do not
+establish genealogical absence or exhaust the Moses/Froim branch. Existing census/register links and the ten-child
+baseline under Chaim are preserved; Geni’s two displayed children do not replace them. David’s structured
+Freide-mother field and the About claim of an unnamed earlier wife remain conflicting secondary assertions;
+earlier-wife history and the c.1855 estimate were already known, not new discoveries.
+
+The next accessible branch is Eszter. One attempted external-reference check did not retrieve the requested page, so
+it produced no genealogical evidence. No new relative or date has been confirmed. The broader DFS remains unfinished.
