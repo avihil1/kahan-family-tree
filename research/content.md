@@ -3054,3 +3054,13 @@ candidate parent or child from this search is attached. The next source must con
 child through an original or independently identified record; more ancestry from the candidate alone cannot supply
 that bridge. The Geni DFS and all-victim/spouse YadVashem review remain incomplete, with the explicit HaimArie
 exclusion and private/identity frontiers preserved.
+
+## Ben and Yael Adoram’s child roster — 19 October 2026
+
+[Geni’s public Ben Adoram profile](https://www.geni.com/people/Ben-Adoram/6000000003819914515) and [Yael Adoram
+profile](https://www.geni.com/people/Yael-Adoram/6000000004724459007) support five children with Ben: Naomi, already
+shown once, and four unnamed children, now represented by an aggregate count under Yael. The tree remains **145 named
+profiles**. This is secondary tree evidence; names and further descendant details are unavailable, so further DFS
+remains unresolved. Other unresolved Yael placeholders are not assigned to Ben, and no additional union or fixed total
+for all Yael’s children is inferred. This update supersedes the earlier decision to omit the aggregate counter for
+this couple.
