@@ -3057,7 +3057,7 @@ exclusion and private/identity frontiers preserved.
 
 ## Ben and Yael Adoram’s child roster — 19 October 2026
 
-[Geni’s public Ben Adoram profile](https://www.geni.com/people/Ben-Adoram/6000000003819914515) and [Yael Adoram
+[Geni’s Ben Adoram profile](https://www.geni.com/people/Ben-Adoram/6000000003819914515) and [Yael Adoram
 profile](https://www.geni.com/people/Yael-Adoram/6000000004724459007) support five children with Ben: Naomi, already
 shown once, and four unnamed children, now represented by an aggregate count under Yael. The tree remains **145 named
 profiles**. This is secondary tree evidence; names and further descendant details are unavailable, so further DFS
