@@ -3213,3 +3213,25 @@ alternative and historical source references, mostly already cited, not new rela
 next accessible main branch is Dov/Bernat. Moses/Froim identity gaps, the separate Freida/Dori Geni identity gaps and
 Fani’s intermediate-descendant parentage remain unfinished; absence from a displayed Geni family list does not erase
 earlier independent evidence. The full root-to-descendant DFS is not complete.
+
+## Dov/Bernat source check: 29 record pages — 20 October 2026
+
+| Additional record scope | Source comparison and access limit |
+| --- | --- |
+| [Dov Ber Bernat Kahan](https://www.geni.com/people/Bernat-Ber-Dov-Kahan/6000000016805419994) |Overview and loaded Sources/Media reviewed. The attached document page returned HTTP 200; its external JOWBR reference returned HTTP 403 and supplied no fresh cemetery content. The [Geni media image](https://www.geni.com/photo/view?photo_id=6000000016807075004) copies the already-inspected Rivka testimony 3983900, signed by grandson Dov on 2 July 2000. It is not a gravestone or independent witness and establishes no new family fact or parentage.|
+
+The initial photo-page barrier classification was incorrect: the CAPTCHA text belonged to a comment widget, while the
+page and full-size image were accessible through a request-only read. The image comparison succeeded. The external
+JOWBR failure remains a route-specific access limit, not evidence of a missing inscription, image or person. No
+gravestone image was inspected in this check.
+
+### Current checkpoint summary
+
+The bounded Geni pass now covers **29 record pages**, not 29 different people: 23 baseline-associated record scopes
+concern 22 baseline people, including one unresolved Baruch identity; four spouse/collateral and two
+unattached-candidate scopes are separate. Seven quick name-search scopes and five targeted Adoram birth-field
+overviews are counted separately. The tree remains **149 named people** with all relationships, dates, sex labels and
+confidence flags unchanged. This final source check adds citations and identifies a duplicate testimony, with no new
+independently established fact. The next accessible descendant is Yente under Dov/Bernat; the strict Moses/Froim
+identity gap, separate Freida/Dori identity gaps and Fani descendant-parentage gaps remain open. The full
+root-to-descendant DFS is unfinished.
