@@ -129,28 +129,28 @@
 | [119. Shalom Kahana](#person-119) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [120. Chaim Aryeh Kahana (Haim Arie)](#person-120) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [121. Shirel](#person-121) | Existing identity; updated born, years. Retain the family/source qualifications below. |
-| [122. Ido Kahana](#person-122) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [123. Shalom Kahana](#person-123) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [124. Uria Kahana](#person-124) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [125. Tehila Kahana](#person-125) | Existing identity; updated name, born. Retain the family/source qualifications below. |
+| [122. Ido Kahana](#person-122) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [123. Shalom Kahana](#person-123) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [124. Uria Kahana](#person-124) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [125. Tehila Kahana](#person-125) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
 | [126. Yair](#person-126) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [127. Michal Kahana (Tikochinsky)](#person-127) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [128. Eliav Tikochinsky](#person-128) | Existing identity; updated name. Retain the family/source qualifications below. |
 | [129. Hila](#person-129) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [130. Alma](#person-130) | Existing identity; baseline retained. Retain the family/source qualifications below. |
-| [131. Renana Tikochinsky](#person-131) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [132. Avital Tikochinsky](#person-132) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [133. Yitzhak Tikochinsky](#person-133) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [134. Naomi Tikochinsky](#person-134) | Existing identity; updated name, born. Retain the family/source qualifications below. |
-| [135. Shulamit Tikochinsky](#person-135) | Existing identity; updated name, born. Retain the family/source qualifications below. |
+| [131. Renana Tikochinsky](#person-131) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [132. Avital Tikochinsky](#person-132) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [133. Yitzhak Tikochinsky](#person-133) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [134. Naomi Tikochinsky](#person-134) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
+| [135. Shulamit Tikochinsky](#person-135) | Existing identity; updated name, born, years. Retain the family/source qualifications below. |
 | [136. Tamar (תמר)](#person-136) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [137. Yael Adoram](#person-137) | Existing identity; updated born, years. Retain the family/source qualifications below. |
-| [138. Naomi Adoram](#person-138) | Existing identity; baseline retained. Retain the family/source qualifications below. |
+| [138. Naomi Adoram](#person-138) | Existing identity; updated born. Retain the family/source qualifications below. |
 | [139. Itamar Adoram](#person-139) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [140. Shalom Adoram](#person-140) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [141. Ariel Adoram](#person-141) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [142. Aviad Adoram](#person-142) | Existing identity; baseline retained. Retain the family/source qualifications below. |
-| [143. Yedidia Kahana](#person-143) | Existing identity; updated born. Retain the family/source qualifications below. |
+| [143. Yedidia Kahana](#person-143) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [144. Efrat Kahana](#person-144) | Newly displayed relative. Relationship remains provisional. |
 | [145. Shulem Kahana](#person-145) | Newly displayed relative. Relationship remains provisional. |
 | [146. Yonatan Kahana](#person-146) | Newly displayed relative. Relationship remains provisional. |
@@ -162,20 +162,20 @@
 | [152. כרמל ברלין](#person-152) | Newly displayed relative. Relationship remains provisional. |
 | [153. Avital Kahana](#person-153) | Newly displayed relative. Relationship remains provisional. |
 | [154. Shalom Kahana](#person-154) | Newly displayed relative. Relationship remains provisional. |
-| [155. Elisheva Shezifi](#person-155) | Existing identity; updated born. Retain the family/source qualifications below. |
+| [155. Elisheva Shezifi](#person-155) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [156. Shulem Shezifi](#person-156) | Newly displayed relative. Relationship remains provisional. |
 | [157. Rebecca Shezifi](#person-157) | Newly displayed relative. Relationship remains provisional. |
 | [158. Yissocher Shezifi](#person-158) | Newly displayed relative. Relationship remains provisional. |
 | [159. טוהר שזיפי](#person-159) | Newly displayed relative. Relationship remains provisional. |
 | [160. Shifra Shezifi](#person-160) | Newly displayed relative. Relationship remains provisional. |
-| [161. Ishai Kahana](#person-161) | Existing identity; updated born. Retain the family/source qualifications below. |
-| [162. Hillel Kahana](#person-162) | Existing identity; updated born. Retain the family/source qualifications below. |
+| [161. Ishai Kahana](#person-161) | Existing identity; updated born, years. Retain the family/source qualifications below. |
+| [162. Hillel Kahana](#person-162) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [163. Avia Prinz](#person-163) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [164. Shulem](#person-164) | Newly displayed relative. Relationship remains provisional. |
-| [165. Akiva Kahana](#person-165) | Existing identity; updated born. Retain the family/source qualifications below. |
-| [166. Gad Kahana](#person-166) | Existing identity; updated born. Retain the family/source qualifications below. |
-| [167. Lea Eyal](#person-167) | Existing identity; updated born. Retain the family/source qualifications below. |
-| [168. Iska Glazer](#person-168) | Existing identity; updated born. Retain the family/source qualifications below. |
+| [165. Akiva Kahana](#person-165) | Existing identity; updated born, years. Retain the family/source qualifications below. |
+| [166. Gad Kahana](#person-166) | Existing identity; updated born, years. Retain the family/source qualifications below. |
+| [167. Lea Eyal](#person-167) | Existing identity; updated born, years. Retain the family/source qualifications below. |
+| [168. Iska Glazer](#person-168) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [169. Rachel Kahana](#person-169) | Existing identity; updated born. Retain the family/source qualifications below. |
 | [170. Feige Kahan (Adler)](#person-170) | Existing identity; updated born. Retain the family/source qualifications below. |
 | [171. Dov Adler](#person-171) | Existing identity; updated born. Retain the family/source qualifications below. |
@@ -3805,7 +3805,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Ido; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 1995-06-21, Israel (Geni-reported; unverified)
 
@@ -3840,7 +3840,7 @@ Private name review, 20 October 2026: the own Geni profile records Ido Kahana an
 
 **Known before this pass:** Name: Shalom; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 1996-10-09, Israel (Geni-reported; unverified)
 
@@ -3870,7 +3870,7 @@ Private name review, 20 October 2026: the own Geni profile records Shulem Kahana
 
 **Known before this pass:** Name: Uria; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 2001-03-27, Israel (Geni-reported; unverified)
 
@@ -3900,7 +3900,7 @@ Private name review, 20 October 2026: the own Geni profile records Uriah Kahana 
 
 **Known before this pass:** Name: Tehila; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 2003-02-21, Israel (Geni-reported; unverified)
 
@@ -4082,9 +4082,9 @@ Private name review, 20 October 2026: the own Geni profile records Eliav Tikochi
 
 **Known before this pass:** Name: Renana (רננה); birth: Age 27 in July 2019 (reported by mother; exact birth date unverified).; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
-**Birth:** 1992-05-14, Israel (Geni-reported; unverified)
+**Birth:** 12 Iyar 5752 (family-confirmed Hebrew day/month; civil date unresolved)
 
 **Death:** Unknown / not supplied
 
@@ -4094,7 +4094,11 @@ Private name review, 20 October 2026: the own Geni profile records Eliav Tikochi
 
 **Spouse claims:** Avihail Fogel
 
-**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 89, reports 15 May 1992, while the existing Geni-qualified birth field reports 14 May 1992. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer.
+**Evidence, qualifications and remaining work:** At 15:11 on 20 October 2026 Hillel supplied Renana’s Hebrew birthday as 12 Iyar. The day and month are family-confirmed. The Hebrew year 5752 is derived using the existing source-reported birth year 1992; that year was not independently confirmed by this answer. The saved official Hebcal conversion maps 12 Iyar 5752 to daytime 15 May 1992, and the same Hebrew day begins after sunset on 14 May 1992. No birth time or sufficiently specific birth location is known, so the Hebrew birthday cannot choose between the earlier Geni 14 May and reference-tree 15 May civil-date claims. 14 May is not disproved, and 15 May is not a family-confirmed civil birth date. Both remain source history; the primary field records the Hebrew date with the civil date unresolved. No original birth record is claimed.
+
+Earlier research notes, before the 15:11 family follow-up:
+
+Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 89, reports 15 May 1992, while the existing Geni-qualified birth field reports 14 May 1992. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer.
 
 Earlier research notes, before this saved reference comparison:
 
@@ -4110,6 +4114,8 @@ Private name review, 20 October 2026: the own Geni profile records Renana Tikoch
 - [Hillel Kahana: family testimony, 15 October 2026 (Renana spouse)](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#renana-spouse--15-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Renana-Tikochinsky/6000000002683180965)
 - [Koplowitz–Pasternak family tree, entry 89 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#89)
+- [Hillel Kahana: family follow-up, 20 October 2026, 15:11](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-identity-and-tentative-date-follow-up--20-october-2026)
+- [Hebcal: 12 Iyar 5752 calendar conversion; civil date depends on sunset](https://www.hebcal.com/converter?h2g=1&hd=12&hm=Iyyar&hy=5752)
 
 <a id="person-132"></a>
 ## 132. Avital Tikochinsky
@@ -4118,7 +4124,7 @@ Private name review, 20 October 2026: the own Geni profile records Renana Tikoch
 
 **Known before this pass:** Name: Avital (אביטל); birth: Age 25 in July 2019 (reported by mother; exact birth date unverified).; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 1993-11-18, Israel (Geni-reported; unverified)
 
@@ -4148,7 +4154,7 @@ Private name review, 20 October 2026: the own Geni profile records Avital Tikoch
 
 **Known before this pass:** Name: Yitzhak (יצחק); birth: Age 23 in July 2019 (reported by mother; exact birth date unverified).; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 1996-02-11, Belgium (Geni-reported; unverified)
 
@@ -4178,7 +4184,7 @@ Private name review, 20 October 2026: the own Geni profile records Isaac Tikochi
 
 **Known before this pass:** Name: Naomi (נעמי); birth: Age 20 in July 2019 (reported by mother; exact birth date unverified).; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 1998-07-08, Israel (Geni-reported; unverified)
 
@@ -4208,7 +4214,7 @@ Private name review, 20 October 2026: the own Geni profile records Naomi Tikochi
 
 **Known before this pass:** Name: Shulamit (שולמית); birth: Age 19 in July 2019 (reported by mother; exact birth date unverified).; death: unknown
 
-**Finding and confidence:** Existing identity; updated name, born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated name, born, years. Retain the family/source qualifications below.
 
 **Birth:** 2000-04-03, Israel (Geni-reported; unverified)
 
@@ -4308,9 +4314,9 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Naomi Adoram; birth: circa 6 October 2002, Israel (Geni-reported; unverified); death: unknown
 
-**Finding and confidence:** Existing identity; baseline retained. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
 
-**Birth:** circa 6 October 2002, Israel (Geni-reported; unverified)
+**Birth:** 30 September 2002 (tentative family recollection; reference-tree claim, unverified)
 
 **Death:** Unknown / not supplied
 
@@ -4320,7 +4326,11 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 98, reports 30 September 2002, while the existing Geni-qualified birth field reports circa 6 October 2002. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer. The earlier note correctly described the old unsaved-draft claim as unsupported at that checkpoint. This newly preserved reference-tree source now supports an alternative claim; it is not retrospectively treated as a Geni claim.
+**Evidence, qualifications and remaining work:** At 15:11 on 20 October 2026 Hillel tentatively recalled 30 September 2002 as Naomi’s birth date. It is displayed as the tentative preferred date and agrees with the saved Koplowitz–Pasternak reference tree, entry 98. This was a guess, not an exact-date family confirmation or an inspected original. The earlier Geni claim, circa 6 October 2002, Israel, remains recorded as conflicting source history; its circa qualifier is preserved. The conflict is not resolved by this tentative preference. Earlier notes saying the primary field was left unchanged describe the previous checkpoint.
+
+Earlier research notes, before the 15:11 family follow-up:
+
+Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 98, reports 30 September 2002, while the existing Geni-qualified birth field reports circa 6 October 2002. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer. The earlier note correctly described the old unsaved-draft claim as unsupported at that checkpoint. This newly preserved reference-tree source now supports an alternative claim; it is not retrospectively treated as a Geni claim.
 
 Earlier research notes, before this saved reference comparison:
 
@@ -4339,6 +4349,7 @@ Birth-date review, 20 October 2026: both saved Geni captures report circa 6 Octo
 - [Geni birth-date fields, reviewed 20 October 2026 (reported claims)](https://github.com/avihil1/kahan-family-tree/blob/main/research/dov-ber-dfs.md#adoram-childrens-reported-birth-dates--20-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Naomi-Adoram/6000000004754685003)
 - [Koplowitz–Pasternak family tree, entry 98 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#98)
+- [Hillel Kahana: family follow-up, 20 October 2026, 15:11](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-identity-and-tentative-date-follow-up--20-october-2026)
 
 <a id="person-139"></a>
 ## 139. Itamar Adoram
@@ -4479,7 +4490,7 @@ Birth-date review, 20 October 2026: no usable reported birth date was establishe
 
 **Known before this pass:** Name: Yedidia Kahana; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1973-11-27, Israel (Geni-reported; unverified)
 
@@ -4491,7 +4502,11 @@ Birth-date review, 20 October 2026: no usable reported birth date was establishe
 
 **Spouse claims:** Vardit Kahana
 
-**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree lists Vardit Shachor as the spouse in the corresponding household, entry 100, with birth year 1975. A match to the current spouse Vardit Kahana is a candidate identity only, pending family confirmation. This year is not assigned as the established spouse birth year. Existing names, spouse links and birth fields remain unchanged; no exact date or new surname is imported.
+**Evidence, qualifications and remaining work:** At 15:11 on 20 October 2026 Hillel confirmed Vardit Kahana and Vardit Shachor as the same person. The source-name identity is now family-confirmed; the existing displayed spouse name and profile link are retained. No maiden-name or other surname status is inferred. The 1975 birth year remains an unverified Koplowitz–Pasternak reference-tree claim; the family answer confirmed identity only, not the year or an exact birth date. Earlier candidate-only identity wording below is superseded.
+
+Earlier research notes, before the 15:11 family follow-up:
+
+Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree lists Vardit Shachor as the spouse in the corresponding household, entry 100, with birth year 1975. A match to the current spouse Vardit Kahana is a candidate identity only, pending family confirmation. This year is not assigned as the established spouse birth year. Existing names, spouse links and birth fields remain unchanged; no exact date or new surname is imported.
 
 Earlier research notes, before this saved reference comparison:
 
@@ -4517,6 +4532,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Geni profile linked from Shalom’s child roster: Yedidia Kahana](https://www.geni.com/people/Yedidya-Kahana/6000000007338871565)
 - [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 - [Koplowitz–Pasternak family tree, entry 100 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#100)
+- [Hillel Kahana: family follow-up, 20 October 2026, 15:11](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-identity-and-tentative-date-follow-up--20-october-2026)
 
 <a id="person-144"></a>
 ## 144. Efrat Kahana
@@ -4662,7 +4678,11 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Spouse claims:** Yael Rebecca Kahana
 
-**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree lists Yael Blumental as the spouse in the corresponding household, entry 103, with birth year 1975. A match to the current spouse Yael Rebecca Kahana is a candidate identity only, pending family confirmation. This year is not assigned as the established spouse birth year. Existing names, spouse links and birth fields remain unchanged; no exact date or new surname is imported.
+**Evidence, qualifications and remaining work:** At 15:11 on 20 October 2026 Hillel confirmed Yael Rebecca Kahana and Yael Blumental as the same person. The source-name identity is now family-confirmed; the existing displayed spouse name and profile link are retained. No maiden-name or other surname status is inferred. The 1975 birth year remains an unverified Koplowitz–Pasternak reference-tree claim; the family answer confirmed identity only, not the year or an exact birth date. Earlier candidate-only identity wording below is superseded.
+
+Earlier research notes, before the 15:11 family follow-up:
+
+Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree lists Yael Blumental as the spouse in the corresponding household, entry 103, with birth year 1975. A match to the current spouse Yael Rebecca Kahana is a candidate identity only, pending family confirmation. This year is not assigned as the established spouse birth year. Existing names, spouse links and birth fields remain unchanged; no exact date or new surname is imported.
 
 Earlier research notes, before this saved reference comparison:
 
@@ -4677,6 +4697,7 @@ Hillel identified this existing child of Shalom and Ruth as Nachshon. On 20 Octo
 - [Hillel Kahana: family testimony, 20 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026)
 - [Geni N.N. record: family-confirmed as Nachshon](https://www.geni.com/people/N-N-Kahana/6000000002683180850)
 - [Koplowitz–Pasternak family tree, entry 103 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#103)
+- [Hillel Kahana: family follow-up, 20 October 2026, 15:11](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-identity-and-tentative-date-follow-up--20-october-2026)
 
 <a id="person-150"></a>
 ## 150. אסנת ברלין
@@ -4821,7 +4842,7 @@ Family confirmation of N.N. as Nachshon makes the Osnat Kahana record a possible
 
 **Known before this pass:** Name: Elisheva Shezifi; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1976-08-06, Israel (Geni-reported; unverified)
 
@@ -4984,7 +5005,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Ishai Kahana; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1977-12-23, Israel (Geni-reported; unverified)
 
@@ -5022,7 +5043,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Hillel Kahana; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1979-02-08, Israel (Geni-reported; unverified)
 
@@ -5123,7 +5144,7 @@ Unnamed daughter: Geni explicitly describes the linked person as a daughter of D
 
 **Known before this pass:** Name: Akiva Kahana; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1981-12-24, Israel (Geni-reported; unverified)
 
@@ -5157,7 +5178,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Gad Kahana; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1983-10-07, Israel (Geni-reported; unverified)
 
@@ -5191,7 +5212,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Lea Eyal; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1987-06-01, Israel (Geni-reported; unverified)
 
@@ -5222,7 +5243,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Iska Glazer; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
 **Birth:** 1990-09-13, Israel (Geni-reported; unverified)
 

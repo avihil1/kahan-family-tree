@@ -2609,3 +2609,31 @@ Adoram](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#98),
 September 2002. Their years agree. Naomi’s alternative now has a newly saved reference-tree source; it is not
 relabeled as an earlier Geni claim. No exact date is chosen from this comparison. Identity/original-record work and
 the wider descendant investigation remain unfinished.
+
+## Family identity and tentative date follow-up — 20 October 2026
+
+At 15:11 Hillel confirmed that **Vardit Kahana is Vardit Shachor** and **Yael Rebecca Kahana is Yael Blumental**. The
+two identity matches are now family-confirmed. Existing displayed spouse names and profile links remain unchanged; no
+maiden-name status is inferred. Their 1975 birth years remain attributed, unverified claims from the
+[Koplowitz–Pasternak tree, entry 100](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#100) and
+[entry 103](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#103). The family answer confirmed the
+identities, not those years or exact dates. Earlier candidate-only identity wording is superseded.
+
+For **Naomi Adoram**, Hillel guessed **30 September 2002**. This is now the tentative preferred birth field, qualified
+as family recollection plus the [saved reference-tree claim, entry
+98](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#98). It is not an exact-date family
+confirmation or original-record proof. The earlier Geni claim of **circa 6 October 2002, Israel** remains conflicting
+source history, with its circa qualifier retained. The tentative preference does not resolve the conflict.
+
+For **Renana Tikochinsky**, the family supplied **12 Iyar**, confirming the Hebrew day and month. Using the existing
+source-reported year 1992 gives **12 Iyar 5752**. The [saved official Hebcal
+conversion](https://www.hebcal.com/converter?h2g=1&hd=12&hm=Iyyar&hy=5752) gives daytime 15 May 1992; that Hebrew day
+begins after sunset on 14 May 1992. Without birth time and a specific birth location, the civil date remains
+unresolved. The primary field now records the Hebrew date; 14 May is not disproved and 15 May is not family-confirmed
+as her civil birth date. The existing year is source-reported, not newly family-confirmed. Ido’s 21 June versus 1 June
+1995 conflict remains unanswered and his birth field is unchanged. Seventeen empty graph year captions in the
+Shalom/Ruth branch now display years already recorded in sourced birth fields, with their original qualifications.
+Sixteen retain Geni/unverified labels; Renana’s 1992 is labeled as an unverified source year with only the Hebrew
+day/month confirmed. Existing nonempty captions remain unchanged. Tamar’s age-12-in-2019 statement is not converted
+into a birth year, and 5752 is not used as a Gregorian year. This is a display correction, not seventeen new
+birth-year findings. Wider original-record, descendant and identity research remains unfinished.
