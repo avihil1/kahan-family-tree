@@ -3165,9 +3165,9 @@ parentage. No original birth records or family confirmation of the dates were ob
 | Child | Displayed birth information | Evidence limit or conflict |
 | --- | --- | --- |
 | Shalom Adoram |8 December 1997|Current Geni profile field; unverified as an original birth date.|
-| Itamar Adoram |16 August 1999, explicitly labeled as the current Geni main-field claim|An earlier unsaved merge comparison also recorded8 December1997. The new main-page read does not resolve that disagreement.|
+| Itamar Adoram |16 August 1999, Israel (Geni-reported; unverified)|Both saved captures agree. The alternate8 December1997 came from an unsaved agent draft, not preserved Geni evidence; no source conflict is established.|
 | Ariel Adoram |27 January 2001|Current Geni profile field; unverified as an original birth date.|
-| Naomi Adoram |2002 only|Current claim circa6 October2002 versus earlier30 September2002. Both alternatives remain recorded; neither exact date is chosen.|
+| Naomi Adoram |circa6 October2002, Israel (Geni-reported; unverified)|Both saved captures agree; circa is retained. The alternate30 September2002 came from an unsaved agent draft, not preserved Geni evidence; no source conflict is established.|
 | Aviad Adoram |Unknown|Only an automatic broad range was displayed; it is not adopted as a birth date or year.|
 
 ### Checkpoint summary
