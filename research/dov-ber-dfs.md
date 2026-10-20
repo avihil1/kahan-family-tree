@@ -1272,3 +1272,63 @@ confidence flags unchanged. This final source check adds citations and identifie
 independently established fact. The next accessible descendant is Yente under Dov/Bernat; the strict Moses/Froim
 identity gap, separate Freida/Dori identity gaps and Fani descendant-parentage gaps remain open. The full
 root-to-descendant DFS is unfinished.
+
+## Full-root DFS correction checkpoint — 20 October 2026
+
+The renewed request covers the entire root tree, all 149 baseline people and any supported additions. A profile-page
+read does not finish a person’s descendant branch. Each baseline child and each linked source child must be
+reconciled, then visited recursively or left with a specific identity/access gap. Earlier source-page counts remain
+bounded coverage, not completed branches. The earlier temporary deferral of Haim Arie’s descendants is superseded by
+this request.
+
+### Corrections visible in the tree
+
+The existing Haim Arie node is now displayed as **Chaim Aryeh Kahana (Haim Arie)**, using the current [Geni child
+profile](https://www.geni.com/people/Chaim-Kahana/6000000002683180817). Both English names find the same person; the
+[stable tree link](https://avihil1.github.io/kahan-family-tree/tree.html#haim-arie-kahana) is preserved. He was not
+deleted: his existing spouse and all six family-confirmed children remain. His reported birth is now **10 November
+1967, Israel**, explicitly attributed to Geni and unverified from an original birth record. The spouse name Devorah
+Yafa Barr Saul is an attributed Geni alternative to the family-supplied Dwora Bar Shaul, without a maiden-name
+inference.
+
+The other given-name-only sons now display **Yedidia Kahana, Nachshon Kahana, Ishai Kahana, Akiva Kahana and Gad
+Kahana**, with linked Geni citations. Hillel’s given-name spelling Yedidia is retained despite Geni’s Yedidya
+spelling. Shalom’s [current profile](https://www.geni.com/people/Shalom-Kahana/6000000009318607641) reports birth **1
+February 1943** and death **30 March 1996**; these dates are displayed as unverified Geni claims. His memorial-sourced
+Timișoara birthplace and original 1951 arrival evidence remain distinct.
+
+Malka Malcsi’s specific identity and date-inference caveats from the Moses-branch review are now visible in her
+birth/death fields, year caption and evidence note. Her existing Moses parent edge is explicitly possible; no
+alternative parents or exact 1871 birth are adopted, and her three children remain in place.
+
+### Shalom’s fourteen child households: reconciliation frontier
+
+The fourteen-child canonical roster rests on family testimony. Geni currently displays eighteen child links, including
+unresolved duplicate/candidate records; those extra links are queued for identity checks and do not create four
+additional canonical children. Each household below remains open for the current full DFS.
+
+| Existing child / current display | Preserved baseline and next household check |
+| --- | --- |
+| Chaim Aryeh Kahana (Haim Arie) |Dwora and six children preserved. Geni lists five child profiles; its unnamed daughter is not assigned to Shirel, and family-confirmed Yair is retained despite absence from that list. Every child’s own household and descendants remain queued.|
+| Michal Kahana (Tikochinsky) |Seven named children and Eliav’s two daughters preserved. Reconcile each child’s household recursively; the earlier interview is not a complete current descendant roster.|
+| Yael Adoram |Ben/Benzion and five family-confirmed children preserved, including the existing birth-date qualifications and conflicts. Each child’s later family still requires review.|
+| Yedidia Kahana |Surname/profile-link correction recorded. Own-profile dates, spouse and descendant roster still require review.|
+| Nachshon Kahana |Explicit Hebrew child-roster name supports the surname/link correction. Resolve its relationship to other unnamed/duplicate Geni records before importing household data.|
+| Elisheva Shezifi |Family-supplied married display name preserved. Spouse, dates and descendants require a matched own-profile review.|
+| Ishai Kahana |Surname/profile-link correction recorded. The separate Yishai record is an unresolved possible duplicate, not a second canonical sibling. Household review remains queued.|
+| Hillel Kahana |Existing family identity preserved. A garbled-name Geni record remains unresolved; no duplicate or new child is inferred from it. Household review remains queued.|
+| Avia Prinz |Family-supplied surname retained. Compare the differently named Geni roster entry with her own identity before importing a spouse, dates or children.|
+| Akiva Kahana |Surname/profile-link correction recorded. Own-profile dates, spouse and descendant roster still require review.|
+| Gad Kahana |Surname/profile-link correction recorded. Own-profile dates, spouse and descendant roster still require review.|
+| Lea Eyal |Family-supplied surname retained. Compare the Leah Kahana roster candidate with the existing person before importing household data.|
+| Iska Glazer |Family-supplied surname retained. Compare the Yisca Kahana roster candidate with the existing person before importing household data.|
+| Rachel Kahana |Existing 1972–1972 infant identity retained. Exact dates and identifying evidence still require a matched own-profile check; no later children are invented.|
+
+### Current checkpoint summary
+
+The public tree still contains **149 named people**. This checkpoint adds no person and removes no baseline child. It
+corrects six existing sons’ display names and source links, displays three attributed birth/death events for Shalom
+and Chaim, and makes Malka’s specific uncertainty visible. Penina’s existing Asher entry and two unnamed child slots
+remain unchanged in this checkpoint; proposed naming of those slots is under private review pending specific public
+permission. The full-root household ledger remains in progress. Source controls alone are not loaded Sources/Media
+checks, and missing child links do not establish childlessness. The full DFS is unfinished.
