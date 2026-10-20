@@ -1,0 +1,95 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Nested Kahan family list</title><style>
+:root{--bg:#fbfaf7;--fg:#222;--mu:#6b6b6b;--ac:#7a4b16;--card:#fff;--bd:#e6e1d8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 Georgia,serif}
+a{color:var(--ac)}header,main,footer{max-width:1120px;margin:auto;padding:24px}header{padding-top:48px}
+h1{font-size:clamp(2rem,5vw,3.3rem);line-height:1.15;margin:8px 0 18px;font-weight:normal}
+h2{font-size:1.3rem}h3{margin:2px 0;font-size:1rem}.eyebrow,.tag,.source,.parent,footer{font:12px/1.6 system-ui,sans-serif}
+.eyebrow{text-transform:uppercase;letter-spacing:.14em;color:var(--ac)}.intro{max-width:75ch;color:var(--mu)}
+nav{display:flex;gap:18px;flex-wrap:wrap;font:14px system-ui,sans-serif;margin:22px 0}.toolbar{position:sticky;top:0;
+z-index:1;background:var(--bg);padding:14px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+input,button{font:14px system-ui,sans-serif;border:1px solid var(--bd);border-radius:6px;background:var(--card);
+color:var(--fg);padding:10px}button{cursor:pointer}input{width:min(350px,100%)}#results{font:14px system-ui,sans-serif}
+ul{padding-inline-start:24px;list-style:none;border-inline-start:1px solid var(--bd)}main>ul{padding-inline-start:0;border:0}
+li{margin:12px 0}.person{border:1px solid var(--bd);border-radius:8px;background:var(--card)}
+summary{padding:12px 16px;cursor:pointer;font-weight:bold}summary .tag{display:block;margin-inline-start:16px;color:var(--mu)}
+.content{padding:0 16px 14px}.facts{display:flex;gap:4px 24px;flex-wrap:wrap;font-size:14px}.facts b{font-weight:normal;color:var(--mu)}
+.source{display:inline-block;margin:8px 0;color:var(--mu)}.parent{color:var(--mu);max-width:80ch}
+.spouse{border-inline-start:3px solid #cfc7b8;margin:12px 0;padding:8px 14px;background:var(--bg)}.tag{color:var(--mu)}
+.hit{outline:3px solid #bb8b3e;outline-offset:2px}.source:focus-visible,summary:focus-visible,button:focus-visible,
+input:focus-visible{outline:3px solid var(--ac);outline-offset:3px}[id]{scroll-margin-top:90px}
+footer{border-top:1px solid var(--bd);color:var(--mu)}@media(max-width:600px){header,main,footer{padding:16px}
+header{padding-top:28px}ul{padding-inline-start:10px}.content{padding:0 10px 10px}summary{padding:10px}}
+@media print{.toolbar,nav{display:none}details{break-inside:avoid}body{background:white}header{padding-top:0}}
+
+.content{overflow-wrap:anywhere}.content p{max-inline-size:75ch}.source-list{border:0;padding-inline-start:20px}.source-list li{margin:4px 0}.possible>summary{border-inline-start:4px dotted var(--ac)}.toolbar{max-width:1120px;margin:auto;padding:14px 24px}@media print{details{break-inside:auto}}</style><header><h1>Nested family list</h1><p class="intro"></p><nav><a href="tree.html">Graph view</a><a href="research/new-people.html"><b>52 newly added people</b></a><a href="research/descendants-review.html">Per-person review</a><a href="index.html">Family history</a></nav></header><div class="toolbar"><input id="q" type="search" placeholder="Find a person…" aria-label="Find a person" disabled><button id="exp" disabled>Expand all</button><button id="collapse" disabled>Collapse all</button><button id="lang" disabled>עברית</button><span id="results" role="status" aria-live="polite"></span></div><main><ul id="family" aria-label="Family list"></ul></main><footer>Source claims and unknown relationships retain their qualifications.</footer><script>
+let language = new URLSearchParams(location.search).get('lang') === 'he' ? 'he' : 'en';
+let DATA, HE, BYKEY;
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const tr = s => language === 'he' ? HE[s] ?? s : s;
+const p_key = n => n.key || (n.src === 'yv' ? 'yv-' + n.url.split('/names/')[1] : n.src === 'geni' ? 'geni-' + n.url.split('/').pop() : n.url.split('/wiki/')[1]);
+const personId = n => 'person-' + p_key(n);
+const render = (n, depth = 1) => {
+  const kids = n.children || [];
+  const spouses = (n.spouses || []).map(s => `<section class="spouse"><div class="tag">${esc(tr('Spouse claim'))}</div><h3><bdi>${esc(tr(s.name))}</bdi></h3><a class="source" href="${esc(s.url)}">${esc(tr('Source'))}</a></section>`).join('');
+  const facts = ['born', 'died'].filter(k => n[k]).map(k => `<span><b>${esc(tr(k === 'born' ? 'Born' : 'Died'))}</b> ${esc(tr(n[k]))}</span>`).join('');
+  const sources = (n.sources || []).map(s => `<li><a href="${esc(s.url)}">${esc(tr(s.label))}</a></li>`).join('');
+  const shared = n.xkids ? `<p>${esc(tr('Shared children linked under the other descendant-line parent'))}: ${n.xkids.map(k => BYKEY[k]).filter(Boolean).map(c => `<a href="#${encodeURIComponent(personId(c))}">${esc(tr(c.name))}</a>`).join(' · ')}</p>` : '';
+  return `<li><details class="person ${n.possible ? 'possible' : ''}" id="${esc(personId(n))}" ${depth < 3 ? 'open' : ''}><summary><bdi>${esc(tr(n.name))}</bdi><span class="tag">${esc(tr('Generation'))} ${depth}${n.possible ? ' · ' + esc(tr('possible')) : ''}${kids.length ? ' · ' + kids.length + ' ' + esc(tr('children listed')) : ''}</span></summary><div class="content"><div class="facts">${facts}</div><p><a href="tree.html${language === 'he' ? '?lang=he' : ''}#${encodeURIComponent(p_key(n))}">${esc(tr('Open graph details'))}</a> · <a href="#${encodeURIComponent(personId(n))}">${esc(tr('Direct link'))}</a></p>${spouses}${shared}${n.private ? `<p>${n.private} ${esc(tr('additional unnamed children / descendants; see source qualifications'))}: ${esc(tr(n.privateSrc || 'WikiTree'))}</p>` : ''}${n.note ? '<details class="research"><summary>' + esc(tr('Research notes')) + '</summary><p>' + esc(tr(n.note)).replace(/\n\n/g, '</p><p>') + '</p></details>' : ''}<ul class="source-list">${sources}</ul>${kids.length ? '<ul>' + kids.map(c => render(c, depth + 1)).join('') + '</ul>' : ''}</div></details></li>`;
+};
+function openPath(el) { for (let n = el; n; n = n.parentElement) if (n.matches('details')) n.open = true; }
+function showHash() {
+  if (!location.hash) return;
+  const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+  if (target) { openPath(target); target.classList.add('hit'); target.scrollIntoView({block: 'center'}); }
+}
+function search() {
+  document.querySelectorAll('.hit').forEach(el => el.classList.remove('hit'));
+  const query = document.getElementById('q').value.trim().toLocaleLowerCase();
+  const hits = query ? [...document.querySelectorAll('summary bdi,.spouse h3 bdi')].filter(el => {
+    const person = BYKEY[el.closest('details').id.slice(7)];
+    const spouse = el.closest('.spouse');
+    const entry = spouse ? (person.spouses || []).find(s => s.url === spouse.querySelector('a.source').getAttribute('href')) : person;
+    return [el.textContent, entry?.name || '', HE[entry?.name] || ''].some(name => name.toLocaleLowerCase().includes(query));
+  }) : [];
+  hits.forEach(el => { const card = el.closest('.spouse,details'); card.classList.add('hit'); openPath(card); });
+  document.getElementById('results').textContent = query ? hits.length + ' ' + tr('matching entries') : '';
+  if (hits.length) hits[0].scrollIntoView({block: 'center'});
+}
+function applyLanguage() {
+  const opened = new Map([...document.querySelectorAll('details.person')].map(d => [d.id, d.open]));
+  document.documentElement.lang = language;
+  document.documentElement.dir = language === 'he' ? 'rtl' : 'ltr';
+  document.querySelector('h1').textContent = tr('Nested family list');
+  document.querySelector('.intro').textContent = tr('Current family data, source qualifications and child links match the graph. Spouse lists do not assign the mother of each child.');
+  document.getElementById('family').innerHTML = render(DATA);
+  opened.forEach((open, id) => { const card = document.getElementById(id); if (card) card.open = open; });
+  document.getElementById('q').placeholder = tr('Find a person…');
+  document.getElementById('q').setAttribute('aria-label', tr('Find a person…'));
+  document.getElementById('exp').textContent = tr('Expand all');
+  document.getElementById('collapse').textContent = tr('Collapse all');
+  document.getElementById('lang').textContent = language === 'he' ? 'English' : 'עברית';
+  document.getElementById('lang').lang = language === 'he' ? 'en' : 'he';
+  document.getElementById('lang').setAttribute('aria-label', language === 'he' ? 'Switch to English' : 'מעבר לעברית');
+  document.querySelector('footer').textContent = language === 'he' ? 'טענות המקור וקשרים שלא הוכרעו שומרים על סייגיהם.' : 'Source claims and unknown relationships retain their qualifications.';
+  document.title = tr('Nested family list');
+  document.querySelectorAll('nav a').forEach((a, i) => a.textContent = tr(['Graph view', '52 newly added people', 'Per-person review', 'Family history'][i]));
+  showHash();
+}
+document.getElementById('q').addEventListener('input', search);
+document.getElementById('exp').onclick = () => document.querySelectorAll('details.person').forEach(d => d.open = true);
+document.getElementById('collapse').onclick = () => document.querySelectorAll('details.person').forEach(d => d.open = false);
+document.getElementById('lang').onclick = () => { language = language === 'en' ? 'he' : 'en'; const url = new URL(location.href); language === 'he' ? url.searchParams.set('lang', 'he') : url.searchParams.delete('lang'); history.replaceState(null, '', url); applyLanguage(); search(); };
+window.addEventListener('hashchange', showHash);
+window.addEventListener('beforeprint', () => document.querySelectorAll('details.person').forEach(d => d.open = true));
+(async () => {
+  const response = await fetch('tree.html');
+  if (!response.ok) throw new Error('source unavailable');
+  const html = await response.text();
+  DATA = JSON.parse(html.match(/^const DATA = (.+);$/m)[1]);
+  HE = JSON.parse(html.match(/^const HE = (.+);$/m)[1]);
+  const all = []; const visit = n => { all.push(n); (n.children || []).forEach(visit); }; visit(DATA);
+  BYKEY = Object.fromEntries(all.map(n => [p_key(n), n]));
+  Object.assign(HE, {'Research notes':'הערות מחקר','Nested family list':'רשימת משפחה מקוננת','Spouse claim':'טענת זוגיות','Source':'מקור','Generation':'דור','children listed':'ילדים מוצגים','Open graph details':'פתיחת פרטים בתרשים','Direct link':'קישור ישיר','additional unnamed children / descendants; see source qualifications':'ילדים / צאצאים נוספים ללא שם; יש לעיין בסייגי המקור','Shared children linked under the other descendant-line parent':'ילדים משותפים המקושרים תחת ההורה האחר בקו הצאצאים','matching entries':'תוצאות תואמות','Graph view':'תרשים משפחה','52 newly added people':'52 אנשים שנוספו','Per-person review':'סקירה לפי אדם','Family history':'תולדות המשפחה','Current family data, source qualifications and child links match the graph. Spouse lists do not assign the mother of each child.':'נתוני המשפחה, סייגי המקורות וקשרי הילדים זהים לתרשים. רשימת בני זוג אינה קובעת את האם של כל ילד.'});
+  applyLanguage(); document.getElementById('q').disabled = false; document.querySelectorAll('.toolbar button').forEach(button => button.disabled = false);
+})().catch(() => { document.getElementById('family').textContent = language === 'he' ? 'הרשימה לא נטענה. אפשר לפתוח את התרשים או הסקירה בקישורים למעלה.' : 'The list could not load. Open the graph or review using the links above.'; });
+</script></html>

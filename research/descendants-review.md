@@ -1,5 +1,7 @@
 # Descendant review — 20 October 2026
 
+**[52 newly added people — what changed](new-people.html)** · [Nested list](../list.html)
+
 201 named people; 149 original identities and child links preserved. The reviewed draft and accompanying family corrections were approved for publication. Collaborative-tree claims retain their qualifications. This is not a completed all-source descendant investigation.
 
 [Open tree](../tree.html) · [Family confirmations](shalom-kahana.md#family-confirmations-and-publication--20-october-2026)
@@ -82,7 +84,7 @@
 | [74. Ziszel Kahan (Muscal)](#person-74) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [75. Marco Mordechai Yitzhak Muskal](#person-75) | Existing identity; baseline retained. Relationship remains provisional. |
 | [76. Dov Muskal](#person-76) | Existing identity; baseline retained. Retain the family/source qualifications below. |
-| [77. Chaim Arye Leb Kahana](#person-77) | Existing identity; baseline retained. Retain the family/source qualifications below. |
+| [77. Chaim Arye Leb Kahana](#person-77) | Existing identity; updated died, years. Retain the family/source qualifications below. |
 | [78. Penina Perl Kahana (Miller)](#person-78) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [79. Asher Miller](#person-79) | Existing identity; updated born. Relationship remains provisional. |
 | [80. מנוחה מילר](#person-80) | Newly displayed relative. Relationship remains provisional. |
@@ -149,13 +151,13 @@
 | [141. Ariel Adoram](#person-141) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [142. Aviad Adoram](#person-142) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [143. Yedidia Kahana](#person-143) | Existing identity; updated born. Retain the family/source qualifications below. |
-| [144. Rachel Kahana](#person-144) | Newly displayed relative. Relationship remains provisional. |
-| [145. Efrat Kahana](#person-145) | Newly displayed relative. Relationship remains provisional. |
-| [146. Shulem Kahana](#person-146) | Newly displayed relative. Relationship remains provisional. |
-| [147. Yonatan Kahana](#person-147) | Newly displayed relative. Relationship remains provisional. |
-| [148. Hodos Kahana](#person-148) | Newly displayed relative. Relationship remains provisional. |
+| [144. Efrat Kahana](#person-144) | Newly displayed relative. Relationship remains provisional. |
+| [145. Shulem Kahana](#person-145) | Newly displayed relative. Relationship remains provisional. |
+| [146. Yonatan Kahana](#person-146) | Newly displayed relative. Relationship remains provisional. |
+| [147. Hodos Kahana](#person-147) | Newly displayed relative. Relationship remains provisional. |
+| [148. Dvir](#person-148) | Newly displayed relative. Retain the family/source qualifications below. |
 | [149. Nachshon Kahana](#person-149) | Existing identity; updated born, years. Retain the family/source qualifications below. |
-| [150. אסנת ברלין](#person-150) | Newly displayed relative. Relationship remains provisional. |
+| [150. אסנת ברלין](#person-150) | Newly displayed relative. Retain the family/source qualifications below. |
 | [151. בארי ברלין](#person-151) | Newly displayed relative. Relationship remains provisional. |
 | [152. כרמל ברלין](#person-152) | Newly displayed relative. Relationship remains provisional. |
 | [153. Avital Kahana](#person-153) | Newly displayed relative. Relationship remains provisional. |
@@ -168,7 +170,7 @@
 | [160. Shifra Shezifi](#person-160) | Newly displayed relative. Relationship remains provisional. |
 | [161. Ishai Kahana](#person-161) | Existing identity; updated born. Retain the family/source qualifications below. |
 | [162. Hillel Kahana](#person-162) | Existing identity; updated born. Retain the family/source qualifications below. |
-| [163. Avia Prinz](#person-163) | Existing identity; updated born. Retain the family/source qualifications below. |
+| [163. Avia Prinz](#person-163) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [164. Shulem](#person-164) | Newly displayed relative. Relationship remains provisional. |
 | [165. Akiva Kahana](#person-165) | Existing identity; updated born. Retain the family/source qualifications below. |
 | [166. Gad Kahana](#person-166) | Existing identity; updated born. Retain the family/source qualifications below. |
@@ -189,7 +191,7 @@
 | [181. Majer Jakab Kahan](#person-181) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [182. Dov Kahana](#person-182) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [183. Meir](#person-183) | Newly displayed relative. Retain the family/source qualifications below. |
-| [184. Michal](#person-184) | Newly displayed relative. Retain the family/source qualifications below. |
+| [184. Michal Levi](#person-184) | Newly displayed relative. Retain the family/source qualifications below. |
 | [185. Tzippora Kahana (Neuman)](#person-185) | Existing identity; updated born. Retain the family/source qualifications below. |
 | [186. Abraham Lieber Kahan](#person-186) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [187. Beniamin Kahan](#person-187) | Existing identity; baseline retained. Retain the family/source qualifications below. |
@@ -2492,11 +2494,11 @@ Geni-attached JewishGen birth-index screenshot re-read 19 October 2026: Ziszel, 
 
 **Known before this pass:** Name: Chaim Arye Leb Kahana; birth: 10 April 1903, Maragyulafalu, Kingdom of Hungary (now Giulești, Romania); inspected civil birth entry; death: Death date unresolved: 23 May 1956 (earlier profile); 26 March 1956 (current Geni claim); 2 Sivan 5717 (Sefer Marmarosh)
 
-**Finding and confidence:** Existing identity; baseline retained. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated died, years. Retain the family/source qualifications below.
 
 **Birth:** 10 April 1903, Maragyulafalu, Kingdom of Hungary (now Giulești, Romania); inspected civil birth entry
 
-**Death:** Death date unresolved: 23 May 1956 (earlier profile); 26 March 1956 (current Geni claim); 2 Sivan 5717 (Sefer Marmarosh)
+**Death:** 1956 (family-confirmed year; exact date unresolved)
 
 **Descendant-line parent:** Dov Ber Bernat Kahan
 
@@ -2504,7 +2506,11 @@ Geni-attached JewishGen birth-index screenshot re-read 19 October 2026: Ziszel, 
 
 **Spouse claims:** Leah Kahana (c.1907 – bef.1983; sister of Ezra and Ienta)
 
-**Evidence, qualifications and remaining work:** Family relationships use the linked records and Hillel’s identified family testimony; named living relatives are not all independently documented. The inspected Be’er Chaim memorial lists the author’s parents-in-law Yitzhak Aizik Miller and Henya, followed by their daughter Yenta Zefir and son Ezra. Ezra and Yenta are therefore siblings-in-law, not children of the author and Leah. Yad Vashem 10991960 / 10991958 indexes them under Chaim Arye and Leah; the original layout contradicts that assignment. The book does not name the author’s two reportedly deceased children.
+**Evidence, qualifications and remaining work:** Hillel confirmed two additional children, distinct from Penina, Dov and Shalom, who died before 1943. Their names, sex and birth dates remain unknown; they are represented by two unnamed historical child slots, not invented named nodes. At 14:04 Hillel explicitly corrected the death year to 1956, which is the current family-confirmed field. If the previously reported day/month 2 Sivan is retained, Hebcal gives 12 May 1956 / 2 Sivan 5716. That is a conditional calendar reconstruction, not a confirmed exact date. The earlier 2 Sivan 5717 statement would give 1 June 1957 and conflicts with the latest correction; 1957 is not accepted as the death year. Earlier 23 May 1956 and 26 March 1956 profile claims remain source history. The inspected 10 April 1903 birth remains unchanged; no original death record is claimed.
+
+Earlier research notes, before the 13:56 family corrections:
+
+Family relationships use the linked records and Hillel’s identified family testimony; named living relatives are not all independently documented. The inspected Be’er Chaim memorial lists the author’s parents-in-law Yitzhak Aizik Miller and Henya, followed by their daughter Yenta Zefir and son Ezra. Ezra and Yenta are therefore siblings-in-law, not children of the author and Leah. Yad Vashem 10991960 / 10991958 indexes them under Chaim Arye and Leah; the original layout contradicts that assignment. The book does not name the author’s two reportedly deceased children.
 
 The title page identifies Rabbi Chaim Arye Kahana, rabbi in Jaffa and formerly Timișoara, as the deceased author. His surviving writings were edited by his son-in-law and sons and published in Bnei Brak in 5748 (1987–1988). This is a posthumous publication, not evidence that he lived until 1988.
 
@@ -2541,6 +2547,9 @@ Sefer Marmarosh (1983), p.62, identifies Chaim Leib as Timisoara dayan, eldest s
 - [Sefer Marmarosh 1983, p.62: Timisoara dayan and brother Mendel](https://archive.org/details/nybc314151/page/n221/mode/1up)
 - [Be’er Chaim, memorial scan 00008, inspected 18 October 2026](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/documentation4/5/full_pdf_srika/9835770/00008.jpg)
 - [Be’er Chaim title page: posthumous edition, 5748](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/documentation4/5/full_pdf_srika/9835770/00006.jpg)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Hebcal: earlier 2 Sivan 5717 claim converts to 1957, conflicting with the corrected year](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5717)
+- [Hebcal: conditional 2 Sivan 5716 = 12 May 1956; not a confirmed exact death date](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5716)
 
 <a id="person-78"></a>
 ## 78. Penina Perl Kahana (Miller)
@@ -2677,7 +2686,11 @@ MyHeritage comparison, 16 October 2026: the Greenblatt tree incorrectly assigns 
 
 **Spouse claims:** Esther Golda Kahana (1940 – 1998)
 
-**Evidence, qualifications and remaining work:** Accountant; made aliyah in 1951 and married in 1960 (Hebrew Wikipedia). He arrived alone on the ship Transylvania (טרנסילבניה) on 6 Aug 1951: the immigrant list has "Kahana Bernard, b. 1930, parents Chaim/Leah", immigrant no. 49306, sent to Tel Aviv (Israel State Archives, immigrant lists July–Aug 1951, GL-15497/1, p. 175, row 474: https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&p=1&docid=c7cab0afcb40306b_585158a3cc8e02af&dapvm=2 ). Wikipedia reports six children; Zvi and Rabbi Meir are the two with Wikipedia articles. Chaim-Arie and Aviad are additionally shown as provisional Geni-supported candidates, with the unresolved count explained below. https://he.wikipedia.org/wiki/%D7%93%D7%91_%D7%9B%D7%94%D7%A0%D7%90 Original arrival page re-inspected 14 October 2026: Bernard Kahana, born 1930, parents Chaim/Leah, immigrant 49306, Tel Aviv, 6 August 1951. The record uses Bernard, not Dov; identification uses the existing family context. Romanian birth entry still unlocated. Birthplace supplied by Hillel Kahana on 14 October 2026: Sighetu Marmației, also the birthplace of the other sibling (Penina/Dov). This is family testimony; the original birth entry remains unlocated. The 15 October audit held Chaim-Arie and Aviad in the candidate ledger because Geni’s seven slots differed from Wikipedia’s six. The 19 October direct profile reads now support displaying both provisionally, with explicit Dov/Esther parent links. Their overlap with masked slots and Zvi’s Geni identity remain unresolved; the fixed unnamed-child counter is no longer displayed.
+**Evidence, qualifications and remaining work:** On 20 October 2026 Hillel confirmed the linked alternate record as a duplicate of this existing person. The local canonical key and all existing child links are retained; no extra person, child or copied date is created by reconciling the source identities. Individual date claims retain their own qualifications. Earlier uncertainty below is superseded for this alias.
+
+Earlier research notes, before the 13:56 family corrections:
+
+Accountant; made aliyah in 1951 and married in 1960 (Hebrew Wikipedia). He arrived alone on the ship Transylvania (טרנסילבניה) on 6 Aug 1951: the immigrant list has "Kahana Bernard, b. 1930, parents Chaim/Leah", immigrant no. 49306, sent to Tel Aviv (Israel State Archives, immigrant lists July–Aug 1951, GL-15497/1, p. 175, row 474: https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&p=1&docid=c7cab0afcb40306b_585158a3cc8e02af&dapvm=2 ). Wikipedia reports six children; Zvi and Rabbi Meir are the two with Wikipedia articles. Chaim-Arie and Aviad are additionally shown as provisional Geni-supported candidates, with the unresolved count explained below. https://he.wikipedia.org/wiki/%D7%93%D7%91_%D7%9B%D7%94%D7%A0%D7%90 Original arrival page re-inspected 14 October 2026: Bernard Kahana, born 1930, parents Chaim/Leah, immigrant 49306, Tel Aviv, 6 August 1951. The record uses Bernard, not Dov; identification uses the existing family context. Romanian birth entry still unlocated. Birthplace supplied by Hillel Kahana on 14 October 2026: Sighetu Marmației, also the birthplace of the other sibling (Penina/Dov). This is family testimony; the original birth entry remains unlocated. The 15 October audit held Chaim-Arie and Aviad in the candidate ledger because Geni’s seven slots differed from Wikipedia’s six. The 19 October direct profile reads now support displaying both provisionally, with explicit Dov/Esther parent links. Their overlap with masked slots and Zvi’s Geni identity remain unresolved; the fixed unnamed-child counter is no longer displayed.
 
 MyHeritage comparison, 16 October 2026: the Greenblatt tree incorrectly assigns Penina (1929), Dov (1930) and Shalom (1943) to Kalonymos Kalman Kahana (1816–1899) and Rivka Hartstein-Rappoport (1827–1870). Both proposed parents died before all three births. This mixed-generation assignment is rejected; it does not establish ancestry. Existing family and arrival-record evidence identifying Chaim Arye and Leah remains in place.
 
@@ -2698,6 +2711,8 @@ An earlier profile or notice listed this person as living/surviving. Current lif
 - [Hillel Kahana: Sighet birthplace for Penina and Dov, 14 October 2026 (family testimony)](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#penina-and-dov-sighet-birthplace-supplied-by-family--14-october-2026)
 - [MyHeritage: Geni import (secondary tree)](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=43142344&action=showRecord)
 - [MyHeritage: Greenblatt tree — rejected chronology conflict](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-523076&action=showRecord)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Geni duplicate record: same person confirmed by family, 20 October 2026](https://www.geni.com/people/Dov-Kahana/6000000016807999046)
 
 <a id="person-83"></a>
 ## 83. Zvi Kahana
@@ -3067,13 +3082,19 @@ The two previously unnamed child slots are now represented by the two qualified 
 
 **Spouse claims:** Miri Kahana
 
-**Evidence, qualifications and remaining work:** Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 October profile read explicitly named father Dov Kahana (6000000002683180809, the 1930 generation), mother Esther Golda, wife Miri Kahana and six private child slots. The son/husband relationships supply the male label. This is secondary collaborative-tree evidence; no original birth, exact dates or current life status are established. The six slots were unnamed at the earlier checkpoint; the six named source-supported children are now displayed provisionally. Complete descendant coverage remains unresolved. No identity with the existing Zvi Kahana is proved; they are preserved separately while the six-versus-seven household count remains open.
+**Evidence, qualifications and remaining work:** On 20 October 2026 Hillel confirmed the linked alternate record as a duplicate of this existing person. The local canonical key and all existing child links are retained; no extra person, child or copied date is created by reconciling the source identities. Individual date claims retain their own qualifications. Earlier uncertainty below is superseded for this alias.
+
+Earlier research notes, before the 13:56 family corrections:
+
+Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 October profile read explicitly named father Dov Kahana (6000000002683180809, the 1930 generation), mother Esther Golda, wife Miri Kahana and six private child slots. The son/husband relationships supply the male label. This is secondary collaborative-tree evidence; no original birth, exact dates or current life status are established. The six slots were unnamed at the earlier checkpoint; the six named source-supported children are now displayed provisionally. Complete descendant coverage remains unresolved. No identity with the existing Zvi Kahana is proved; they are preserved separately while the six-versus-seven household count remains open.
 
 20 October 2026 Geni source review: birth: January 26, 1973 Israel. These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence.
 
 **Sources**
 
 - [Geni profile: Aviad Kahana (secondary family tree, inspected 19 October 2026)](https://www.geni.com/people/Aviad-Kahana/6000000004174199343)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Geni duplicate record: same person confirmed by family, 20 October 2026](https://www.geni.com/people/Aviad-Kahana/6000000205323870833)
 
 <a id="person-97"></a>
 ## 97. Malaachi Kahana
@@ -3648,7 +3669,11 @@ The two previously unnamed child slots are now represented by the two qualified 
 
 **Spouse claims:** Ruth Pasternak (Kahana; רות פסטרנק)
 
-**Evidence, qualifications and remaining work:** Arrived with his parents on the ship Transylvania (טרנסילבניה) on 1 Feb 1951; the immigrant list spells the family "כהן": "Cohen Leib, b. 1903, parents Dov/Rivka", wife Leah b. 1907 and son Shalom b. 1943, immigrant no. 918?0, sent to Sha'ar HaAliya (ש.ע.) (Israel State Archives, immigrant lists Jan–Feb 1951, GL-15496/1, p. 167, rows 480–482: https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&p=1&docid=ec7469b5b0ffa001_585158a3cc8e02af&dapvm=2 ). Family memorial: born in Timișoara to Rabbi Chaim Arye Kahana; married Ruth; studied chemistry at Bar-Ilan and taught at Nehalim before becoming principal of HaRo’eh High School in Ramat Gan. The memorial publishes his ethical will, dated Av 5755 (1995). Family testimony from Hillel on 14 October 2026 identifies 14 children: the thirteen named in the supplied order, plus Rachel (1972–1972). Ruth née Pasternak is the mother of all fourteen; her parents are Eliezer and Erna (their surnames were not separately provided). The earlier Geni-derived count of 18 is superseded by this family testimony. All fourteen children are now named, but their descendant branches remain incomplete. See the research notes for sources and outstanding family details. Original 1951 arrival page re-inspected 14 October 2026: Shalom, born 1943, appears in the household group immediately below Cohen Leib (1903; parents Dov/Rivka) and Leah (1907). His own parent-name cell is blank; the grouping supports the household identification rather than being a separate birth record.
+**Evidence, qualifications and remaining work:** Hillel rejected the extra Sara child claim as a mistake on 20 October 2026. Sara is not added to this household. The confirmed Hillel, Ishai and Nachshon source aliases do not create additional siblings; the fourteen family-confirmed children remain.
+
+Earlier research notes, before the 13:56 family corrections:
+
+Arrived with his parents on the ship Transylvania (טרנסילבניה) on 1 Feb 1951; the immigrant list spells the family "כהן": "Cohen Leib, b. 1903, parents Dov/Rivka", wife Leah b. 1907 and son Shalom b. 1943, immigrant no. 918?0, sent to Sha'ar HaAliya (ש.ע.) (Israel State Archives, immigrant lists Jan–Feb 1951, GL-15496/1, p. 167, rows 480–482: https://journaliststudio.google.com/pinpoint/document-view?collection=585158a3cc8e02af&p=1&docid=ec7469b5b0ffa001_585158a3cc8e02af&dapvm=2 ). Family memorial: born in Timișoara to Rabbi Chaim Arye Kahana; married Ruth; studied chemistry at Bar-Ilan and taught at Nehalim before becoming principal of HaRo’eh High School in Ramat Gan. The memorial publishes his ethical will, dated Av 5755 (1995). Family testimony from Hillel on 14 October 2026 identifies 14 children: the thirteen named in the supplied order, plus Rachel (1972–1972). Ruth née Pasternak is the mother of all fourteen; her parents are Eliezer and Erna (their surnames were not separately provided). The earlier Geni-derived count of 18 is superseded by this family testimony. All fourteen children are now named, but their descendant branches remain incomplete. See the research notes for sources and outstanding family details. Original 1951 arrival page re-inspected 14 October 2026: Shalom, born 1943, appears in the household group immediately below Cohen Leib (1903; parents Dov/Rivka) and Leah (1907). His own parent-name cell is blank; the grouping supports the household identification rather than being a separate birth record.
 
 MyHeritage comparison, 16 October 2026: the Greenblatt tree incorrectly assigns Penina (1929), Dov (1930) and Shalom (1943) to Kalonymos Kalman Kahana (1816–1899) and Rivka Hartstein-Rappoport (1827–1870). Both proposed parents died before all three births. This mixed-generation assignment is rejected; it does not establish ancestry. Existing family and arrival-record evidence identifying Chaim Arye and Leah remains in place.
 
@@ -3667,6 +3692,7 @@ MyHeritage comparison, 16 October 2026: the Greenblatt tree incorrectly assigns 
 - [Original arrival register inspected: Leib, Leah and Shalom, 1 February 1951, GL-15496/1, scan page 167, rows 480–482](https://journaliststudio.google.com/backlight/serve/image?document_id=ec7469b5b0ffa001_585158a3cc8e02af&page_number=166&width=800)
 - [MyHeritage: Geni import (secondary tree)](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=90355040&action=showRecord)
 - [MyHeritage: Greenblatt tree — rejected chronology conflict](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-509440&action=showRecord)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 
 <a id="person-120"></a>
 ## 120. Chaim Aryeh Kahana (Haim Arie)
@@ -4391,11 +4417,15 @@ Birth-date review, 20 October 2026: no usable reported birth date was establishe
 
 **Descendant-line parent:** Shalom Kahana
 
-**Named children:** Rachel Kahana; Efrat Kahana; Shulem Kahana; Yonatan Kahana; Hodos Kahana
+**Named children:** Efrat Kahana; Shulem Kahana; Yonatan Kahana; Hodos Kahana; Dvir
 
 **Spouse claims:** Vardit Kahana
 
-**Evidence, qualifications and remaining work:** Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. Known spouse and descendant claims are listed below with their sources; further details remain unresolved.
+**Evidence, qualifications and remaining work:** Family correction: the Rachel Kahana child claim was rejected as a mistake. That source-specific node is removed from this branch; Dvir, born in 2013, is a separate new family-supported identity. Rachel’s Geni ID and reported birth date are not transferred to Dvir. Other existing child links remain. This does not delete or rename an external Geni profile.
+
+Earlier research notes, before the 13:56 family corrections:
+
+Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. Known spouse and descendant claims are listed below with their sources; further details remain unresolved.
 
 Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed surname, where newly supplied, is recorded as given; no spouse identity is inferred from it.
 
@@ -4411,34 +4441,10 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Hillel Kahana: sibling names and sex, 18 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#shaloms-children-names-and-sex--18-october-2026)
 - [Geni Shalom Kahana child roster, reviewed 20 October 2026](https://www.geni.com/people/Shalom-Kahana/6000000009318607641)
 - [Geni profile linked from Shalom’s child roster: Yedidia Kahana](https://www.geni.com/people/Yedidya-Kahana/6000000007338871565)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 
 <a id="person-144"></a>
-## 144. Rachel Kahana
-
-**Identity:** geni-6000000007339119201
-
-**Known before this pass:** No individual named node in the original 149-person baseline.
-
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
-
-**Birth:** 1998-07-31 (Geni-reported; unverified)
-
-**Death:** Unknown / not supplied
-
-**Descendant-line parent:** Yedidia Kahana
-
-**Named children:** No named child displayed; this does not establish childlessness.
-
-**Spouse claims:** Not established in this tree
-
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Daughter of Yedidya Kahana and Vardit Kahana. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
-
-**Sources**
-
-- [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Rachel-Kahana/6000000007339119201)
-
-<a id="person-145"></a>
-## 145. Efrat Kahana
+## 144. Efrat Kahana
 
 **Identity:** geni-6000000002683182033
 
@@ -4462,8 +4468,8 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Efrat-Kahana/6000000002683182033)
 
-<a id="person-146"></a>
-## 146. Shulem Kahana
+<a id="person-145"></a>
+## 145. Shulem Kahana
 
 **Identity:** geni-6000000002683182039
 
@@ -4487,8 +4493,8 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Shulem-Kahana/6000000002683182039)
 
-<a id="person-147"></a>
-## 147. Yonatan Kahana
+<a id="person-146"></a>
+## 146. Yonatan Kahana
 
 **Identity:** geni-6000000002683182045
 
@@ -4512,8 +4518,8 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Yonatan-Kahana/6000000002683182045)
 
-<a id="person-148"></a>
-## 148. Hodos Kahana
+<a id="person-147"></a>
+## 147. Hodos Kahana
 
 **Identity:** geni-6000000002683182051
 
@@ -4536,6 +4542,31 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Hodos-Kahana/6000000002683182051)
+
+<a id="person-148"></a>
+## 148. Dvir
+
+**Identity:** dvir-yedidia-kahana
+
+**Known before this pass:** No individual named node in the original 149-person baseline.
+
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
+
+**Birth:** 2013 (family-confirmed year)
+
+**Death:** Unknown / not supplied
+
+**Descendant-line parent:** Yedidia Kahana
+
+**Named children:** No named child displayed; this does not establish childlessness.
+
+**Spouse claims:** Not established in this tree
+
+**Evidence, qualifications and remaining work:** Hillel corrected the household on 20 October 2026: Yedidia has no Rachel and has Dvir, born in 2013. This is a new family-supported identity, not a renamed Geni profile. No Geni ID, exact date, sex, surname, spouse or descendants are inferred from the rejected Rachel record.
+
+**Sources**
+
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 
 <a id="person-149"></a>
 ## 149. Nachshon Kahana
@@ -4574,7 +4605,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** Unknown / not supplied
 
@@ -4586,14 +4617,20 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Spouse claims:** יהודה ברלין
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Daughter of נחשון כהנא. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** On 20 October 2026 Hillel confirmed the linked alternate record as a duplicate of this existing person. The local canonical key and all existing child links are retained; no extra person, child or copied date is created by reconciling the source identities. Individual date claims retain their own qualifications. Earlier uncertainty below is superseded for this alias.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Daughter of נחשון כהנא. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 Family confirmation of N.N. as Nachshon makes the Osnat Kahana record a possible match to this already displayed Osnat Berlin. Shared given name and father are not an independent identity bridge. No second Osnat node or unlinked birth date is added; this individual identity remains unresolved.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/%D7%90%D7%A1%D7%A0%D7%AA-%D7%91%D7%A8%D7%9C%D7%99%D7%9F/6000000189826896829)
-- [Geni Osnat Kahana: possible match, identity unconfirmed](https://www.geni.com/people/Osnat-Kahana/6000000002683182063)
+- [Geni Osnat Kahana: family-confirmed duplicate of Osnat Berlin](https://www.geni.com/people/Osnat-Kahana/6000000002683182063)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Geni duplicate record: same person confirmed by family, 20 October 2026](https://www.geni.com/people/Osnat-Kahana/6000000002683182063)
 
 <a id="person-151"></a>
 ## 151. בארי ברלין
@@ -4937,9 +4974,9 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Known before this pass:** Name: Avia Prinz; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
-**Birth:** 1980-08-08, Israel (Geni-reported; unverified)
+**Birth:** 1980 (family-confirmed year); 8 August 1980, Israel (Geni exact-date claim; unverified)
 
 **Death:** Unknown / not supplied
 
@@ -4947,9 +4984,13 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Named children:** Shulem
 
-**Spouse claims:** Daniel
+**Spouse claims:** Daniel Prinz
 
-**Evidence, qualifications and remaining work:** Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. Known spouse and descendant claims are listed below with their sources; further details remain unresolved.
+**Evidence, qualifications and remaining work:** Hillel confirmed Avia’s birth year as 1980 and her husband’s name as Daniel Prinz. The exact 8 August date remains a separate unverified Geni claim. Daniel’s surname is now supplied by family testimony, not inferred. The unnamed daughter remains a source-qualified child slot with the direct profile link; no additional exact birth date is disclosed.
+
+Earlier research notes, before the 13:56 family corrections:
+
+Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. Known spouse and descendant claims are listed below with their sources; further details remain unresolved.
 
 Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed surname, where newly supplied, is recorded as given; no spouse identity is inferred from it.
 
@@ -4963,6 +5004,7 @@ Unnamed daughter: Geni explicitly describes the linked person as a daughter of D
 - [Hillel Kahana: sibling names and sex, 18 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#shaloms-children-names-and-sex--18-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Avia-N-N/6000000002683180874)
 - [Geni unnamed daughter: direct profile; name unresolved](https://www.geni.com/people/no-name/6000000002683182125)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 
 <a id="person-164"></a>
 ## 164. Shulem
@@ -5569,16 +5611,22 @@ Hillel confirmed on 18 October 2026 that Meir Yaakov and Majer Jakab are the sam
 
 **Descendant-line parent:** Majer Jakab Kahan
 
-**Named children:** Meir; Michal
+**Named children:** Meir; Michal Levi
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** The existing profile identifies Dov as Meir Yakob and Chaya Roza Indig’s son and Tzippora’s brother. Hillel’s 20 October 2026 family testimony identifies a cousin Dov, brother of Zippora, with children Meir and Michal, and says that 1937 makes sense. These children are placed under this existing Dov; the exact 28 November 1937 birth and 12 April 2019 death remain unverified Geni claims, not dates confirmed by that testimony. Their given names and relationship are family testimony; surnames, sex, vital dates and spouses were not supplied. Geni’s four masked child slots are an unreconciled source roster, not four proven additional children beside these two. The fixed extra-child counter is omitted rather than subtracting two guessed matches. No partial Dov profile is merged.
+**Evidence, qualifications and remaining work:** On 20 October 2026 Hillel confirmed the linked alternate record as a duplicate of this existing person. The local canonical key and all existing child links are retained; no extra person, child or copied date is created by reconciling the source identities. Individual date claims retain their own qualifications. Earlier uncertainty below is superseded for this alias.
+
+Earlier research notes, before the 13:56 family corrections:
+
+The existing profile identifies Dov as Meir Yakob and Chaya Roza Indig’s son and Tzippora’s brother. Hillel’s 20 October 2026 family testimony identifies a cousin Dov, brother of Zippora, with children Meir and Michal, and says that 1937 makes sense. These children are placed under this existing Dov; the exact 28 November 1937 birth and 12 April 2019 death remain unverified Geni claims, not dates confirmed by that testimony. Their given names and relationship are family testimony; surnames, sex, vital dates and spouses were not supplied. Geni’s four masked child slots are an unreconciled source roster, not four proven additional children beside these two. The fixed extra-child counter is omitted rather than subtracting two guessed matches. No partial Dov profile is merged.
 
 **Sources**
 
 - [Geni Dov Kahana](https://www.geni.com/people/Dov-Kahana/6000000002683182343)
 - [Hillel Kahana: family testimony, 20 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Geni duplicate record: same person confirmed by family, 20 October 2026](https://www.geni.com/people/Dov-Kahana/6000000016805454758)
 
 <a id="person-183"></a>
 ## 183. Meir
@@ -5599,16 +5647,15 @@ Hillel confirmed on 18 October 2026 that Meir Yaakov and Majer Jakab are the sam
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** Hillel named Meir as a child of the cousin Dov who is Zippora’s brother on 20 October 2026. This family testimony supports the given name and child relationship. The existing Dov-of-1937 profile is used with its own date qualifications; no other Dov profile is merged. No surname, sex, birth/death date, spouse or descendant has been inferred from this given name.
-
-A bounded Geni same-name search did not establish an identifying bridge to this child in the inspected results. Masked candidates and the known Meir in the Dov/Esther branch are not attached here. This is not an exhaustive negative or evidence for a surname, spouse or date.
+**Evidence, qualifications and remaining work:** Hillel confirmed on 20 October 2026 that Meir is male, Michal is female and Michal’s married surname is Levi. Both remain family-named children of Dov, Tzippora’s brother. No birth surname for Michal, surname for Meir, spouse name or vital date is inferred. A masked same-name search lead is not assigned as either child’s Geni identity.
 
 **Sources**
 
 - [Hillel Kahana: family testimony, 20 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 
 <a id="person-184"></a>
-## 184. Michal
+## 184. Michal Levi
 
 **Identity:** michal-dov-kahana-1937
 
@@ -5626,13 +5673,12 @@ A bounded Geni same-name search did not establish an identifying bridge to this 
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** Hillel named Michal as a child of the cousin Dov who is Zippora’s brother on 20 October 2026. This family testimony supports the given name and child relationship. The existing Dov-of-1937 profile is used with its own date qualifications; no other Dov profile is merged. No surname, sex, birth/death date, spouse or descendant has been inferred from this given name.
-
-A bounded Geni same-name search did not establish an identifying bridge to this child in the inspected results. Masked candidates and the known Meir in the Dov/Esther branch are not attached here. This is not an exhaustive negative or evidence for a surname, spouse or date.
+**Evidence, qualifications and remaining work:** Hillel confirmed on 20 October 2026 that Meir is male, Michal is female and Michal’s married surname is Levi. Both remain family-named children of Dov, Tzippora’s brother. No birth surname for Michal, surname for Meir, spouse name or vital date is inferred. A masked same-name search lead is not assigned as either child’s Geni identity.
 
 **Sources**
 
 - [Hillel Kahana: family testimony, 20 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026)
+- [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 
 <a id="person-185"></a>
 ## 185. Tzippora Kahana (Neuman)

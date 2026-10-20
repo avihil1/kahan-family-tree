@@ -2525,17 +2525,46 @@ The full descendant investigation remains unfinished. A loaded profile or empty 
 or complete source coverage. The [public per-person review](descendants-review.html) records findings, source
 qualifications and remaining work for each of the 201 people.
 
-Two separate questions remain: (a) Were there children of Rabbi Chaim Arye Leb besides Penina, Dov and Shalom, and are
-names or identifying documents known? (b) Is there an identifying death record or gravestone that distinguishes 23 May
-1956, 26 March 1956 and 2 Sivan 5717? An earlier recollection about two children dying in Timișoara remains qualified
-historical testimony, not a new confirmation in this reply.
+Historical questions from the earlier 20 October checkpoint, before the 13:56 family answers: (a) Were there children
+of Rabbi Chaim Arye Leb besides Penina, Dov and Shalom, and are names or identifying documents known? (b) Is there an
+identifying death record or gravestone that distinguishes 23 May 1956, 26 March 1956 and 2 Sivan 5717? An earlier
+recollection about two children dying in Timișoara remains qualified historical testimony, not a new confirmation in
+this reply.
 
-### Requested identity-comparison links
+### Earlier requested comparison links — statuses updated after family confirmation
 
-- [Sara: unresolved identity](https://www.geni.com/people/Sara/6000000009327668454)
+- [Sara: source claim rejected as a mistake by family](https://www.geni.com/people/Sara/6000000009327668454)
 - [Dov: existing 1930 branch](https://www.geni.com/people/Dov-Kahana/6000000002683180809)
-- [Dov: second record under Chaim Arye Leb](https://www.geni.com/people/Dov-Kahana/6000000016807999046)
+- [Dov: second record under Chaim Arye Leb, family-confirmed duplicate](https://www.geni.com/people/Dov-Kahana/6000000016807999046)
 - [Dov: existing brother of Tzippora, reported 1937](https://www.geni.com/people/Dov-Kahana/6000000002683182343)
-- [Dov: partial record under Meir, identity unresolved](https://www.geni.com/people/Dov-Kahana/6000000016805454758)
+- [Dov: partial record under Meir, family-confirmed duplicate](https://www.geni.com/people/Dov-Kahana/6000000016805454758)
 - [Aviad: existing displayed record](https://www.geni.com/people/Aviad-Kahana/6000000004174199343)
-- [Aviad: second record, identity unresolved](https://www.geni.com/people/Aviad-Kahana/6000000205323870833)
+- [Aviad: second record, family-confirmed duplicate](https://www.geni.com/people/Aviad-Kahana/6000000205323870833)
+
+## Family corrections and browse views — 20 October 2026
+
+The family rejected Sara’s claimed child relationship as a mistake. The three Dov/Aviad pairs and the Osnat pair were
+confirmed as duplicate source identities; existing canonical people and child links remain. No duplicate named person
+is added. Osnat’s existing date field remains unchanged. Yedidia’s Rachel claim was rejected; Dvir, born in 2013, is a
+separate family-supported child with no copied Geni ID or birth date. Meir is male; Michal is female and her married
+surname is Levi, with no inferred birth surname. Avia’s birth year is 1980 and her husband is Daniel Prinz, by family
+testimony; the exact 8 August date remains an unverified Geni claim.
+
+Two additional unnamed children of Rabbi Chaim Arye Leb died before 1943, confirmed by the family. They are
+represented by two historical unnamed-child slots, not invented people. At 14:04 the family explicitly corrected the
+death year to **1956**, which is now the primary field. If the previously reported day/month 2 Sivan is retained,
+[Hebcal](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5716) gives **12 May 1956 / 2 Sivan 5716**; this is
+only a conditional calendar reconstruction, not a confirmed exact date. The earlier [2 Sivan
+5717](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5717) claim would map to 1 June 1957 and conflicts with
+the latest correction. No original death record is claimed. The earlier 1956 profile claims remain recorded source
+history.
+
+The site now provides a [nested family list](../list.html) generated from the same canonical tree data. Its native
+expandable cards, spouse callouts, facts, source links, search, ancestor opening, deep links and mobile/print layout
+preserve the functional motifs of the requested Koplowitz–Pasternak reference. Children remain nested under their
+descendant-line parent; a spouse list does not assign their mother.
+
+The dedicated [52 newly added people](new-people.html) summary groups every added person and explains what changed
+from the original 149-person baseline, with sources and confidence. It includes Dvir instead of the rejected Rachel
+claim. The [201-person review](descendants-review.html) remains the complete per-person record. Full source and
+descendant research is still unfinished where identity, originals or access remain unresolved.
