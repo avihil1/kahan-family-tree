@@ -3334,3 +3334,16 @@ reflected in the evidence note. No new living-person birth date, spouse, child n
 by that label correction. The full-root review continues with canonical baseline/source unions, separate identity
 cases and source-family checks. Newly proposed names and date disclosures remain in a private review; all questions
 and publication permission will be collected at the end as requested. The full DFS is unfinished.
+
+## Date-note and child-count clarification — 20 October 2026
+
+Dov’s older year-only wording and Penina’s older “no exact dates” wording now distinguish the earlier review from the
+current display of unverified Geni date claims. Masked spouse/child slots do not establish current life status.
+
+Chaim Arye Leb’s Geni roster contains Penina, Shalom and two Dov profiles. Their unresolved identity does not
+establish a distinct fourth child. All three named children remain; the fixed one-unnamed-child display is removed
+using the existing Dov1930 count-handling precedent. The earlier family recollection of two children who died in
+Timișoara remains a separate unresolved claim, not a replacement counter. The 149-person baseline snapshot had 37
+unnamed source slots; the current display has 36 after this single omission. Neither count is a verified number of
+distinct additional people. Repeating the reconciliation removes no further slot. A fixed extra-child count may be
+restored only after a distinct child is established.
