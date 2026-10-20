@@ -2466,3 +2466,22 @@ and Chaim, and makes Malka’s specific uncertainty visible. Penina’s existing
 remain unchanged in this checkpoint; proposed naming of those slots is under private review pending specific public
 permission. The full-root household ledger remains in progress. Source controls alone are not loaded Sources/Media
 checks, and missing child links do not establish childlessness. The full DFS is unfinished.
+
+## Existing deceased records and source precision — 20 October 2026
+
+The tree remains **149 named people**. No child is added, deleted or reassigned in this checkpoint. Dov of the 1937
+generation now displays 28 November 1937 and 12 April 2019 as unverified Geni claims; his four masked child slots
+remain. Penina’s exact Geni fields, 1 January 1929 and 23 September 1988, are qualified, and her Sighet birthplace
+remains family testimony. Her existing Asher entry and two unnamed slots are unchanged. Frida Lieberman’s reported 2
+January 1917 birth is added as a Geni claim; circa 1944 and her provisional relationship remain qualified.
+
+Volf’s approximate 1891 birth is now explicitly age-derived, with the cited death-index reference Inventory 1373,
+entry 1900-76 recorded as a transcription, not an inspected original. Chaim Arye Leb’s death is visibly unresolved
+between the earlier 23 May 1956 profile date, the current Geni claim 26 March 1956 and the book’s 2 Sivan 5717. His
+inspected original birth, 10 April 1903 at Maragyulafalu, overrides Geni’s conflicting birth and is unchanged.
+
+The existing cousin’s Hebrew display now preserves the profile’s חיים אריה לייב הלר (כהנא) variant, which was already
+reflected in the evidence note. No new living-person birth date, spouse, child name or private identifier is published
+by that label correction. The full-root review continues with canonical baseline/source unions, separate identity
+cases and source-family checks. Newly proposed names and date disclosures remain in a private review; all questions
+and publication permission will be collected at the end as requested. The full DFS is unfinished.
