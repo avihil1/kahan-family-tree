@@ -3400,13 +3400,13 @@ surname is Levi, with no inferred birth surname. Avia’s birth year is 1980 and
 testimony; the exact 8 August date remains an unverified Geni claim.
 
 Two additional unnamed children of Rabbi Chaim Arye Leb died before 1943, confirmed by the family. They are
-represented by two historical unnamed-child slots, not invented people. At 14:04 the family explicitly corrected the
-death year to **1956**, which is now the primary field. If the previously reported day/month 2 Sivan is retained,
-[Hebcal](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5716) gives **12 May 1956 / 2 Sivan 5716**; this is
-only a conditional calendar reconstruction, not a confirmed exact date. The earlier [2 Sivan
-5717](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5717) claim would map to 1 June 1957 and conflicts with
-the latest correction. No original death record is claimed. The earlier 1956 profile claims remain recorded source
-history.
+represented by two historical unnamed-child slots, not invented people. At 14:33 the family explicitly confirmed the
+exact death date as **12 May 1956**. Its [Hebcal calendar
+conversion](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5716) is **2 Sivan 5716**. This family
+confirmation supersedes the earlier conditional reconstruction. The earlier [2 Sivan
+5717](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5717) statement would map to 1 June 1957 and is
+superseded by the latest correction. This is family testimony and calendar conversion, not a newly inspected original
+death record. The earlier 1956 profile claims remain recorded source history.
 
 The site now provides a [nested family list](../list.html) generated from the same canonical tree data. Its native
 expandable cards, spouse callouts, facts, source links, search, ancestor opening, deep links and mobile/print layout

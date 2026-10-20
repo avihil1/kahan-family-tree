@@ -2498,7 +2498,7 @@ Geni-attached JewishGen birth-index screenshot re-read 19 October 2026: Ziszel, 
 
 **Birth:** 10 April 1903, Maragyulafalu, Kingdom of Hungary (now Giulești, Romania); inspected civil birth entry
 
-**Death:** 1956 (family-confirmed year; exact date unresolved)
+**Death:** 12 May 1956 (family-confirmed date); 2 Sivan 5716 (calendar conversion)
 
 **Descendant-line parent:** Dov Ber Bernat Kahan
 
@@ -2506,7 +2506,7 @@ Geni-attached JewishGen birth-index screenshot re-read 19 October 2026: Ziszel, 
 
 **Spouse claims:** Leah Kahana (c.1907 – bef.1983; sister of Ezra and Ienta)
 
-**Evidence, qualifications and remaining work:** Hillel confirmed two additional children, distinct from Penina, Dov and Shalom, who died before 1943. Their names, sex and birth dates remain unknown; they are represented by two unnamed historical child slots, not invented named nodes. At 14:04 Hillel explicitly corrected the death year to 1956, which is the current family-confirmed field. If the previously reported day/month 2 Sivan is retained, Hebcal gives 12 May 1956 / 2 Sivan 5716. That is a conditional calendar reconstruction, not a confirmed exact date. The earlier 2 Sivan 5717 statement would give 1 June 1957 and conflicts with the latest correction; 1957 is not accepted as the death year. Earlier 23 May 1956 and 26 March 1956 profile claims remain source history. The inspected 10 April 1903 birth remains unchanged; no original death record is claimed.
+**Evidence, qualifications and remaining work:** Hillel confirmed two additional children, distinct from Penina, Dov and Shalom, who died before 1943. Their names, sex and birth dates remain unknown; they are represented by two unnamed historical child slots, not invented named nodes. At 14:33 on 20 October 2026 he explicitly confirmed the exact death date as 12 May 1956. Its Hebrew calendar conversion is 2 Sivan 5716. The date is now family-confirmed, superseding the earlier conditional reconstruction. The earlier 2 Sivan 5717 statement would map to 1 June 1957 and is superseded; 23 May 1956 and 26 March 1956 profile claims remain source history. This is family testimony plus calendar conversion, not a newly inspected original death record. The inspected 10 April 1903 birth is unchanged.
 
 Earlier research notes, before the 13:56 family corrections:
 
@@ -2549,7 +2549,7 @@ Sefer Marmarosh (1983), p.62, identifies Chaim Leib as Timisoara dayan, eldest s
 - [Be’er Chaim title page: posthumous edition, 5748](https://assets.yadvashem.org/image/upload/t_f_image/f_auto/q_auto/v1/remote_media/documentation4/5/full_pdf_srika/9835770/00006.jpg)
 - [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
 - [Hebcal: earlier 2 Sivan 5717 claim converts to 1957, conflicting with the corrected year](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5717)
-- [Hebcal: conditional 2 Sivan 5716 = 12 May 1956; not a confirmed exact death date](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5716)
+- [Hebcal: 2 Sivan 5716 = 12 May 1956; conversion of the family-confirmed date](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Sivan&hy=5716)
 
 <a id="person-78"></a>
 ## 78. Penina Perl Kahana (Miller)
