@@ -3347,3 +3347,44 @@ Timișoara remains a separate unresolved claim, not a replacement counter. The 1
 unnamed source slots; the current display has 36 after this single omission. Neither count is a verified number of
 distinct additional people. Repeating the reconciliation removes no further slot. A fixed extra-child count may be
 restored only after a distinct child is established.
+
+## Family confirmations and publication — 20 October 2026
+
+Hillel approved publishing the reviewed 197-person draft, its 48 provisional additions, ten source-supported surname
+completions, reported dates and source links. His accompanying corrections identify N.N. as Nachshon, the garbled
+Hillel record as Hillel, and Yishai as the existing Ishai. These are source aliases, not additional siblings or Geni
+merges. The 149 original identities and child edges remain.
+
+The current tree has **201 named people**: the reviewed 197 plus Nachshon-linked Avital and Shalom, and the
+family-named Meir and Michal under Dov, brother of Zippora. The two Osnat profiles are not proven identical: one
+existing Osnat Berlin node remains, with the Osnat Kahana profile cited as a possible match; its birth date is not
+transferred. Meir and Michal have no inferred surname, sex or dates. Dov’s reported 1937 date remains a qualified
+profile claim. The four masked Geni child slots are not treated as four additional people, and no fixed remaining
+count is guessed.
+
+Actual family wording: “נחשון. Sara? I need a link. Hillel - correct. Ishai - correct”; “there is a cousin Dov
+(brother of Zippora) of my uncle Dov that has a child Meir and Michal. It makes sense 1937”; “Shirel was born 1994”;
+“Milka has 2 children Avishag and forgot the other son”. The birth year of Shirel is family-confirmed; the unnamed
+Geni daughter’s 7 March 1994 date remains a probable-profile claim, not a family-confirmed exact date. Milka’s two
+children are Avishag and one unnamed son. Avia’s existing panel now links the unnamed daughter’s own Geni profile and
+describes the sourced daughter relationship; no invented name node is added, and additional exact birth details remain
+private.
+
+The full descendant investigation remains unfinished. A loaded profile or empty panel does not establish childlessness
+or complete source coverage. The [public per-person review](descendants-review.html) records findings, source
+qualifications and remaining work for each of the 201 people.
+
+Two separate questions remain: (a) Were there children of Rabbi Chaim Arye Leb besides Penina, Dov and Shalom, and are
+names or identifying documents known? (b) Is there an identifying death record or gravestone that distinguishes 23 May
+1956, 26 March 1956 and 2 Sivan 5717? An earlier recollection about two children dying in Timișoara remains qualified
+historical testimony, not a new confirmation in this reply.
+
+### Requested identity-comparison links
+
+- [Sara: unresolved identity](https://www.geni.com/people/Sara/6000000009327668454)
+- [Dov: existing 1930 branch](https://www.geni.com/people/Dov-Kahana/6000000002683180809)
+- [Dov: second record under Chaim Arye Leb](https://www.geni.com/people/Dov-Kahana/6000000016807999046)
+- [Dov: existing brother of Tzippora, reported 1937](https://www.geni.com/people/Dov-Kahana/6000000002683182343)
+- [Dov: partial record under Meir, identity unresolved](https://www.geni.com/people/Dov-Kahana/6000000016805454758)
+- [Aviad: existing displayed record](https://www.geni.com/people/Aviad-Kahana/6000000004174199343)
+- [Aviad: second record, identity unresolved](https://www.geni.com/people/Aviad-Kahana/6000000205323870833)
