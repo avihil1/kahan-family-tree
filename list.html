@@ -21,7 +21,13 @@ footer{border-top:1px solid var(--bd);color:var(--mu)}@media(max-width:600px){he
 header{padding-top:28px}ul{padding-inline-start:10px}.content{padding:0 10px 10px}summary{padding:10px}}
 @media print{.toolbar,nav{display:none}details{break-inside:avoid}body{background:white}header{padding-top:0}}
 
-.content{overflow-wrap:anywhere}.content p{max-inline-size:75ch}.source-list{border:0;padding-inline-start:20px}.source-list li{margin:4px 0}.possible>summary{border-inline-start:4px dotted var(--ac)}.toolbar{max-width:1120px;margin:auto;padding:14px 24px}@media print{details{break-inside:auto}}</style><header><h1>Nested family list</h1><p class="intro"></p><nav><a href="tree.html">Graph view</a><a href="research/new-people.html"><b>52 newly added people</b></a><a href="research/descendants-review.html">Per-person review</a><a href="index.html">Family history</a></nav></header><div class="toolbar"><input id="q" type="search" placeholder="Find a person…" aria-label="Find a person" disabled><button id="exp" disabled>Expand all</button><button id="collapse" disabled>Collapse all</button><button id="lang" disabled>עברית</button><span id="results" role="status" aria-live="polite"></span></div><main><ul id="family" aria-label="Family list"></ul></main><footer>Source claims and unknown relationships retain their qualifications.</footer><script>
+.content{overflow-wrap:anywhere}.content p{max-inline-size:75ch}.source-list{border:0;padding-inline-start:20px}.source-list li{margin:4px 0}.possible>summary{border-inline-start:4px dotted var(--ac)}.toolbar{max-width:1120px;margin:auto;padding:14px 24px}@media print{details{break-inside:auto}}
+nav[aria-label="Family tree"]{display:inline-flex;gap:0;margin:0;padding:3px;border:1px solid var(--bd);border-radius:9px;background:var(--bg);font:14px/1.4 system-ui,sans-serif}
+nav[aria-label="Family tree"] a{display:flex;align-items:center;gap:7px;padding:7px 11px;border-radius:6px;color:var(--mu);text-decoration:none;white-space:nowrap}
+nav[aria-label="Family tree"] a[aria-current="page"]{background:var(--ac);color:var(--bg);font-weight:600}
+nav[aria-label="Family tree"] a:focus-visible{outline:2px solid var(--ac);outline-offset:3px}
+nav[aria-label="Family tree"] svg{width:18px;height:18px;display:block;cursor:inherit;flex:none}
+</style><header><h1>Nested family list</h1><p class="intro"></p><nav><a href="tree.html">Graph view</a><a href="research/new-people.html"><b>52 newly added people</b></a><a href="research/descendants-review.html">Per-person review</a><a href="index.html">Family history</a></nav></header><div class="toolbar"><nav aria-label="Family tree"><a href="tree.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M12 7v4M5 16v-5h14v5"/><rect x="9" y="2" width="6" height="5" rx="1"/><rect x="2" y="16" width="6" height="5" rx="1"/><rect x="16" y="16" width="6" height="5" rx="1"/></svg><span>Graph view</span></a><a href="list.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M9 5h12M9 12h12M9 19h12"/><circle cx="3" cy="5" r="1"/><circle cx="3" cy="12" r="1"/><circle cx="3" cy="19" r="1"/></svg><span>List view</span></a></nav><input id="q" type="search" placeholder="Find a person…" aria-label="Find a person" disabled><button id="exp" disabled>Expand all</button><button id="collapse" disabled>Collapse all</button><button id="lang" disabled>עברית</button><span id="results" role="status" aria-live="polite"></span></div><main><ul id="family" aria-label="Family list"></ul></main><footer>Source claims and unknown relationships retain their qualifications.</footer><script>
 let language = new URLSearchParams(location.search).get('lang') === 'he' ? 'he' : 'en';
 let DATA, HE, BYKEY;
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -56,6 +62,10 @@ function search() {
   if (hits.length) hits[0].scrollIntoView({block: 'center'});
 }
 function applyLanguage() {
+  document.querySelectorAll('nav[aria-label="Family tree"] a').forEach((a, i) => {
+    a.querySelector('span').textContent = language === 'he' ? ['תרשים', 'רשימה'][i] : ['Graph view', 'List view'][i];
+    a.href = ['tree.html', 'list.html'][i] + (language === 'he' ? '?lang=he' : '');
+  });
   const opened = new Map([...document.querySelectorAll('details.person')].map(d => [d.id, d.open]));
   document.documentElement.lang = language;
   document.documentElement.dir = language === 'he' ? 'rtl' : 'ltr';
@@ -72,7 +82,7 @@ function applyLanguage() {
   document.getElementById('lang').setAttribute('aria-label', language === 'he' ? 'Switch to English' : 'מעבר לעברית');
   document.querySelector('footer').textContent = language === 'he' ? 'טענות המקור וקשרים שלא הוכרעו שומרים על סייגיהם.' : 'Source claims and unknown relationships retain their qualifications.';
   document.title = tr('Nested family list');
-  document.querySelectorAll('nav a').forEach((a, i) => a.textContent = tr(['Graph view', '52 newly added people', 'Per-person review', 'Family history'][i]));
+  document.querySelectorAll('header nav a').forEach((a, i) => a.textContent = tr(['Graph view', '52 newly added people', 'Per-person review', 'Family history'][i]));
   showHash();
 }
 document.getElementById('q').addEventListener('input', search);

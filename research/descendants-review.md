@@ -110,20 +110,20 @@
 | [100. Tzofia Kahana](#person-100) | Newly displayed relative. Relationship remains provisional. |
 | [101. Yonatan yeshaayahu Kahana](#person-101) | Newly displayed relative. Relationship remains provisional. |
 | [102. Yedidya Kahana](#person-102) | Newly displayed relative. Relationship remains provisional. |
-| [103. Techia Brayer](#person-103) | Newly displayed relative. Relationship remains provisional. |
-| [104. Yaakov Brayer](#person-104) | Newly displayed relative. Relationship remains provisional. |
+| [103. Techia Brayer](#person-103) | Newly displayed relative. Retain the family/source qualifications below. |
+| [104. Yaakov Brayer](#person-104) | Newly displayed relative. Retain the family/source qualifications below. |
 | [105. Roni Zion brayer](#person-105) | Newly displayed relative. Relationship remains provisional. |
 | [106. Haleli Esther Brayer](#person-106) | Newly displayed relative. Relationship remains provisional. |
 | [107. Tohar Shira Brayer](#person-107) | Newly displayed relative. Relationship remains provisional. |
-| [108. Bat El Shachor](#person-108) | Newly displayed relative. Relationship remains provisional. |
+| [108. Bat El Shachor](#person-108) | Newly displayed relative. Retain the family/source qualifications below. |
 | [109. Daniel Shachor](#person-109) | Newly displayed relative. Relationship remains provisional. |
-| [110. Livnat Kopel](#person-110) | Newly displayed relative. Relationship remains provisional. |
+| [110. Livnat Kopel](#person-110) | Newly displayed relative. Retain the family/source qualifications below. |
 | [111. Ariel Kopel](#person-111) | Newly displayed relative. Relationship remains provisional. |
 | [112. Dvir Kopel](#person-112) | Newly displayed relative. Relationship remains provisional. |
 | [113. Ayala Kopel](#person-113) | Newly displayed relative. Relationship remains provisional. |
 | [114. Yehuda Kopel](#person-114) | Newly displayed relative. Relationship remains provisional. |
-| [115. Avital Brayer](#person-115) | Newly displayed relative. Relationship remains provisional. |
-| [116. Moshe Refael Brayer](#person-116) | Newly displayed relative. Relationship remains provisional. |
+| [115. Avital Brayer](#person-115) | Newly displayed relative. Retain the family/source qualifications below. |
+| [116. Moshe Refael Brayer](#person-116) | Newly displayed relative. Retain the family/source qualifications below. |
 | [117. Milka Eliav](#person-117) | Newly displayed relative. Relationship remains provisional. |
 | [118. Avishag Eliav](#person-118) | Newly displayed relative. Retain the family/source qualifications below. |
 | [119. Shalom Kahana](#person-119) | Existing identity; baseline retained. Retain the family/source qualifications below. |
@@ -144,7 +144,7 @@
 | [134. Naomi Tikochinsky](#person-134) | Existing identity; updated name, born. Retain the family/source qualifications below. |
 | [135. Shulamit Tikochinsky](#person-135) | Existing identity; updated name, born. Retain the family/source qualifications below. |
 | [136. Tamar (תמר)](#person-136) | Existing identity; baseline retained. Retain the family/source qualifications below. |
-| [137. Yael Adoram](#person-137) | Existing identity; updated born. Retain the family/source qualifications below. |
+| [137. Yael Adoram](#person-137) | Existing identity; updated born, years. Retain the family/source qualifications below. |
 | [138. Naomi Adoram](#person-138) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [139. Itamar Adoram](#person-139) | Existing identity; baseline retained. Retain the family/source qualifications below. |
 | [140. Shalom Adoram](#person-140) | Existing identity; baseline retained. Retain the family/source qualifications below. |
@@ -3253,7 +3253,7 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** 1962-07-16, Israel (Geni-reported; unverified)
 
@@ -3265,11 +3265,16 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** Yossef (Yossi) Batchi Brayer
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Daughter of Dov Kahana and Esther Golda Kahana. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** At 14:42 on 20 October 2026 Hillel confirmed Tchiya/Techia as the daughter of his uncle Dov and Esther Golda, wife of Yossi Brayer, and mother of Yaakov, Bat El, Livnat, Avital and Moshe Refael. These relationships are now family-confirmed. The source wording Yossef (Yossi) Batchi Brayer is retained for the spouse. Geni birth dates remain unverified; the grandchildren and other additional source claims were not confirmed by this answer and retain their existing qualifications.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Daughter of Dov Kahana and Esther Golda Kahana. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Techia-Brayer/6000000009231979186)
+- [Hillel Kahana: Tchiya household confirmed, 20 October 2026, 14:42](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#tchiya-household-family-confirmation--20-october-2026)
 
 <a id="person-104"></a>
 ## 104. Yaakov Brayer
@@ -3278,7 +3283,7 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** 1985-11-25, Israel (Geni-reported; unverified)
 
@@ -3290,11 +3295,16 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** Efrat Brayer
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Son of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** At 14:42 on 20 October 2026 Hillel confirmed this person as a child of Tchiya/Techia and Yossi Brayer. The given-name identity and child relationship are now family-confirmed. Existing Geni birth dates, additional spouse/name details and further descendant relationships retain their source qualifications; this answer does not independently verify those additional claims.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Son of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Yaakov-Brayer/6000000002683182184)
+- [Hillel Kahana: Tchiya household confirmed, 20 October 2026, 14:42](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#tchiya-household-family-confirmation--20-october-2026)
 
 <a id="person-105"></a>
 ## 105. Roni Zion brayer
@@ -3378,7 +3388,7 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** 1987-02-22, Israel (Geni-reported; unverified)
 
@@ -3390,11 +3400,16 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** David Shachor
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Daughter of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** At 14:42 on 20 October 2026 Hillel confirmed this person as a child of Tchiya/Techia and Yossi Brayer. The given-name identity and child relationship are now family-confirmed. Existing Geni birth dates, additional spouse/name details and further descendant relationships retain their source qualifications; this answer does not independently verify those additional claims.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Daughter of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Bat-El-Shachor/6000000002683182190)
+- [Hillel Kahana: Tchiya household confirmed, 20 October 2026, 14:42](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#tchiya-household-family-confirmation--20-october-2026)
 
 <a id="person-109"></a>
 ## 109. Daniel Shachor
@@ -3428,7 +3443,7 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** 1989-08-06, Israel (Geni-reported; unverified)
 
@@ -3440,11 +3455,16 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** Zvi Kopel
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Daughter of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** At 14:42 on 20 October 2026 Hillel confirmed this person as a child of Tchiya/Techia and Yossi Brayer. The given-name identity and child relationship are now family-confirmed. Existing Geni birth dates, additional spouse/name details and further descendant relationships retain their source qualifications; this answer does not independently verify those additional claims.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Daughter of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Livnat-Kopel/6000000002683182196)
+- [Hillel Kahana: Tchiya household confirmed, 20 October 2026, 14:42](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#tchiya-household-family-confirmation--20-october-2026)
 
 <a id="person-111"></a>
 ## 111. Ariel Kopel
@@ -3553,7 +3573,7 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** 1994-06-20, Israel (Geni-reported; unverified)
 
@@ -3565,11 +3585,16 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Daughter of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** At 14:42 on 20 October 2026 Hillel confirmed this person as a child of Tchiya/Techia and Yossi Brayer. The given-name identity and child relationship are now family-confirmed. Existing Geni birth dates, additional spouse/name details and further descendant relationships retain their source qualifications; this answer does not independently verify those additional claims.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Daughter of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Avital-Brayer/6000000002683182202)
+- [Hillel Kahana: Tchiya household confirmed, 20 October 2026, 14:42](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#tchiya-household-family-confirmation--20-october-2026)
 
 <a id="person-116"></a>
 ## 116. Moshe Refael Brayer
@@ -3578,7 +3603,7 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Known before this pass:** No individual named node in the original 149-person baseline.
 
-**Finding and confidence:** Newly displayed relative. Relationship remains provisional.
+**Finding and confidence:** Newly displayed relative. Retain the family/source qualifications below.
 
 **Birth:** 1996-04-27, Israel (Geni-reported; unverified)
 
@@ -3590,11 +3615,16 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** 20 October 2026: this Geni profile explicitly states Son of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
+**Evidence, qualifications and remaining work:** At 14:42 on 20 October 2026 Hillel confirmed this person as a child of Tchiya/Techia and Yossi Brayer. The given-name identity and child relationship are now family-confirmed. Existing Geni birth dates, additional spouse/name details and further descendant relationships retain their source qualifications; this answer does not independently verify those additional claims.
+
+Earlier research notes, before the 13:56 family corrections:
+
+20 October 2026: this Geni profile explicitly states Son of Yossef (Yossi) Batchi Brayer and Techia Brayer. The linked parent roster reciprocally lists this child. These assertions belong to one collaborative tree, not independent original records; the relationship is provisional. Any displayed dates are Geni-reported and unverified. Missing child or spouse links do not establish childlessness or unmarried status.
 
 **Sources**
 
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Moshe-Brayer/6000000002683182208)
+- [Hillel Kahana: Tchiya household confirmed, 20 October 2026, 14:42](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#tchiya-household-family-confirmation--20-october-2026)
 
 <a id="person-117"></a>
 ## 117. Milka Eliav
@@ -3669,7 +3699,11 @@ Added 19 October 2026 as a provisional Geni-supported child. The earlier 19 Octo
 
 **Spouse claims:** Ruth Pasternak (Kahana; רות פסטרנק)
 
-**Evidence, qualifications and remaining work:** Hillel rejected the extra Sara child claim as a mistake on 20 October 2026. Sara is not added to this household. The confirmed Hillel, Ishai and Nachshon source aliases do not create additional siblings; the fourteen family-confirmed children remain.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The matched spouse Ruth Pasternak is listed as Ruti Pasternak in the saved Koplowitz–Pasternak tree, entry 78, with birth year 1946. This year is retained only as an unverified secondary-tree claim in this household note. The existing spouse name, profile link and child relationships are unchanged. No exact birth date, new surname, original record or independent family confirmation is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Hillel rejected the extra Sara child claim as a mistake on 20 October 2026. Sara is not added to this household. The confirmed Hillel, Ishai and Nachshon source aliases do not create additional siblings; the fourteen family-confirmed children remain.
 
 Earlier research notes, before the 13:56 family corrections:
 
@@ -3693,6 +3727,7 @@ MyHeritage comparison, 16 October 2026: the Greenblatt tree incorrectly assigns 
 - [MyHeritage: Geni import (secondary tree)](https://www.myheritage.co.il/research/collection-40000/geni-world-family-tree?itemId=90355040&action=showRecord)
 - [MyHeritage: Greenblatt tree — rejected chronology conflict](https://www.myheritage.co.il/research/collection-1/myheritage-family-trees?itemId=OYYV72YXAE6LNNBPEVZYHI46XSR3EFA-1-509440&action=showRecord)
 - [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Koplowitz–Pasternak family tree, entry 78 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#78)
 
 <a id="person-120"></a>
 ## 120. Chaim Aryeh Kahana (Haim Arie)
@@ -3713,7 +3748,11 @@ MyHeritage comparison, 16 October 2026: the Greenblatt tree incorrectly assigns 
 
 **Spouse claims:** Dwora Bar Shaul (Geni: Devorah Yafa Barr Saul)
 
-**Evidence, qualifications and remaining work:** Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. On 15 October 2026 Hillel identified spouse Dwora Bar Shaul and six children: Shirel, Ido, Shalom, Uria, Tehila and Yair. Names are preserved as supplied; dates and further descendants are not yet documented. The spouse list does not independently establish each child’s mother.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The matched spouse Dwora Bar Shaul is listed as Devora Yafa Bar-Shaul in the saved Koplowitz–Pasternak tree, entry 81, with birth year 1966. This year is retained only as an unverified secondary-tree claim in this household note. The existing spouse name, profile link and child relationships are unchanged. No exact birth date, new surname, original record or independent family confirmation is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. On 15 October 2026 Hillel identified spouse Dwora Bar Shaul and six children: Shirel, Ido, Shalom, Uria, Tehila and Yair. Names are preserved as supplied; dates and further descendants are not yet documented. The spouse list does not independently establish each child’s mother.
 
 Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed surname, where newly supplied, is recorded as given; no spouse identity is inferred from it.
 
@@ -3730,6 +3769,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Hillel Kahana: sibling names and sex, 18 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#shaloms-children-names-and-sex--18-october-2026)
 - [Geni Shalom Kahana child roster, reviewed 20 October 2026](https://www.geni.com/people/Shalom-Kahana/6000000009318607641)
 - [Geni profile linked from Shalom’s child roster: Chaim Aryeh Kahana](https://www.geni.com/people/Chaim-Kahana/6000000002683180817)
+- [Koplowitz–Pasternak family tree, entry 81 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#81)
 
 <a id="person-121"></a>
 ## 121. Shirel
@@ -3777,7 +3817,11 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** Child of Haim Arie, identified by Hillel Kahana on 15 October 2026. Given name and sex supplied by family testimony; surname, dates, spouse and further descendants not yet documented. Maternal relationship not separately confirmed.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 83, reports 1 June 1995, while the existing Geni-qualified birth field reports 21 June 1995. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer.
+
+Earlier research notes, before this saved reference comparison:
+
+Child of Haim Arie, identified by Hillel Kahana on 15 October 2026. Given name and sex supplied by family testimony; surname, dates, spouse and further descendants not yet documented. Maternal relationship not separately confirmed.
 
 20 October 2026 Geni source review: birth: June 21, 1995 Israel. These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence.
 
@@ -3787,6 +3831,7 @@ Private name review, 20 October 2026: the own Geni profile records Ido Kahana an
 
 - [Hillel Kahana: family testimony, 15 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#haim-arie-household--15-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Ido-Kahana/6000000002683180927)
+- [Koplowitz–Pasternak family tree, entry 83 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#83)
 
 <a id="person-123"></a>
 ## 123. Shalom Kahana
@@ -3922,7 +3967,11 @@ Private name review, 20 October 2026: the own Geni profile records Tehila Kahana
 
 **Spouse claims:** Rabbi Yakir Tikochinsky (יקיר טיקוצ׳ינסקי)
 
-**Evidence, qualifications and remaining work:** Rabbanit Dr. Michal Tikochinsky, Talmud and halakha scholar; dean of students at Herzog College. Daughter of Shalom Kahana (brother of Dov Kahana). https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9B%D7%9C_%D7%98%D7%99%D7%A7%D7%95%D7%A6%27%D7%99%D7%A0%D7%A1%D7%A7%D7%99 Her 2019 interview identifies seven children with Yakir. Their given names are shown as reported; surnames, exact birth dates, spouses and further descendants are not established by this source. Birthplace conflict: the interview says Ramat Gan, with a move to Bnei Brak at age three; Wikipedia lists Bnei Brak. Hillel confirmed on 14 October 2026 that Ruth née Pasternak is the mother of all 14 children.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The matched spouse Yakir Tikochinsky is listed as Yakir Tikochinsky in the saved Koplowitz–Pasternak tree, entry 87, with birth year 1966. This year is retained only as an unverified secondary-tree claim in this household note. The existing spouse name, profile link and child relationships are unchanged. No exact birth date, new surname, original record or independent family confirmation is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Rabbanit Dr. Michal Tikochinsky, Talmud and halakha scholar; dean of students at Herzog College. Daughter of Shalom Kahana (brother of Dov Kahana). https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9B%D7%9C_%D7%98%D7%99%D7%A7%D7%95%D7%A6%27%D7%99%D7%A0%D7%A1%D7%A7%D7%99 Her 2019 interview identifies seven children with Yakir. Their given names are shown as reported; surnames, exact birth dates, spouses and further descendants are not established by this source. Birthplace conflict: the interview says Ramat Gan, with a move to Bnei Brak at age three; Wikipedia lists Bnei Brak. Hillel confirmed on 14 October 2026 that Ruth née Pasternak is the mother of all 14 children.
 
 Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed surname, where newly supplied, is recorded as given; no spouse identity is inferred from it.
 
@@ -3939,6 +3988,7 @@ An earlier profile or notice listed this person as living/surviving. Current lif
 - [Hillel Kahana: family testimony, 14 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md)
 - [Hillel Kahana: sibling names and sex, 18 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#shaloms-children-names-and-sex--18-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Michal-Tikochinsky/6000000002683180825)
+- [Koplowitz–Pasternak family tree, entry 87 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#87)
 
 <a id="person-128"></a>
 ## 128. Eliav Tikochinsky
@@ -4044,7 +4094,11 @@ Private name review, 20 October 2026: the own Geni profile records Eliav Tikochi
 
 **Spouse claims:** Avihail Fogel
 
-**Evidence, qualifications and remaining work:** Child of Michal and Yakir Tikochinsky, named in Michal’s July 2019 interview. Given name only; further descendants not yet documented. Reported age 27 in her 4 July 2019 interview. This is age evidence, not an exact birth date. Hillel identified Avihail Fogel as Renana’s spouse on 15 October 2026. Children have not yet been supplied.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 89, reports 15 May 1992, while the existing Geni-qualified birth field reports 14 May 1992. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer.
+
+Earlier research notes, before this saved reference comparison:
+
+Child of Michal and Yakir Tikochinsky, named in Michal’s July 2019 interview. Given name only; further descendants not yet documented. Reported age 27 in her 4 July 2019 interview. This is age evidence, not an exact birth date. Hillel identified Avihail Fogel as Renana’s spouse on 15 October 2026. Children have not yet been supplied.
 
 20 October 2026 Geni source review: birth: May 14, 1992 Israel. These are attributed profile claims, not independently inspected originals. Existing original/family evidence and all baseline children are retained; a source profile omitting a spouse or children does not establish their absence.
 
@@ -4055,6 +4109,7 @@ Private name review, 20 October 2026: the own Geni profile records Renana Tikoch
 - [Michal Tikochinsky family interview, 4 July 2019](https://www.inn.co.il/news/406366)
 - [Hillel Kahana: family testimony, 15 October 2026 (Renana spouse)](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#renana-spouse--15-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Renana-Tikochinsky/6000000002683180965)
+- [Koplowitz–Pasternak family tree, entry 89 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#89)
 
 <a id="person-132"></a>
 ## 132. Avital Tikochinsky
@@ -4208,9 +4263,9 @@ Private name review, 20 October 2026: the own Geni profile records Shulamit Tiko
 
 **Known before this pass:** Name: Yael Adoram; birth: unknown; death: unknown
 
-**Finding and confidence:** Existing identity; updated born. Retain the family/source qualifications below.
+**Finding and confidence:** Existing identity; updated born, years. Retain the family/source qualifications below.
 
-**Birth:** June 10, Israel (Geni-reported; unverified)
+**Birth:** 1970 (reference-tree year; unverified); June 10, Israel (Geni-reported; unverified)
 
 **Death:** Unknown / not supplied
 
@@ -4220,7 +4275,15 @@ Private name review, 20 October 2026: the own Geni profile records Shulamit Tiko
 
 **Spouse claims:** Ben (Benzion) Adoram
 
-**Evidence, qualifications and remaining work:** Daughter of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026, with sex confirmed on 18 October. At that family-testimony checkpoint, spouse and descendants had not yet been supplied.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The matched spouse Ben (Benzion) Adoram is listed as Ben-Zion Adoram in the saved Koplowitz–Pasternak tree, entry 94, with birth year 1961. This year is retained only as an unverified secondary-tree claim in this household note. The existing spouse name, profile link and child relationships are unchanged. No exact birth date, new surname, original record or independent family confirmation is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree identifies Yael Cahana in the matched Shalom/Ruth household with spouse Ben-Zion Adoram and reports birth year 1970. Only that missing year is added as an unverified secondary-tree claim; the existing Geni-reported June 10 and Israel wording is retained separately. No original birth record or new family confirmation was obtained.
+
+Earlier research notes, before this saved reference comparison:
+
+Daughter of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026, with sex confirmed on 18 October. At that family-testimony checkpoint, spouse and descendants had not yet been supplied.
 
 Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed surname, where newly supplied, is recorded as given; no spouse identity is inferred from it.
 
@@ -4235,6 +4298,8 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Geni: Yael Adoram, explicit family links (secondary tree)](https://www.geni.com/people/Yael-Adoram/6000000004724459007)
 - [Geni: Ben Adoram, reciprocal spouse and daughter links (secondary tree)](https://www.geni.com/people/Ben-Adoram/6000000003819914515)
 - [Hillel Kahana: family confirmation, 19 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/dov-ber-dfs.md#ben-and-yael-adorams-named-children--19-october-2026)
+- [Koplowitz–Pasternak family tree, entry 93 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#93)
+- [Koplowitz–Pasternak family tree, entry 94 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#94)
 
 <a id="person-138"></a>
 ## 138. Naomi Adoram
@@ -4255,7 +4320,11 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Spouse claims:** Not established in this tree
 
-**Evidence, qualifications and remaining work:** Hillel Kahana confirmed the five-child family roster on 19 October 2026, including Naomi Adoram as a child of Ben (Benzion) Adoram and Yael Adoram. The supplied Geni screenshot and the explicit daughter relationship support the name, parentage and sex. The earlier provisional relationship is now family-confirmed; no original vital record has been inspected. Overlapping records were confirmed to refer to the same family members, not additional children or another union. Birth-date claims are reviewed separately below; death dates, current life status, spouse and further descendants remain unestablished. No further spouse or child links were displayed in the inspected child profiles; that does not prove childlessness.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: A matched profile in the saved Koplowitz–Pasternak tree, entry 98, reports 30 September 2002, while the existing Geni-qualified birth field reports circa 6 October 2002. The year agrees, but the exact dates conflict. The current birth field is retained unchanged; neither claim is established by an inspected original or a new family answer. The earlier note correctly described the old unsaved-draft claim as unsupported at that checkpoint. This newly preserved reference-tree source now supports an alternative claim; it is not retrospectively treated as a Geni claim.
+
+Earlier research notes, before this saved reference comparison:
+
+Hillel Kahana confirmed the five-child family roster on 19 October 2026, including Naomi Adoram as a child of Ben (Benzion) Adoram and Yael Adoram. The supplied Geni screenshot and the explicit daughter relationship support the name, parentage and sex. The earlier provisional relationship is now family-confirmed; no original vital record has been inspected. Overlapping records were confirmed to refer to the same family members, not additional children or another union. Birth-date claims are reviewed separately below; death dates, current life status, spouse and further descendants remain unestablished. No further spouse or child links were displayed in the inspected child profiles; that does not prove childlessness.
 
 Birth-date review, 20 October 2026: both saved Geni captures report circa 6 October 2002. The earlier 30 September 2002 alternative appeared in an unsaved research draft; no preserved source supports it, so it is not treated as an earlier Geni claim or an unresolved source conflict. The circa qualifier is retained. The current date and Israel country field are reported profile claims, unverified from an original record. Family-confirmed parentage does not independently verify the birth date.
 
@@ -4269,6 +4338,7 @@ Birth-date review, 20 October 2026: both saved Geni captures report circa 6 Octo
 - [Hillel Kahana: family confirmation, 19 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/dov-ber-dfs.md#ben-and-yael-adorams-named-children--19-october-2026)
 - [Geni birth-date fields, reviewed 20 October 2026 (reported claims)](https://github.com/avihil1/kahan-family-tree/blob/main/research/dov-ber-dfs.md#adoram-childrens-reported-birth-dates--20-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Naomi-Adoram/6000000004754685003)
+- [Koplowitz–Pasternak family tree, entry 98 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#98)
 
 <a id="person-139"></a>
 ## 139. Itamar Adoram
@@ -4421,7 +4491,11 @@ Birth-date review, 20 October 2026: no usable reported birth date was establishe
 
 **Spouse claims:** Vardit Kahana
 
-**Evidence, qualifications and remaining work:** Family correction: the Rachel Kahana child claim was rejected as a mistake. That source-specific node is removed from this branch; Dvir, born in 2013, is a separate new family-supported identity. Rachel’s Geni ID and reported birth date are not transferred to Dvir. Other existing child links remain. This does not delete or rename an external Geni profile.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree lists Vardit Shachor as the spouse in the corresponding household, entry 100, with birth year 1975. A match to the current spouse Vardit Kahana is a candidate identity only, pending family confirmation. This year is not assigned as the established spouse birth year. Existing names, spouse links and birth fields remain unchanged; no exact date or new surname is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Family correction: the Rachel Kahana child claim was rejected as a mistake. That source-specific node is removed from this branch; Dvir, born in 2013, is a separate new family-supported identity. Rachel’s Geni ID and reported birth date are not transferred to Dvir. Other existing child links remain. This does not delete or rename an external Geni profile.
 
 Earlier research notes, before the 13:56 family corrections:
 
@@ -4442,6 +4516,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Geni Shalom Kahana child roster, reviewed 20 October 2026](https://www.geni.com/people/Shalom-Kahana/6000000009318607641)
 - [Geni profile linked from Shalom’s child roster: Yedidia Kahana](https://www.geni.com/people/Yedidya-Kahana/6000000007338871565)
 - [Hillel Kahana: family corrections, 20 October 2026, 13:56](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-corrections-and-browse-views--20-october-2026)
+- [Koplowitz–Pasternak family tree, entry 100 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#100)
 
 <a id="person-144"></a>
 ## 144. Efrat Kahana
@@ -4587,7 +4662,11 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 
 **Spouse claims:** Yael Rebecca Kahana
 
-**Evidence, qualifications and remaining work:** Hillel identified this existing child of Shalom and Ruth as Nachshon. On 20 October 2026 he confirmed that the Geni N.N. record described as born in 1975, husband of Yael Rebecca and father of Osnat, Avital and Shalom represents Nachshon. The two Geni records are source aliases for this one canonical person; no extra son is inserted. The exact birth date remains an unverified Geni claim. Yael Rebecca and the child links are shown with their source qualifications. The separately captured Osnat Berlin and N.N.-linked Osnat Kahana may be the same daughter, but their individual identity is not yet bridged; one Osnat entry is retained, without copying the other profile’s birth date.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The saved Koplowitz–Pasternak tree lists Yael Blumental as the spouse in the corresponding household, entry 103, with birth year 1975. A match to the current spouse Yael Rebecca Kahana is a candidate identity only, pending family confirmation. This year is not assigned as the established spouse birth year. Existing names, spouse links and birth fields remain unchanged; no exact date or new surname is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Hillel identified this existing child of Shalom and Ruth as Nachshon. On 20 October 2026 he confirmed that the Geni N.N. record described as born in 1975, husband of Yael Rebecca and father of Osnat, Avital and Shalom represents Nachshon. The two Geni records are source aliases for this one canonical person; no extra son is inserted. The exact birth date remains an unverified Geni claim. Yael Rebecca and the child links are shown with their source qualifications. The separately captured Osnat Berlin and N.N.-linked Osnat Kahana may be the same daughter, but their individual identity is not yet bridged; one Osnat entry is retained, without copying the other profile’s birth date.
 
 **Sources**
 
@@ -4597,6 +4676,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Geni profile linked from Shalom’s child roster: Nachshon Kahana](https://www.geni.com/people/%D7%A0%D7%97%D7%A9%D7%95%D7%9F-%D7%9B%D7%94%D7%A0%D7%90/6000000189826234875)
 - [Hillel Kahana: family testimony, 20 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#family-confirmations-and-publication--20-october-2026)
 - [Geni N.N. record: family-confirmed as Nachshon](https://www.geni.com/people/N-N-Kahana/6000000002683180850)
+- [Koplowitz–Pasternak family tree, entry 103 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#103)
 
 <a id="person-150"></a>
 ## 150. אסנת ברלין
@@ -4753,7 +4833,11 @@ Family confirmation of N.N. as Nachshon makes the Osnat Kahana record a possible
 
 **Spouse claims:** Moshe Baruch Shezifi
 
-**Evidence, qualifications and remaining work:** Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. Known spouse and descendant claims are listed below with their sources; further details remain unresolved.
+**Evidence, qualifications and remaining work:** Saved reference-tree comparison, 20 October 2026: The matched spouse Moshe Baruch Shezifi is listed as Moshe Shezifi in the saved Koplowitz–Pasternak tree, entry 105, with birth year 1972. This year is retained only as an unverified secondary-tree claim in this household note. The existing spouse name, profile link and child relationships are unchanged. No exact birth date, new surname, original record or independent family confirmation is imported.
+
+Earlier research notes, before this saved reference comparison:
+
+Child of Shalom Kahana and Ruth née Pasternak, named by their child Hillel on 14 October 2026. Known spouse and descendant claims are listed below with their sources; further details remain unresolved.
 
 Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed surname, where newly supplied, is recorded as given; no spouse identity is inferred from it.
 
@@ -4766,6 +4850,7 @@ Name and sex confirmed by sibling Hillel Kahana on 18 October 2026. Displayed su
 - [Hillel Kahana: family testimony, 14 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md)
 - [Hillel Kahana: sibling names and sex, 18 October 2026](https://github.com/avihil1/kahan-family-tree/blob/main/research/shalom-kahana.md#shaloms-children-names-and-sex--18-october-2026)
 - [Geni profile reviewed 20 October 2026 (secondary family-tree claims)](https://www.geni.com/people/Elisheva-Shezifi/6000000002683180856)
+- [Koplowitz–Pasternak family tree, entry 105 (secondary claim; captured 20 October 2026)](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#105)
 
 <a id="person-156"></a>
 ## 156. Shulem Shezifi

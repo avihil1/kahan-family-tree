@@ -1434,3 +1434,44 @@ The dedicated [52 newly added people](new-people.html) summary groups every adde
 from the original 149-person baseline, with sources and confidence. It includes Dvir instead of the rejected Rachel
 claim. The [201-person review](descendants-review.html) remains the complete per-person record. Full source and
 descendant research is still unfinished where identity, originals or access remain unresolved.
+
+## Tchiya household family confirmation — 20 October 2026
+
+At 14:42 Hillel confirmed Tchiya/Techia as the daughter of his uncle Dov and Esther Golda, wife of Yossi Brayer, and
+mother of Yaakov, Bat El, Livnat, Avital and Moshe Refael. These six specific identity/parent-child relationships are
+now marked family-confirmed in the graph, shared-data nested list, full review and 52-person summary. The spouse
+relationship is also confirmed. Existing married-name/source spellings are preserved.
+
+All Geni birth dates remain unverified. The grandchildren and other additional source claims retain their existing
+provisional status; no archival record or further family confirmation is inferred from this answer.
+
+## Reference-tree year comparison — 20 October 2026
+
+The [Koplowitz–Pasternak family tree](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html) was
+captured on 20 October 2026. These are attributed secondary-tree claims, not inspected vital records or new family
+confirmations. The Shalom/Ruth household, spouse identities and overlapping child/sibling groups support the matches;
+Cahana/Kahana and the documented spouse-name variants are retained without renaming people.
+
+Six missing years are now recorded: [Yael Adoram
+1970](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#93) in her birth/year fields, and five
+matched spouse years in the existing descendant-line parent’s notes: [Ruth Pasternak
+1946](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#78), [Dwora Bar Shaul
+1966](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#81), [Yakir Tikochinsky
+1966](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#87), [Ben/Benzion Adoram
+1961](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#94), and [Moshe Baruch Shezifi
+1972](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#105). Two further source years remain
+candidate claims only: [Vardit Shachor 1975](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#100),
+whose identity with Vardit Kahana needs family confirmation, and [Yael Blumental
+1975](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#103), whose identity with Yael Rebecca
+Kahana also needs confirmation. These years are not assigned as established spouse years. Only years are imported for
+the six supported matches. Yael’s existing June 10/Israel Geni wording remains separately qualified; spouse names and
+schema remain unchanged.
+
+Three exact-date conflicts are explicit in the individual notes; existing birth fields are unchanged: [Renana
+Tikochinsky](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#89), 14 May 1992 in Geni versus 15
+May 1992 in the reference; [Ido Kahana](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#83), 21
+June 1995 versus 1 June 1995; and [Naomi
+Adoram](https://avihil1.github.io/koplowitz-pasternak-family-tree/tree.html#98), circa 6 October 2002 versus 30
+September 2002. Their years agree. Naomi’s alternative now has a newly saved reference-tree source; it is not
+relabeled as an earlier Geni claim. No exact date is chosen from this comparison. Identity/original-record work and
+the wider descendant investigation remain unfinished.
