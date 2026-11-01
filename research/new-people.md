@@ -1,8 +1,17 @@
-# 60 newly added people — what changed
+# 64 newly added people — what changed
 
-Comparison with the original 149-person baseline: the current tree has 209 named people. The 60 records below are additions, including names that replace previously unnamed slots. They are not 60 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
+Comparison with the original 149-person baseline: the current tree has 213 named people. The 64 records below are additions, including names that replace previously unnamed slots. They are not 64 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
 
 [Graph view](../tree.html) · [Nested list](../list.html) · [Dated 201-person review plus current addendum](descendants-review.html)
+
+## Further collateral screenshots — 1 November 2026
+
+| Person and parent | Newly recorded | Source and confidence |
+| --- | --- | --- |
+| [Leizer Jozef Moldovan](../tree.html#leizer-jozef-moldovan) — Mozes Iczik Moldovan | Explicit linked son; cited 1885 marriage. Census Lajzer is only a possible match. | Provisional Geni-citation relationship; [saved evidence](shalom-kahana.md#collateral-profile-follow-up--1-november-2026). |
+| [Hana](../tree.html#hana-mozes-moldovan) — Mozes Iczik Moldovan | Age 8 in Geni-cited 1848 Bréb household; sex unknown; birth estimate only. | Provisional Geni-citation relationship; [saved evidence](shalom-kahana.md#collateral-profile-follow-up--1-november-2026). |
+| [Tojve](../tree.html#tojve-mozes-moldovan) — Mozes Iczik Moldovan | Age 5 in Geni-cited 1848 Bréb household; sex unknown; birth estimate only. | Provisional Geni-citation relationship; [saved evidence](shalom-kahana.md#collateral-profile-follow-up--1-november-2026). |
+| [Moses Geller](../tree.html#moses-geller) — Mingye Geller (Moldovan) | Explicit son in Geni About; 8 August 1857 is a sandek-event date, not an established birth date. | Provisional Geni-citation relationship; [saved evidence](shalom-kahana.md#collateral-profile-follow-up--1-november-2026). |
 
 ## Added 1 November 2026
 

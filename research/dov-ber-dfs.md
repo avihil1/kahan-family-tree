@@ -1,5 +1,36 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
+## Root-first DFS restart — 1 November 2026
+
+This restart supersedes the earlier Dov-first traversal frontier below. Root: **Burek Jozsef Moldovan Katz**.
+Baseline: published commit `9c3c1bb`, 209 named entries and its saved evidence. Four additional source-citation
+children were subsequently recorded from supplied screenshots; the working tree has 213 named entries.
+Names are not visited-set keys: use existing stable `key` values or source profile IDs.
+
+**Current stack:** Burek Jozsef Moldovan Katz (`Moldovan_Katz-1`, Geni `6000000223716886821`), open.
+**Next child:** Chaim Arye Leb Moldovan Kahan (`Moldovan_Kahan-1`), then finish his child branches in the
+saved tree order before returning to Elle, Volf, Lazar, Mingye, Mozes Iczik and Sztrul. Spouses support
+identity and child-parent comparisons; their unrelated ancestry is not recursively expanded.
+
+**Restart totals:** 1 partially reviewed person (root), 0 closed persons. The five collateral own-profile
+screenshots are prefetch, not in-order visits. No all-person live DFS is claimed. The remaining named
+frontier consists of the other 212 working-tree entries; private/unidentified branches remain separate gaps.
+
+| Root source family | Status for this restart | Evidence / next action |
+| --- | --- | --- |
+| Geni overview | Supplied screenshot reviewed; live access blocked | Root screenshot and evidence in the existing family ledger. Direct Playwright navigation reached an Incapsula challenge with no profile body. This check did not read the live profile. |
+| Existing-browser connection | Awaiting extension connection | Default Playwright exposed one automation tab, not the user's Geni tabs. A separate Playwright MCP `--extension` attachment was started; its tab-list request awaits a browser connection. No successful attachment is claimed. |
+| Sources / Media / Revisions | Not checked live | Read after the current-browser extension connection succeeds; reconcile each child recursively. |
+| Historical indexes and originals | Prior ledger evidence retained; not newly inspected | Revisit the exact references already saved where they can discriminate the root's identity, spouse chronology and children. |
+| Burek's parents | Unresolved | No source supplied identifies them. Slom/Shlomo Chaim remains an unattached possible-relative lead. |
+
+The root's displayed c.1790 birth/c.1837 death remain estimates. Geni's broad birth interval is not a new
+original birth date. Preserve the two-wife source claims and all seven child branches. Mozes's own About
+explicitly describes Burek paternity as probable; do not upgrade it because the tree header links a father.
+See [new profile screenshots, references and conflicts](shalom-kahana.md#collateral-profile-follow-up--1-november-2026).
+Resume condition: a successful tab list and readable root profile in the user's existing browser.
+
+
 **Current research scope, 19 October 2026:** Hillel stopped the MyHeritage subscription. No further MyHeritage queries
 or paid-record access are authorized. Continue the 149-person tree investigation primarily through the existing
 authenticated Geni session, in depth-first order, inspecting accessible profiles, sources, media and revisions.

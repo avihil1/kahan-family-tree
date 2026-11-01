@@ -987,6 +987,18 @@ birth-year findings. Wider original-record, descendant and identity research rem
 
 ## Family updates — 1 November 2026
 
+**Gravestone follow-up, 1 November 2026:** Hillel reports that the gravestones of both **ראצי** and
+**מנחם בנציון** still exist in the cemetery. Cemetery name/location, plot and inscriptions have not yet
+been supplied. This is family testimony about surviving stones, not an inspection of photographs or
+inscriptions and not independent verification of the birth/death dates. Their existing dates and names
+are unchanged. The next useful evidence is the cemetery identification and readable photographs of each
+complete inscription.
+
+**השלמה על המצבות, 1 בנובמבר 2026:** הלל מסר שהמצבות של **ראצי** ושל **מנחם בנציון** עדיין קיימות
+בבית העלמין. שם בית העלמין ומיקומו, החלקה ונוסחי הכתובות טרם נמסרו. זו עדות משפחתית על מצבות
+ששרדו, ולא בדיקה של צילום או כתובת או אימות עצמאי לתאריכים. השמות והתאריכים הקיימים נשמרים.
+השלב הבא הוא זיהוי בית העלמין ותצלומים קריאים של הכתובות המלאות.
+
 Current conclusion: the tree now records **1871** as Dov Ber Bernat Kahan’s preferred birth year;
 **c.1868 remains an inference in his details**. Two historical unnamed child slots under Rabbi Chaim Arye
 and Leah are now named **ראצי** and **מנחם בנציון**. Penina Miller’s family aliases **פבצ׳ה** (Yiddish form)
@@ -1112,3 +1124,43 @@ searching פירי opens the existing Penina. Searching Dov opens preferred 1871
 `git diff --check` and `node --check` on the embedded graph script passed. This verifies display and
 preservation of the supplied claims, not their independent archival truth. Direct Geni tab review
 remains blocked; the supplied screenshots are the source evidence for this update.
+
+## Collateral profile follow-up — 1 November 2026
+
+Five further profile screenshots were supplied after the first publication. They are **prefetched source
+material for the requested root-first DFS**, not completed in-order visits. All are secondary Geni claims:
+no cited original register or live JewishGen index row was inspected in this follow-up. The current tree
+has **213 named entries**, preserving all 209 entries from commit `9c3c1bb` and adding four qualified
+source-citation children. There are 64 additions relative to the original 149-person baseline.
+
+| Person / saved evidence | Newly recorded / explicit references | Conflicts and next original |
+| --- | --- | --- |
+| [Mozes Iczik Moldovan](mozes-iczik-moldovan-geni-2026-11-01.png) | Estimated c.1813, Bréb. The About explicitly says **probable son** of Burek: inferred from c.1813 birth, Joszip’s three sons in 1821/22, and son Leizer/Jozef’s name. Overview names mother Tsarna. 1848 Bréb census, household 4, film 719825: Mojsze 35, wife Szure 30, children Hana 8, Tojve 5, Lajzer 3. Son link: Leizer Jozef Moldovan. Son’s 1885 marriage names father Mose / Icik, Book 110308-01. Szure’s death: 26 October 1881, 65, spouse of Moses Isak, Book 110631-01. | The father edge is a qualified hypothesis, not established parentage. Two death candidates: **24 April 1886**, Mozes Iczik, 72, widower (Fund 1408 Book 343 45-2), versus **11 May 1883**, Moiszei, 72, widowed (Book 127105-15). They may be different men; neither is selected as a verified death. Compare the complete originals and households. Szure’s cited ages imply differing birth estimates; no precise birth is assigned. |
+| [Sztrul Moldovan](sztrul-moldovan-geni-2026-11-01.png), [profile supplied by user](https://www.geni.com/people/Sztrul-Moldovan/6000000228381437257) | **10 June 1824, Bréb**; father MOLDOVAN Joszif, mother Tsarna; JewishGen Máramaros births, Bréb register 1824–38, **Book 127102-05**. | The proposed Srul × Leja (JUNGER), with children in Bréb 1855–57, is explicitly **probable** in the source. Wife/children remain leads, not established additions. Inspect the birth and the 1855–57 entries before connecting that household. |
+| [Elle Moldovan / Ilie](elle-moldovan-geni-2026-11-01.png), [profile](https://www.geni.com/people/Elle-Moldovan/6000000228379585848) | **7 November 1830, Bréb**, father Burek Joszip Moldovan, mother Rifke; JewishGen Máramaros births, **Book 127103-04**. Ilie is explicitly an alias in the screenshot. | Exact date and maternity are attributed index-citation claims, not newly inspected originals. No spouse, death or descendant roster is established. |
+| [Lazar Moldovan / Lazar Kahan](lazar-moldovan-geni-2026-11-01.png), [profile](https://www.geni.com/people/Lazar-Moldovan/6000000228379486086) | **10 May 1835, Bréb**, father Burek Joszip Moldovan, mother Rifke; births **Book 127103-19**. Death **10 June 1913, Budfalau**, father Jozsef Moldovan, mother Rifka Berkovics, wife Janka Tob; death index **Fund 753 Book 584, 103-33**. | Header age **78** agrees with the displayed 1835 birth; cited death-index age **75** implies c.1837–1838. Keep the conflict and inspect both originals. Janka Tob is a reported spouse; no separate maiden-name assertion. |
+| [Mingye Geller (Moldovan)](mingye-geller-geni-2026-11-01.png), [profile](https://www.geni.com/people/Mingye-Geller/6000000228378724760) | **26 February 1838, Bréb**, father MOLDOVAN Josip, mother **Ilona [= Rifke]** as interpreted by the profile author; births **Book 127103-23**. Death **14 July 1915, Budfalau**, father MOLDOVAN Jozsef, spouse Motya GELLER; **Fund 753 Book 584 140-85**. Explicit son Moses Geller; sandek Mozes Iczik at Bréb **8 August 1857, Book 109713-10**. | Header age **77** versus cited death age **80** (implying c.1834–1835). **Ilona = Rifke is an interpretation**, not independently proved synonymy. Inspect the original birth/death and the 1857 event. A sandek-event date is not automatically Moses’s birth date; Motya’s paternity is not inferred from spouse status. |
+
+Four qualified source-citation children are added: **Leizer Jozef Moldovan**, **Hana**, **Tojve**, and
+**Moses Geller**. Census **Lajzer, age 3**, may be the linked Leizer Jozef, but this match is not assumed
+as established: no duplicate Lajzer node and no c.1845 birth are added. Hana’s c.1839–1840 and Tojve’s
+c.1842–1843 births are age arithmetic from the cited 1848 census, not birth-register dates. Their sex
+and mother are not inferred from given names or the head’s wife. The other two children have no assigned
+birth date. The Mozes screenshot supplied no individual profile URL; its saved image is cited directly.
+No child-profile URLs are invented. Missing descendants remain unreviewed, not confirmed absent.
+
+### השלמה בעברית
+
+נשמרו חמישה צילומי פרופילים נוספים. הם חומר שנאסף מראש ל־DFS, ולא ביקורים שהושלמו בסדר הסריקה.
+אצל מוזס איציק הקשר לבורק מוגדר בהערה עצמה כ**בן משוער**; הקשר בעץ נשאר מסויג. אמו לפי הכותרת
+היא Tsarna. אצל שטרול מצוטטת לידה ב־10 ביוני 1824 עם אותם הורים; אצל Elle מצוטטת לידה
+ב־7 בנובמבר 1830 לאב בורק ולאם Rifke, וכן הכינוי Ilie. אצל לזר נרשמו הכינוי Lazar Kahan,
+לידה ב־10 במאי 1835 ופטירה ב־10 ביוני 1913, עם סתירת גיל 78 לעומת 75. אצל Mingye נרשמו
+לידה ב־26 בפברואר 1838 ופטירה ב־14 ביולי 1915, עם סתירת גיל 77 לעומת 80. הזיהוי **Ilona = Rifke**
+הוא פרשנות מחבר הפרופיל, ולא זיהוי שהוכח עצמאית. שני מועמדי פטירה של מוזס — 1883 ו־1886 —
+נשמרים בלי הכרעה, שכן ייתכן שמדובר באנשים שונים.
+
+נוספו ארבעה ילדים לפי ציטוטי המקורות, בקשרים מסויגים: Leizer Jozef, Hana ו־Tojve אצל מוזס,
+ו־Moses Geller אצל Mingye. לא נוצר Lajzer נוסף; הזיהוי עם Leizer Jozef טעון השוואה. שנות הלידה
+של Hana ו־Tojve מוסקות מגילים במפקד בלבד; מינם ואמם אינם מוסקים. מועד הסנדקאות ב־8 באוגוסט 1857
+אינו הופך אוטומטית לתאריך לידת Moses. המקורות המקוריים לא נבדקו כעת. בעץ 213 רשומות בעלות שם.
