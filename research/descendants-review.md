@@ -1,5 +1,7 @@
 # Descendant review — 20 October 2026
 
+**1 November 2026 addendum:** the current tree has 209 named entries. [Updated family information, Geni screenshots and qualifications](shalom-kahana.md#family-updates--1-november-2026) supersede conflicting current-field statements in the dated 20 October snapshot below. [Current graph](../tree.html) · [Current list](../list.html).
+
 **[52 newly added people — what changed](new-people.html)** · [Nested list](../list.html)
 
 201 named people; 149 original identities and child links preserved. The reviewed draft and accompanying family corrections were approved for publication. Collaborative-tree claims retain their qualifications. This is not a completed all-source descendant investigation.

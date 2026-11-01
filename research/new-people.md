@@ -1,8 +1,23 @@
-# 52 newly added people — what changed
+# 60 newly added people — what changed
 
-Comparison with the original 149-person baseline: the current tree has 201 named people. The 52 records below are additions, including names that replace previously unnamed slots. They are not 52 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
+Comparison with the original 149-person baseline: the current tree has 209 named people. The 60 records below are additions, including names that replace previously unnamed slots. They are not 60 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
 
-[Graph view](../tree.html) · [Nested list](../list.html) · [Complete 201-person review](descendants-review.html)
+[Graph view](../tree.html) · [Nested list](../list.html) · [Dated 201-person review plus current addendum](descendants-review.html)
+
+## Added 1 November 2026
+
+Eight named entries: two replace unnamed historical slots, and six extend the collateral family.
+
+| Person and parent | Newly recorded | Source and confidence |
+| --- | --- | --- |
+| [ראצי](../tree.html#ratzi) — Chaim Arye Leb Kahana | Born 1934; died 2 Elul 5701. Replaces one unnamed historical child slot. | Direct family testimony; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [מנחם בנציון](../tree.html#menachem-benzion) — Chaim Arye Leb Kahana | Born 1938; died 9 Elul 5701. Replaces the other unnamed historical child slot. | Direct family testimony; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [Elle Moldovan](../tree.html#elle-moldovan) — Burek Jozsef Moldovan Katz | Son in Burek’s screenshot; sibling in Chaim’s screenshot. | Provisional Geni relationship; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [Volf Moldovan](../tree.html#volf-moldovan) — Burek Jozsef Moldovan Katz | Son in Burek’s screenshot; sibling in Chaim’s screenshot. | Provisional Geni relationship; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [Lazar Moldovan](../tree.html#lazar-moldovan) — Burek Jozsef Moldovan Katz | Son in Burek’s screenshot; sibling in Chaim’s screenshot. | Provisional Geni relationship; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [Mingye Geller](../tree.html#mingye-geller) — Burek Jozsef Moldovan Katz | Daughter in Burek’s screenshot; sibling in Chaim’s screenshot. | Provisional Geni relationship; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [Mozes Iczik Moldovan](../tree.html#mozes-iczik-moldovan) — Burek Jozsef Moldovan Katz | Son in Burek’s screenshot; half-sibling in Chaim’s screenshot. Mother not assigned. | Provisional Geni relationship; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
+| [Sztrul Moldovan](../tree.html#sztrul-moldovan) — Burek Jozsef Moldovan Katz | Son in Burek’s screenshot; half-sibling in Chaim’s screenshot. Mother not assigned. | Provisional Geni relationship; [saved evidence](shalom-kahana.md#family-updates--1-november-2026). |
 
 ## Penina Perl Kahana (Miller) — child of Chaim Arye Leb Kahana
 

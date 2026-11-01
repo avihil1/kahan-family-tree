@@ -983,3 +983,132 @@ Sixteen retain Geni/unverified labels; Renana’s 1992 is labeled as an unverifi
 day/month confirmed. Existing nonempty captions remain unchanged. Tamar’s age-12-in-2019 statement is not converted
 into a birth year, and 5752 is not used as a Gregorian year. This is a display correction, not seventeen new
 birth-year findings. Wider original-record, descendant and identity research remains unfinished.
+
+
+## Family updates — 1 November 2026
+
+Current conclusion: the tree now records **1871** as Dov Ber Bernat Kahan’s preferred birth year;
+**c.1868 remains an inference in his details**. Two historical unnamed child slots under Rabbi Chaim Arye
+and Leah are now named **ראצי** and **מנחם בנציון**. Penina Miller’s family aliases **פבצ׳ה** (Yiddish form)
+and **פירי** (Hungarian form) belong to the same existing person. These changes were requested by Hillel
+Kahana on 1 November 2026. The family’s spelling is preserved; no maiden names, civil names, causes of
+death or unprovided birthplaces are inferred.
+
+| Person | Newly recorded family information | Source / qualification |
+| --- | --- | --- |
+| ראצי | Born 1934; died ב׳ באלול תש״א | Hillel’s direct family information. Replaces one previously unnamed child, rather than increasing the historical household count. |
+| מנחם בנציון | Born 1938; died ט׳ באלול תש״א | Hillel’s direct family information. Replaces the other unnamed child. |
+| Penina Perl Kahana (Miller) | Also פבצ׳ה and פירי | Hillel identifies the Yiddish and Hungarian forms respectively. No separate person is added; the existing profile identity and descendants are retained. |
+| Dov Ber Bernat Kahan | Preferred birth year 1871 | Hillel’s requested preference, reporting grave/JewishGen information; not a newly inspected birth record or stone. |
+
+The Hebrew death dates remain primary. [Hebcal: 2 Elul 5701](https://www.hebcal.com/converter?h2g=1&hd=2&hm=Elul&hy=5701)
+converts to daytime **25 August 1941**; [9 Elul 5701](https://www.hebcal.com/converter?h2g=1&hd=9&hm=Elul&hy=5701)
+to daytime **1 September 1941**. Each Hebrew day begins at sunset on the preceding civil evening;
+no death time was supplied. The conversion JSON was retrieved on 1 November 2026. These are conversions
+of family testimony, not civil death-register dates. Penina, Dov and Shalom remain in the same household:
+five named children replace three named children plus two unnamed slots.
+
+For Dov, the specific age-derived alternative is preserved: the previously inspected birth of son Leb
+on **10 April 1903** records father **Kahan Bernad/Bernat, age 35**, implying roughly 1867–1868.
+Reference: **MM-F-00743-1-1-00236, former Book 35, entry 64, folio 176v, part 3 PDF p.57**;
+[saved complete original](leb-1903-birth.pdf), [translation and reading qualifications](leb-1903-birth-en.html).
+This is arithmetic from a child’s registration, not a record explicitly giving Dov’s birth in 1868.
+The previously reviewed [JOWBR entry J_MARAMURE_0008659](https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_MARAMURE_0008659)
+gives age 56 at death in January 1928, consistent with approximately 1871–1872. Its surname is blank,
+the stone was not inspected, and the identification with this Dov remains provisional. Choosing 1871
+does not resolve Dov’s parents, mother, exact birth date or burial identity.
+
+### עדכון משפחתי — 1 בנובמבר 2026
+
+לבקשת הלל, שנת הלידה המועדפת של דב בר ברנט היא **1871**. **סביב 1868** נשמר רק בפרטים כהסקה מגילי
+האב ברישומי ילדיו, ובפרט גיל 35 במרשם לידת ליב ב־10 באפריל 1903. אין בכך מרשם לידה של דב.
+זהות הקבר וההורות נותרות מסויגות; המצבה עצמה לא נבדקה כעת.
+
+שני הילדים ההיסטוריים שעד כה לא נודעו בשמותיהם אצל חיים אריה ולאה הם **ראצי**, ילידת 1934,
+נפטרה **בב׳ באלול תש״א**, ו**מנחם בנציון**, יליד 1938, נפטר **בט׳ באלול תש״א**. זהו מידע משפחתי
+ישיר שמסר הלל. הם מחליפים את שני המקומות ללא שם ואינם שני ילדים נוספים מעבר להם. פנינה, דב ושלום
+נשמרים במשפחה. התאריכים האזרחיים המקבילים בשעות היום הם 25 באוגוסט 1941 ו־1 בספטמבר 1941;
+היום העברי מתחיל בשקיעה בערב האזרחי הקודם. לא נמסרו כאן שעת פטירה, מקום פטירה מדויק או סיבת מוות.
+פנינה מילר נקראה גם **פבצ׳ה**, בנוסח יידי, וגם **פירי**, בנוסח הונגרי; הכינויים שייכים לאותה רשומה.
+
+## Geni profile screenshots — 1 November 2026
+
+The browser connector failed before reading tabs with “Local MCP is not supported in http, please call
+with stdio.” Public web reads failed; a direct unauthenticated request returned an Incapsula challenge,
+not profile contents. **No successful live browser comparison or Sources/Media/Revisions review is claimed.**
+Hillel then supplied three readable profile screenshots. They are saved here as the evidence for the
+new source claims, distinct from previously inspected originals:
+
+- [Eszter Kahan screenshot](eszter-kahan-geni-2026-11-01.png), corresponding to
+  [Geni profile 6000000228381810887](https://www.geni.com/people/Eszter-Kahan/6000000228381810887).
+- [Chaim Arye Leb screenshot](chaim-moldovan-kahan-geni-2026-11-01.png), corresponding to
+  [Geni profile 6000000209184094851](https://www.geni.com/people/Chaim-Arye-Leb-Moldovan-Kahan/6000000209184094851).
+- [Burek Jozsef screenshot](burek-moldovan-katz-geni-2026-11-01.png), corresponding to the existing
+  [Geni profile 6000000223716886821](https://www.geni.com/people/Burek-Jozsef-Moldovan-Katz/6000000223716886821).
+
+| Name / variant shown | Source wording and treatment |
+| --- | --- |
+| Eszter Kahan | Added 25 October 2026. The About note calls her **second wife**, not first wife. The displayed estimated birth range 1797–1849 is not treated as a documented birth. Maiden name unknown; **Huber is a lead only**. “Gone by 1867” is not converted into a death date. |
+| Neshe? (Nesiráfa) Kahan | Chaim’s screenshot shows this tentative wife name. It is displayed alongside the existing 1848-wife slot, retaining the original census link and the question mark. The reading and identification with that woman are unconfirmed. |
+| Freide Kahan / Freide Klein | Existing spouse retained. Eszter’s note says Freide was the mother from 1867 onward; originals for the transition remain needed. |
+| Dwora Kahan | Eszter’s screenshot explicitly lists her as daughter and cites birth 16 January 1858. The existing date is unchanged; maternity is a qualified Geni claim pending the original birth. |
+| Abraham Volf / Abraham Wolf Kahan | Same father and roster support a provisional match to the existing person. Eszter’s About gives **2 October 1862**, conflicting with the existing **1860**. Both are displayed as unresolved; no duplicate child is added. |
+| David Hersch / David Hers Moldavan Kahan | Eszter’s screenshot lists him as son. This is recorded as provisional maternity; the earlier unresolved paternal link and contradictory Freide assignment remain in dated history. |
+| Moshe Leizer / Moses Laser Kahan | Name variant within the same ten-child roster; the earlier adult-identity qualifications remain. |
+
+Chaim’s screenshot shows three spouse-profile links, but does not independently prove three marriages
+or identify the 1848 woman. It calls Dov/Bernat Eszter’s stepson on Eszter’s view; that does not prove his
+mother. The source’s ten child names reconcile to all ten existing child branches; **none is deleted,
+duplicated or reassigned**. Chaim’s Geni birth/death dates agree with earlier saved profile claims;
+the age 70 displayed there still conflicts with the death-index age 72. Burial in Giulești is retained
+as a source claim, not a newly inspected cemetery record.
+
+Burek’s supplied overview names a second spouse, **Tsarna Moldovan**, and six collateral children in
+addition to Chaim: **Elle Moldovan, Volf Moldovan, Lazar Moldovan, Mingye Geller, Mozes Iczik Moldovan,
+and Sztrul Moldovan**. All six are now displayed provisionally under Burek. Chaim’s screenshot calls the
+first four siblings and the last two half-siblings. This does not by itself assign their mothers;
+Tsarna’s maiden name and individual maternal links remain unknown. Each new branch records that its own
+profile and descendants have not been inspected. The two views are one collaborative tree, not independent
+archival confirmation. The individual child-profile URLs were not supplied; source links open Burek’s
+profile and the saved screenshots instead of invented child-profile links.
+
+The tree now has **209 named entries** (201 previous entries plus these six collateral children and the
+two newly named historical children). Spouse claims are displayed separately. This is **60 additions
+relative to the 149-person original baseline**, not 60 newly proved archival identities.
+
+| Lead | Supporting source claim | Limit / next discriminating record |
+| --- | --- | --- |
+| Slom (Shlomo Chaim) Moldovan as a close kinsman of Burek | Burek’s About says age 60, born Moldavia in the 1848 Bréb census, and two Katz households adjacent in 1813–1815 Bréb tax lists. | Those particular original passages have not been re-inspected here; adjacency does not identify a relationship. Inspect the full census household and tax-list headings/rows and seek an explicit linking record. No parent or sibling is attached from this lead; Slom’s birthplace is not transferred to Burek. |
+| Eszter’s maternity and spouse order | Explicit Geni roster and About note citing Dwora 1858 and Abraham 1862. | Obtain the complete birth entries with headings, margins and archive/book/page/row references; compare the 1848 wife and the 1867 Freide entry. No remarriage, death or divorce record was supplied. |
+| Abraham’s 1860/1862 birth conflict | Existing tree versus Eszter’s dated research note. | Inspect the original 2 October 1862 entry and compare name, parents and residence with the source behind 1860. |
+
+Historical jurisdiction follows the existing ledger: Bréb and Gyulafalva/Máragyulafalva are Máramaros,
+Kingdom of Hungary, now Breb and Giulești in Romania; Bárdfalva is now Berbești. The Máramaros Jewish
+birth/death indexes cited above belong to the existing JewishGen Hungary research route. No new
+archive collection search, exhaustive index search or negative result is asserted in this update.
+
+### סיכום צילומי Geni
+
+אסתר מוצגת במפורש כאם דבורה, אברהם וולף ודוד הירש, ובהערה כאישה **שנייה**. השיוכים מתועדים כטענות
+מסויגות של עץ שיתופי, ולא כמרשמים מקוריים שנבדקו. שם נעוריה לא הוכח; Huber הוא כיוון בלבד.
+הקריאה **Neshe? / Nesiráfa** נשמרת לצד האישה שתועדה במפקד 1848, בלי להסיר את סימן השאלה או
+לקבוע שהזיהוי הוכח. פריידה נשמרת. ״Gone by 1867״ אינו מוכיח פטירה או גירושין.
+
+אצל אברהם מוצגות שתי טענות הלידה: 1860 בעץ הקודם לעומת 2 באוקטובר 1862 בהערת Geni. לא נוצר אדם
+כפול. כל עשרת ענפי הילדים הקיימים נשמרים. אצל בורק נוספה Tsarna כטענת קשר זוגי, וששת הילדים
+הצדדיים שנקובים בצילומים מוצגים כקשרים מסויגים. לא הוקצתה אם לפי סדר הנשים. Slom/Shlomo Chaim
+נשאר קרוב אפשרי לא מחובר; הוא אינו מזוהה כאביו של בורק. בעץ 209 רשומות בעלות שם: 201 הקודמות,
+שישה ילדים צדדיים ושני ילדים שזוהו במקום המקומות ללא שם. אין זו השלמה של מחקר כל הצאצאים.
+
+### Publication verification — 1 November 2026
+
+Targeted checks preserved all 201 prior identities and all prior parent-child edges, with exactly eight
+new named entries and no duplicate keys. The two named historical children replace two unnamed slots;
+the household remains five children. Penina’s source identity and child links remain unchanged.
+The graph and nested list were exercised at `tree.html?lang=he#ratzi` and
+`list.html?lang=he#person-ratzi`: the Hebrew name, birth year and Hebrew death date are visible;
+searching פירי opens the existing Penina. Searching Dov opens preferred 1871 and the retained
+1867–1868 inference. All three source screenshots are saved, and both calendar conversions were checked.
+`git diff --check` and `node --check` on the embedded graph script passed. This verifies display and
+preservation of the supplied claims, not their independent archival truth. Direct Geni tab review
+remains blocked; the supplied screenshots are the source evidence for this update.
