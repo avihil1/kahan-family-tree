@@ -152,7 +152,11 @@ const pull = d => PAIRS.filter(p => p.a === d || p.b === d).forEach(p => {
   p.kids.forEach(k => { k.parent = d; setDepth(k); });
 });
 const expand = d => { pull(d); if (d._children) d.children = d._children; };
-const toggle = d => { if (d.children) d.children = null; else expand(d); };
+const toggle = d => {
+  if (d.children) { d.children = null; return; }
+  expand(d);
+  (d.children || []).forEach(c => c.children = null);
+};
 
 function select(d) {
   if (d.data.stub) { window.open(d.data.ref, '_blank', 'noopener'); return; }
