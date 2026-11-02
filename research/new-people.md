@@ -1,12 +1,12 @@
-# 77 newly added people — what changed
+# 78 newly added people — what changed
 
-Comparison with the original 149-person baseline: the current tree has 226 named people. The 77 records below are additions, including names that replace previously unnamed slots. They are not 77 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
+Comparison with the original 149-person baseline: the current tree has 227 named people. The 78 records below are additions, including names that replace previously unnamed slots. They are not 78 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
 
 [Graph view](../tree.html) · [Nested list](../list.html) · [Dated 201-person review plus current addendum](descendants-review.html)
 
 ## Live DFS additions — 2 November 2026
 
-Thirteen named additions, preserving all 213 prior people and child edges.
+Fourteen named additions, preserving all 213 prior people and child edges.
 [Evidence, conflicts and frontier](dov-ber-dfs.md#live-root-first-dfs-continuation--2-november-2026).
 
 | Person and parent | Dates / claim | Evidence status |
@@ -24,6 +24,8 @@ Thirteen named additions, preserving all 213 prior people and child edges.
 | [Shimon Neuman](../tree.html#geni-6000000088687092018) — Leah Chaya Neuman (Drach) | dates unknown | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Shimon-Neuman/6000000088687092018). |
 | [Akiva Drach](../tree.html#geni-6000000058614148840) — Rivka Drach (Richter) | dates unknown | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Akiva-Drach/6000000058614148840). |
 | [Abraham Volf Kahan (1867)](../tree.html#abraham-volf-kahan-1867) — Moses Laser Moldovan Kahan | 1867 | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Abraham-Volf-Kahan/6000000228379159841). |
+| [Mozes Iczik Moldovan (1887)](../tree.html#mozes-iczik-moldovan-1887) — Leizer Jozef Moldovan | 13 April 1887, Breb; Fund 1408 Book 343, 55-3b | Provisional citation-based son; [father’s source note](https://www.geni.com/people/Leizer-Jozef-Moldovan/6000000228380685825). |
+
 
 ## Further collateral screenshots — 1 November 2026
 

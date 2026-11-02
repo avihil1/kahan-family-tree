@@ -1,5 +1,90 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
+## Final checkpoint — 2 November 2026
+
+**This checkpoint supersedes the earlier same-day progress/frontier notes below.** The root-linked Geni capture
+and the supplementary pass through existing tree Geni links have finished. **191 source profiles** were captured:
+100 publicly named profiles and 91 private shells. Another 34 source-graph links were masked and recorded without
+opening their private details. “Closed” in the local capture checkpoint means the available Geni child roster was
+traversed, **not** that genealogical research or parentage is proved.
+
+The tree now has **227 named entries**, preserving all 213 prior identities and parent-child edges and adding
+**14 qualified entries**. Relative to the original 149-person baseline, 78 entries have been added over all passes.
+This pass changed source notes/links or qualifications for 47 existing entries. Those are not 47 newly proved facts.
+[Every current person has a coverage/change row](descendants-review.md#current-coverage--2-november-2026):
+94 named-profile reads, 74 private shells, 10 masked links and 49 entries without an individual Geni URL.
+No existing-tree Geni URL is left unaccounted for. The broader original-record investigation **remains open**.
+
+### Three civil originals directly inspected
+
+The official Romanian archive search was exercised in the browser: archival-content query **Giulești**, then holder
+**MM / Maramureș**. The initial 1,058 results include other places named Giulești. The holder filter returned 14
+catalog units; the first ten results were inspected, then the relevant death volume was opened. This was a working
+archive-catalog query, not an inference from the preceding unsuccessful external search-engine queries.
+
+[Official death-register catalog](https://descopera.arhivelenationale.ro/cota/?cid=13914524):
+**MM-F-00743-1-1-00244**, Giulești deaths registered at Berbești, **5 January 1902–30 December 1904**,
+former reference **41**. The catalog lists public PDF scans. Earlier “original acquisition required” notes are no
+longer an access block for these three entries. The current finding aid **MM-I-01480** and older index citation
+**Inventory 1373, Book 41** are preserved as their sources state them; no blanket equivalence of inventory numbers
+is assumed. Compact strings such as `109801-08` elsewhere are retained as Geni citation strings, not silently
+expanded into a different archival book/page scheme.
+
+| Person | Original location | Direct reading and significance |
+| --- | --- | --- |
+| **Chaim Leb Junger** | [PDF part 2, page 24](https://descopera.arhivelenationale.ro/api/media/file?id=13914524&type=fisiere&mediaId=488921#page=24); scan **173**, annual entry **172/1902**, folio 86 verso | Junger Chaim Leb, age **4**, born Maragyulafalu, resident Bardfalu; father **Junger Izrael**, mother **Kahan Regina**. **Death 12 July 1902; registration 13 July.** The previously year-only death now has direct date/place/parent-name support. The recorded age is not used to replace the separately cited birthday. |
+| **Eugenia Laura / Jente Junger** | [PDF part 4, page 89](https://descopera.arhivelenationale.ro/api/media/file?id=13914524&type=fisiere&mediaId=488923#page=89); scan **512**, annual entry **64/1904**, folio 256 | Junger Eugenia Jente, **17 months**, Bardfalu; father **Junger Izrael**, mother **Kahan Regina**. **Death and registration 30 March 1904.** This directly supports death and parent names; the exact birthday remains the separate birth-index claim. |
+| **Mojse / Mozes Kahan**, Abraham’s son | [PDF part 3, page 90](https://descopera.arhivelenationale.ro/api/media/file?id=13914524&type=fisiere&mediaId=488922#page=90); scan **375**, annual entry **81/1903**, folio 187 verso | Kahan Mojse, **7**, Maragyulafalu; father **Kahan Abraham**, mother **Laxner Feige**. **Death 23 May 1903; registration 24 May.** Informant **Kahan Bernád** is explicitly the deceased’s uncle. This upgrades the prior index-only uncle assertion to an inspected original. |
+
+Headings, full entries, date sections and both neighboring entries were inspected for each record. The archive’s
+index uses **Iunger**, illustrating why a literal “Junger” search alone missed these entries. Registration dates
+are kept separate from deaths. The original confirms Regina as the Junger children’s mother; it **does not** prove
+Regina = Riwke Kahan or Hers Smil = Izrael. Mojse’s uncle wording is **édes nagybátyja**; translation: uncle. Identifying
+Bernád with our Dov/Bernat still requires the identity comparison, and the entry neither gives his birth year nor
+names his parents or specifies which parent’s brother he was. No full-sibling conclusion is drawn from it alone.
+
+### Additional findings and inspected photographs
+
+- **Volf Moldovan:** Geni’s own citation supplies **23 May 1833, Bréb**, Burek Joszip/Rifke,
+  citation **127103-10**. Added as an attributed, uninspected birth-index claim; the existing parent edge remains qualified.
+- **Leizer Jozef:** own profile now supplies marriage **6 October 1885** to Dvore Goldstein, father Mose/Icik,
+  witness MOLDVAN Tovje, citation **110308-01**, and earlier spouse citations Sosze 1882 / Libe 1885.
+  Census Lajzer 3 = Leizer remains provisional. Explicit son **Mozes Iczik Moldovan (1887)**, born **13 April 1887,
+  Bréb**, Fund 1408 Book 343 **55-3b**, is the fourteenth addition. No mother is assigned from the spouse chronology;
+  the cited birth original and the child’s later history are unreviewed.
+- **Yehuda Shofet’s [gravestone](https://www.geni.com/photo/view?album_type=photos_of_me&id=6000000207018517842&photo_id=6000000226629961863&position=0)**
+  directly names **Shimon and Elisheva** and gives **12 Iyar 5757**. Its daytime conversion is 19 May 1997;
+  the Hebrew date begins at sunset 18 May, potentially compatible with the Palmach biography’s 18 May. Death time
+  remains unknown. The image does not resolve Holon versus Yarkon burial location.
+- **Rivka Drach’s [small gravestone image](https://www.geni.com/photo/view?album_type=photos_of_me&id=6000000077980404317&photo_id=6000000226630044822&position=0)**
+  names father **Shimon Richter** and husband **Avrohom Drach**. The date appears **13 Adar I 5763**, but the day
+  numeral needs a better image. It does not name mother Elisheva or independently establish cemetery location.
+- **Elisheva’s stone** remains direct father/husband/date evidence; her birth-index maternal link to Malka remains
+  provisional. The official Palmach family account supports her Shofet children and Yehuda’s named children.
+- Dwora’s citation **109708-07 / Fund 1408 Book 342 4-17**, Abraham’s **1862 candidate 10-1d**, Fischel’s **109808-01**,
+  Majer Jakob’s **109925-07 / 110614-02**, Ruchel’s **109926-02 / marriage 1901-26**, and Frimet’s **109928-03**
+  are now retained with their source qualifications. They do not count as independently inspected register originals.
+- Dov’s displayed birth stays **1871**. The cited JOWBR candidate names Dov ben Chaim Aryeh HaKohen, age 56 in
+  January 1928; stone/index identity remains to be directly checked. The older child-registration arithmetic is retained.
+
+### Current unresolved frontier and next discriminating records
+
+| Question | Specific next record / comparison |
+| --- | --- |
+| Malka’s identity and parentage | Inspect Seva/Elisheva birth, Fund 753 Book 128 **1897-19**, and the competing July/August 1871 Malke citations; compare spouse/children/maternal ages. Maternal root link remains provisional. |
+| Regina = Riwke, Izrael = Hers Smil | Inspect **28 August 1895** marriage, citation **344137-1b**, and the child’s **27 January 1931 Tășnad** marriage/marginal note for explicit aliases or connecting parents. The two newly inspected child deaths do not supply that bridge. |
+| Baruch c.1850 versus Baruch 1875 | Compare baseline **18 March 1875** birth with the c.1850 Baruch/Mindye and Szender 1881 household. The contradictory Geni branch is not imported or moved to a guessed generation. |
+| First wife’s name / adult Moses identity | Obtain a confident reading of household 6’s wife’s name and a record explicitly connecting adult Moses Leizer to the census child. Neshe/Nesirafa remains uncertain. |
+| Dov’s stone / family children’s stones | Directly inspect **J_MARAMURE_0008659** and identify the cemetery/inscriptions of ראצי and מנחם בנציון from the family’s surviving stones. No cemetery or cause of death is inferred for the children. |
+| Leizer’s new son and household | Inspect the cited **13 April 1887 Bréb** birth and **6 October 1885** marriage before assigning a mother, age or later spouse/descendants. |
+| Existing Geni Heller/Kahan father conflict | The **Dov Heller** father assertion on Meir’s second Geni profile persists. Hillel’s prior Majer/Meir name/date confirmation and all family-supported descendants remain; no alternative parentage was adopted. |
+| Private and baseline-only branches | Keep family testimony, notices, original testimony and baseline child links. Private shells and absent Geni links do not establish absence. The 49 people without individual Geni links still require their appropriate source routes. |
+
+No Geni edits, messages, purchases or MyHeritage queries were made. Source throttling was honored; the interrupted
+Shalom request subsequently succeeded. Local capture artifacts and resumable state are preserved outside the
+published working tree. New source-graph children discovered through candidates were not blindly imported.
+
+
 ## Live root-first DFS continuation — 2 November 2026
 
 The existing authenticated Geni session was successfully reattached. This supersedes the earlier browser-blocked
@@ -118,6 +203,43 @@ Captured 103 source-profile requests at this checkpoint: 65 readable publicly na
 | [Shalom Kahana](https://www.geni.com/people/Shalom-Kahana/6000000009318607641) | 18 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
 
 The traversal was throttled at Shalom (HTTP 429, retry after 113 seconds). The stated delay was honored; resumed requests are spaced at least 15 seconds per person. The failed request establishes no fact about Shalom. Baseline-only children remain open even when the Geni roster has zero links.
+
+### David Hers branch reconciliation and original-image follow-up — 2 November 2026
+
+All eleven baseline children remain. Ten own-profile Geni comparisons were saved; Baruch is the disputed eleventh
+identity described above, and his c.1850 branch is not merged. Eszter 1876, Juda 1878, Abraham 1880–1882,
+Chaje Feige 1881, Frede 1884–1944, Israel 1884–1884, Jakob 1886–1887, Mozses Iczik 1887–1944 and Rifka 1889
+agree with the existing life-date claims; **no new independent vital fact was established**. Their empty About
+sections supply no new original-register references. Missing child links do not remove baseline descendants.
+
+[Frede’s Geni roster](https://www.geni.com/people/Frede-Frida-Frimet-Kahan/6000000209193968833) has six slots,
+but two are Rosa Lebovici with identical birth/death dates: profiles **6000000209211631831** and
+**6000000033073057647**. They are a likely duplicate lead, not two added daughters. Baseline Freida Reif and Dori
+Tessler remain; no particular private Ganz slot is identified with them. Mozses Iczik’s five existing children
+also remain although his captured Geni roster links none. Rosa’s Moishe and Fani’s Betty/David remain unchanged.
+
+[Seindel’s profile](https://www.geni.com/people/Seindel-Kahan/6000000209194224823) repeats the already-recorded
+**event-type conflict**: 24 May 1892 is baseline birth versus Geni death. The display now exposes both interpretations;
+no verified death is assigned. Inspect the original Bréb register entry and column headings.
+
+The [household 6 census photo](https://www.geni.com/photo/view?album_type=photos_of_me&id=6000000209184094851&photo_id=6000000228384185413&position=0)
+was inspected at full resolution. It is a cropped section showing Leb 22, wife 22 and Mojse 1. It does not make the
+wife’s handwriting certain; Neshe/Nesirafa remains a reading hypothesis. This is the same census already cited
+from FamilySearch, not an independent source. The current crop omits full-page headings; the prior full-image
+review and film/DGS citation remain necessary context.
+
+A saved index CSV **Births_1904-1905.csv**, row **1904-100**, was read directly: Avrum Leb, **24 May 1904**,
+Chajem GANCZ (31) and Rifke MOLDOVAN (27), residents of Mikolapatak; grandfather Mozes KAHAN reports the birth;
+Romanian National Archives, Baia Mare, **Inventory 1373 Book 36**. It agrees with the Geni citation and conflicts
+with baseline 25 May. Saved CSV hosting/provenance was not revalidated live. These may be the same derivative
+index, not independent originals; no day is silently replaced. The original register remains the decisive check.
+
+The first 13-addition publication, commit **ef9f377**, passed Pages build/deploy and the served `tree.html`
+matched the committed bytes. Graph/list Hebrew checks passed. The source traversal subsequently retried Shalom
+successfully after the stated throttle interval. Masked profiles remain access gaps, and baseline children absent
+from Geni remain on the research frontier. A transient fetch failure at a masked child supplied no source evidence;
+masked descendants are recorded as gaps without repeatedly requesting their inaccessible details.
+
 
 ## Root-first DFS restart — 1 November 2026
 
