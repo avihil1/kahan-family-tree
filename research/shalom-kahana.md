@@ -1451,3 +1451,18 @@ J_MARAMURE_0008659 ושמות בית העלמין/כתובות מצבות ראצ
 
 לא בוצעו עריכות ב־Geni, פניות, תשלומים או שאילתות MyHeritage. מגבלת הקצב כובדה, ובקשת שלום שנכשלה
 בתחילה הצליחה בהמשך. חומרי הקריאה והמצב הניתן להמשך נשמרו מקומית מחוץ לקבצים המפורסמים.
+
+
+## Dov Ber burial confirmation — 2 November 2026
+
+Hillel confirms with certainty that the burial previously treated as the candidate JOWBR entry
+J_MARAMURE_0008659 belongs to **Dov Ber Bernat Kahan**. He has the gravestone photograph in his uncle’s book.
+This is recorded as **family confirmation of burial identity and the death year 1928**. The photograph itself
+has not been supplied or independently read in this session; no book title, page or inscription is invented.
+The tree caption is now **1871–1928**, without a question mark. The existing exact date **23 January 1928**
+remains attributed to the JOWBR index. Earlier provisional-burial statements remain dated source history,
+superseded for identity by this confirmation. Dov’s parentage and mother are separate research questions.
+
+הלל מאשר בוודאות שהקבורה היא של **דב בר ברנט כהן**, ושיש תצלום של המצבה בספר של דודו. זיהוי הקבורה ושנת
+הפטירה **1928** נרשמו כאישור משפחתי וסימן השאלה הוסר. התצלום טרם נמסר לקריאה בשיחה זו; לא הומצאו שם ספר,
+עמוד או נוסח כתובת. 23 בינואר נשאר מיוחס לאינדקס JOWBR. שאלות הורי דב וזהות אמו נותרו נפרדות.

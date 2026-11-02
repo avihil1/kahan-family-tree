@@ -1,5 +1,7 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
+Family correction, 2 November 2026, 13:16: **Dov’s burial identity and death year 1928 are now family-confirmed** from the gravestone photograph in Hillel’s uncle’s book. The year caption is 1871–1928. Earlier provisional-burial wording below is superseded for identity. The photograph has not yet been supplied for direct reading; the exact 23 January date remains index-attributed. [Family confirmation](shalom-kahana.md#dov-ber-burial-confirmation--2-november-2026).
+
 ## Archive continuation — 2 November 2026, 12:20
 
 **This section supersedes the narrower original-image coverage below.** Seven existing tree entries were updated;
