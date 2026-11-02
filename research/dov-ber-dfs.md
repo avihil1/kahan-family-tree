@@ -1,5 +1,64 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
+## Archive continuation — 2 November 2026, 12:20
+
+**This section supersedes the narrower original-image coverage below.** Seven existing tree entries were updated;
+all **227 identities and parent-child edges remain intact**. No surname-only candidate was added to the family.
+
+### Four further originals saved with context
+
+Each local PDF contains the target as **page 2**, with its preceding and following original pages. These are extracts
+of public Romanian National Archives scans, not independently created sources. Attribution: Arhivele Naționale ale
+României; the catalog displays CC BY-NC-ND 4.0. The archive locations below permit comparison with the full volumes.
+Decisive names and relationship wording were read directly; uncertain handwriting is marked, not normalized silently.
+
+| Existing person | Original and locator | Finding reflected in tree |
+| --- | --- | --- |
+| **Avrum Leb Gancz** | [Saved original and neighbors](avrum-1904-birth.pdf#page=2); [catalog](https://descopera.arhivelenationale.ro/cota/?cid=13914517), MM-F-00743-1-1-00237, former 36, entry **100/1904**, folio **50v**, scan **101**, part 1 PDF p.101 | **Birth 24 May 1904**, Maragyulafalu; registered 26 May at Bardfalu. Parents Gancz Chajem, **31**, and Moldovan Rifke, **27**, residents Mikolapatak. Informant **Kahan Mozes** is explicitly the child's **grandfather** (`nagyatyja`); birth took place in his house. Replaces baseline 25 May. Matching this Mozes to adult Moses Laser and to census Mojse remains a separate identity argument. |
+| **Majer Jakab / Meir Yaakov Kahan (1905)** | [Saved original and neighbors](majer-1905-birth.pdf#page=2); same catalog, entry **72/1905**, folio **168v**, scan **337**, part 3 PDF p.60 | **Birth 21 March 1905**, Maragyulafalu; registered 29 March. Father **Kahan Bernát, 34**, also informant; mother **Liberman Rajna[?], 33**, born **Falusugatag**, resident Maragyulafalu. Mother's handwritten given name remains provisional. A later marriage annotation names **Róza Indig**, Giulești; exact marriage date/act number not adopted pending closer reading. Supports Bernat as father despite the older Geni Dov Heller conflict. |
+| **Chaim Arye Leb Kahan** | [Saved original and neighbors](chaim-1897-death.pdf#page=2); [catalog](https://descopera.arhivelenationale.ro/cota/?cid=13914522), MM-F-00743-1-1-00242, entry **76/1897**, folio **109v**, scan **218**, part 2 PDF p.54 | **Died 24 June 1897; registered 28 June**, age **72**, innkeeper. Father deceased **Kahan Jozsef**, Bréb; mother deceased **Berkovics Rifke**, Budfalva. Wife **Kahan Feige**, maiden continuation blank. Informant **Junger Sztrul** explicitly **son-in-law** (`veje`). Both residence and stated birthplace Gyulafalva conflict with the cited Bréb birth. The father field does not itself prove Burek/Joszip Moldovan's identity. |
+| **Majer Jakob Kahan (1877–1881)** | [Saved original and neighbors](majer-1881-death.pdf#page=2); [catalog](https://descopera.arhivelenationale.ro/cota/?cid=13914524), MM-F-00743-1-1-00244, entry **229/1902**, scan **230**, part 2 PDF p.81 | Retrospective registration **23 September 1902**, death **November 1881**, day blank, age four. Parents deceased **Kahan Leb** and **Klein Freide**; informant **Kahan Bernad**, kinship unstated. Retained **12 November** comes from the earlier index, not this original. |
+
+Bernát's age **34 in March 1905** implies approximately **1870–1871**, compatible with preferred **1871**.
+The age **35 in April 1903** implies approximately **1867–1868**. These conflicting age statements remain in Dov's
+details; neither is an explicit birth record. The preferred year, burial-identity qualification and unproved mother
+remain unchanged. Rifke Gancz and Moses Laser also received notes linking the original grandfather evidence.
+
+### Exact coverage and remaining work
+
+- All **14** returned MM-holder catalog units were examined for metadata and public index/file links: Giulești births
+  1895–1913 (seven units), marriages 1895–1906 (two), deaths 1895–1906 (four), and Bârsana births 1906–1920 (one).
+  Their index text was screened for surname variants and dates. Both Bârsana index attachments were searched separately.
+  Text extraction and fuzzy surname screening can miss entries; this is index coverage, not proof that every original
+  in those volumes was read. Bârsana includes retrospective earlier births and obvious malformed index dates.
+- For **13914524 / deaths 1902–1904**, all **five original PDF parts downloaded successfully: 679 pages**.
+  All 679 name/religion/occupation/residence/birthplace/age strips were visually screened. The final blank form is an
+  administrative year-end certification. The index's maximum TIFF identifier is 678; PDF-page coverage counts the
+  downloaded files themselves, including blank/cancelled forms.
+- **57 further full pages** in that death volume were examined for selected surname leads or cancelled forms; together
+  with the three earlier family entries, **60 selected full pages**, plus their previously inspected neighboring pages.
+  This is **not a complete reading of parents, informants and margins on all 679 pages**. Some administrative notes
+  and handwriting remain only partly read. [Full-page reading/comparison ledger](archive-full-readings.tsv) records
+  selected readings and corrections to the first screen; it is not a diplomatic transcription.
+  [All-page screening ledger](archive-visual-coverage.tsv) records the narrower field coverage per page. “No match
+  established” is not evidence of no family connection.
+- Additional full originals and both neighbors were read for the two births and 1897 death above. The 1881 death's
+  neighbors are 1902/228 (Loszrian Vasalie, 18 days) and 1902/230 (Ovics Chaim, retrospective January 1888).
+
+Unattached leads: death **133/1902**, scan **134**, Slajmovics Frojm, 44, explicitly has informant **Kahan Lina as
+sister**; death **250/1902**, scan **251**, Herskovics Freig/Ernesz, 2, names mother **Kahan Rachel** (father's given
+name uncertain). No corresponding Lina identity was established in the existing tree; the two existing Rachel-named
+entries do not provide a matching household. Do not attach these families without a marriage/parent comparison.
+Gluk Juda Majer's death **88/1904**, scan **536**, corrects the mother to **Frid Brana**, with a Moldovan Nali alias
+annotation; the same-name Moldovan households remain separate pending comparison. Shared surnames alone do not link them.
+
+Highest-value next originals: **Kahan Ziszel birth, scan 46** (catalog 13914516; index date 28 February versus
+baseline 24 February); **Kahan Davira birth, scan 471** (same catalog); **Moldovan Rifke marriage 26 February
+1901, scan 432**, and **Kahan Ruchel marriage 14 August 1901, scan 461** (catalog 13914520). These are queued index
+leads, not inspected originals or newly accepted dates. The wider archive site and every image in all relevant
+volumes have **not** been exhausted. Continue from these exact locators and then screen unexamined parent/informant
+fields in 13914524 rather than repeating the completed name/age screen.
+
 ## Final checkpoint — 2 November 2026
 
 **This checkpoint supersedes the earlier same-day progress/frontier notes below.** The root-linked Geni capture
