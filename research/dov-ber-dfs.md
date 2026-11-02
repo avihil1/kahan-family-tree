@@ -1,5 +1,124 @@
 # Dov Ber Bernat Kahan: depth-first descendant investigation
 
+## Live root-first DFS continuation — 2 November 2026
+
+The existing authenticated Geni session was successfully reattached. This supersedes the earlier browser-blocked
+status below. Baseline for this publication: `90ddd58`, **213 named people**; the tree now contains **226**, with
+all baseline identities and child edges retained. Thirteen named entries were added. This is an **open DFS**,
+not a completed all-source investigation. Geni child-roster captures are prefetch until reconciled with baseline
+children and independently applicable sources; a profile with no linked children is not evidence of childlessness.
+
+### Findings reconciled into the tree
+
+| Branch / person | Baseline → change and source quality | Conflict / next decisive check |
+| --- | --- | --- |
+| Burek → Chaim → Moses | Root seven children, Chaim ten, Moses nine source-linked children. Own profile tabs read. Chaim and probable first wife Neshe share one census photo, not two independent sources. | Neshe’s identification and adult Moses = 1848 Mojse remain provisional. Burek’s parents unknown. |
+| [Abraham Volf, 1867](https://www.geni.com/people/Abraham-Volf-Kahan/6000000228379159841) | New provisional son of Moses. Geni cites 21 December 1867 Bárdfalu, Lazar MOLDOVAN/Reize, sandek Salamon Juda SZABO (grandfather), Book **109801-08**. | Lazar = Moses Leizer needs original comparison. Distinct from Chaim’s Abraham 1862. |
+| Efrajm, Berl, Volf | Existing identities retained; own Geni links added. Efrajm birth Book **109808-02**. Volf’s 1 July 1900 death, Inventory 1373 **1900-76**, repeats the index already cited. | No new independent original proof. Berl’s baseline exact birthday retained despite year-only Geni. |
+| [Malka](https://www.geni.com/people/Maltzia-Mendelson/6000000223272941903) | Baseline three children retained; Riszje and Elisheva added as provisional maternal links. Birth candidate 9 August 1871, Book **109808-02**, versus 9 July 1871, Fund 1408 Book 342 **104-2 / 112-2c**. | Maternal ages suggest c.1873–74. Private 1907/1911 source children challenge the old c.1903 naming-based death assumption. No precise birth or death chosen; private 1903 child not merged with baseline Amalia on date alone. |
+| [Riszje Mendelson](https://www.geni.com/people/Riszje-Mendelson/6000000228370706690) | New provisional daughter: Geni-cited Budfalu birth 10 May 1895, Leb Hercz/Malcze Moldovan. | Exact book/page absent; original and mother’s identity needed. |
+| [Elisheva](https://www.geni.com/people/Elisheva-Richter/6000000077980075717) | New provisional daughter: cited Seva birth 16 February 1897, Leb Mendelzon/Malka Moldovan of Gyulafalva, Fund 753 Book 128 **1897-19**. Original gravestone inspected; father and husband established by inscription. | Stone does not name mother; maternal identification remains provisional. Geni reports Find a Grave 1962 conflict; that page did not load. |
+| [Yehuda Naftali Shofet](https://palmach.org.il/memorial/fighterpage/?itemId=85359) | Official Palmach archive names parents Shimon/Elisheva, siblings Rivka/Esther, wife Leah, children Ronit/Ilan. Birth 13 November 1928, Ein Harod hospital; death 18 May 1997. These named descendants were added. | Geni About gives 12 Iyar 5757 / 19 May 1997. Sunset might reconcile this, but death time is unknown. Burial conflict Holon/Yarkon unresolved: burial society page returned maintenance. No grandchildren assigned to Ronit or Ilan. |
+| Rivka Drach | Added with Geni-reported 1930–2003 dates; official Palmach account independently supports her sibling/parental household. Three public children added: Yehudis Yittel Wieder, Leah Chaya Neuman and Akiva Drach. | Ten Geni-linked children include seven private profiles. Vital records and cemetery evidence remain uninspected. Avrohom Drach birth 1914/1925 conflict retained. Deleted Junger-spouse revision not restored. |
+| Yehudis / Leah Chaya | Yehudis Geni dates 1950–1985, one private child. Leah Chaya dates 23 November 1958–23 April 2020, five child links; public Mordechai Dovid and Shimon Neuman added provisionally. | Three Leah children private. Mordechai has multiple parent links; only maternal descendant edge recorded. No paternal role inferred from husband order. |
+| Jacob / Friderika | Existing baseline Pepi and Izrael retained despite absent Geni child links. Marriage citation: 16 May 1897, Inventory 1373 **1897-07**. Friderika source newly specifies 12 March 1902; year-only baseline retained pending original. | Missing Geni links are coverage gaps, not grounds to remove children. |
+| Rifke / Avrum Leb Gancz | Existing son retained despite absent Geni child link. Marriage 26 February 1901, Inventory 1373 **1901-12**; son birth entry Book 36 **1904-100**, grandfather Mozes informant. | Cited birth 24 May 1904 versus baseline 25 May. Inspect original; no silent date replacement. |
+| Fradl / Salamon Juda / Jozsef Burech / Riszje Kahan | Existing births agree. Citations respectively **109926-01**, **109927-06**, **110014-03**, **110132-06**. Salamon’s cited marriage 5 June 1906 to Rachel/Roza Frankovits, Inventory 1373 **1906-06**, added as unverified spouse claim. | Mother surnames Szabovits, Feder and Slamovits differ across citations; do not normalize without originals. Jozsef death Fund 1408 Book 343 **69-5c**. |
+| [David Hers / Baruch conflict](https://www.geni.com/people/David-Hersch-Moldovan-Kahan/6000000209184552850) | Both rosters have eleven child slots, but Geni’s linked Baruch c.1850 would be older than David c.1855. Baseline Baruch is 18 March 1875. | **No merge** and no imported Baruch/Szender/Ella descendant branch. Counts and names do not resolve identity; inspect birth and parent records. David’s maternity Eszter remains a source hypothesis. |
+
+### Inspected gravestone
+
+[Persistent Elisheva photograph](https://www.geni.com/photo/view?album_type=photos_of_me&id=6000000077980075717&photo_id=6000000226630075834&position=0).
+Decisive inscription: **אלישבע / בת ר׳ יהודה נפתלי מנדלזון ז״ל / אשת ר׳ שמעון שופט נ״י**;
+death **ו׳ חשון תשכ״ב**. Daytime civil conversion is 16 October 1961; Hebrew date begins the preceding sunset.
+The image supports father and husband, not maternal identity or cemetery name. Other worn abbreviations are not resolved.
+
+### Coverage and resumable frontier
+
+Geni overview, Sources, Media and Revisions are read-only captures from the authenticated session. An early capture
+error (`Response.ok` called as a function) meant the tabs did not run; those captures were re-read after fixing it.
+Private profiles and unavailable tabs remain access gaps. No MyHeritage queries, Geni edits or correspondence were made.
+The automated source traversal continues separately; its visited/closed counts measure Geni graph capture, **not**
+all-source research completion. Baseline-only children, private branches, archive originals and identity conflicts stay open.
+The next analysis branch is **David Hers**, after the Moses branch comparison above; the Baruch c.1850 link is disputed.
+Exact machine checkpoint is retained locally; public coverage is updated with this dated continuation.
+
+
+
+### Geni capture coverage checkpoint — 2 November 2026
+
+Captured 103 source-profile requests at this checkpoint: 65 readable publicly named profiles and 38 private-profile shells. These are source-graph counts, not completed research visits. 6 named profiles have unavailable tab panes. Private shells do not establish childlessness.
+
+| Profile (capture order) | Linked children in Geni | Sources / Media / Revisions | Reconciliation status |
+| --- | --- | --- | --- |
+| [Burek Jozsef Moldovan Katz](https://www.geni.com/people/Burek-Jozsef-Moldovan-Katz/6000000223716886821) | 7 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Chaim Arye Leb Moldovan Kahan](https://www.geni.com/people/Chaim-Arye-Leb-Moldovan-Kahan/6000000209184094851) | 10 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Moshe Leizer Kahan](https://www.geni.com/people/Moshe-Leizer-Kahan/6000000228372055049) | 9 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Abraham Volf Kahan](https://www.geni.com/people/Abraham-Volf-Kahan/6000000228379159841) | 0 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Efrajem](https://www.geni.com/people/Efrajem-Frojm-Kahan/6000000228377241324) | 2 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Berl Kahan](https://www.geni.com/people/Berl-Kahan/6000000228379798964) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Volf Kahan](https://www.geni.com/people/Volf-Kahan/6000000228378990721) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Maltzia Malka Mendelson](https://www.geni.com/people/Maltzia-Mendelson/6000000223272941903) | 7 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Riszje Mendelson](https://www.geni.com/people/Riszje-Mendelson/6000000228370706690) | 0 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Elisheva Richter](https://www.geni.com/people/Elisheva-Richter/6000000077980075717) | 2 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Yehuda Naftula Shofet](https://www.geni.com/people/Yehuda-Shofet/6000000207018517842) | 0 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Rivka Drach](https://www.geni.com/people/Rivka-Drach/6000000077980404317) | 10 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Yehudis Yittel Wieder](https://www.geni.com/people/Yehudis-Wieder/6000000077980554998) | 1 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Leah Chaya Neuman](https://www.geni.com/people/Leah-Neuman/6000000132361095852) | 5 | 3/3 loaded | Added in this publication; relationship qualifications in tree |
+| [Mordechai Dovid Neuman](https://www.geni.com/people/Mordechai-Dovid-Mordy-Neuman-Schwartz/6000000132359929107) | 0 | 0/3; unavailable panes remain gaps | Added in this publication; relationship qualifications in tree |
+| [Shimon Neuman](https://www.geni.com/people/Shimon-Neuman/6000000088687092018) | 0 | 0/3; unavailable panes remain gaps | Added in this publication; relationship qualifications in tree |
+| [Akiva Drach](https://www.geni.com/people/Akiva-Drach/6000000058614148840) | 0 | 0/3; unavailable panes remain gaps | Added in this publication; relationship qualifications in tree |
+| [Abraham Mendelson](https://www.geni.com/people/Abraham-Mendelson/6000000228370751134) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Salamon Mendelson](https://www.geni.com/people/Salamon-Mendelson/6000000228370706702) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Jakob Kahan](https://www.geni.com/people/Jakob-Kahan/6000000228372172099) | 1 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Friderika Kahan](https://www.geni.com/people/Friderika-Kahan/6000000228379569191) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Rifke Moldovan](https://www.geni.com/people/Rifke-Moldovan/6000000228372835829) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Fradl Kahan](https://www.geni.com/people/Fradl-Kahan/6000000228377765135) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Salamon Juda Kahan](https://www.geni.com/people/Salamon-Juda-Kahan/6000000228377926027) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Jozsef Burech Kahan](https://www.geni.com/people/Jozsef-Burech-Kahan/6000000228378908025) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Riszje Kahan](https://www.geni.com/people/Riszje-Kahan/6000000228372009416) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [David Hersch Moldovan Kahan](https://www.geni.com/people/David-Hersch-Moldovan-Kahan/6000000209184552850) | 11 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Baruch Jozsef Moldovan](https://www.geni.com/people/Baruch-Moldovan/6000000077122861964) | 1 | 3/3 loaded | Disputed Baruch c.1850 branch; NOT imported |
+| [Szender Yuda Moldovan](https://www.geni.com/people/Szender-Yuda-Moldovan/6000000077122988979) | 1 | 3/3 loaded | Disputed Baruch c.1850 branch; NOT imported |
+| [Ella Moldovan](https://www.geni.com/people/Ella-Moldovan/6000000188890691839) | 0 | 3/3 loaded | Disputed Baruch c.1850 branch; NOT imported |
+| [Eszter Moldovan Kahan](https://www.geni.com/people/Eszter-Moldovan-Kahan/6000000209193798840) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Juda Moldovan Kahan](https://www.geni.com/people/Juda-Moldovan-Kahan/6000000209194054822) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Abraham Moldovan Kahan](https://www.geni.com/people/Abraham-Moldovan-Kahan/6000000209193980843) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Chaje Feige Kahan](https://www.geni.com/people/Chaje-Feige-Kahan/6000000209194004841) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Frede Frida Frimet Kahan](https://www.geni.com/people/Frede-Frida-Frimet-Kahan/6000000209193968833) | 6 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Rosa Rachel Lebovici](https://www.geni.com/people/Rosa-Rachel-Lebovici/6000000209211631831) | 1 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Srul Jankel Yaakov Ganz](https://www.geni.com/people/Srul-Jankel-Yaakov-Ganz/6000000209222388823) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Fani Segelstein](https://www.geni.com/people/Fani-Segelstein/6000000033073537901) | 2 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [David Segelstein](https://www.geni.com/people/David-Segelstein/6000000033073352961) | 0 | 0/3; unavailable panes remain gaps | Existing tree identity; facts/children still require comparison |
+| [Berl Ganz](https://www.geni.com/people/Berl-Ganz/6000000209222475829) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Rosa Lebovici](https://www.geni.com/people/Rosa-Lebovici/6000000033073057647) | 0 | 3/3 loaded | Source-only lead; not automatically imported |
+| [Israel Moldovan Kahan](https://www.geni.com/people/Israel-Moldovan-Kahan/6000000209194154828) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Jakob Moldovan Kahan](https://www.geni.com/people/Jakob-Moldovan-Kahan/6000000209194170823) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Mozses Iczik Moldovan Kahan](https://www.geni.com/people/Mozses-Iczik-Moldovan-Kahan/6000000209194025852) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Rifka Kahan](https://www.geni.com/people/Rifka-Kahan/6000000209194166836) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Seindel Kahan](https://www.geni.com/people/Seindel-Kahan/6000000209194224823) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Dwora Kahan](https://www.geni.com/people/Dwora-Kahan/6000000228381334312) | 0 | 3/3 loaded | Source-only lead; not automatically imported |
+| [Abraham Volf Kahan](https://www.geni.com/people/Abraham-Kahan/6000000228381133553) | 0 | 3/3 loaded | Source-only lead; not automatically imported |
+| [Fischel Kahan](https://www.geni.com/people/Fischel-Kahan/6000000228381487927) | 0 | 3/3 loaded | Source-only lead; not automatically imported |
+| [Bernat Ber Dov Kahan](https://www.geni.com/people/Bernat-Ber-Dov-Kahan/6000000016805419994) | 12 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Yente Kahan](https://www.geni.com/people/Yente-Kahan/6000000184192334884) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Brana Kahan](https://www.geni.com/people/Brana-Kahan/6000000016806686668) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Reiza Wieder](https://www.geni.com/people/Reiza-Wieder/6000000016806329750) | 4 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Tsipora Wieder](https://www.geni.com/people/Tsipora-Wieder/6000000184195150830) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Rachel Wieder](https://www.geni.com/people/Rachel-Wieder/6000000184194825830) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Yaakov Tzvi Wieder](https://www.geni.com/people/Yaakov-Wieder/6000000184195243835) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Menachem Wieder](https://www.geni.com/people/Menachem-Wieder/6000000184194805824) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Hani Kahan](https://www.geni.com/people/Hani-Kahan/6000000016807967008) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Zisel Muscal](https://www.geni.com/people/Zisel-Muscal/6000000016806797537) | 0 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Chaim Arye Aryeh Leb Kahana](https://www.geni.com/people/Chaim-Arye-Kahana/6000000105967419905) | 4 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Penina Perl Miller](https://www.geni.com/people/Penina-Miller/6000000009318654718) | 3 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Dov Kahana](https://www.geni.com/people/Dov-Kahana/6000000002683180809) | 7 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+| [Chaim-Arie Kahana](https://www.geni.com/people/Chaim-Arie-Kahana/6000000009232793282) | 2 | 0/3; unavailable panes remain gaps | Existing tree identity; facts/children still require comparison |
+| [Aviad Kahana](https://www.geni.com/people/Aviad-Kahana/6000000004174199343) | 6 | 0/3; unavailable panes remain gaps | Existing tree identity; facts/children still require comparison |
+| [Shalom Kahana](https://www.geni.com/people/Shalom-Kahana/6000000009318607641) | 18 | 3/3 loaded | Existing tree identity; facts/children still require comparison |
+
+The traversal was throttled at Shalom (HTTP 429, retry after 113 seconds). The stated delay was honored; resumed requests are spaced at least 15 seconds per person. The failed request establishes no fact about Shalom. Baseline-only children remain open even when the Geni roster has zero links.
+
 ## Root-first DFS restart — 1 November 2026
 
 This restart supersedes the earlier Dov-first traversal frontier below. Root: **Burek Jozsef Moldovan Katz**.

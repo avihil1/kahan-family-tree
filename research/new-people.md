@@ -1,8 +1,29 @@
-# 64 newly added people — what changed
+# 77 newly added people — what changed
 
-Comparison with the original 149-person baseline: the current tree has 213 named people. The 64 records below are additions, including names that replace previously unnamed slots. They are not 64 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
+Comparison with the original 149-person baseline: the current tree has 226 named people. The 77 records below are additions, including names that replace previously unnamed slots. They are not 77 newly proved archival identities. Dvir replaces a rejected source claim for Rachel; the family supplied a new identity, not a renamed Geni record.
 
 [Graph view](../tree.html) · [Nested list](../list.html) · [Dated 201-person review plus current addendum](descendants-review.html)
+
+## Live DFS additions — 2 November 2026
+
+Thirteen named additions, preserving all 213 prior people and child edges.
+[Evidence, conflicts and frontier](dov-ber-dfs.md#live-root-first-dfs-continuation--2-november-2026).
+
+| Person and parent | Dates / claim | Evidence status |
+| --- | --- | --- |
+| [Riszje Mendelson](../tree.html#riszje-mendelson-1895) — Malka Malcsi Kahan (Mendelson) | 1895 | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Riszje-Mendelson/6000000228370706690). |
+| [Elisheva Mendelson (Richter / Shofet)](../tree.html#elisheva-mendelson-shofet) — Malka Malcsi Kahan (Mendelson) | 1897 – 1961 | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Elisheva-Richter/6000000077980075717). |
+| [Yehuda Naftali Shofet (Recht)](../tree.html#yehuda-naftali-shofet) — Elisheva Mendelson (Richter / Shofet) | 1928 – 1997 | Explicit official Palmach family account; see maternal-link qualification; [source](https://palmach.org.il/memorial/fighterpage/?itemId=85359). |
+| [Ronit](../tree.html#ronit-shofet-family) — Yehuda Naftali Shofet (Recht) | dates unknown | Explicit official Palmach family account; see maternal-link qualification; [source](https://palmach.org.il/memorial/fighterpage/?itemId=85359). |
+| [Ilan](../tree.html#ilan-shofet-family) — Yehuda Naftali Shofet (Recht) | dates unknown | Explicit official Palmach family account; see maternal-link qualification; [source](https://palmach.org.il/memorial/fighterpage/?itemId=85359). |
+| [Esther](../tree.html#esther-shofet-family) — Elisheva Mendelson (Richter / Shofet) | dates unknown | Explicit official Palmach family account; see maternal-link qualification; [source](https://palmach.org.il/memorial/fighterpage/?itemId=85359). |
+| [Rivka Drach (Richter)](../tree.html#rivka-drach-richter) — Elisheva Mendelson (Richter / Shofet) | 1930 – 2003 | Explicit official Palmach family account; see maternal-link qualification; [source](https://www.geni.com/people/Rivka-Drach/6000000077980404317). |
+| [Yehudis Yittel Wieder (Drach)](../tree.html#geni-6000000077980554998) — Rivka Drach (Richter) | 1950 – 1985 | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Yehudis-Yittel-Wieder/6000000077980554998). |
+| [Leah Chaya Neuman (Drach)](../tree.html#geni-6000000132361095852) — Rivka Drach (Richter) | 1958 – 2020 | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Leah-Chaya-Neuman/6000000132361095852). |
+| [Mordechai Dovid Neuman](../tree.html#geni-6000000132359929107) — Leah Chaya Neuman (Drach) | dates unknown | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Mordechai-Dovid-Neuman/6000000132359929107). |
+| [Shimon Neuman](../tree.html#geni-6000000088687092018) — Leah Chaya Neuman (Drach) | dates unknown | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Shimon-Neuman/6000000088687092018). |
+| [Akiva Drach](../tree.html#geni-6000000058614148840) — Rivka Drach (Richter) | dates unknown | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Akiva-Drach/6000000058614148840). |
+| [Abraham Volf Kahan (1867)](../tree.html#abraham-volf-kahan-1867) — Moses Laser Moldovan Kahan | 1867 | Provisional Geni relationship; originals pending; [source](https://www.geni.com/people/Abraham-Volf-Kahan/6000000228379159841). |
 
 ## Further collateral screenshots — 1 November 2026
 

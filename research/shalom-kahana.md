@@ -1164,3 +1164,92 @@ No child-profile URLs are invented. Missing descendants remain unreviewed, not c
 ו־Moses Geller אצל Mingye. לא נוצר Lajzer נוסף; הזיהוי עם Leizer Jozef טעון השוואה. שנות הלידה
 של Hana ו־Tojve מוסקות מגילים במפקד בלבד; מינם ואמם אינם מוסקים. מועד הסנדקאות ב־8 באוגוסט 1857
 אינו הופך אוטומטית לתאריך לידת Moses. המקורות המקוריים לא נבדקו כעת. בעץ 213 רשומות בעלות שם.
+
+## Live root-first DFS continuation — 2 November 2026
+
+The existing authenticated Geni session was successfully reattached. This supersedes the earlier browser-blocked
+status below. Baseline for this publication: `90ddd58`, **213 named people**; the tree now contains **226**, with
+all baseline identities and child edges retained. Thirteen named entries were added. This is an **open DFS**,
+not a completed all-source investigation. Geni child-roster captures are prefetch until reconciled with baseline
+children and independently applicable sources; a profile with no linked children is not evidence of childlessness.
+
+### Findings reconciled into the tree
+
+| Branch / person | Baseline → change and source quality | Conflict / next decisive check |
+| --- | --- | --- |
+| Burek → Chaim → Moses | Root seven children, Chaim ten, Moses nine source-linked children. Own profile tabs read. Chaim and probable first wife Neshe share one census photo, not two independent sources. | Neshe’s identification and adult Moses = 1848 Mojse remain provisional. Burek’s parents unknown. |
+| [Abraham Volf, 1867](https://www.geni.com/people/Abraham-Volf-Kahan/6000000228379159841) | New provisional son of Moses. Geni cites 21 December 1867 Bárdfalu, Lazar MOLDOVAN/Reize, sandek Salamon Juda SZABO (grandfather), Book **109801-08**. | Lazar = Moses Leizer needs original comparison. Distinct from Chaim’s Abraham 1862. |
+| Efrajm, Berl, Volf | Existing identities retained; own Geni links added. Efrajm birth Book **109808-02**. Volf’s 1 July 1900 death, Inventory 1373 **1900-76**, repeats the index already cited. | No new independent original proof. Berl’s baseline exact birthday retained despite year-only Geni. |
+| [Malka](https://www.geni.com/people/Maltzia-Mendelson/6000000223272941903) | Baseline three children retained; Riszje and Elisheva added as provisional maternal links. Birth candidate 9 August 1871, Book **109808-02**, versus 9 July 1871, Fund 1408 Book 342 **104-2 / 112-2c**. | Maternal ages suggest c.1873–74. Private 1907/1911 source children challenge the old c.1903 naming-based death assumption. No precise birth or death chosen; private 1903 child not merged with baseline Amalia on date alone. |
+| [Riszje Mendelson](https://www.geni.com/people/Riszje-Mendelson/6000000228370706690) | New provisional daughter: Geni-cited Budfalu birth 10 May 1895, Leb Hercz/Malcze Moldovan. | Exact book/page absent; original and mother’s identity needed. |
+| [Elisheva](https://www.geni.com/people/Elisheva-Richter/6000000077980075717) | New provisional daughter: cited Seva birth 16 February 1897, Leb Mendelzon/Malka Moldovan of Gyulafalva, Fund 753 Book 128 **1897-19**. Original gravestone inspected; father and husband established by inscription. | Stone does not name mother; maternal identification remains provisional. Geni reports Find a Grave 1962 conflict; that page did not load. |
+| [Yehuda Naftali Shofet](https://palmach.org.il/memorial/fighterpage/?itemId=85359) | Official Palmach archive names parents Shimon/Elisheva, siblings Rivka/Esther, wife Leah, children Ronit/Ilan. Birth 13 November 1928, Ein Harod hospital; death 18 May 1997. These named descendants were added. | Geni About gives 12 Iyar 5757 / 19 May 1997. Sunset might reconcile this, but death time is unknown. Burial conflict Holon/Yarkon unresolved: burial society page returned maintenance. No grandchildren assigned to Ronit or Ilan. |
+| Rivka Drach | Added with Geni-reported 1930–2003 dates; official Palmach account independently supports her sibling/parental household. Three public children added: Yehudis Yittel Wieder, Leah Chaya Neuman and Akiva Drach. | Ten Geni-linked children include seven private profiles. Vital records and cemetery evidence remain uninspected. Avrohom Drach birth 1914/1925 conflict retained. Deleted Junger-spouse revision not restored. |
+| Yehudis / Leah Chaya | Yehudis Geni dates 1950–1985, one private child. Leah Chaya dates 23 November 1958–23 April 2020, five child links; public Mordechai Dovid and Shimon Neuman added provisionally. | Three Leah children private. Mordechai has multiple parent links; only maternal descendant edge recorded. No paternal role inferred from husband order. |
+| Jacob / Friderika | Existing baseline Pepi and Izrael retained despite absent Geni child links. Marriage citation: 16 May 1897, Inventory 1373 **1897-07**. Friderika source newly specifies 12 March 1902; year-only baseline retained pending original. | Missing Geni links are coverage gaps, not grounds to remove children. |
+| Rifke / Avrum Leb Gancz | Existing son retained despite absent Geni child link. Marriage 26 February 1901, Inventory 1373 **1901-12**; son birth entry Book 36 **1904-100**, grandfather Mozes informant. | Cited birth 24 May 1904 versus baseline 25 May. Inspect original; no silent date replacement. |
+| Fradl / Salamon Juda / Jozsef Burech / Riszje Kahan | Existing births agree. Citations respectively **109926-01**, **109927-06**, **110014-03**, **110132-06**. Salamon’s cited marriage 5 June 1906 to Rachel/Roza Frankovits, Inventory 1373 **1906-06**, added as unverified spouse claim. | Mother surnames Szabovits, Feder and Slamovits differ across citations; do not normalize without originals. Jozsef death Fund 1408 Book 343 **69-5c**. |
+| [David Hers / Baruch conflict](https://www.geni.com/people/David-Hersch-Moldovan-Kahan/6000000209184552850) | Both rosters have eleven child slots, but Geni’s linked Baruch c.1850 would be older than David c.1855. Baseline Baruch is 18 March 1875. | **No merge** and no imported Baruch/Szender/Ella descendant branch. Counts and names do not resolve identity; inspect birth and parent records. David’s maternity Eszter remains a source hypothesis. |
+
+### Inspected gravestone
+
+[Persistent Elisheva photograph](https://www.geni.com/photo/view?album_type=photos_of_me&id=6000000077980075717&photo_id=6000000226630075834&position=0).
+Decisive inscription: **אלישבע / בת ר׳ יהודה נפתלי מנדלזון ז״ל / אשת ר׳ שמעון שופט נ״י**;
+death **ו׳ חשון תשכ״ב**. Daytime civil conversion is 16 October 1961; Hebrew date begins the preceding sunset.
+The image supports father and husband, not maternal identity or cemetery name. Other worn abbreviations are not resolved.
+
+### Coverage and resumable frontier
+
+Geni overview, Sources, Media and Revisions are read-only captures from the authenticated session. An early capture
+error (`Response.ok` called as a function) meant the tabs did not run; those captures were re-read after fixing it.
+Private profiles and unavailable tabs remain access gaps. No MyHeritage queries, Geni edits or correspondence were made.
+The automated source traversal continues separately; its visited/closed counts measure Geni graph capture, **not**
+all-source research completion. Baseline-only children, private branches, archive originals and identity conflicts stay open.
+The next analysis branch is **David Hers**, after the Moses branch comparison above; the Baruch c.1850 link is disputed.
+Exact machine checkpoint is retained locally; public coverage is updated with this dated continuation.
+
+
+## המשך DFS חי מן השורש — 2 בנובמבר 2026
+
+החיבור ללשונית Geni המאומתת בדפדפן הקיים הצליח. עדכון זה מחליף את מצב החסימה ההיסטורי שבהמשך המסמך.
+הבסיס לפרסום הוא `90ddd58`: 213 רשומות בעלות שם. כעת בעץ **226**, עם **13 תוספות** וללא הסרת זהות
+או קשר הורה–ילד מהבסיס. הסריקה עדיין פתוחה. איסוף פרופילים אינו השלמת מחקר בכל המקורות.
+
+נוסף אברהם וולף יליד 1867 כבן משוער של משה לייזר, לפי ציטוט לידה ב־21 בדצמבר, Bárdfalu,
+ספר **109801-08**. האב כתוב Lazar MOLDOVAN; הזיהוי עם משה לייזר טעון מקור. זהו אדם נפרד מאברהם בן חיים
+יליד 1862. שני בני אפרים נשמרו. בלשונית ריקה או בהיעדר קישור לילד אין הוכחה שלא היו צאצאים.
+
+אצל מלכה נוספו ריז׳ה ואלישבע כקשרים אימהיים מסויגים. אלישבע מצוטטת כ־Seva, לידה ב־16 בפברואר 1897,
+אב Leb Mendelzon ואם Malka Moldovan מגיולפלו, Fund 753 Book 128 **1897-19**. זיהוי האם עם מלכה הקיימת
+עדיין אינו מוכח. מועמדי לידת מלכה ביולי/אוגוסט 1871 מתחרים בהערכה 1873–1874 מגילי האם. ילדים פרטיים
+המקושרים ב־Geni בשנים 1907 ו־1911 מערערים את הסקת הפטירה סביב 1903 לפי שם בלבד; לא נבחר תאריך פטירה.
+שלושת הילדים הקיימים נשמרו, ופרופיל פרטי מ־1903 לא אוחד עם עמליה רק לפי תאריך.
+
+**מצבת אלישבע נבדקה בתצלום המקורי.** הכתובת קושרת אותה לאב יהודה נפתלי מנדלזון ולבעל שמעון שופט,
+ותאריך הפטירה הוא **ו׳ חשון תשכ״ב** (16 באוקטובר 1961 בשעות היום). אין בכתובת שם אם.
+[תצלום קבוע](https://www.geni.com/photo/view?album_type=photos_of_me&id=6000000077980075717&photo_id=6000000226630075834&position=0).
+
+[ארכיון הפלמ״ח](https://palmach.org.il/memorial/fighterpage/?itemId=85359) מציין במפורש שיהודה נפתלי שופט
+הוא בן שמעון ואלישבע, אח לרבקה ולאסתר, בעל לאה ואב לרונית ואילן. השמות נוספו בלי להמציא שמות משפחה
+או לשייך נכדים לאחד הילדים. הלידה מצוינת ב־13 בנובמבר 1928 והפטירה ב־18 במאי 1997; ב־Geni מופיע גם
+י״ב באייר תשנ״ז / 19 במאי. שעת הפטירה לא ידועה. סתירת בית העלמין חולון/ירקון לא הוכרעה: אתר חברה קדישא
+החזיר הודעת תחזוקה. אסתר חסרה ברשימת שני הילדים של אלישבע ב־Geni, אך נזכרת בארכיון הרשמי.
+
+אצל רבקה דראך נוספו שלושת הילדים הציבוריים: יהודית ייטל ווידער, לאה חיה ניימאן ועקיבא דראך. שבעה
+ילדים נוספים פרטיים. אצל לאה נוספו מרדכי דוד ושמעון ניימאן; שלושה ילדים נוספים פרטיים. קשרים אלה
+מסומנים כטענות עץ שיתופי. אצל מרדכי נרשמו כמה קישורי הורות; נוסף רק הקשר לאם בלי הכרעה באבהות.
+הסתירה 1914/1925 בלידת אברהם דראך נשמרת. קשר זוגי Junger שנמחק בהיסטוריית Geni לא הוחזר.
+
+ילדי יעקב פפי וישראל נשמרים אף שאינם מקושרים אצלו ב־Geni. גם אברום ליב גנץ נשמר למרות היעדר קישור:
+ציטוט פרופיל האם נותן לידה ב־24 במאי 1904, לעומת 25 במאי בבסיס (Book 36 **1904-100**); לא הוחלף תאריך
+בלי מקור. אצל שלמה יהודה נוסף קשר זוגי מסויג לרחל/רוזה פרנקוביץ לפי נישואין ב־5 ביוני 1906,
+Inventory 1373 **1906-06**. שמות האם Szabovits, Feder ו־Slamovits בציטוטי ילדים אחרים אינם מאוחדים אוטומטית.
+
+**סתירת זהות אצל דוד הירש:** בשתי הרשימות 11 ילדים, אבל ברוך המקושר ב־Geni יליד סביב 1850, לפני האב
+המשוער יליד סביב 1855; ברוך הקיים בעץ נולד ב־18 במרץ 1875. לא אוחדו הזהויות ולא נוספו צאצאי הענף
+הסותר. הענף הוא כיוון מחקר, לא קשר מוכח. זהו ענף הניתוח הבא לאחר משה.
+
+לשוניות סקירה, מקורות, מדיה ושינויים נקראות דרך הדפדפן הקיים. תקלה מוקדמת בקוד הקריאה מנעה קריאת
+לשוניות; לאחר תיקונה הן נקראו מחדש. פרופילים פרטיים ולשוניות שאינן זמינות הם פערי גישה. לא בוצעו
+שאילתות MyHeritage, עריכות ב־Geni או פניות לאנשים. המקורות המקוריים, ילדים המצויים רק בבסיס וסתירות
+הזהות נשארים פתוחים; מספר הפרופילים שנאספו אינו מספר האנשים שמחקרם הושלם.
